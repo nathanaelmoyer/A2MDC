@@ -1,0 +1,18 @@
+1
+G	\	ENTRY	query/CCH/entry dispatch timeout
+G	B^V	EastpointeDBORI 	DB - BASEMENT ORI
+G	E_N	ENTRYNOCCH	entry no cch
+G	JKW	EasternMichiganUORI	UNIVERSITY POLICEORI
+G	L^	EastpointePDORI	Eastpointe Disp ORI
+G	MS\	EasternMichiganUEntry	entry config
+G	MS]	EasternMichiganUTAC	TAC Config group
+G	MSP	EastpointeEntry	TAC Config group
+G	MSQ	EastpointeTAC	TAC Config group
+G	MSS	EastpointeProsEdit	pros/mparr group
+G	MST	EastpointeQueryOnly	Query Only config
+G	P@N	EasternMichiganUWW	Eastern Michigan WW Users
+G	PIE	ENTRYALL	All Entry User Accts
+G	PWH	EastpointeWW	Eastpointe WW Users
+G	Q@	ENTRY2	query/CCH/entry short timeout
+G	RWH	EastpointeMobile	Eastpointe Mobile ORI
+G	RWI	EasternMichiganUMobile	EMU Mobile ORI

@@ -1,0 +1,12 @@
+~<BLANK>
+Rollover
+Train
+Parked Vehicle
+Motor Vehicle
+Pedestrian
+Fixed Object
+Other Object
+Animal
+Bicycle
+Non Collision
+

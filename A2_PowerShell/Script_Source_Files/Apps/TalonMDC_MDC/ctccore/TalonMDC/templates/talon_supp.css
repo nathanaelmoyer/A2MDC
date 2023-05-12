@@ -1,0 +1,20 @@
+.ctc_link_supp {
+	font-family: Arial;
+	font-size: $(tfs_css_FontSize)pt;
+}
+
+.ctc_tbl_row_supp {
+	text-align: left;
+	font-family: Arial;
+	font-size: $(tfs_css_FontSize)pt;
+	color: #000000;
+	background: #F7EAC1;
+}
+
+.ctc_tbl_data_supp {
+	text-align: left;
+	font-family: Arial;
+	font-size: $(tfs_css_FontSize)pt;
+	color: #000000;
+}
+

@@ -1,0 +1,156 @@
+<Folders>
+<!-- 
+This file contains template definitions for folders which are expected to be children of any case.
+If they are missing in an open case, the TalonEngine should add them.
+
+8-17-06
+Hacked in Notifications folder LEIN day - NOT FOR RELEASE!
+
+6-12-06
+Added 'PrimaryFolder' flag to Message History folder def.  Without this, the Activity & Message
+History views were broken.
+
+6-5-06
+Added case level "LEIN" folder.  This was added so that ISERVICES terminal "responses" would
+be collected in a more obvious place.
+
+6-1-06
+Added Message history and broadcast folders.
+
+2-6-06
+Created to insert the 'all photos' folder for Activity view.
+-->
+<Folder AllowDelete="false" ID="F_CasePhotos" DateCreated="02/06/06" TimeCreated="11:00:00" Visibility="1" Origin="Talon" GCWhenEmpty="False" StrongRefToContents="false" >
+  <!--
+  Defines a folder to catch all photos for a case.
+  In the future, we may want to make a visible folder in the case + managed message views.
+   -->
+  <XQuery>
+    <XElement Level="Child">
+      <XTest Type="LocalName" SubjectName="Photo"/>
+    </XElement>
+  </XQuery>
+  <Title>Case Photos</Title>
+  <TUIDisplayOptionTable>    
+    <TUIDisplayOptions TUIViewName="Manage Messages" TUIContentType="text/html" Visibility="2"/>
+    <TUIDisplayOptions TUIViewName="Case" TUIContentType="text/html" Visibility="2"/>
+  </TUIDisplayOptionTable>
+</Folder>
+<Folder SearchByTitle="True" PrimaryFolder="True" StrongRefToContents="false" UseSetViewItems="false" AllowDelete="false" ID="F_MessageHistory" DateCreated="06/01/06" TimeCreated="13:53:41" Visibility="1" Origin="Talon" GCWhenEmpty="False">
+      <XQuery Operator="OR">
+<!--Message History collects Queries, Messages or Records that are not generated locally (Origin=Talon)-->
+        <XQuery>
+          <XElement Level="Child">
+            <XTest Type="LocalName" SubjectName="Message"/>
+          </XElement>
+        </XQuery>
+        <XQuery>
+          <XElement Level="Child">
+            <XTest Type="LocalName" SubjectName="Query"/>
+          </XElement>
+        </XQuery>
+        <XQuery Operator="AND">
+          <XQuery>
+            <XElement Level="Child">
+              <XTest Type="LocalName" SubjectName="Record"/>
+            </XElement>
+          </XQuery>
+          <XQuery>
+            <XElement Level="This">
+              <XTest Type="Attr" SubjectName="Origin" Search="Match" NegativeTest="true">Talon</XTest>
+            </XElement>
+          </XQuery>
+        </XQuery>
+        <XQuery>
+          <XElement Level="Child">
+            <XTest Type="LocalName" SubjectName="MiscInfoDisplayable"/>
+          </XElement>
+        </XQuery>
+      </XQuery>
+      <Contents/>
+      <Title>Message History</Title>
+      <TUIDisplayOptionTable>
+        <TUIDisplayOptions TUIViewName="Case" TUIContentType="java/table" Visibility="11"/>
+        <TUIDisplayOptions TUIViewName="Manage Messages" TUIContentType="java/table" Visibility="11"/>
+      </TUIDisplayOptionTable>
+    </Folder>
+    <Folder SearchByTitle="True" UseSetViewItems="false" AllowDelete="false" ID="F_Broadcast" DateCreated="06/01/06" TimeCreated="13:53:41" Visibility="1" Origin="Talon">
+      <XQuery>
+        <XElement Level="Child">
+          <XTest Type="LocalName" SubjectName="Message"/>
+        </XElement>
+        <XQuery>
+          <XElement Level="This">
+            <XTest Type="Attr" SubjectName="Broadcast" Search="Match">true</XTest>
+          </XElement>
+        </XQuery>
+      </XQuery>
+      <Title>Broadcast Messages</Title>
+      <TUIDisplayOptionTable>
+        <TUIDisplayOptions TUIViewName="Case" TUIContentType="java/table" Visibility="11"/>
+        <TUIDisplayOptions TUIViewName="Manage Messages" TUIContentType="java/table" Visibility="11"/>
+      </TUIDisplayOptionTable>
+    </Folder>
+    <Folder UseSetViewItems="false" AllowDelete="false" ID="F_CaseLEIN" DateCreated="06/05/06" TimeCreated="16:01:47" Visibility="1" Origin="Talon" StrongRefToContents="false">
+      <XQuery>
+        <XElement Level="Child" MaxDepth="1">
+          <XTest Type="LocalName" SubjectName="Message"/>
+        </XElement>
+        <XQuery Operator="OR">
+          <XQuery Operator="OR">
+<!--Collect any items that are from the LEIN host computer.  Includes NCIC etc.-->
+            <XQuery>
+              <XElement Level="This">
+                <XTest Type="Attr" SubjectName="Source" Search="Match">LEIN</XTest>
+              </XElement>
+            </XQuery>
+            <XQuery>
+              <XElement Level="This">
+                <XTest Type="Attr" SubjectName="Source" Search="Match">CMIS</XTest>
+              </XElement>
+            </XQuery>
+            <XQuery>
+              <XElement Level="This">
+                <XTest Type="Attr" SubjectName="Source" Search="Match">NCIC</XTest>
+              </XElement>
+            </XQuery>
+            <XQuery>
+              <XElement Level="This">
+                <XTest Type="Attr" SubjectName="Source" Search="Match">NLETS - Canada</XTest>
+              </XElement>
+            </XQuery>
+            <XQuery>
+              <XElement Level="This">
+                <XTest Type="Attr" SubjectName="Source" Search="Match">NLETS</XTest>
+              </XElement>
+            </XQuery>
+            <XQuery>
+              <XElement Level="This">
+                <XTest Type="Attr" SubjectName="Source" Search="Match">SOS</XTest>
+              </XElement>
+            </XQuery>
+            <XQuery>
+              <XElement Level="This">
+                <XTest Type="Attr" SubjectName="Source" Search="Match">LGWCCW</XTest>
+              </XElement>
+            </XQuery>
+            <XQuery>
+              <XElement Level="This">
+                <XTest Type="Attr" SubjectName="Source" Search="Match">SOR</XTest>
+              </XElement>
+            </XQuery>
+          </XQuery>
+          <XQuery>
+            <XElement Level="Child">
+              <XTest Type="Property" SubjectName="MessageText" Search="Contains">LEIN PPO DATABASE RESPONSE</XTest>
+            </XElement>
+          </XQuery>
+        </XQuery>
+      </XQuery>
+      <Title>LEIN</Title>
+      <TUIDisplayOptionTable>
+        <TUIDisplayOptions TUIViewName="Case" TUIContentType="java/table"/>
+        <TUIDisplayOptions TUIViewName="Manage Messages" TUIContentType="java/table"/>
+      </TUIDisplayOptionTable>
+    </Folder>
+</Folders>

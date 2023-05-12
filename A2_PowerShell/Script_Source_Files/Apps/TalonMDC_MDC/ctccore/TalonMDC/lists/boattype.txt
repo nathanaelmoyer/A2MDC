@@ -1,0 +1,14 @@
+~<BLANK>
+AIR - Airboat
+COM - Commercial
+CRU - Cruiser
+HOV - Hovercraft
+HRO - Hydroplane
+HSE - Houseboat
+HYD - Hydrofoil
+RUN - Runabout
+SAL - Sailboat
+UTL - Utility
+YAT - Yacht over 50 Ft
+YYY - All Others (incl Canoes)
+JSK - Jet-Ski (aqua bike)

@@ -1,0 +1,710 @@
+~<BLANK>
+ART L ARM - ARTIFICIAL BODY PARTS AND AIDS; Arm, left, artificial 
+ART ARM - ARTIFICIAL BODY PARTS AND AIDS; Arm, nonspecific, artificial 
+ART R ARM - ARTIFICIAL BODY PARTS AND AIDS; Arm, right, artificial 
+BRA LR ARM - ARTIFICIAL BODY PARTS AND AIDS; Brace, left and right arms 
+BRAC L ARM - ARTIFICIAL BODY PARTS AND AIDS; Brace, left arm 
+BRAC ARM - ARTIFICIAL BODY PARTS AND AIDS; Brace, one arm, nonspecific 
+BRAC R ARM - ARTIFICIAL BODY PARTS AND AIDS; Brace, right arm 
+BRACE BACK - ARTIFICIAL BODY PARTS AND AIDS; Brace, back 
+BRA LR LEG - ARTIFICIAL BODY PARTS AND AIDS; Brace, left and right legs 
+BRAC L LEG - ARTIFICIAL BODY PARTS AND AIDS; Brace, left leg 
+BRAC LEG - ARTIFICIAL BODY PARTS AND AIDS; Brace, one leg, nonspecific 
+BRAC R LEG - ARTIFICIAL BODY PARTS AND AIDS; Brace, right leg 
+BRACE NECK - ARTIFICIAL BODY PARTS AND AIDS; Brace, neck 
+BRAC TEETH - ARTIFICIAL BODY PARTS AND AIDS; Braces, teeth 
+CANE - ARTIFICIAL BODY PARTS AND AIDS; Cane 
+CON LENSES - ARTIFICIAL BODY PARTS AND AIDS; Contact lenses 
+CRUTCHES - ARTIFICIAL BODY PARTS AND AIDS; Crutches 
+DENT LOW - ARTIFICIAL BODY PARTS AND AIDS; Denture, lower only 
+DENT UP - ARTIFICIAL BODY PARTS AND AIDS; Denture, upper only 
+DENT UP LO - ARTIFICIAL BODY PARTS AND AIDS; Denture, upper and lower 
+ART L EAR - ARTIFICIAL BODY PARTS AND AIDS; Ear, left, artificial 
+ART R EAR - ARTIFICIAL BODY PARTS AND AIDS; Ear, right, artificial 
+ART L EYE - ARTIFICIAL BODY PARTS AND AIDS; Eye, left, artificial 
+ART R EYE - ARTIFICIAL BODY PARTS AND AIDS; Eye, right, artificial 
+ART L FT - ARTIFICIAL BODY PARTS AND AIDS; Foot, left, artificial 
+ART R FT - ARTIFICIAL BODY PARTS AND AIDS; Foot, right, artificial 
+GLASSES - ARTIFICIAL BODY PARTS AND AIDS; Glasses (prescription) 
+GOLD TOOTH - ARTIFICIAL BODY PARTS AND AIDS; Gold tooth 
+ART L HND - ARTIFICIAL BODY PARTS AND AIDS; Hand, left, artificial 
+ART R HND - ARTIFICIAL BODY PARTS AND AIDS; Hand, right, artificial 
+HEAR AID - ARTIFICIAL BODY PARTS AND AIDS; Hearing aid 
+ART L LEG - ARTIFICIAL BODY PARTS AND AIDS; Leg, left, artificial 
+ART R LEG - ARTIFICIAL BODY PARTS AND AIDS; Leg, right, artificial 
+SLVR TOOTH - ARTIFICIAL BODY PARTS AND AIDS; Silver tooth 
+WHEELCHAIR - ARTIFICIAL BODY PARTS AND AIDS; Wheelchair 
+DEAF EAR - DEAFNESS; Deaf, one ear, nonspecific 
+DEAF L EAR - DEAFNESS; Deaf, left ear 
+DEAF R EAR - DEAFNESS; Deaf, right ear 
+DEAF - DEAFNESS; Deaf, left and right ears 
+DEAF MUTE - DEAFNESS; Deaf-mute 
+CAUL L EAR - DEFORMITIES; Cauliflower ear, left 
+CAUL R EAR - DEFORMITIES; Cauliflower ear, right 
+CL LIP - DEFORMITIES; Cleft lip 
+CLEFT PAL - DEFORMITIES; Cleft palate 
+CRIP L ARM - DEFORMITIES; Crippled arm, left 
+CRIP R ARM - DEFORMITIES; Crippled arm, right 
+CRIP L FGR - DEFORMITIES; Crippled finger(s), left hand (Includes webbed fingers) 
+CRIP R FGR - DEFORMITIES; Crippled finger(s), right hand (Includes webbed fingers) 
+CRIP L FT - DEFORMITIES; Crippled foot, left (Includes clubfoot) 
+CRIP R FT - DEFORMITIES; Crippled foot, right (Includes clubfoot) 
+CRIP L HND - DEFORMITIES; Crippled hand, left 
+CRIP R HND - DEFORMITIES; Crippled hand, right 
+CRIP L LEG - DEFORMITIES; Crippled leg, left 
+CRIP R LEG - DEFORMITIES; Crippled leg, right 
+CRIP L TOE - DEFORMITIES; Crippled toe(s), left (Includes webbed toes) 
+CRIP R TOE - DEFORMITIES; Crippled toe(s), right (Includes webbed toes) 
+DEV SEPTUM - DEFORMITIES; Deviated septum 
+EXTR CBRST - DEFORMITIES; Extra breast, center 
+EXTR LBRST - DEFORMITIES; Extra breast, left 
+EXTR BRST - DEFORMITIES; Extra breast, nonspecific 
+EXTR RBRST - DEFORMITIES; Extra breast, right 
+EXTR C VRT - DEFORMITIES; Extra cervical vertebra(e) 
+EXTR L FGR - DEFORMITIES; Extra finger(s), left hand 
+EXTR R FGR - DEFORMITIES; Extra finger(s), right hand 
+EXTR L VRT - DEFORMITIES; Extra lumbar vertebra(e) 
+EXTR C NIP - DEFORMITIES; Extra nipple, center 
+EXTR L NIP - DEFORMITIES; Extra nipple, left 
+EXTR NIP - DEFORMITIES; Extra nipple, nonspecific 
+EXTR R NIP - DEFORMITIES; Extra nipple, right 
+EXTR L TOE - DEFORMITIES; Extra toe(s), left 
+EXTR R TOE - DEFORMITIES; Extra toe(s), right 
+EXTR L TTH - DEFORMITIES; Extra tooth/teeth (lower jaw) 
+EXTR U TTH - DEFORMITIES; Extra tooth/teeth (upper jaw) 
+EXTR VRT - DEFORMITIES; Extra vertebra(e), nonspecific 
+CL LIP - DEFORMITIES; Harelip 
+HUMPBACKED - DEFORMITIES; Humpbacked 
+MUTE - DEFORMITIES; Mute (Use if person is mute but not deaf) 
+PROT L JAW - DEFORMITIES; Protruding lower jaw 
+PROT U JAW - DEFORMITIES; Protruding upper jaw 
+SHRT L LEG - DEFORMITIES; Shorter left leg 
+SHRT R LEG - DEFORMITIES; Shorter right leg 
+DA ALCOHOL - DRUGS OF ABUSE; Alcohol 
+DA AMPHETA - DRUGS OF ABUSE; Amphetamines (includes stimulants, speed, etc.) 
+DA BARBITU - DRUGS OF ABUSE; Barbiturates 
+DA COCAINE - DRUGS OF ABUSE; Cocaine (includes crack) 
+DA GLUE - DRUGS OF ABUSE; Glue 
+DA HALLUCI - DRUGS OF ABUSE; Hallucinogens 
+DA MARIJUA - DRUGS OF ABUSE; Marijuana 
+DA NARCOTI - DRUGS OF ABUSE; Narcotics (includes heroin, morphine, Dilaudid, methadone, etc.) 
+DA OTHER - DRUGS OF ABUSE; Other drugs of abuse not listed, identify in the MIS Field 
+DA PAINT - DRUGS OF ABUSE; Paint (includes thinner) 
+DA RITALIN - DRUGS OF ABUSE; Ritalin 
+DA ROHYPNL - DRUGS OF ABUSE; Rohypnol (brand name for Flunitrazepam. Also referred to as rophies, roofies, ruffies, and roche.) 
+BLIND - EYE DISORDERS; Blind, both eyes 
+BLND L EYE - EYE DISORDERS; Blind, left eye 
+BLND EYE - EYE DISORDERS; Blind, one eye, nonspecific 
+BLND R EYE - EYE DISORDERS; Blind, right eye 
+CATARACT - EYE DISORDERS; Cataract, (nonspecific) 
+CATA L EYE - EYE DISORDERS; Cataract, left eye 
+CATA R EYE - EYE DISORDERS; Cataract, right eye 
+CROSSEYED - EYE DISORDERS; Cross-eyed 
+GLAUCOMA - EYE DISORDERS; Glaucoma 
+FRC L ANKL - FRACTURED BONES; Ankle, left 
+FRC ANKL - FRACTURED BONES; Ankle, nonspecific 
+FRC R ANKL - FRACTURED BONES; Ankle, right 
+FRC LL ARM - FRACTURED BONES; Arm, lower left 
+FRC LR ARM - FRACTURED BONES; Arm, lower right 
+FRC ARM - FRACTURED BONES; Arm, nonspecific 
+FRC UL ARM - FRACTURED BONES; Arm, upper left 
+FRC UR ARM - FRACTURED BONES; Arm, upper right 
+FRC BACK - FRACTURED BONES; Back 
+FRC LCLAVI - FRACTURED BONES; Clavicle, left 
+FRC CLAVIC - FRACTURED BONES; Clavicle, nonspecific 
+FRC RCLAVI - FRACTURED BONES; Clavicle, right 
+FRC L FGR - FRACTURED BONES; Finger(s), left hand 
+FRC FGR - FRACTURED BONES; Finger(s), nonspecific 
+FRC R FGR - FRACTURED BONES; FInger(s), right hand 
+FRC L FOOT - FRACTURED BONES; Foot, left 
+FRC FOOT - FRACTURED BONES; Foot, nonspecific 
+FRC R FOOT - FRACTURED BONES; Foot, right 
+FRC L HAND - FRACTURED BONES; Hand, left 
+FRC HAND - FRACTURED BONES; Hand, nonspecific 
+FRC R HAND - FRACTURED BONES; Hand, right 
+FRC LL JAW - FRACTURED BONES; Jaw, lower left 
+FRC LR JAW - FRACTURED BONES; Jaw, lower right 
+FRC JAW - FRACTURED BONES; Jaw, nonspecific 
+FRC UL JAW - FRACTURED BONES; Jaw, upper left 
+FRC UR JAW - FRACTURED BONES; Jaw, upper right 
+FRC L KNEE - FRACTURED BONES; Knee, left 
+FRC KNEE - FRACTURED BONES; Knee, nonspecific 
+FRC R KNEE - FRACTURED BONES; Knee, right 
+FRC LL LEG - FRACTURED BONES; Leg, lower left 
+FRC LR LEG - FRACTURED BONES; Leg, lower right 
+FRC LEG - FRACTURED BONES; Leg, nonspecific 
+FRC UL LEG - FRACTURED BONES; Leg, upper left 
+FRC UR LEG - FRACTURED BONES; Leg, upper right 
+FRC NECK - FRACTURED BONES; Neck 
+FRC NOSE - FRACTURED BONES; Nose 
+FRC LPELVI - FRACTURED BONES; Pelvic bone, left 
+FRC RPELVI - FRACTURED BONES; Pelvic bone, right 
+FRC PELVIS - FRACTURED BONES; Pelvis, nonspecific 
+FRC L RIB - FRACTURED BONES; Rib(s), left 
+FRC RIBS - FRACTURED BONES; Rib(s), nonspecific 
+FRC R RIB - FRACTURED BONES; Rib(s), right 
+FRC L SHLD - FRACTURED BONES; Shoulder, left 
+FRC SHLD - FRACTURED BONES; Shoulder, nonspecific 
+FRC R SHLD - FRACTURED BONES; Shoulder, right 
+FRC SKULL - FRACTURED BONES; Skull 
+FRC SPINE - FRACTURED BONES; Spine 
+FRC STERN - FRACTURED BONES; Sternum 
+FRC L TOE - FRACTURED BONES; Toe(s), left foot 
+FRC TOE - FRACTURED BONES; Toe(s), nonspecific 
+FRC R TOE - FRACTURED BONES; Toe(s), right foot 
+FRC L WRST - FRACTURED BONES; Wrist, left 
+FRC WRIST - FRACTURED BONES; Wrist, nonspecific 
+FRC R WRST - FRACTURED BONES; Wrist, right 
+HFR L ANKL - HEALED FRACTURED BONES; Ankle, left 
+HFR ANKL - HEALED FRACTURED BONES; Ankle, nonspecific 
+HFR R ANKL - HEALED FRACTURED BONES; Ankle, right 
+HFR LL ARM - HEALED FRACTURED BONES; Arm, lower left 
+HFR LR ARM - HEALED FRACTURED BONES; Arm, lower right 
+HFR ARM - HEALED FRACTURED BONES; Arm, nonspecific 
+HFR UL ARM - HEALED FRACTURED BONES; Arm, upper left 
+HFR UR ARM - HEALED FRACTURED BONES; Arm, upper right 
+HFR BACK - HEALED FRACTURED BONES; Back 
+HFR LCLAVI - HEALED FRACTURED BONES; Clavicle, left 
+HFR CLAVIC - HEALED FRACTURED BONES; Clavicle, nonspecific 
+HFR RCLAVI - HEALED FRACTURED BONES; Clavicle, right 
+HFR L FGR - HEALED FRACTURED BONES; Finger(s), left hand 
+HFR FGR - HEALED FRACTURED BONES; Finger(s), nonspecific 
+HFR R FGR - HEALED FRACTURED BONES; Finger(s), right hand 
+HFR L FOOT - HEALED FRACTURED BONES; Foot, left 
+HFR FOOT - HEALED FRACTURED BONES; Foot, nonspecific 
+HFR R FOOT - HEALED FRACTURED BONES; Foot, right 
+HFR L HAND - HEALED FRACTURED BONES; Hand, left 
+HFR HAND - HEALED FRACTURED BONES; Hand, nonspecific 
+HFR R HAND - HEALED FRACTURED BONES; Hand, right 
+HFR LL JAW - HEALED FRACTURED BONES; Jaw, lower left 
+HFR LR JAW - HEALED FRACTURED BONES; Jaw, lower right 
+HFR JAW - HEALED FRACTURED BONES; Jaw, nonspecific 
+HFR UL JAW - HEALED FRACTURED BONES; Jaw, upper left 
+HFR UR JAW - HEALED FRACTURED BONES; Jaw, upper right 
+HFR L KNEE - HEALED FRACTURED BONES; Knee, left 
+HFR KNEE - HEALED FRACTURED BONES; Knee, nonspecific 
+HFR R KNEE - HEALED FRACTURED BONES; Knee, right 
+HFR LL LEG - HEALED FRACTURED BONES; Leg, lower left 
+HFR LR LEG - HEALED FRACTURED BONES; Leg, lower right 
+HFR LEG - HEALED FRACTURED BONES; Leg, nonspecific 
+HFR UL LEG - HEALED FRACTURED BONES; Leg, upper left 
+HFR UR LEG - HEALED FRACTURED BONES; Leg, upper right 
+HFR NECK - HEALED FRACTURED BONES; Neck 
+HFR NOSE - HEALED FRACTURED BONES; Nose 
+HFR LPELVI - HEALED FRACTURED BONES; Pelvic bone, left 
+HFR RPELVI - HEALED FRACTURED BONES; Pelvic bone, right 
+HFR PELVIS - HEALED FRACTURED BONES; Pelvis, nonspecific 
+HFR L RIB - HEALED FRACTURED BONES; Rib(s), left 
+HFR RIBS - HEALED FRACTURED BONES; Rib(s), nonspecific 
+HFR R RIB - HEALED FRACTURED BONES; Rib(s), right 
+HFR L SHLD - HEALED FRACTURED BONES; Shoulder, left 
+HFR SHLD - HEALED FRACTURED BONES; Shoulder, nonspecific 
+HFR R SHLD - HEALED FRACTURED BONES; Shoulder, right 
+HFR SKULL - HEALED FRACTURED BONES; Skull 
+HFR SPINE - HEALED FRACTURED BONES; Spine 
+HFR STERN - HEALED FRACTURED BONES; Sternum 
+HFR L TOE - HEALED FRACTURED BONES; Toe(s), left foot 
+HFR TOE - HEALED FRACTURED BONES; Toe(s), nonspecific 
+HFR R TOE - HEALED FRACTURED BONES; Toe(s), right foot 
+HFR L WRST - HEALED FRACTURED BONES; Wrist, left 
+HFR WRIST - HEALED FRACTURED BONES; Wrist, nonspecific 
+HFR R WRST - HEALED FRACTURED BONES; Wrist, right 
+HERMAPHR  - OTHER PHYSICAL CHARACTERISTICS; Hermaphrodite
+MC ACNE - MEDICAL CONDITIONS AND DISEASES; Acne 
+MC ALCOHOL - MEDICAL CONDITIONS AND DISEASES; Alcoholism 
+MC ALLERGY - MEDICAL CONDITIONS AND DISEASES; Allergies (including asthma) 
+MC ALZHMRS - MEDICAL CONDITIONS AND DISEASES; Alzheimer's disease 
+MC ARTHRTS - MEDICAL CONDITIONS AND DISEASES; Arthritis 
+MC ADD - MEDICAL CONDITIONS AND DISEASES; Attention Deficit Disorder 
+MC BEHAVIO - MEDICAL CONDITIONS AND DISEASES; Behavior disorder (including autism, depression, schizophrenia, and suicidal tendencies [past and present]) 
+MC CANCER - MEDICAL CONDITIONS AND DISEASES; Cancer 
+MC DIABTIC - MEDICAL CONDITIONS AND DISEASES; Diabetic 
+MC DOWNSYN - MEDICAL CONDITIONS AND DISEASES; Down Syndrome 
+MC DRUGAB - MEDICAL CONDITIONS AND DISEASES; Drug abuse 
+MC EATDIS - MEDICAL CONDITIONS AND DISEASES; Eating disorders 
+MC HEART - MEDICAL CONDITIONS AND DISEASES; Heart or circulatory diseases (including circulation problems, hardening of the arteries, heart attack, heart failure, and high blood pressure) 
+MC BLOOD - MEDICAL CONDITIONS AND DISEASES; Hematological diseases (diseases of the blood - including anemia, hemophilia, leukemia, and sickle-cell anemia) 
+MC KIDNEY - MEDICAL CONDITIONS AND DISEASES; Kidney conditions or diseases 
+MC LIVER - MEDICAL CONDITIONS AND DISEASES; Liver disease (including cirrhosis and hepatitis) 
+MC NERVOUS - MEDICAL CONDITIONS AND DISEASES; Nervous conditions (including mental retardation, seizures, senility, and stroke) 
+MC NRLGCAL - MEDICAL CONDITIONS AND DISEASES; Neurological conditions or diseases (including cerebral palsy, epilepsy, multiple sclerosis, Parkinson's disease) 
+MC OTHER - MEDICAL CONDITIONS AND DISEASES; Other medical disorders/conditions not listed, identify in the MIS Field 
+MC PARPLGC - MEDICAL CONDITIONS AND DISEASES; Paraplegic 
+MC PASTPRE - MEDICAL CONDITIONS AND DISEASES; Pregnancy - past (used when the individual has had past pregnancies but is not pregnant at the time the report is written) 
+MC PREGNAN - MEDICAL CONDITIONS AND DISEASES; Pregnancy - present (used when the individual is pregnant at the time the record is entered into NCIC) 
+MC PLMNARY - MEDICAL CONDITIONS AND DISEASES; Pulmonary (lung) diseases (including cystic fibrosis and emphysema) 
+MC QUADPLG - MEDICAL CONDITIONS AND DISEASES; Quadriplegic 
+MC SKIN - MEDICAL CONDITIONS AND DISEASES; Skin disorders (including psoriasis and eczema) 
+MC THYROID - MEDICAL CONDITIONS AND DISEASES; Thyroid conditions or diseases 
+MC TOURETE - MEDICAL CONDITIONS AND DISEASES; Tourette's syndrome 
+MC TB - MEDICAL CONDITIONS AND DISEASES; Tuberculosis 
+ART ELBOW - MEDICAL DEVICES AND BODY IMPLANTS; Artificial elbow joint 
+ART HIP - MEDICAL DEVICES AND BODY IMPLANTS; Artificial hip joint 
+ART KNEE - MEDICAL DEVICES AND BODY IMPLANTS; Artificial knee joint 
+ART LARYNX - MEDICAL DEVICES AND BODY IMPLANTS; Artificial larynx 
+ART SHLD - MEDICAL DEVICES AND BODY IMPLANTS; Artificial shoulder joint 
+ART L BRST - MEDICAL DEVICES AND BODY IMPLANTS; Breast implant, left 
+ART BRSTS - MEDICAL DEVICES AND BODY IMPLANTS; Breast implant, left and right 
+ART R BRST - MEDICAL DEVICES AND BODY IMPLANTS; Breast implant, right 
+CARD PACEM - MEDICAL DEVICES AND BODY IMPLANTS; Cardiac pacemaker 
+COLOST APP - MEDICAL DEVICES AND BODY IMPLANTS; Colostomy appliances 
+INTRA ROD - MEDICAL DEVICES AND BODY IMPLANTS; Intramedullary rod 
+IUD - MEDICAL DEVICES AND BODY IMPLANTS; Intrauterine device 
+ORTH NAIL - MEDICAL DEVICES AND BODY IMPLANTS; Orthopedic nail or pin 
+ORTH PLATE - MEDICAL DEVICES AND BODY IMPLANTS; Orthopedic plate 
+ORTH SCREW - MEDICAL DEVICES AND BODY IMPLANTS; Orthopedic screw 
+IMPL PENIS - MEDICAL DEVICES AND BODY IMPLANTS; Penile implant 
+SHUNT ART - MEDICAL DEVICES AND BODY IMPLANTS; Shunt, arterial vascular 
+SHUNT CERB - MEDICAL DEVICES AND BODY IMPLANTS; Shunt, cerebral ventricle 
+SKL PLATE - MEDICAL DEVICES AND BODY IMPLANTS; Skull plate 
+STAPLES - MEDICAL DEVICES AND BODY IMPLANTS; Staples 
+TUBE L EAR - MEDICAL DEVICES AND BODY IMPLANTS; Tube in left ear 
+TUBE R EAR - MEDICAL DEVICES AND BODY IMPLANTS; Tube in right ear 
+EAR TUBES - MEDICAL DEVICES AND BODY IMPLANTS; Tubes in ears, left and right 
+VASC PROTH - MEDICAL DEVICES AND BODY IMPLANTS; Vascular prosthesis 
+WIRE SUTUR - MEDICAL DEVICES AND BODY IMPLANTS; Wire sutures 
+MISS ADND - MISSING BODY PARTS AND ORGANS; Adenoids 
+MISS APPNX - MISSING BODY PARTS AND ORGANS; Appendix 
+MISS L ARM - MISSING BODY PARTS AND ORGANS; Arm, left 
+MISS LLARM - MISSING BODY PARTS AND ORGANS; Arm, lower left 
+MISS LRARM - MISSING BODY PARTS AND ORGANS; Arm, lower right 
+MISS R ARM - MISSING BODY PARTS AND ORGANS; Arm, right 
+MISS LBRST - MISSING BODY PARTS AND ORGANS; Breast, left 
+MISS RBRST - MISSING BODY PARTS AND ORGANS; Breast, right 
+MISS BRSTS - MISSING BODY PARTS AND ORGANS; Breasts 
+MISS C VRT - MISSING BODY PARTS AND ORGANS; Cervical vertebra(e) 
+MISS L EAR - MISSING BODY PARTS AND ORGANS; Ear, left 
+MISS R EAR - MISSING BODY PARTS AND ORGANS; Ear, right 
+MISS L EYE - MISSING BODY PARTS AND ORGANS; Eye, left 
+MISS R EYE - MISSING BODY PARTS AND ORGANS; Eye, right 
+MISS L FJT - MISSING BODY PARTS AND ORGANS; Finger joint(s), left hand 
+MISS R FJT - MISSING BODY PARTS AND ORGANS; Finger joint(s), right hand 
+MISS L FGR - MISSING BODY PARTS AND ORGANS; Finger(s), left hand 
+MISS R FGR - MISSING BODY PARTS AND ORGANS; Finger(s), right hand 
+MISS L FT - MISSING BODY PARTS AND ORGANS; Foot, left 
+MISS R FT - MISSING BODY PARTS AND ORGANS; Foot, right 
+MISS GALL - MISSING BODY PARTS AND ORGANS; Gallbladder 
+MISS L HND - MISSING BODY PARTS AND ORGANS; Hand, left 
+MISS R HND - MISSING BODY PARTS AND ORGANS; Hand, right 
+MISS INTES - MISSING BODY PARTS AND ORGANS; Intestines 
+MISS L KID - MISSING BODY PARTS AND ORGANS; Kidney, left 
+MISS R KID - MISSING BODY PARTS AND ORGANS; Kidney, right 
+MISS LRYNX - MISSING BODY PARTS AND ORGANS; Larynx 
+MISS L LEG - MISSING BODY PARTS AND ORGANS; Leg, left 
+MISS LLLEG - MISSING BODY PARTS AND ORGANS; Leg, lower left 
+MISS LRLEG - MISSING BODY PARTS AND ORGANS; Leg, lower right 
+MISS R LEG - MISSING BODY PARTS AND ORGANS; Leg, right 
+MISS L VRT - MISSING BODY PARTS AND ORGANS; Lumbar vertebra(e) 
+MISS LLUNG - MISSING BODY PARTS AND ORGANS; Lung, left 
+MISS RLUNG - MISSING BODY PARTS AND ORGANS; Lung, right 
+MISS NOSE - MISSING BODY PARTS AND ORGANS; Nose 
+MISS OVARS - MISSING BODY PARTS AND ORGANS; Ovaries 
+MISS LOVAR - MISSING BODY PARTS AND ORGANS; Ovary, left 
+MISS ROVAR - MISSING BODY PARTS AND ORGANS; Ovary, right 
+MISS PANCR - MISSING BODY PARTS AND ORGANS; Pancreas 
+MISS PENIS - MISSING BODY PARTS AND ORGANS; Penis 
+MISS PROST - MISSING BODY PARTS AND ORGANS; Prostate gland 
+MISS SPLEN - MISSING BODY PARTS AND ORGANS; Spleen 
+MISS STOMA - MISSING BODY PARTS AND ORGANS; Stomach 
+MISS L TES - MISSING BODY PARTS AND ORGANS; Testis, left 
+MISS R TES - MISSING BODY PARTS AND ORGANS; Testis, right 
+MISS THYRD - MISSING BODY PARTS AND ORGANS; Thyroid 
+MISS L TOE - MISSING BODY PARTS AND ORGANS; Toe(s), left foot 
+MISS R TOE - MISSING BODY PARTS AND ORGANS; Toe(s), right foot 
+MISS TONG - MISSING BODY PARTS AND ORGANS; Tongue 
+MISS TONSL - MISSING BODY PARTS AND ORGANS; Tonsils 
+MISS UTRUS - MISSING BODY PARTS AND ORGANS; Uterus 
+MISS VRT - MISSING BODY PARTS AND ORGANS; Vertebra(e), nonspecific 
+MOLE ABDOM - MOLES; Abdomen 
+MOLE L ANK - MOLES; Ankle, left 
+MOLE ANKL MOLE R ANK MOLE L ARM - MOLES; Ankle, nonspecific Ankle, right Arm, left 
+MOLE R ARM MOLE BACK - MOLES; Arm, right Back 
+MOLE LBRST - MOLES; Breast, left 
+MOLE BRST - MOLES; Breast, nonspecific 
+MOLE RBRST - MOLES; Breast, right
+MOLE L BUT - MOLES; Buttock, left 
+MOLE R BUT - MOLES; Buttock, right
+MOLE BUTTK - MOLES; Buttocks, nonspecific
+MOLE L CHK - MOLES; Cheek (face), left
+MOLE CHK - MOLES; Cheek (face), nonspecific
+MOLE R CHK - MOLES; Cheek (face), right
+MOLE CHEST - MOLES; Chest 
+MOLE CHIN - MOLES; Chin 
+MOLE L EAR - MOLES; Ear, left 
+MOLE EAR - MOLES; Ear, nonspecific
+MOLE R EAR - MOLES; Ear, right
+MOLE L EYE - MOLES; Eyebrow, left/left eye area
+MOLE R EYE - MOLES; Eyebrow, right/right eye area
+MOLE L FGR - MOLES; Finger(s), left hand
+MOLE FGR - MOLES; Finger(s), nonspecific
+MOLE R FGR - MOLES; Finger(s), right hand
+MOLE L FT - MOLES; Foot, left 
+MOLE FOOT - MOLES; Foot, nonspecific
+MOLE R FT - MOLES; Foot, right
+MOLE FHD - MOLES; Forehead 
+MOLE GROIN - MOLES; Groin area 
+MOLE L HND - MOLES; Hand, left 
+MOLE HAND - MOLES; Hand, nonspecific 
+MOLE R HND - MOLES; Hand, right 
+MOLE HEAD - MOLES; Head, nonspecific (use the MIS Field to further describe location) 
+MOLE L HIP - MOLES; Hip, left 
+MOLE HIP - MOLES; Hip, nonspecific 
+MOLE R HIP - MOLES; Hip, right 
+MOLE L KNE - MOLES; Knee, left 
+MOLE KNEE - MOLES; Knee, nonspecific 
+MOLE R KNE - MOLES; Knee, right 
+MOLE L LEG - MOLES; Leg, left 
+MOLE LEG - MOLES; Leg, nonspecific 
+MOLE R LEG - MOLES; Leg, right 
+MOLE L LIP - MOLES; Lip, lower 
+MOLE LIP - MOLES; Lip, nonspecific 
+MOLE U LIP - MOLES; Lip, upper 
+MOLE NECK - MOLES; Neck 
+MOLE NOSE - MOLES; Nose 
+MOLE PENIS - MOLES; Penis 
+MOLE L SHD - MOLES; Shoulder, left 
+MOLE SHLD - MOLES; Shoulder, nonspecific 
+MOLE R SHD - MOLES; Shoulder, right 
+MOLE L THG - MOLES; Thigh, left 
+MOLE THGH - MOLES; Thigh, nonspecific 
+MOLE R THG - MOLES; Thigh, right 
+MOLE L WRS - MOLES; Wrist, left 
+MOLE R WRS - MOLES; Wrist, right 
+NM L ARM - NEEDLE (TRACK) MARKS; Arm, left 
+NM R ARM - NEEDLE (TRACK) MARKS; Arm, right 
+NM L BUTTK - NEEDLE (TRACK) MARKS; Buttock, left 
+NM R BUTTK - NEEDLE (TRACK) MARKS; Buttock, right 
+NM L FGR - NEEDLE (TRACK) MARKS; Finger(s), left hand 
+NM R FGR - NEEDLE (TRACK) MARKS; Finger(s), right hand 
+NM L FOOT - NEEDLE (TRACK) MARKS; Foot, left 
+NM R FOOT - NEEDLE (TRACK) MARKS; Foot, right 
+NM L HND - NEEDLE (TRACK) MARKS; Hand, left 
+NM R HND - NEEDLE (TRACK) MARKS; Hand, right 
+NM L LEG - NEEDLE (TRACK) MARKS; Leg, left 
+NM R LEG - NEEDLE (TRACK) MARKS; Leg, right 
+NM L THIGH - NEEDLE (TRACK) MARKS; Thigh, left 
+NM R THIGH - NEEDLE (TRACK) MARKS; Thigh, right 
+NM L WRIST - NEEDLE (TRACK) MARKS; Wrist, left 
+NM R WRIST - NEEDLE (TRACK) MARKS; Wrist, right 
+BALD - OTHER PHYSICAL CHARACTERISTICS; Bald/balding 
+CLEFT CHIN - OTHER PHYSICAL CHARACTERISTICS; Cleft chin 
+DIMP CHIN - OTHER PHYSICAL CHARACTERISTICS; Dimple, chin 
+DIMP L CHK - OTHER PHYSICAL CHARACTERISTICS; Dimples, left cheek (face) 
+DIMP R CHK - OTHER PHYSICAL CHARACTERISTICS; Dimples, right cheek (face) 
+FRECKLES - OTHER PHYSICAL CHARACTERISTICS; Freckles 
+HAIR IMPL - OTHER PHYSICAL CHARACTERISTICS; Hair implants 
+PRCD ABDMN - OTHER PHYSICAL CHARACTERISTICS; Pierced abdomen 
+PRCD BACK - OTHER PHYSICAL CHARACTERISTICS; Pierced back 
+PRCD L EAR - OTHER PHYSICAL CHARACTERISTICS; Pierced ear, left 
+PRCD EAR - OTHER PHYSICAL CHARACTERISTICS; Pierced ear, one, nonspecific 
+PRCD R EAR - OTHER PHYSICAL CHARACTERISTICS; Pierced ear, right 
+PRCD EARS - OTHER PHYSICAL CHARACTERISTICS; Pierced ears 
+PRCD L EYE - OTHER PHYSICAL CHARACTERISTICS; Pierced eyebrow, left 
+PRCD EYE - OTHER PHYSICAL CHARACTERISTICS; Pierced eyebrow, nonspecific 
+PRCD R EYE - OTHER PHYSICAL CHARACTERISTICS; Pierced eyebrow, right 
+PRCD GNTLS - OTHER PHYSICAL CHARACTERISTICS; Pierced genitalia 
+PRCD LLIP - OTHER PHYSICAL CHARACTERISTICS; Pierced lip, lower 
+PRCD LIP - OTHER PHYSICAL CHARACTERISTICS; Pierced lip, nonspecific 
+PRCD ULIP - OTHER PHYSICAL CHARACTERISTICS; Pierced lip, upper 
+PRCD L NIP - OTHER PHYSICAL CHARACTERISTICS; Pierced nipple, left 
+PRCD NIPPL - OTHER PHYSICAL CHARACTERISTICS; Pierced nipple, nonspecific 
+PRCD R NIP - OTHER PHYSICAL CHARACTERISTICS; Pierced nipple, right 
+PRCD NOSE - OTHER PHYSICAL CHARACTERISTICS; Pierced nose 
+PRCD TONGU - OTHER PHYSICAL CHARACTERISTICS; Pierced tongue 
+STUTTERS - OTHER PHYSICAL CHARACTERISTICS; Stutters 
+TRANSSXL - OTHER PHYSICAL CHARACTERISTICS; Transsexual (MIS Field:indicate what the individual was at birth and what he/she is at the time of entry)
+TRANSVST - OTHER PHYSICAL CHARACTERISTICS; Transvestite 
+RTAT ABDM - REMOVED TATTOOS; Abdomen 
+RTAT LANKL - REMOVED TATTOOS; Ankle, left 
+RTAT ANKL - REMOVED TATTOOS; Ankle, nonspecific 
+RTAT RANKL - REMOVED TATTOOS; Ankle, right 
+RTAT L ARM - REMOVED TATTOOS; Arm, left 
+RTAT ULARM - REMOVED TATTOOS; Arm, left upper 
+RTAT ARM - REMOVED TATTOOS; Arm, nonspecific 
+RTAT R ARM - REMOVED TATTOOS; Arm, right 
+RTAT URARM - REMOVED TATTOOS; Arm, right upper 
+RTAT BACK - REMOVED TATTOOS; Back 
+RTAT LBRST - REMOVED TATTOOS; Breast, left 
+RTAT BRST - REMOVED TATTOOS; Breast, nonspecific 
+RTAT RBRST - REMOVED TATTOOS; Breast, right 
+RTAT LBUTK - REMOVED TATTOOS; Buttock, left 
+RTAT RBUTK - REMOVED TATTOOS; Buttock, right 
+RTAT BUTTK - REMOVED TATTOOS; Buttocks, nonspecific 
+RTAT LCALF - REMOVED TATTOOS; Calf, left 
+RTAT CALF - REMOVED TATTOOS; Calf, nonspecific 
+RTAT RCALF - REMOVED TATTOOS; Calf, right 
+RTAT L CHK - REMOVED TATTOOS; Cheek (face), left 
+RTAT CHEEK - REMOVED TATTOOS; Cheek (face), nonspecific 
+RTAT R CHK - REMOVED TATTOOS; Cheek (face), right 
+RTAT CHEST - REMOVED TATTOOS; Chest 
+RTAT CHIN - REMOVED TATTOOS; Chin 
+RTAT L EAR - REMOVED TATTOOS; Ear, left 
+RTAT EAR - REMOVED TATTOOS; Ear, nonspecific 
+RTAT R EAR - REMOVED TATTOOS; Ear, right 
+RTAT L ELB - REMOVED TATTOOS; Elbow, left 
+RTAT ELBOW - REMOVED TATTOOS; Elbow, nonspecific 
+RTAT R ELB - REMOVED TATTOOS; Elbow, right 
+RTAT FACE - REMOVED TATTOOS; Face, nonspecific 
+RTAT L FGR - REMOVED TATTOOS; Finger(s), left hand 
+RTAT R FGR - REMOVED TATTOOS; Finger(s), right hand 
+RTAT FNGR - REMOVED TATTOOS; Finger, nonspecific 
+RTAT LFOOT - REMOVED TATTOOS; Foot, left 
+RTAT FOOT - REMOVED TATTOOS; Foot, nonspecific 
+RTAT RFOOT - REMOVED TATTOOS; Foot, right 
+RTAT LFARM - REMOVED TATTOOS; Forearm, left 
+RTAT FARM - REMOVED TATTOOS; Forearm, nonspecific 
+RTAT RFARM - REMOVED TATTOOS; Forearm, right 
+RTAT FHD - REMOVED TATTOOS; Forehead 
+RTAT FLBOD - REMOVED TATTOOS; Full body 
+RTAT GROIN - REMOVED TATTOOS; Groin area 
+RTAT L HND - REMOVED TATTOOS; Hand, left 
+RTAT HAND - REMOVED TATTOOS; Hand, nonspecific 
+RTAT R HND - REMOVED TATTOOS; Hand, right 
+RTAT HEAD - REMOVED TATTOOS; Head, nonspecific (use the MIS Field to further describe location) 
+RTAT L HIP - REMOVED TATTOOS; Hip, left 
+RTAT HIP - REMOVED TATTOOS; Hip, nonspecific 
+RTAT R HIP - REMOVED TATTOOS; Hip, right 
+RTAT LKNEE - REMOVED TATTOOS; Knee, left 
+RTAT KNEE - REMOVED TATTOOS; Knee, nonspecific 
+RTAT RKNEE - REMOVED TATTOOS; Knee, right 
+RTAT L LEG - REMOVED TATTOOS; Leg, left 
+RTAT LEG - REMOVED TATTOOS; Leg, nonspecific 
+RTAT R LEG - REMOVED TATTOOS; Leg, right 
+RTAT LWLIP - REMOVED TATTOOS; Lip, lower 
+RTAT LIP - REMOVED TATTOOS; Lip, nonspecific 
+RTAT UPLIP - REMOVED TATTOOS; Lip, upper 
+RTAT NECK - REMOVED TATTOOS; Neck 
+RTAT NOSE - REMOVED TATTOOS; Nose 
+RTAT PENIS - REMOVED TATTOOS; Penis 
+RTAT LSHLD - REMOVED TATTOOS; Shoulder, left 
+RTAT SHLD - REMOVED TATTOOS; Shoulder, nonspecific 
+RTAT RSHLD - REMOVED TATTOOS; Shoulder, right 
+RTAT LTHGH - REMOVED TATTOOS; Thigh, left 
+RTAT THGH - REMOVED TATTOOS; Thigh, nonspecific 
+RTAT RTHGH - REMOVED TATTOOS; Thigh, right 
+RTAT LWRS - REMOVED TATTOOS; Wrist, left 
+RTAT WRS - REMOVED TATTOOS; Wrist, nonspecific 
+RTAT RWRS - REMOVED TATTOOS; Wrist, right 
+SC ABDOM - SCARS; Abdomen 
+SC L ANKL - SCARS; Ankle, left 
+SC ANKL - SCARS; Ankle, nonspecific
+SC R ANKL - SCARS; Ankle, right
+SC L ARM - SCARS; Arm, left 
+SC UL ARM - SCARS; Arm, left upper
+SC ARM - SCARS; Arm, nonspecific
+SC R ARM - SCARS; Arm, right
+SC UR ARM - SCARS; Arm, right upper 
+SC BACK - SCARS; Back 
+SC L BRST - SCARS; Breast, left 
+SC BREAST - SCARS; Breast, nonspecific
+SC R BRST - SCARS; Breast, right
+SC L BUTTK - SCARS; Buttock, left 
+SC BUTTK - SCARS; Buttock, nonspecific
+SC R BUTTK - SCARS; Buttock, right
+SC L CALF - SCARS; Calf, left 
+SC CALF - SCARS; Calf, nonspecific
+SC R CALF - SCARS; Calf, right
+SC L CHK - SCARS; Cheek (face), left 
+SC CHK - SCARS; Cheek (face), nonspecific 
+SC R CHK - SCARS; Cheek (face), right 
+SC CHEST - SCARS; Chest 
+SC CHIN - SCARS; Chin 
+SC L EAR - SCARS; Ear, left 
+SC EAR - SCARS; Ear, nonspecific 
+SC R EAR - SCARS; Ear, right 
+SC L ELB - SCARS; Elbow, left 
+SC ELBOW - SCARS; Elbow, nonspecific 
+SC R ELB - SCARS; Elbow, right 
+SC L EYE - SCARS; Eyebrow, left/left eye area 
+SC EYE - SCARS; Eyebrow, nonspecific 
+SC R EYE - SCARS; Eyebrow, right/right eye area 
+SC FACE - SCARS; Face, nonspecific 
+SC L FGR - SCARS; Finger(s), left hand 
+SC R FGR - SCARS; Finger(s), right hand 
+SC FGR - SCARS; Finger, nonspecific 
+SC L FT - SCARS; Foot, left 
+SC FOOT - SCARS; Foot, nonspecific 
+SC R FT - SCARS; Foot, right 
+SC LF ARM - SCARS; Forearm, left 
+SC F ARM - SCARS; Forearm, nonspecific 
+SC RF ARM - SCARS; Forearm, right 
+SC FHD - SCARS; Forehead 
+SC GROIN - SCARS; Groin area 
+SC L HND - SCARS; Hand, left 
+SC HAND - SCARS; Hand, nonspecific 
+SC R HND - SCARS; Hand, right 
+SC HEAD - SCARS; Head, nonspecific (use the MIS Field to further describe location) 
+SC L HIP - SCARS; Hip, left 
+SC HIP - SCARS; Hip, nonspecific 
+SC R HIP - SCARS; Hip, right 
+SC L KNEE - SCARS; Knee, left 
+SC KNEE - SCARS; Knee, nonspecific 
+SC R KNEE - SCARS; Knee, right 
+SC L LEG - SCARS; Leg, left, nonspecific 
+SC LEG - SCARS; Leg, nonspecific 
+SC R LEG - SCARS; Leg, right, nonspecific 
+SC LOW LIP - SCARS; Lip, lower 
+SC LIP - SCARS; Lip, nonspecific 
+SC UP LIP - SCARS; Lip, upper 
+SC NECK - SCARS; Neck 
+SC NOSE - SCARS; Nose 
+SC PENIS - SCARS; Penis 
+POCKMARKS - SCARS; Pockmarks 
+SC L SHLD - SCARS; Shoulder, left 
+SC SHLD - SCARS; Shoulder, nonspecific 
+SC R SHLD - SCARS; Shoulder, right 
+SC L THGH - SCARS; Thigh, left 
+SC THGH - SCARS; Thigh, nonspecific 
+SC R THGH - SCARS; Thigh, right 
+SC L WRIST - SCARS; Wrist, left 
+SC WRIST - SCARS; Wrist, nonspecific 
+SC R WRIST - SCARS; Wrist, right 
+DISC ABDOM - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Abdomen 
+DISC L ANK - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Ankle, left 
+DISC ANKL - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Ankle, nonspecific 
+DISC R ANK - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Ankle, right 
+DISC L ARM - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Arm, left 
+DISC ARM - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Arm, nonspecific 
+DISC R ARM - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Arm, right 
+DISC BACK - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Back 
+DISC L BRS - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Breast, left 
+DISC BRST - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Breast, nonspecific 
+DISC R BRS - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Breast, right 
+DISC L BUT - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Buttock, left 
+DISC BUTTK - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Buttock, nonspecific 
+DISC R BUT - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Buttock, right 
+DISC L CHK - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Cheek (face), left 
+DISC CHEEK - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Cheek (face), nonspecific 
+DISC R CHK - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Cheek (face), right 
+DISC CHEST - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Chest 
+DISC CHIN - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Chin 
+DISC L EAR - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Ear, left 
+DISC EAR - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Ear, nonspecific 
+DISC R EAR - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Ear, right 
+DISC L EYE - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Eyebrow, left/left eye area 
+DISC EYE - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Eyebrow, nonspecific 
+DISC R EYE - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Eyebrow, right/right eye area 
+DISC FACE - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Face, nonspecific 
+DISC L FGR - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Finger(s), left hand 
+DISC R FGR - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Finger(s), right hand 
+DISC FGR - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Finger, nonspecific 
+DISC L FT - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Foot, left 
+DISC FOOT - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Foot, nonspecific 
+DISC R FT - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Foot, right 
+DISC FHD - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Forehead 
+DISC L HND - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Hand, left 
+DISC R HND - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Hand, right 
+DISC HEAD - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Head 
+DISC L HIP - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Hip, left 
+DISC HIP - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Hip, nonspecific 
+DISC R HIP - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Hip, right 
+DISC LKNEE - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Knee, left 
+DISC KNEE - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Knee, nonspecific 
+DISC RKNEE - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Knee, right 
+DISC L LEG - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Leg, left 
+DISC LEG - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Leg, nonspecific 
+DISC R LEG - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Leg, right 
+DISC L LIP - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Lip, lower 
+DISC LIP - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Lip, nonspecific 
+DISC U LIP - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Lip, upper 
+DISC NECK - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Neck 
+DISC NOSE - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Nose 
+DISC PENIS - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Penis 
+DISC LSHLD - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Shoulder, left 
+DISC SHLD - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Shoulder, nonspecific 
+DISC RSHLD - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Shoulder, right 
+DISC LTHGH - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Thigh, left 
+DISC THGH - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Thigh, nonspecific 
+DISC RTHGH - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Thigh, right 
+DISC L WRS - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Wrist, left 
+DISC WRIST - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Wrist, nonspecific 
+DISC R WRS - SKIN DISCOLORATIONS (INCLUDING BIRTHMARKS); Wrist, right 
+TAT ABDOM - TATTOOS; Abdomen 
+TAT L ANKL - TATTOOS; Ankle, left 
+TAT ANKL - TATTOOS; Ankle, nonspecific 
+TAT R ANKL - TATTOOS; Ankle, right 
+TAT L ARM - TATTOOS; Arm, left 
+TAT UL ARM - TATTOOS; Arm, left upper 
+TAT ARM - TATTOOS; Arm, nonspecific 
+TAT R ARM - TATTOOS; Arm, right 
+TAT UR ARM - TATTOOS; Arm, right upper 
+TAT BACK - TATTOOS; Back 
+TAT L BRST - TATTOOS; Breast, left 
+TAT BREAST - TATTOOS; Breast, nonspecific 
+TAT R BRST - TATTOOS; Breast, right 
+TAT L BUTK - TATTOOS; Buttock, left 
+TAT R BUTK - TATTOOS; Buttock, right 
+TAT BUTTK - TATTOOS; Buttocks, nonspecific 
+TAT L CALF - TATTOOS; Calf, left 
+TAT CALF - TATTOOS; Calf, nonspecific 
+TAT R CALF - TATTOOS; Calf, right 
+TAT L CHK - TATTOOS; Cheek (face), left 
+TAT CHEEK - TATTOOS; Cheek (face), nonspecific 
+TAT R CHK - TATTOOS; Cheek (face), right 
+TAT CHEST - TATTOOS; Chest 
+TAT CHIN - TATTOOS; Chin 
+TAT L EAR - TATTOOS; Ear, left 
+TAT EAR - TATTOOS; Ear, nonspecific 
+TAT R EAR - TATTOOS; Ear, right 
+TAT LELBOW - TATTOOS; Elbow, left 
+TAT ELBOW - TATTOOS; Elbow, nonspecific 
+TAT RELBOW - TATTOOS; Elbow, right 
+TAT L EYE - TATTOOS; Eye, left 
+TAT EYE - TATTOOS; Eye, nonspecific 
+TAT R EYE - TATTOOS; Eye, right
+TAT FACE - TATTOOS; Face, nonspecific 
+TAT L FGR - TATTOOS; Finger(s), left hand 
+TAT R FGR - TATTOOS; Finger(s), right hand 
+TAT FNGR - TATTOOS; Finger, nonspecific 
+TAT L FOOT - TATTOOS; Foot, left 
+TAT FOOT - TATTOOS; Foot, nonspecific 
+TAT R FOOT - TATTOOS; Foot, right 
+TAT LF ARM - TATTOOS; Forearm, left 
+TAT FARM - TATTOOS; Forearm, nonspecific 
+TAT RF ARM - TATTOOS; Forearm, right 
+TAT FHD - TATTOOS; Forehead 
+TAT FLBODY - TATTOOS; Full body (used when arms, legs, chest, and back are covered with tattoos) 
+TAT GROIN - TATTOOS; Groin area 
+TAT L HND - TATTOOS; Hand, left 
+TAT HAND - TATTOOS; Hand, nonspecific 
+TAT R HND - TATTOOS; Hand, right 
+TAT HEAD - TATTOOS; Head, nonspecific (use the MIS Field to further describe location) 
+TAT L HIP - TATTOOS; Hip, left 
+TAT HIP - TATTOOS; Hip, nonspecific 
+TAT R HIP - TATTOOS; Hip, right 
+TAT L KNEE - TATTOOS; Knee, left 
+TAT KNEE - TATTOOS; Knee, nonspecific 
+TAT R KNEE - TATTOOS; Knee, right 
+TAT L LEG - TATTOOS; Leg, left 
+TAT LEG - TATTOOS; Leg, nonspecific 
+TAT R LEG - TATTOOS; Leg, right 
+TAT LW LIP - TATTOOS; Lip, lower 
+TAT LIP - TATTOOS; Lip, nonspecific 
+TAT UP LIP - TATTOOS; Lip, upper 
+TAT NECK - TATTOOS; Neck 
+TAT NOSE - TATTOOS; Nose 
+TAT PENIS - TATTOOS; Penis 
+TAT L SHLD - TATTOOS; Shoulder, left 
+TAT SHLD - TATTOOS; Shoulder, nonspecific 
+TAT R SHLD - TATTOOS; Shoulder, right 
+TAT L TOE - TATTOOS; Toe, left 
+TAT TOE - TATTOOS; Toe, nonspecific 
+TAT R TOE - TATTOOS; Toe, right 
+TAT L THGH - TATTOOS; Thigh, left 
+TAT THGH - TATTOOS; Thigh, nonspecific 
+TAT R THGH - TATTOOS; Thigh, right 
+TAT L WRS - TATTOOS; Wrist, left 
+TAT WRS - TATTOOS; Wrist, nonspecific 
+TAT R WRS - TATTOOS; Wrist, right 
+TD ANALGES - THERAPEUTIC DRUGS; Analgesics (pain relievers) (includes Darvon, acetaminophen, aspirin, etc.) 
+TD ANTBTCS - THERAPEUTIC DRUGS; Antibiotics 
+TD ACONVUL - THERAPEUTIC DRUGS; Anticonvulsants (seizure medicines) (includes Dilantin, Mysoline, phenobarbital, etc.) 
+TD ADEPRES - THERAPEUTIC DRUGS; Antidepressants (mood-lifters) (includes amitriptylene, Elavil, Norpramine, Prozac, Triavil, Zoloft, etc.) 
+TD ANTINFL - THERAPEUTIC DRUGS; Anti-inflammatory medication 
+TDBRNCHDL - THERAPEUTIC DRUGS; Bronchial dilators (includes inhalers) 
+TD CARDIAC - THERAPEUTIC DRUGS; Cardiac (heart medications) (includes digitalis, digoxin, etc.) 
+TD HYPNOTI - THERAPEUTIC DRUGS; Hypnotics (sleeping aids) (includes barbiturates, chloral hydrate, glutethemide, etc.) 
+TD INSULIN - THERAPEUTIC DRUGS; Insulin 
+TD OTHER - THERAPEUTIC DRUGS; Other therapeutic medications not listed, identify in the MIS Field. 
+TD RITALIN - THERAPEUTIC DRUGS; Ritalin 
+TD TRANQUI - THERAPEUTIC DRUGS; Tranquilizers (includes Valium, Thorazine, Stellazine, etc.) 

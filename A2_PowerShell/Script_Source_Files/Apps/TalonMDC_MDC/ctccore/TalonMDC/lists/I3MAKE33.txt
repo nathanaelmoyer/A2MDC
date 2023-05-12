@@ -1,0 +1,224 @@
+~<BLANK>
+AERI/CE  - Aeroil Products Co., Inc
+ALLI/CE  - Allis-Chalmers Corp.
+AMHO/CE  - American Hoist & Derrick Co.
+AMSW/CE  - American Steel Works
+ARPS/CE  - Arps Div.
+ATCO/CE  - Atlas Copco, Inc.
+AUWE/CE  - Austin-Western Div.
+AUTT/CE  - Automatic Drilling Machines, Inc.
+BADR/CE  - Badger Machine Div.
+BYOR/CE  - Baker-York Forklift
+BADE/CE  - Balderson, Inc.
+BANN/CE  - Banner Industries, Inc.
+BANT/CE  - Bantam
+BARB/CE  - Barber-Greene Co.
+BIGJ/CE  - Big Joe Manufacturing Co.
+BLAW/CE  - Blackwell Burner Co.
+BLAO/CE  - Blaw-Knox Construction Equipment Co.
+MELR/CE  - Bobcat Skid Steer Loader
+BOMB/CE  - Bombardier Ltd.
+BRAT/CE  - Brantley Mfg. Co.
+BOCE/CE  - Broce Manufacturing Co.
+BROS/CE  - Bros. Div.
+DABR/CE  - Brown, Dave L. Inc.
+BUCY/CE  - Bucyrus-Erie Co.
+BUFF/CE  - Buffalo-Bomag Div.
+BUSP/CE  - Buffalo-Springfield Div.
+BYRS/CE  - Byers
+CREX/CE  - Cable Crane and Excavator Div.
+CAME/CE  - Camp Equipment Co., Inc.
+CANC/CE  - Can-Car Inc.
+CANO/CE  - Canoga Mfg. Co., Inc.
+CASC/CE  - Cascade Corp.
+CASE/CE  - Case, J. I., Co.
+CAT /CE  - Caterpillar Tractor Co.
+CHCO/CE  - Champ Corp.
+CHIA/CE  - Chicago Pneumatic Equipment Div.
+CHIM/CE  - Chipmore Mfg. Co., Inc.
+CLAR/CE  - Clark Equipment Co.
+CLEA/CE  - Cleasby
+CLBR/CE  - Cleveland Brothers Equipment Co.
+CLEV/CE  - Cleveland Trencher Co.
+COEQ/CE  - Construction Equipment (Unpublished)
+CASE/CE  - Construction King
+CMAC/CE  - Construction Machinery Co.
+CRAN/CE  - Crane & Hoist Operations
+DABR/CE  - Dave L. Brown Co., Inc.
+DAYT/CE  - Dayton Electric Mfg. Co.
+DEER/CE  - Deere, John
+DIGM/CE  - Digmor Equipment & Engineering Co., Inc.
+DITC/CE  - Ditch Witch Div.
+DOMI/CE  - Dominton Road Machinery Co., Ltd.
+DROT/CE  - Drott Manufacturing Co.
+ETNY/CE  - E. D. Etnyre & Company
+EATO/CE  - Eaton Corp.
+STOW/CE  - Econoroll
+EIDL/CE  - Eidal International Corp.
+ELLE/CE  - Elgin-Leach Corp.
+ESSI/CE  - Essick/Hadco Div.
+ETNY/CE  - Etnyre, E. D. & Company
+FIAL/CE  - Fiat-Allis Const Machinery, Inc.
+FLAH/CE  - Flaherty Manufacturing Co.
+FMC /CE  - FMC Corp.
+FORD/CE  - Ford
+FWD /CE  - FWD Corp.
+GALI/CE  - Galion Manufacturing Div.
+GANN/CE  - Gannon Manufacturing Co., Inc.
+GARN/CE  - Gardner-Denver Cooper Industries, Inc.
+GEEN/CE  - General Engines Co,. Inc.
+GMC /CE  - General Motors Corp.
+GETM/CE  - Getman Brothers Mfg. Co.
+GILS/CE  - Gilson Brothers Co.
+GORO/CE  - Gordon Smith & Co., Inc.
+GORM/CE  - Gorman-Rupp Company, The
+GRAE/CE  - Grace, W. E., Manufacturing Co.
+GRAD/CE  - Gradall
+GRIM/CE  - Grimmer-Schmidt Corp.
+GRVM/CE  - Grove Mfg. Co.
+HARN/CE  - Harnischfegar Corp.
+HARR/CE  - Harrington Mfg. Co., Inc.
+HEWE/CE  - Hein-Werner Corp.
+TCIP/CE  - Herculift
+HWRO/CE  - Hewitt-Robins Crush & Vibrating Equip
+HIAB/CE  - Hiab Cranes and Loaders, Inc.
+HOBA/CE  - Hobart Brothers Co.
+HOML/CE  - Homelite
+HOUG/CE  - Hough Brothers, Inc.
+HYCA/CE  - Hycaloader Co., Inc.
+HYDY/CE  - Hy-Dynamic Div.
+HYST/CE  - Hyster Co.
+INGS/CE  - Ingersoll-Rand Co.
+INGR/CE  - Ingram Manufacturing Co.
+INMA/CE  - Insley Manufacturing Co.
+INTL/CE  - International Harvester Co.
+IOWA/CE  - Iowa Manufacturing Co.
+CASE/CE  - J. I. Case Co.
+JLGI/CE  - J. L. G. Industries
+HUBE/CE  - J. M. Huber Corp.
+JAEG/CE  - Jaeger Machine Co.
+JCBE/CE  - JCB Excavators, Inc.
+DEER/CE  - John Deere
+JSWP/CE  - Johnston Sweeper Company
+JOYC/CE  - Joy Mfg. Co. (Air Power Group)
+KLCL/CE  - Kelly-Creswall Co., Inc.
+KLEI/CE  - Klein Products, Inc.
+KOEH/CE  - Koehring Co.
+KOHL/CE  - Kohler Co.
+KOMA/CE  - Komatsu, Ltd.
+KWKT/CE  - Kwick Kit Cement Mixer
+LAYO/CE  - Layton Mfg. Co., Inc.
+LERY/CE  - Le Roi Div.
+LETO/CE  - Letourneau, R. G.
+LION/CE  - Liftall Forklift
+LIFM/CE  - Liftmaster, Inc.
+LIGH/CE  - Light Equipment Div.
+LNCO/CE  - Lincoln Electric Co.
+LNCO/CE  - Lincoln Welder
+PKLC/CE  - Lindsay Co., Inc., P. K.
+LION/CE  - Lion Mfg. Co., Inc.
+LIGC/CE  - Little Giant Crane & Shovel, Inc.
+LIGP/CE  - Little Giant Products, Inc.
+LITT/CE  - Littleford Brothers, Inc.
+LONG/CE  - Long Mfg. N.C., Inc., Const. & Ind. Div.
+LORA/CE  - Lorain Div.
+LULL/CE  - Lull Engineering Co.
+MANI/CE  - Manitowc Engineering Co., Inc.
+MAPO/CE  - Marion Power Shovel Co., Inc.
+MASS/CE  - Massey-Ferguson, Inc.
+MAUL/CE  - Mauldin Mfg. Co., Inc.
+LIGH/CE  - Maxi-Sneaker
+MAYC/CE  - Mayco Pump Corp.
+MBCO/CE  - M-B Co., Inc. of Wisconsin
+MELR/CE  - Melroe Div.
+MIDM/CE  - Midmark
+MIL /CE  - Miller Electric Mfg. Co.
+MITS/CE  - Mitsubishi
+MOSW/CE  - Mobile Sweeper Div.
+MRS /CE  - M-R-S Manufacturing Co.
+MULL/CE  - Muller Machinery Co.
+MULQ/CE  - Multiquip
+NACR/CE  - National Crane Corporation
+NORH/CE  - Northwest Engineering Co.
+NOMO/CE  - Northwestern Motor Co.
+ONAN/CE  - Onan Corp.
+OWAT/CE  - Owatonna Manufacturing Co., Inc.
+PKLC/CE  - P.K. Lindsay Company, Inc.
+PAEN/CE  - Page Engineering Co.
+PASO/CE  - Parson Co. Div.
+PCM /CE  - PCM Div.
+PETM/CE  - Pettibone Corp.
+PRIM/CE  - Prime Mover
+PUCK/CE  - Puckett Brothers Mfd. Div. Co., Inc.
+QUIN/CE  - Quincy Compressor Div.
+LETO/CE  - R. G. Letourneau
+ROCO/CE  - R. O. Corp.
+RAYG/CE  - Raygo, Inc.
+REXN/CE  - Rexnord, Inc.
+RHIN/CE  - Rhino Tool Company
+RICA/CE  - Richard Piche, Inc.
+RNSO/CE  - Rinso Forklift
+HARR/CE  - Roanoke-Hustler Forklift
+ROSC/CE  - Rosco Mfg. Co.
+ROYE/CE  - Royer Foundry and Machine Co.
+ROYE/CE  - Royer Shredder
+SCMM/CE  - Schramm, Inc.
+SCMI/CE  - Scott Midland Div.
+SEAN/CE  - Seaman Digz-All
+BANT/CE  - Shield Telekrane
+SHOV/CE  - Shovel Supply Co., Inc.
+SILT/CE  - Silent Hoist & Crane Co.
+GORO/CE  - Smith, Gordon & Co., Inc.
+SMIT/CE  - Smith, T. L., Co.
+SOIL/CE  - Soil Mover Mfd. Div.
+DAYT/CE  - Speedaire
+SPEI/CE  - Speicher Brothers, Inc.
+NEWH/CE  - Sperry New Holland
+SPYD/CE  - Spyder
+STER/CE  - Sterling Industrial Corp.
+STEW/CE  - Stewart Engineering & Equipment Co.
+STOE/CE  - Stone Construction Equipment Inc.
+STOW/CE  - Stow Mfg. Co.
+SULL/CE  - Sullair Corp.
+SULL/CE  - Sulliscrew
+SUEQ/CE  - Superior Equipment Co.
+SWEP/CE  - Sweepster, Inc.
+SMIT/CE  - T. L. Smith Co.
+TAKE/CE  - Takeuchi Manufacturing Ltd.
+TAMP/CE  - Tampo Manufacturing Co., Inc.
+TCIN/CE  - TC Industries, Inc.
+TCIP/CE  - TCI Power Products, Inc.
+TERX/CE  - Terex Div.
+TOWM/CE  - Tow Mobile Forklift
+TOMC/CE  - Towmotor Corp.
+TOYT/CE  - Toyota
+TRMA/CE  - Trac-Machinery Corp.
+LITT/CE  - Trail-O-Roller
+CAT /CE  - Traxcavator Bulldozer
+CANC/CE  - Tree Farmer Equipment Div.
+LIGH/CE  - Trimline
+UNCR/CE  - Unit Crane & Shovel Corp.
+COEQ/CE  - Unpublished Construction Equipment Mfg.
+VERN/CE  - Vermeer Manufacturing Co.
+VERM/CE  - Vermette Machine Co.
+VERA/CE  - Versatile Power Corp.
+VIBO/CE  - Vibro-Plus Products, Inc.
+RICA/CE  - Vohl
+GRAE/CE  - W. E. Grace Manufacturing Co.
+WABC/CE  - Wabco Const.& Mining Equipment Group
+WACK/CE  - Wacker Corp.
+WALD/CE  - Waldon, Inc.
+WASW/CE  - Warner & Swasey Co.
+WAYN/CE  - Wayne Sweeper
+STOW/CE  - Western (Stow Western)
+WHIT/CE  - White Motor Corp.
+WIGG/CE  - Wiggins Lifts Co., Inc.
+WINC/CE  - Winco Div.
+WNDH/CE  - Windham Mfg. Co., Inc.
+WINP/CE  - Winpower Corp.
+WOOC/CE  - Wood/Chuck Chipper Corp.
+WORI/CE  - Worthington Compressors, Inc.
+WYLI/CE  - Wylie Manufacturing Co.
+EATO/CE  - Yale, Material Handling Div.
+YANM/CE  - Yanmar Tractor USA, Inc.
+YORK/CE  - York Forklift

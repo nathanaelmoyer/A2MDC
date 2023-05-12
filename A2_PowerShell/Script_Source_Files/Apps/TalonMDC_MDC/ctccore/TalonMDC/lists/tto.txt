@@ -1,0 +1,72 @@
+~<BLANK>
+TAT ABDOM - TATTOOS; Abdomen 
+TAT L ANKL - TATTOOS; Ankle, left 
+TAT ANKL - TATTOOS; Ankle, nonspecific 
+TAT R ANKL - TATTOOS; Ankle, right 
+TAT L ARM - TATTOOS; Arm, left 
+TAT UL ARM - TATTOOS; Arm, left upper 
+TAT ARM - TATTOOS; Arm, nonspecific 
+TAT R ARM - TATTOOS; Arm, right 
+TAT UR ARM - TATTOOS; Arm, right upper 
+TAT BACK - TATTOOS; Back 
+TAT L BRST - TATTOOS; Breast, left 
+TAT BREAST - TATTOOS; Breast, nonspecific 
+TAT R BRST - TATTOOS; Breast, right 
+TAT L BUTK - TATTOOS; Buttock, left 
+TAT R BUTK - TATTOOS; Buttock, right 
+TAT BUTTK - TATTOOS; Buttocks, nonspecific 
+TAT L CALF - TATTOOS; Calf, left 
+TAT CALF - TATTOOS; Calf, nonspecific 
+TAT R CALF - TATTOOS; Calf, right 
+TAT L CHK - TATTOOS; Cheek (face), left 
+TAT CHEEK - TATTOOS; Cheek (face), nonspecific 
+TAT R CHK - TATTOOS; Cheek (face), right 
+TAT CHEST - TATTOOS; Chest 
+TAT CHIN - TATTOOS; Chin 
+TAT L EAR - TATTOOS; Ear, left 
+TAT EAR - TATTOOS; Ear, nonspecific 
+TAT R EAR - TATTOOS; Ear, right 
+TAT LELBOW - TATTOOS; Elbow, left 
+TAT ELBOW - TATTOOS; Elbow, nonspecific 
+TAT RELBOW - TATTOOS; Elbow, right 
+TAT FACE - TATTOOS; Face, nonspecific 
+TAT L FGR - TATTOOS; Finger(s), left hand 
+TAT R FGR - TATTOOS; Finger(s), right hand 
+TAT FNGR - TATTOOS; Finger, nonspecific 
+TAT L FOOT - TATTOOS; Foot, left 
+TAT FOOT - TATTOOS; Foot, nonspecific 
+TAT R FOOT - TATTOOS; Foot, right 
+TAT LF ARM - TATTOOS; Forearm, left 
+TAT FARM - TATTOOS; Forearm, nonspecific 
+TAT RF ARM - TATTOOS; Forearm, right 
+TAT FHD - TATTOOS; Forehead 
+TAT FLBODY - TATTOOS; Full body (used when arms, legs, chest, and back are covered with tattoos) 
+TAT GROIN - TATTOOS; Groin area 
+TAT L HND - TATTOOS; Hand, left 
+TAT HAND - TATTOOS; Hand, nonspecific 
+TAT R HND - TATTOOS; Hand, right 
+TAT HEAD - TATTOOS; Head, nonspecific (use the MIS Field to further describe location) 
+TAT L HIP - TATTOOS; Hip, left 
+TAT HIP - TATTOOS; Hip, nonspecific 
+TAT R HIP - TATTOOS; Hip, right 
+TAT L KNEE - TATTOOS; Knee, left 
+TAT KNEE - TATTOOS; Knee, nonspecific 
+TAT R KNEE - TATTOOS; Knee, right 
+TAT L LEG - TATTOOS; Leg, left 
+TAT LEG - TATTOOS; Leg, nonspecific 
+TAT R LEG - TATTOOS; Leg, right 
+TAT LW LIP - TATTOOS; Lip, lower 
+TAT LIP - TATTOOS; Lip, nonspecific 
+TAT UP LIP - TATTOOS; Lip, upper 
+TAT NECK - TATTOOS; Neck 
+TAT NOSE - TATTOOS; Nose 
+TAT PENIS - TATTOOS; Penis 
+TAT L SHLD - TATTOOS; Shoulder, left 
+TAT SHLD - TATTOOS; Shoulder, nonspecific 
+TAT R SHLD - TATTOOS; Shoulder, right 
+TAT L THGH - TATTOOS; Thigh, left 
+TAT THGH - TATTOOS; Thigh, nonspecific 
+TAT R THGH - TATTOOS; Thigh, right 
+TAT L WRS - TATTOOS; Wrist, left 
+TAT WRS - TATTOOS; Wrist, nonspecific 
+TAT R WRS - TATTOOS; Wrist, right 

@@ -1,0 +1,8 @@
+~<BLANK>
+AERO/BLM - Aircraft - Blimp
+AERO/HEL - Aircraft - Helicopters
+AERO/HOT - Aircraft - Hot Air Balloon
+AERO/JET - Aircraft - Jet Propelled
+AERO/PRO - Aircraft - Propeller Driven
+AERO/SAL - Aircraft - Sailplane (Glider)
+AERO/ULT - Aircraft - Ultralights

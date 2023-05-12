@@ -1,0 +1,6 @@
+<Controls>
+	<Separator/>
+	<Button ValidState="4" Image="crimeconnect.png" Label="CC" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="CrimeConnect Export"	ExecCode="23064" />
+</Controls>
+<Events>
+</Events>

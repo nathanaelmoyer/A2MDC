@@ -1,0 +1,33 @@
+<?ctcDefine Attribute="rowHeight"        Value="16"?>
+<?ctcDefine Attribute="2xrowHeight"      Value="32"?>
+<XTTableDef CheckedColumn="0" ReverseAddOrder="false" ShowHorizontalGridLines="false" IndicateSortOrderInHeader="false" SortWhenColumnsClicked="true" RowHeight="${rowHeight}" SortColumn="1" SortReversed="false" ResortWhenNewRowAdded="true">
+  <RowData>
+    <RowTag SubjectName="ID" Type="Attr"/>
+  </RowData>
+  <ColumnTable>
+	<Column PreferredWidth="30" Resizable="true" BooleansAsCheckboxes="true" Editable="true">
+      <Header Title=""/>
+      <Data SubjectName="Selected" Type="Attr" />
+    </Column>
+    <Column PreferredWidth="100" Resizable="true">
+      <Header Title="Name"/>
+      <Data SubjectName="Name" Type="Attr"/>
+    </Column>
+    <Column PreferredWidth="140" Resizable="true">
+      <Header Title="Agency"/>
+      <Data SubjectName="AgencyName" Type="Attr"/>
+    </Column>
+    <Column PreferredWidth="80"Resizable="true">
+      <Header Title="City"/>
+      <Data SubjectName="City" Type="Attr"/>
+    </Column>
+    <Column PreferredWidth="40" Resizable="true">
+      <Header Title="State"/>
+      <Data SubjectName="State" Type="Attr"/>
+    </Column>
+    <Column PreferredWidth="160" Resizable="true">
+      <Header Title="Admin"/>
+      <Data SubjectName="ContactEmail" Type="Attr"/>
+    </Column>
+  </ColumnTable>
+</XTTableDef>

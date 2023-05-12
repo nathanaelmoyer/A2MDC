@@ -1,0 +1,51 @@
+<Controls>
+	<Separator/>
+	<Button ProgID="TIMSSearchBtn" InitiallyEnabled="False" ValidState="8" Image="tims.png" Label="TIMS" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="Search TIMS View">
+		<Script>
+			var viewToActivate = TViewNames.TIMS_Search;
+			var currentViewName = HooksVAPI.GetCurrentViewName();
+			var lastTIMSView = HooksAPI.GetSavedScriptData("LastTIMSView");
+			
+			if ( ! HooksVAPI.IsTIMSView(currentViewName) && lastTIMSView != null )
+			{
+				viewToActivate = lastTIMSView;
+			}
+		
+			HooksVAPI.ActivateView(viewToActivate);
+			
+			var tims = ClientController.GetTIMSController();
+			var operator = tims.GetOperator();
+			var settings = operator.GetUserSettings();
+			
+			var timsViewButton = ToolBar.GetComponentByProgID("TIMSSearchBtn");
+			timsViewButton.setEnabled(true);
+
+			
+		</Script>
+	</Button>
+	<Button ProgID="TIMSReportsBtn" InitiallyEnabled="False" ValidState="6" Image="reportwriting.png" Label="Reports" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="TIMS Reports" PeerGroup="View Buttons Group" >
+		<Script>
+		    Helper.ActivateView( TViewNames.TIMS_Reports );
+		</Script>
+	</Button>
+</Controls>
+<Events>
+	<Event ID="TIMS Loaded">
+		<Script>
+			var tims = ClientController.GetTIMSController();
+			var operator = tims.GetOperator();
+			var settings = operator.GetUserSettings();
+			
+			if ( settings.Permit("ViewSearch") )
+			{
+				var timsViewButton = ToolBar.GetComponentByProgID("TIMSSearchBtn");
+				timsViewButton.setEnabled(true);
+			}
+			if ( settings.Permit("ViewReports") )
+			{
+				var timsReportsButton = ToolBar.GetComponentByProgID("TIMSReportsBtn");
+				timsReportsButton.setEnabled(true);
+			}
+		</Script>
+	</Event>
+</Events>

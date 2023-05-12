@@ -1,0 +1,73 @@
+CN	CANADA       - Canada Information
+CN	CNADMMSG     - Canada Admin Messages
+CN	CNARTICLES   - Canada Articles
+CN	CNBOATS      - Canada Boats
+CN	CNCHR        - Canada Criminal Records (CHR)
+CN	CNCHRQUERY   - Canada CHR Query
+CN	CNDRIVER     - Canada Driver
+CN	CNGUNS       - Canada Guns
+CN	CNPERSON     - Canada Person
+CN	CNSECURITIES - Canada Securities
+CN	CNVEHICLE    - Canada Vehicle  
+ELOP	ACCAIR       - Accident, Aircraft
+ELOP	ACCCHEMICAL  - Accident/Spill, Chemicals/Flammables/Toxic Materials
+ELOP	ACCHUNTING   - Accident, Hunting
+ELOP	ACCSCHOOLBUS - Accident, School Bus (Fatal or PI)
+ELOP	ACCTRAFFIC   - Accident, Fatal Motor Vehicle (Traffic)
+ELOP	ACCWATER     - Accident, Water/Boating Fatal
+ELOP	DISASTERS    - Damage during Emergency/Disaster
+ELOP	FIRES        - Fires, Explosions, and Fatal Fires
+ELST	BREATH       - OUIL/OUID Law Entry Form
+ELST	BREATHHELP   - Breath Screen Help File
+ELST	BREATHHELP2  - Breathalyzer Arrest Charge Codes
+ELST	BTHLSTUPD    - Simulator/Subject/120-day Certification List/Update
+ELST	BTHTOTSUM    - Breath Total Summary by Instrument Number
+ELST	CERTTOTSUM   - Breath Total Summary by Certification Number
+ELST	SIM          - Enter Simulator
+ELST	SIMTOTSUM    - Simulator Total Summary
+ELLT	ADMMSG       - Administrative Msg
+ELLT	AIRCRAFT     - Query Aircraft
+ELLT	ARTICLES     - Articles
+ELLT	BASIC        - LEIN Basic School
+ELLT	BOATS        - Boats
+ELLT	CANADA       - Canada File Info.
+ELLT	CANCEL       - Cancel Records
+ELLT	CERTIFY      - Certify Operators
+ELLT	CHR          - Criminal Records
+ELLT	DEFINE       - Definition of TAC
+ELLT	DENTAL       - Dental Records
+ELLT	DSS          - Query for DSS
+ELLT	EM           - Missing Person Entry
+ELLT	EV           - Vehicle Entry
+ELLT	EW           - Warrant Entry
+ELLT	FAX          - Add FAX Number
+ELLT	GUNS         - Guns
+ELLT	HANDSON      - Handson Basic Schools
+ELLT	HOLD         - Request Prisoner Hold
+ELLT	HAZMAT       - UN Number Queries
+ELLT	HELP         - Help Agencies
+ELLT	HITREQUEST   - YQ Hit Request
+ELLT	HITRESPONSE  - YR Hit Response
+ELLT	INVEST       - Patrol/Investigation
+ELLT	LEINNEWS     - LEIN News Bulletins
+ELLT	LIST         - Warrant List by City
+ELLT	LOCATE       - Enter Locate
+ELLT	LSOR         - Query SOR by County
+ELLT	MOVELEIN     - Move LEIN Terminal
+ELLT	ORI          - Query ORI Files
+ELLT	OTHER        - Other Schools
+ELLT	QUERY1       - Query by Scan Lines
+ELLT	QUERY2       - Query by Literals
+ELLT	PARTS        - Vehicle/Boat Parts
+ELLT	RECALL       - Recall Message
+ELLT	ROADS        - Travel Advisory
+ELLT	SCHOOLS      - All LEIN Schools
+ELLT	SECURITIES   - Securities
+ELLT	SETUPOPTIONS - Terminal Options
+ELLT	SNOWMOBILE   - Snomobile Make Codes
+ELLT	SOR          - Sex Offender Register
+ELLT	TAC          - Change TAC
+ELLT	TACSCHOOL    - TAC Schools Scheduled
+ELLT	TRAINER      - Train-the-Trainer
+ELLT	UNIDENTIFIED - Unidentified Persons
+ELLT	UPDATE       - LEIN Update Schools

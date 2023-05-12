@@ -1,0 +1,62 @@
+A14:@DD-A_T-Assss^1050:ÝA13:@DD-A_T-Asss^7:ÝGlobal1:Ý1015:Ý<Settings>
+<General>
+;password reset
+AllowPasswordReset=true
+PromptForEmailAddress=F	
+;
+EnableDrillDownLinks=true
+TPDialog_UseNewTPDialog=true
+mdcTopToolBarDefinitionFile=toolbar.xml
+TPSelection_Person=MIDRS
+UsingSQLLogging=true
+AllowWordSearch =false
+MaxNumberOfStoredItems=500
+ShowLeftToolBarButtons=F
+</General>
+<Highlights>
+<Highlight Search="STOLEN" Color="C00000" FlagFilename="fgflag.gif" Scope="2"/>
+<Highlight Search="OFFICER SAFETY" Scope="2" Bold="true" Color="FF0040" FlagFilename="fgalert.gif" Italic="true"/>
+<Highlight Search="WARRANT" Scope="2" Color="FF0000" FlagFilename="fgflag.gif"/>
+<Highlight Search="WANTED" Scope="2" Bold="true" Color="C00000" FlagFilename="fgflag.gif"/>
+<Highlight Search="CAUTION" Scope="2" Color="C00000" FlagFilename="fgalert.gif"/>
+<Highlight Search="PERSONAL PROTECTION ORDER NOT SERVED" Scope="2" Color="FF0000"/>
+<Highlight Search="SUSPEN" Color="FF0000"/>
+<Highlight Search="FELONY" Bold="true" Color="FF0000" FlagFilename="fgalert.gif"/>
+</Highlights>
+</Settings>265:ÝA13:@DD-A_T-Asss^48:ÝA13:@DD-A_T-Asss^18:ÝAnnArborQueryOnly4:ÝKI]1:Ý41:ÝA13:@DD-A_T-Asss^11:ÝAnnArborWW4:ÝPCG1:Ý148:ÝA13:@DD-A_T-Asss^16:ÝAnnArborDesktop4:ÝSCD101:Ý<Settings>
+  <General>
+          TIMSAgencyNameForDefUpdateFile=AnnArbor
+ </General>
+</Settings>44:ÝA13:@DD-A_T-Asss^14:Ý172.18.183.994:Ý]GZ1:Ý1027:ÝA13:@DD-A_T-Asss^11:ÝAABOUGHERJ4:Ý]GG985:Ý<Settings>
+  <General>
+    TPSelection_Group=
+    mdcLastViewName=MDC Message List
+    SndEvt_Mail Received_Enabled=true
+    SndEvt_Mail Received_Filename=Windows XP Critical Stop.wav
+    SndEvt_Mail Received_Repeat=true
+    SndEvt_Mail Received_RepeatSec=30
+    SndEvt_Mail Received_MaxRepeats=3
+    BeepOnRecv=true
+    SoundFile=Windows XP Critical Stop.wav
+    SndEvt_WW Message Received_Enabled=true
+    SndEvt_WW Message Received_Filename=Windows XP Critical Stop.wav
+    ViewActivityWindowSize=30
+    mdcTalonRelativeFontSize=Larger
+    mdcScrollBarSize=0
+    EnableAutoDrillDown=true
+    AutoDrillDownPersonOLN=35/42
+    AutoDrillDownPersonSOS=35/42
+    BlnkMsgIndCurView=true
+    IncludeMessageSeparatorInActivityView=true
+    LastViewName=Message List
+    TPSelection_Person,Vehicle=
+    TPSelection_Person=
+    TPSelection_Address=
+    TPSelection_Vehicle=
+    TPSelection_CrimeLab=
+    DoSendToHost=true
+    ExactMatchOnly=true
+    
+  </General>
+  <Highlights/>
+</Settings>

@@ -1,0 +1,40 @@
+1
+G	]D[	MILLINGTONENTRY	IL ENTRY Config group
+G	]DE	MAYVILLEORI	MAYVILLE PD ORI
+G	]DF	MAYVILLETAC	VM TAC Config group
+G	]DG	MAYVILLEWW	Mayville PD WW Users
+G	]DU	MILLINGTONORI	IL Dept ORI
+G	]DV	MILLINGTONTAC	IL TAC Config group
+G	]DW	MILLINGTONWW	MILLINGTON PD WW Users
+G	]EB	MAYVILLEMOBILES	VM Mobile ORI
+G	]FD	MILLINGTONMOBILE	IL Mobile Group
+G	]NR	METAMORATAC	MT TAC Config group
+G	JU\	MilanPDORI 	Milan
+G	KIY	MilanTAC	TAC Config group
+G	KIZ	MilanEntry	entry config
+G	LJY	MESSAGEDISPATCHCONSOLES	Dispatch Mesage
+G	O[Y	MilanWW	Milan WW Users
+G	O\Z	MESSAGEDISPATCHTEST	test of CAD term timeout
+G	S@[	MilanMobile	Milan Mobile ORI
+G	TNT	MarineCityWW	Marine City WW Users
+G	TNU	MarineCityORI	Marine City ORI
+G	UN[	MarysvilleWW	Marysville WW Users
+G	UN\	MarysvilleMobile	Marysville Mobile ORI
+G	UN]	MarysvillePDORI	Marysville ORI
+G	UUT	MarysvilleDesktop	Marysville Desktop
+G	VBK	MetamoraWW	LC-Metamora WW Users
+G	VBM	MetamoraPDORI	Metamora PD ORI
+G	VZ@	MarineCityDesktop	Marine City Desktop
+G	VZS	MarineCityMobile	Marine City Mobile
+G	XJL	MadisonTWPDesktop	Madison Desktop
+G	XJM	MadisonTWPMobile	Madison TWP Mobile ORI
+G	XJN	MadisonTWPORI	Madison TWP ORI
+G	XJO	MadisonTWPTAC	TAC Config group
+G	XJP	MadisonTWPWW	Madison TWP WW Users
+G	XJV	MadisonTWPQueryonly	Madison TWPQuery Only config
+G	XW[	MorenciORI	MO ORI
+G	XW\	MorenciTAC	MO TAC Config group
+G	XW]	MorenciQueryCCH	Query/CCH config
+G	XW^	MorenciWW	MO WW Users
+G	XWJ	MorenciMOBILE	MO Mobile ORI
+G	XWY	MorenciDesktop	MO Desktop ORI

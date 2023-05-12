@@ -1,0 +1,4 @@
+~<BLANK>
+F - Felony
+M - Misdemeanor
+O - Ordinance

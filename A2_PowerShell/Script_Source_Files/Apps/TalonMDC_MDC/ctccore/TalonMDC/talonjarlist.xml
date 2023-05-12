@@ -1,0 +1,20 @@
+<MBUpdates>
+	TrackHistory="False" 
+
+	<Directory MBDir="CTCApps/Talonjars" LocalSubDir="lib">
+		<File Name="talon.jar"/>
+	</Directory>
+
+	<Directory MBDir="CTCApps/Talonjars/3rdPartyJars" LocalSubDir="lib/3rdPartyJars">
+		<File Name="ALL_SERVER_FILES" ListFilter ="*.jar"/>
+	</Directory>
+
+	<Directory MBDir="CTCApps/Talonjars/ServicesClientJars" LocalSubDir="lib/ServicesClientJars">
+		<File Name="ALL_SERVER_FILES" ListFilter ="*.jar"/>
+	</Directory>
+
+	<Directory MBDir="CTCApps/Talonjars/TalonAuthenticationMatrixJars" LocalSubDir="lib/TalonAuthenticationMatrixJars">
+		<File Name="ALL_SERVER_FILES" ListFilter ="*.jar"/>
+	</Directory>
+
+</MBUpdates>

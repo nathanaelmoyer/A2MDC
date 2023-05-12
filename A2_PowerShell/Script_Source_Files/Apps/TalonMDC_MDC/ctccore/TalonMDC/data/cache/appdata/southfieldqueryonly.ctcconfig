@@ -1,0 +1,31 @@
+[General]
+LEINAllowed=True
+ModifyServer=False
+Reconnect=False
+BrowserImage=
+ShowCopyright=false
+TopEnvNumber=2
+LEINLogAgeLimit=14
+LEINUserMsgLimit=200
+InActTimeout=120
+EnvForms=LNFREE,LNMULTIUSE,LNTRAFF,LNACC,LNADMMES,LNARTICL,LNBOAT,LNBREATH,LNCANADIAN,LNCONCEALED,LNCRIMHS,LNGUNS,LNLOCATE,LNMSPRSN,LNORILK,LNPERSON,LNPPO,LNPROBATION,LNSEC,LNSEXOFF,LNUNIDP,LNVEHICL,LNVGTOF,LNWARRNT,LNLOCALFORMS,LNUSERFORMS
+EnvSubForms=LNADMMES_Admin Message In-State,LNADMMES_Admin Message Out-of-State,LNADMMES_CH Request (AQ),LNADMMES_CH Respond (AR),LNARTICL_Query Article,LNARTICL_Query Multiple Articles,LNBOAT_Query Boat,LNBOAT_Query Part,LNBREATH_OUIL/OUID Law Entry Form,LNBREATH_F BREATHHELP,LNBREATH_F BREATHHELP2,LNBREATH_Instrument Total/Summary,LNBREATH_Certification Total/Summary,LNBREATH_Simulator Total/Summary,LNBREATH_Simulator Data,LNCANADIAN_Articles,LNCANADIAN_Boats,LNCANADIAN_Guns,LNCANADIAN_Persons, Wanted/Missing,LNCANADIAN_Persons, Driver's License Status,LNCANADIAN_Securities,LNCANADIAN_Vehicles, Wanted,LNCANADIAN_Vehicle by Registration,LNCANADIAN_Help Forms,LNCONCEALED_Query Permit,LNCRIMHS_Criminal History,LNGUNS_Query Gun (Stolen/Recovered/Lost),LNGUNS_Query Mutiple Guns,LNGUNS_Query by Name,LNLOCATE_No-Hit File Inquiry (QHIT),LNMSPRSN_Query by Physical Descriptors,LNORILK_Query Aircraft Registration,LNORILK_Query Hazardous Material,LNORILK_Query Help Agency Telephone Numbers,LNORILK_Query MCL,LNORILK_Query NCIC Date of Entry,LNORILK_Query ORI Look-Up,LNORILK_Query Roads & Weather,LNORILK_Query SID Check Character,LNORILK_Query LEIN Warrant/Missing Person/Vehicle Files,LNORILK_Recall Messages,LNORILK_Request Form,LNPERSON_Query Person,LNPERSON_Query Multiple Persons,LNPERSON_Query Op License By Address,LNPERSON_Query Op License By License Number,LNPERSON_Query Multiple Operator Licenses,LNPERSON_Query Multiple SYSID Numbers,LNPERSON_Query INS Criminal Alien,LNPPO_Query Protected Person,LNPROBATION_Query Probation,LNSEC_Query Security,LNSEXOFF_Query False Address Flag List,LNSEXOFF_Query Police Search Offender List,LNSEXOFF_Query Public Inspection Offender List,LNSEXOFF_Query Verification Lists,LNUNIDP_Query by NCIC Number,LNUNIDP_Query by Physical Description,LNUNIDP_Query by Body Parts,LNVEHICL_Query Multiple Plates/VINs,LNVEHICL_Query Vehicle,LNVEHICL_Query Vehicle Part,LNVEHICL_Query Alpha Vehicle,LNVEHICL_Query Duplicate VIN,LNVEHICL_Query Partial Plate,LNVEHICL_Query Stolen Veh Record List,LNVEHICL_Query Plate Only,LNVEHICL_Query VIN Only,LNVGTOF_Query Gang,LNVGTOF_Query Member,LNWARRNT_Query Warrant Record List,LNWARRNT_Query -Person Test (ZP)
+PreventORIChange=true
+
+
+[Env  2]
+ScrollBars=true
+TextFields=false
+KBDRows=72
+TransmitPageWhenInForms=false
+LEINPreventOperatorChange=true
+
+
+[ConnectionControl]
+
+
+[KeyAssignments]
+
+
+[FunctionButtons]
+

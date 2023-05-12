@@ -1,0 +1,80 @@
+[499C:0EBC][2021-05-20T15:26:44]i001: Burn v3.10.2.2516, Windows v10.0 (Build 19042: Service Pack 0), path: C:\Users\JBOUGH~1\AppData\Local\Temp\{18D523EF-CD0E-47D5-A84F-A29285101B33}\.cr\axon-fleet-1.14.8.exe
+[499C:0EBC][2021-05-20T15:26:44]i009: Command Line: '"-burn.clean.room=C:\Users\JBougher\OneDrive - City of Ann Arbor\Projects\PD\Win10MDC\A2_PowerShell\MDC Installs and Customizations\Apps\Axon\axon-fleet-1.14.8.exe" /install /passive /log "C:\Users\JBougher\OneDrive - City of Ann Arbor\Projects\PD\Win10MDC\A2_PowerShell\MDC Installs and Customizations\Apps\Axon\Logs\193796167.txt"'
+[499C:0EBC][2021-05-20T15:26:44]i000: Setting string variable 'WixBundleOriginalSource' to value 'C:\Users\JBougher\OneDrive - City of Ann Arbor\Projects\PD\Win10MDC\A2_PowerShell\MDC Installs and Customizations\Apps\Axon\axon-fleet-1.14.8.exe'
+[499C:0EBC][2021-05-20T15:26:44]i000: Setting string variable 'WixBundleOriginalSourceFolder' to value 'C:\Users\JBougher\OneDrive - City of Ann Arbor\Projects\PD\Win10MDC\A2_PowerShell\MDC Installs and Customizations\Apps\Axon\'
+[499C:0EBC][2021-05-20T15:26:44]i000: Setting string variable 'WixBundleLog' to value 'C:\Users\JBougher\OneDrive - City of Ann Arbor\Projects\PD\Win10MDC\A2_PowerShell\MDC Installs and Customizations\Apps\Axon\Logs\193796167.txt'
+[499C:0EBC][2021-05-20T15:26:44]i000: Setting string variable 'WixBundleName' to value 'Axon View XL 1.14.8'
+[499C:0EBC][2021-05-20T15:26:44]i000: Setting string variable 'WixBundleManufacturer' to value 'Axon Enterprise'
+[499C:4B58][2021-05-20T15:26:44]i000: Setting numeric variable 'WixStdBALanguageId' to value 1033
+[499C:4B58][2021-05-20T15:26:44]i000: Setting version variable 'WixBundleFileVersion' to value '1.14.8.0'
+[499C:0EBC][2021-05-20T15:26:44]i100: Detect begin, 4 packages
+[499C:0EBC][2021-05-20T15:26:44]w120: Detected partially cached package: axon_ble_x86.msi, invalid payload: axon_ble_x86.msi, reason: 0x80070002
+[499C:0EBC][2021-05-20T15:26:44]i101: Detected package: Mkdir, state: Absent, cached: None
+[499C:0EBC][2021-05-20T15:26:44]i101: Detected package: axon_ble_x64.msi, state: Present, cached: Complete
+[499C:0EBC][2021-05-20T15:26:44]i101: Detected package: axon_ble_x86.msi, state: Present, cached: Partial
+[499C:0EBC][2021-05-20T15:26:44]i101: Detected package: axon_fleet.msi, state: Absent, cached: None
+[499C:0EBC][2021-05-20T15:26:44]i199: Detect complete, result: 0x0
+[499C:0EBC][2021-05-20T15:26:44]i200: Plan begin, 4 packages, action: Install
+[499C:0EBC][2021-05-20T15:26:44]i052: Condition 'VersionNT64' evaluates to true.
+[499C:0EBC][2021-05-20T15:26:44]w321: Skipping dependency registration on package with no dependency providers: Mkdir
+[499C:0EBC][2021-05-20T15:26:44]i000: Setting string variable 'WixBundleLog_Mkdir' to value 'C:\Users\JBougher\OneDrive - City of Ann Arbor\Projects\PD\Win10MDC\A2_PowerShell\MDC Installs and Customizations\Apps\Axon\Logs\193796167_000_Mkdir.txt'
+[499C:0EBC][2021-05-20T15:26:44]i000: Setting string variable 'WixBundleRollbackLog_Mkdir' to value 'C:\Users\JBougher\OneDrive - City of Ann Arbor\Projects\PD\Win10MDC\A2_PowerShell\MDC Installs and Customizations\Apps\Axon\Logs\193796167_000_Mkdir_rollback.txt'
+[499C:0EBC][2021-05-20T15:26:44]i052: Condition 'VersionNT64' evaluates to true.
+[499C:0EBC][2021-05-20T15:26:44]i052: Condition 'NOT VersionNT64' evaluates to false.
+[499C:0EBC][2021-05-20T15:26:44]i000: Setting string variable 'WixBundleRollbackLog_axon_fleet.msi' to value 'C:\Users\JBougher\OneDrive - City of Ann Arbor\Projects\PD\Win10MDC\A2_PowerShell\MDC Installs and Customizations\Apps\Axon\Logs\193796167_001_axon_fleet.msi_rollback.txt'
+[499C:0EBC][2021-05-20T15:26:44]i000: Setting string variable 'WixBundleLog_axon_fleet.msi' to value 'C:\Users\JBougher\OneDrive - City of Ann Arbor\Projects\PD\Win10MDC\A2_PowerShell\MDC Installs and Customizations\Apps\Axon\Logs\193796167_001_axon_fleet.msi.txt'
+[499C:0EBC][2021-05-20T15:26:44]i201: Planned package: Mkdir, state: Absent, default requested: Present, ba requested: Present, execute: Install, rollback: Uninstall, cache: Yes, uncache: No, dependency: None
+[499C:0EBC][2021-05-20T15:26:44]i201: Planned package: axon_ble_x64.msi, state: Present, default requested: Present, ba requested: Present, execute: None, rollback: None, cache: No, uncache: No, dependency: Register
+[499C:0EBC][2021-05-20T15:26:44]i201: Planned package: axon_ble_x86.msi, state: Present, default requested: Absent, ba requested: Absent, execute: None, rollback: None, cache: No, uncache: No, dependency: None
+[499C:0EBC][2021-05-20T15:26:44]i201: Planned package: axon_fleet.msi, state: Absent, default requested: Present, ba requested: Present, execute: Install, rollback: Uninstall, cache: Yes, uncache: No, dependency: Register
+[499C:0EBC][2021-05-20T15:26:44]i299: Plan complete, result: 0x0
+[499C:0EBC][2021-05-20T15:26:44]i300: Apply begin
+[499C:0EBC][2021-05-20T15:26:44]i010: Launching elevated engine process.
+[499C:0EBC][2021-05-20T15:26:45]i011: Launched elevated engine process.
+[499C:0EBC][2021-05-20T15:26:45]i012: Connected to elevated engine.
+[5F64:60BC][2021-05-20T15:26:45]i358: Pausing automatic updates.
+[5F64:60BC][2021-05-20T15:26:45]i359: Paused automatic updates.
+[5F64:60BC][2021-05-20T15:26:45]i360: Creating a system restore point.
+[5F64:60BC][2021-05-20T15:26:45]w363: Could not create system restore point, error: 0x800704ec. Continuing...
+[5F64:60BC][2021-05-20T15:26:45]i370: Session begin, registration key: SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{0cb6e11a-1972-4111-a1d8-b4687b300f0b}, options: 0x7, disable resume: No
+[5F64:60BC][2021-05-20T15:26:45]i000: Caching bundle from: 'C:\Users\JBOUGH~1\AppData\Local\Temp\{A86BCB55-8BCD-43F1-805B-6AE7208FA1F4}\.be\axon-fleet.exe' to: 'C:\ProgramData\Package Cache\{0cb6e11a-1972-4111-a1d8-b4687b300f0b}\axon-fleet.exe'
+[5F64:60BC][2021-05-20T15:26:46]i320: Registering bundle dependency provider: {0cb6e11a-1972-4111-a1d8-b4687b300f0b}, version: 1.14.8.0
+[5F64:60BC][2021-05-20T15:26:46]i371: Updating session, registration key: SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{0cb6e11a-1972-4111-a1d8-b4687b300f0b}, resume: Active, restart initiated: No, disable resume: No
+[499C:6180][2021-05-20T15:26:46]i336: Acquiring container: WixAttachedContainer, copy from: C:\Users\JBougher\OneDrive - City of Ann Arbor\Projects\PD\Win10MDC\A2_PowerShell\MDC Installs and Customizations\Apps\Axon\axon-fleet-1.14.8.exe
+[499C:6180][2021-05-20T15:26:46]i000: Setting string variable 'WixBundleLastUsedSource' to value 'C:\Users\JBougher\OneDrive - City of Ann Arbor\Projects\PD\Win10MDC\A2_PowerShell\MDC Installs and Customizations\Apps\Axon\'
+[5F64:6024][2021-05-20T15:26:46]i305: Verified acquired payload: Mkdir at path: C:\ProgramData\Package Cache\.unverified\Mkdir, moving to: C:\ProgramData\Package Cache\46B34B18BDD927F22F9367FE80149509CF10A4C1\mkdir.bat.
+[5F64:6024][2021-05-20T15:26:47]i305: Verified acquired payload: axon_fleet.msi at path: C:\ProgramData\Package Cache\.unverified\axon_fleet.msi, moving to: C:\ProgramData\Package Cache\{5B337B7A-FC91-4134-8ABD-4FEAF6E99B97}v1.14.8\axon-fleet.msi.
+[5F64:60BC][2021-05-20T15:26:47]i301: Applying execute package: Mkdir, action: Install, path: C:\ProgramData\Package Cache\46B34B18BDD927F22F9367FE80149509CF10A4C1\mkdir.bat, arguments: '"C:\ProgramData\Package Cache\46B34B18BDD927F22F9367FE80149509CF10A4C1\mkdir.bat"'
+[499C:0EBC][2021-05-20T15:26:47]i319: Applied execute package: Mkdir, result: 0x0, restart: None
+[5F64:60BC][2021-05-20T15:26:47]i323: Registering package dependency provider: {5EB4529D-3A35-4C60-A8B4-3CAA078F472A}, version: 1.0.0, package: axon_ble_x64.msi
+[5F64:60BC][2021-05-20T15:26:47]i325: Registering dependency: {0cb6e11a-1972-4111-a1d8-b4687b300f0b} on package provider: {5EB4529D-3A35-4C60-A8B4-3CAA078F472A}, package: axon_ble_x64.msi
+[5F64:60BC][2021-05-20T15:26:47]i323: Registering package dependency provider: {5B337B7A-FC91-4134-8ABD-4FEAF6E99B97}, version: 1.14.8, package: axon_fleet.msi
+[5F64:60BC][2021-05-20T15:26:47]i301: Applying execute package: axon_fleet.msi, action: Install, path: C:\ProgramData\Package Cache\{5B337B7A-FC91-4134-8ABD-4FEAF6E99B97}v1.14.8\axon-fleet.msi, arguments: ' ARPSYSTEMCOMPONENT="1" MSIFASTINSTALL="7"'
+[499C:0EBC][2021-05-20T15:26:58]i319: Applied execute package: axon_fleet.msi, result: 0x0, restart: None
+[5F64:60BC][2021-05-20T15:26:58]i325: Registering dependency: {0cb6e11a-1972-4111-a1d8-b4687b300f0b} on package provider: {5B337B7A-FC91-4134-8ABD-4FEAF6E99B97}, package: axon_fleet.msi
+[5F64:60BC][2021-05-20T15:26:58]i372: Session end, registration key: SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{0cb6e11a-1972-4111-a1d8-b4687b300f0b}, resume: ARP, restart: None, disable resume: No
+[5F64:60BC][2021-05-20T15:26:58]i371: Updating session, registration key: SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{0cb6e11a-1972-4111-a1d8-b4687b300f0b}, resume: ARP, restart initiated: No, disable resume: No
+[499C:0EBC][2021-05-20T15:26:58]i399: Apply complete, result: 0x0, restart: None, ba requested restart:  No
+[499C:0EBC][2021-05-20T15:26:58]i500: Shutting down, exit code: 0x0
+[499C:0EBC][2021-05-20T15:26:58]i410: Variable: VersionNT64 = 10.0.0.0
+[499C:0EBC][2021-05-20T15:26:58]i410: Variable: WixBundleAction = 5
+[499C:0EBC][2021-05-20T15:26:58]i410: Variable: WixBundleElevated = 1
+[499C:0EBC][2021-05-20T15:26:58]i410: Variable: WixBundleFileVersion = 1.14.8.0
+[499C:0EBC][2021-05-20T15:26:58]i410: Variable: WixBundleInstalled = 0
+[499C:0EBC][2021-05-20T15:26:58]i410: Variable: WixBundleLastUsedSource = C:\Users\JBougher\OneDrive - City of Ann Arbor\Projects\PD\Win10MDC\A2_PowerShell\MDC Installs and Customizations\Apps\Axon\
+[499C:0EBC][2021-05-20T15:26:58]i410: Variable: WixBundleLog = C:\Users\JBougher\OneDrive - City of Ann Arbor\Projects\PD\Win10MDC\A2_PowerShell\MDC Installs and Customizations\Apps\Axon\Logs\193796167.txt
+[499C:0EBC][2021-05-20T15:26:58]i410: Variable: WixBundleLog_axon_fleet.msi = C:\Users\JBougher\OneDrive - City of Ann Arbor\Projects\PD\Win10MDC\A2_PowerShell\MDC Installs and Customizations\Apps\Axon\Logs\193796167_001_axon_fleet.msi.txt
+[499C:0EBC][2021-05-20T15:26:58]i410: Variable: WixBundleLog_Mkdir = C:\Users\JBougher\OneDrive - City of Ann Arbor\Projects\PD\Win10MDC\A2_PowerShell\MDC Installs and Customizations\Apps\Axon\Logs\193796167_000_Mkdir.txt
+[499C:0EBC][2021-05-20T15:26:58]i410: Variable: WixBundleManufacturer = Axon Enterprise
+[499C:0EBC][2021-05-20T15:26:58]i410: Variable: WixBundleName = Axon View XL 1.14.8
+[499C:0EBC][2021-05-20T15:26:58]i410: Variable: WixBundleOriginalSource = C:\Users\JBougher\OneDrive - City of Ann Arbor\Projects\PD\Win10MDC\A2_PowerShell\MDC Installs and Customizations\Apps\Axon\axon-fleet-1.14.8.exe
+[499C:0EBC][2021-05-20T15:26:58]i410: Variable: WixBundleOriginalSourceFolder = C:\Users\JBougher\OneDrive - City of Ann Arbor\Projects\PD\Win10MDC\A2_PowerShell\MDC Installs and Customizations\Apps\Axon\
+[499C:0EBC][2021-05-20T15:26:58]i410: Variable: WixBundleProviderKey = {0cb6e11a-1972-4111-a1d8-b4687b300f0b}
+[499C:0EBC][2021-05-20T15:26:58]i410: Variable: WixBundleRollbackLog_axon_fleet.msi = C:\Users\JBougher\OneDrive - City of Ann Arbor\Projects\PD\Win10MDC\A2_PowerShell\MDC Installs and Customizations\Apps\Axon\Logs\193796167_001_axon_fleet.msi_rollback.txt
+[499C:0EBC][2021-05-20T15:26:58]i410: Variable: WixBundleRollbackLog_Mkdir = C:\Users\JBougher\OneDrive - City of Ann Arbor\Projects\PD\Win10MDC\A2_PowerShell\MDC Installs and Customizations\Apps\Axon\Logs\193796167_000_Mkdir_rollback.txt
+[499C:0EBC][2021-05-20T15:26:58]i410: Variable: WixBundleSourceProcessFolder = C:\Users\JBougher\OneDrive - City of Ann Arbor\Projects\PD\Win10MDC\A2_PowerShell\MDC Installs and Customizations\Apps\Axon\
+[499C:0EBC][2021-05-20T15:26:58]i410: Variable: WixBundleSourceProcessPath = C:\Users\JBougher\OneDrive - City of Ann Arbor\Projects\PD\Win10MDC\A2_PowerShell\MDC Installs and Customizations\Apps\Axon\axon-fleet-1.14.8.exe
+[499C:0EBC][2021-05-20T15:26:58]i410: Variable: WixBundleTag = 
+[499C:0EBC][2021-05-20T15:26:58]i410: Variable: WixBundleVersion = 1.14.8.0
+[499C:0EBC][2021-05-20T15:26:58]i410: Variable: WixStdBALanguageId = 1033
+[499C:0EBC][2021-05-20T15:26:59]i007: Exit code: 0x0, restarting: No

@@ -1,0 +1,57 @@
+-----Original Message-----
+From: ieSpell Support [mailto:support@iespell.com]
+Sent: Tuesday, January 24, 2012 8:55 AM
+To: krywkoc@oakgov.com
+Subject: ieSpell License Key (INV12010001)
+
+Hi Information Technology,
+
+Thank you for purchasing ieSpell! Please find attached, your personalized
+registration key. To import into ieSpell, please follow the steps below:
+
+1) Save the attached file (ieSpell.lic) into a temporary location on your
+hard drive. (NOTE: It is advised that you save this file in a safe location
+as it contains your registration information.)
+
+2) Goto "ieSpell Options" and click on "Enter License..."
+
+3) Using the file chooser dialog, select the key file (ieSpell.lic)
+
+4) That's it!
+
+
+If you need to automate the roll out of ieSpell, you may use the command
+line syntax below (this command will install ieSpell silently and register
+the product)
+
+<install filename> /S /K=[Path to license key file]
+
+E.g. if your install file and license file are both in C:\temp, then your
+command will look like this:
+
+C:\temp>ieSpellSetup.exe /S /K=C:\temp\ieSpell.lic
+
+To know more about the command line options available, specify the /?
+Switch.
+
+If you are unable to see/save the attachment, please create a new text file
+called "ieSpell.lic" and save the following information into the file.
+
+-------------> CUT HERE <----------------------
+-----BEGIN LICENSE-----
+ID: INV12010001
+User: Information Technology
+Email: krywkoc@oakgov.com
+Company: Oakland County
+Version: 2.0
+License Type: Commercial (Corporate)
+
+-----BEGIN DATA-----
+1CC16A1F9B3501A5EE8F91323B4A1A57F4D9C60
+33F641E284999950953358736C36A940BF74885
+B67E14B5B6676BB64B4AAB577F832A3AD1857F7
+82D8521F7934988E13B69733E9D3F2D9B4A1B8E
+F57AFDE52BF2420BFCDBEBC94F6EDF9D6FB533D
+26EB947
+-----END DATA-----
+-----END LICENSE-----

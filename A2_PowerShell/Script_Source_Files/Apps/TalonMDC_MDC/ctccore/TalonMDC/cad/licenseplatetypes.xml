@@ -1,0 +1,48 @@
+<Values>
+  <Value Display="Aircraft (Civil Non-Passenger)" Value="NP"/>
+  <Value Display="Aircraft (Civil Passenger)" Value="PP"/>
+  <Value Display="Amateur Radio Operator" Value="AR"/>
+  <Value Display="Antique (Historic)" Value="AQ"/>
+  <Value Display="Apportioned Truck(5year plate)" Value="AP"/>
+  <Value Display="City Owned (Municipal)" Value="CI"/>
+  <Value Display="Civic Event" Value="ZZ"/>
+  <Value Display="Combat Wounded Veteran" Value="VF"/>
+  <Value Display="Commercial / Truck" Value="CO"/>
+  <Value Display="Congressional Medal of Honor" Value="VF"/>
+  <Value Display="County Sheriff" Value="CU"/>
+  <Value Display="County/Township Owned" Value="CU"/>
+  <Value Display="Dealer, Automobile" Value="DL"/>
+  <Value Display="Dealer, Moped" Value="MP"/>
+  <Value Display="Dealer, Motorcycle" Value="MD"/>
+  <Value Display="Dealer, Snowmobile" Value="ZZ"/>
+  <Value Display="Disabled Veteran" Value="DV"/>
+  <Value Display="Farm Vehicles used On-Road" Value="FM"/>
+  <Value Display="Fire Fighters" Value="FD"/>
+  <Value Display="Handicapper" Value="DX"/>
+  <Value Display="In Transit" Value="TM"/>
+  <Value Display="In Transit Repair" Value="IT"/>
+  <Value Display="Manufacturer" Value="MF"/>
+  <Value Display="Moped Decal" Value="MP"/>
+  <Value Display="Motor Carrier Division, MSP" Value="SC"/>
+  <Value Display="Motorcycle" Value="MC"/>
+  <Value Display="National Guard" Value="NG"/>
+  <Value Display="Non-Profit Organization" Value="ZZ"/>
+  <Value Display="Organizations" Value="ZZ"/>
+  <Value Display="Passenger Automobile" Value="PC" Default="true"/>
+  <Value Display="Pearl Harbor Survivor" Value="VF"/>
+  <Value Display="Personalized" Value="PE"/>
+  <Value Display="Prisoner of War" Value="VF"/>
+  <Value Display="Repossession" Value="ZZ"/>
+  <Value Display="School Vehicle or Bus" Value="SV"/>
+  <Value Display="Senior Citizen Center" Value="ZZ"/>
+  <Value Display="Snowmobile" Value="ZZ"/>
+  <Value Display="Special Mobile Equipment" Value="SC"/>
+  <Value Display="State Owned Equipment" Value="ST"/>
+  <Value Display="State Police" Value="ST"/>
+  <Value Display="Trailer" Value="TL"/>
+  <Value Display="Transporter" Value="TP"/>
+  <Value Display="Truck / Commercial" Value="TK"/>
+  <Value Display="US Congress" Value="US"/>
+  <Value Display="Veteran" Value="VF"/>
+  <Value Display="World War II Veteran" Value="VF"/>
+</Values>

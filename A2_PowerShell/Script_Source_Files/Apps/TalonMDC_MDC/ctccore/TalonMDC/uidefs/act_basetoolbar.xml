@@ -1,0 +1,32 @@
+<Controls>
+	<Separator/>
+	<Button ProgAttrs="ppn" ProgID="PauseBtn" ValidState="8" Image="pause.png" Label="Pause  " LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="Pause/Resume" ExecCode="23047" InitiallyEnabled="False"/>
+	<Button ProgAttrs="ppn" ValidState="8" Image="prev.png" Label="Previous" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="Previous Page of Activity" ExecCode="23048" InitiallyEnabled="False"/>
+	<Button ProgAttrs="ppn"	ValidState="8" Image="next.png" Label="Next" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="Next Page of Activity" ExecCode="23049" InitiallyEnabled="False"/>
+</Controls>
+<Events>
+	<Event ID="Activity Paused">
+		<Script>
+			var showPause = "true".equalsIgnoreCase(paused);				
+			var filename;
+			var text;
+			
+			if ( showPause )
+			{
+				filename = "pause.png";
+				text = "Pause";
+			}
+			else
+			{
+				filename = "play.png";
+				text = "Play";
+			}
+			
+			var pauseButton = ToolBar.GetComponentByProgID("PauseBtn");
+			
+			pauseButton.SetImageFilename( filename );
+			pauseButton.setText(text);
+			pauseButton.ResetImage();				
+		</Script>
+	</Event>
+</Events>

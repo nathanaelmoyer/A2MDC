@@ -1,0 +1,89 @@
+~<BLANK>
+3D - 3 Door
+AE - Aerial Platform
+AI - Air Compressor
+AM - Ambulance
+AR - Armored Truck
+AD - Asphalt Distributor
+BA - Bulk Agriculture
+BC - Brush or Wood Chipper
+BD - Bulldozer
+BG - Buggy, Concrete
+BH - Backhoe
+BK - Backhoe / Loader
+BR - Beverage Rack
+BU - Bus
+CB - Chassis & Cab
+CE - Const Eq-No Style Code
+CI - Corn Picker
+CK - Cotton Picker
+CM - Concrete Mixer
+CO - Combine, Self-Propelled
+CR - Crane
+CZ - Cotton Stripper
+DE - Detasseling Equipment
+DI - Potato Digger
+DP - Dump
+DR - Drill, Rock
+DS - Tractor Truck (Diesel)
+EX - Excavator (Digger)
+FD - Field Chopper
+FS - Fertilizer Spreader
+FT - Fire Truck
+FB - Flat Bed
+FR - Flat Rack
+FC - Floatation Chassis
+FL - Fork Lift
+GD - Grader
+GE - Generator
+GG - Garbage / Refuse
+GN - Grain
+GR - Glass Rack
+HD - Hydraulic Dump, Port.
+HL - Hay Bale Loader
+HM - Hammer
+HO - Hopper
+HV - Harvester
+HY - Hay Baler
+LD - Loader
+LF - Lift Boom (Persons)
+LG - Log
+LK - Log Skidder
+LL - Carryall (E.G. Blazer/Bronco/Jeep/Etc.)
+LS - Livestock Rack
+LW - Lunch Wagon
+MF - Farm Eq-No Style Code
+MH - Motor Home
+MO - Mower-Riding Lawn/Garden Tractor (<20HP)
+MR - Mower-Conditioner
+PK - Pickup
+PL - Pallett
+PM - Pickup w/Mounted Camper
+PR - Prime Mover (Packer)
+PV - Paver (Surfacer)
+DI - Potato Digger
+RF - Refrigerated Van
+RO - Roller
+SC - Scraper
+SH - Shovel
+SI - Striper
+SO - Snow Removal
+SS - Street Sweeper
+ST - Stake or Rack
+SY - Sprayer
+SZ - Saw
+TA - Tree Harvester
+TC - Tractor (Track Type)
+TF - Tractor (Farm/Wheels Type >20HP)
+TH - Trencher
+TN - Tank
+TR - Tractor Truck (Gas)
+TT - Tow Truck / Wrecker
+VA - Vacuum Cleaner
+VC - Van Camper
+VN - Van
+VT - Vanette
+WE - Welder
+WD - Well Driller
+WN - Windrower
+WS - Wood Splitter

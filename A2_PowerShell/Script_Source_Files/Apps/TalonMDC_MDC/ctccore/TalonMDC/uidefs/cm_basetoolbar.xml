@@ -1,0 +1,17 @@
+<Controls>
+    <Separator/>
+    <Button ProgramID="CrimeMapping"
+      ValidState="4" 
+      Image="crimemapping.png" 
+      Label="Crime Mapping" LabelVAlignment="Bottom" LabelHAlignment="Center" 
+      ToolTip="Crime Mapping">
+			<Script>
+				MC.Trace( "Crime Mapping button pressed" );
+				var sessionToken = MB.GetSessionToken();
+				MC.Trace( "sessionToken:" + sessionToken );
+				var url          = MC.GetSys().GetParameter( "CrimeMappingURL", "http://localhost:29080/TalonCM" );
+				//BASUTIL.StartFile( url + "?token=" + sessionToken, "", MC );
+				Helper.StartDlgBrowser( url + "?token=" + sessionToken + "&usefxhelper=true", false, false, true );
+			</Script>
+    </Button>    		
+</Controls>

@@ -1,0 +1,9 @@
+~<BLANK>
+0 - Will not pickup
+1 - Will within 25 miles       
+2 - Will within 50 miles       
+3 - Will within 100 miles        
+4 - Will in lower peninsula       
+5 - Will in upper peninsula       
+6 - Will statewide
+7 - Will pickup within city limits 

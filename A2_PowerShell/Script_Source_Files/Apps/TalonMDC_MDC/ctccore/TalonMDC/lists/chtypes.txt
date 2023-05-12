@@ -1,0 +1,4 @@
+~QHW - Query MI CHR/NCIC III & Wanted Person
+QH - Query MI CHR/NCIC III
+QR - Query MI CHR/NCIC III by SID/FBI
+

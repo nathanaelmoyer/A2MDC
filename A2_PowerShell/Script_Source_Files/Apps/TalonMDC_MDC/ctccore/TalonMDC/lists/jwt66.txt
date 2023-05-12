@@ -1,0 +1,20 @@
+~<BLANK>
+AB - Ankle Bracelet
+BK - Backpack
+BB - Belt Buckle
+BP - Broach or Pin
+CL - Cigarette Lighter & Holders
+CO - Comb
+CU - Cuff Links
+ER - Earrings
+KC - Key Chains
+MC - Money Clip
+NE - Necklace
+PK - Pocket Knife
+PC - Pocket Watch Chain
+RI - Ring
+TC - Tie Chain, Clasp, or Track
+WP - Wallet or Purse
+WA - Watch
+WB - Wrist Bracelets
+

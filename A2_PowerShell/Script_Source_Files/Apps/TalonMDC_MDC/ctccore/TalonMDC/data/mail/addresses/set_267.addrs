@@ -1,0 +1,10 @@
+509
+G	MAW	RosevilleEntry	entry config	
+G	MAX	RosevilleQuery/CCH	Query/CCH config	
+G	MAY	RosevilleQueryOnly	Roseville Query Only config	
+G	MAZ	RosevilleTAC	TAC Config group	
+G	MA[	RosevilleProsEdit	pros/mparr group	
+U	MBR	AAMONROED	DAVE MONROE  #50000 DB	
+G	MBT	ClintonTwpTAC	TAC Config group	
+G	MBU	ClintonTwpQuery/CCHNOMESSAGES	config group	
+G	MBV	ClintonTwpQueryOnly	Query Only config	

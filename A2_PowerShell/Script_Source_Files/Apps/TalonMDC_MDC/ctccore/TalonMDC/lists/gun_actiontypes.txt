@@ -1,0 +1,2 @@
+QUERY - Query Gun
+ENTER_STOLEN - Enter Stolen Gun

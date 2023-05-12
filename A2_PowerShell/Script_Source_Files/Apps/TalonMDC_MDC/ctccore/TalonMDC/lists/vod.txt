@@ -1,0 +1,8 @@
+~<BLANK>
+A - GANICBAOO INTEREST (Atlanta, Georgia)
+C - ILNICBCOO INTEREST (Chicago, Illinois)
+D - TXNICBDOO INTEREST (Dallas, Texas)
+N - NYNICBNOO INTEREST (New York, New York)
+S - CANICBSOO INTEREST (San Francisco, California)
+
+

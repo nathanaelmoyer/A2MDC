@@ -1,0 +1,24 @@
+<NavButtons>
+<!--
+Defines the buttons which appear in the left hand panel
+on the 'CAD reports' view.
+
+-->
+	<Label Label="Reports" 			PreceedingNextLinePixels="0"/>
+	<Button Label="Unit Log" 		Form="reportunitlog.xml"/>
+	<Button Label="Current Incident"	Form="reportcurrentincident.xml"/>
+	<Button Label="Unit Status" 		Form="reportunitstatus.xml"/>
+	<Button Label="Incident Recall" 	Form="reportincidentrecall.xml"/>
+	<Button Label="Incident" 		Form="reportqueryincident.xml"/>
+	<!-- CAD Status Change Dialog-->
+    <!--
+	<Label Label="CAD Tasks" 			PreceedingNextLinePixels="15"/>
+	<Button Label="Status Change" 		Form="cadunitstatus.xml"/>
+    -->
+	<!-- LEIN Form Buttons -->
+	<Label Label="LEIN Tasks" 			PreceedingNextLinePixels="15"/>
+	<Button Label="SF7 Traffic Form" 			LEForm="Traffic Stop" JContFormat="FULL_WIDTH"/>
+	<Button Label="SF8 Person" 			LEForm="Person Inquiry_Query Person" JContFormat="FULL_WIDTH"/>
+	<Button Label="SF9 OLN" 		LEForm="Person Inquiry_Query Op License By License Number" JContFormat="FULL_WIDTH"/>
+	<Button Label="SF10 Plate" 		LEForm="Vehicles_Query Plate Only" JContFormat="FULL_WIDTH"/>
+</NavButtons>

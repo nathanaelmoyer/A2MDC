@@ -1,0 +1,7 @@
+~<BLANK>
+F - Fraud (includes counterfeit documents)
+H - Humanitarian
+N - Narcotics
+S - Theft
+T - Traffic Violations
+V - Violent crimes (includes robbery,  murder, rape, bombing, etc.)

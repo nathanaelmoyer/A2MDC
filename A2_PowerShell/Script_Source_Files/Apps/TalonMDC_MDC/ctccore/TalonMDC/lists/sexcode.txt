@@ -1,0 +1,6 @@
+|{Blank}
+F - Female
+M - Male
+G - Female to a male
+N - Male to a female
+U - Unknown

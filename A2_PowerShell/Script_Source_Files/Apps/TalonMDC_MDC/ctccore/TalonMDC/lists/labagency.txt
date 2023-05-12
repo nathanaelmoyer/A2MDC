@@ -1,0 +1,2130 @@
+~<BLANK>
+3329 - 127TH S.P.-SELFRIDGE
+3330 - 12th District Court Probation
+110118 - 38th District Court
+3331 - Accident Fund of Michigan
+14509947 - ACTION
+3332 - Ada Township Fire Department
+3333 - Addison Fire Department
+9008 - Addison Police Dept.
+3334 - Adrian City Fire Department
+3335 - Adrian Police Department
+4326 - Adrian Post
+3336 - Adrian Township Fire Department
+3337 - Adrian Township Police Department
+3338 - Akron Police Department
+3339 - Alamo Township Fire Department
+3340 - Alanson Littlefield Fire Department
+3341 - Alanson Police Department
+3342 - Alba Fire Department
+3343 - Albert Township Fire Department
+3344 - Albion Department of Public Safety
+110011 - Alcona County Prosecuting Attorney
+3347 - Alcona County Sheriff Department
+3346 - Alcona Medical Examiner
+3348 - Alcona Township Fire Department
+509937 - Alger County Medical Examiner
+110012 - Alger County Prosecuting Attorney
+3349 - Alger County Sheriff Department
+3350 - Algoma Township Fire Department
+3351 - Algonac Fire Department
+3352 - Algonac Police Department
+509938 - Allegan County Medical Examiner
+110013 - Allegan County Prosecuting Attorney
+3353 - Allegan County Sheriff Department
+3354 - Allegan Fire Department
+3355 - Allegan Police Department
+3356 - Allen Park Fire Department
+3357 - Allen Park Police Department
+3358 - Allen Township Fire Department
+3359 - Allendale Fire Department
+3360 - Alma Fire Department
+3361 - Alma Police Department
+3362 - Almira Township Fire Department
+3364 - Almont Police Department
+3365 - Alpena County Medical Examiner
+110014 - Alpena County Prosecuting Attorney
+3366 - Alpena County Sheriff Department
+3367 - Alpena Fire Department
+3368 - Alpena Police Department
+4329 - Alpena Post
+3369 - Alpena Regional Med. Center
+3370 - Alpena Township Fire Department
+3371 - Alpine Township Fire Department
+3372 - Alticor, Inc.
+3373 - Alto-Bowne Township Fire Department
+3374 - Alverno Fire Department
+3375 - Amble Fire Department
+3376 - Ann Arbor Fire Department
+3377 - Ann Arbor Police Department
+3378 - Ann Arbor Township Fire Department
+3379 - Antrim County Medical Examiner
+3380 - Antrim County Prosecutor
+3381 - Antrim County Sheriff Department
+3382 - Applegate Fire Department
+3383 - Arcadia Township Fire Department
+3384 - Arcadia Township Fire Department
+3385 - Arenac County Medical Examiner
+110015 - Arenac County Prosecuting Attorney
+3386 - Arenac County Sheriff Department
+3387 - Argentine Township Police Department
+3388 - Argyle Township Fire Department
+3389 - Armada Police Department
+3390 - Ash Township Fire Department
+3391 - Ashland Grant Fire Department
+3392 - Ashley Volunteer Fire Department
+4985 - ATF Ann Arbor
+4986 - ATF Detroit
+109976 - ATF East Lansing
+4987 - ATF Flint
+4988 - ATF Grand Rapids
+4990 - ATF Marquette
+4989 - ATF Troy
+3393 - Athens Township Fire Department
+3394 - Atlas Township Fire Department
+3395 - Attica Township Fire Department
+3396 - Attorney Grievance Commission
+3397 - Au Gres-Sims Police Department
+3398 - Auburn Fire Department
+3399 - Auburn Hills Fire Department
+3400 - Auburn Hills Police Department
+3401 - Auburn Police Department
+3402 - Augusta Fire Department
+3403 - Augusta Police Department
+3404 - Augusta Township Fire Department
+3405 - Bad Axe Police Department
+4332 - Bad Axe Post
+3406 - Baker College Campus Safety
+110097 - Baldwin Detachment
+3407 - Baldwin Fire Department
+3408 - Bancroft Police Department
+3409 - Bangor Police Department
+509933 - Bangor Township Fire Department
+3410 - Banks Township Fire Department
+11995 - Baraga County Medical Examiner        
+110016 - Baraga County Prosecuting Attorney
+3411 - Baraga County Sheriff Department
+3412 - Baraga Maximum Prison
+3413 - Baraga Police Department
+3414 - Baroda Fire Department
+3415 - Baroda-Lake Township Police Department
+3416 - Barry County Medical Examiner
+110017 - Barry County Prosecuting Attorney
+3417 - Barry County Sheriff Department
+3418 - Barry Prarieville Hope Fire Department
+3419 - Barry Township Police Department
+3420 - Barryton Fire Department
+509958 - Barryton Police Department
+3421 - Bath Township Fire Department
+3422 - Bath Township Police Department
+3423 - Battle Creek Air National Guard
+3424 - Battle Creek Fire Department
+3425 - Battle Creek Police Department
+4333 - Battle Creek Post
+3426 - Bay City Fire Department
+3427 - Bay City Police Department
+4336 - Bay City Post
+3428 - Bay County Medical Examiner
+110018 - Bay County Prosecuting Attorney
+3429 - Bay County Sheriff Department
+3430 - Bay Gang Task Force
+3432 - Bay Mills Police Department
+3433 - Bay Mills Volunteer Fire Department
+4337 - BAYANET
+3434 - Bear Lake Fire Department
+3435 - Bear Lake Township Fire Department
+3436 - Beaver Creek Fire Department
+3437 - Beaver Township Fire Department
+3438 - Beaverton Area Fire Department
+3439 - Beaverton Police Department
+3440 - Bedford Township Fire Department
+3441 - Bedford Township Fire Department 1
+3442 - Beecher Fire Department
+3443 - Belding Fire Department
+3444 - Belding Police Department
+3445 - Bellaire Police Department
+3446 - Belleville Fire Department
+3447 - Belleville Police Department
+3448 - Bellevue Community Fire Department
+3449 - Bellevue Police Department
+3450 - Belvidere Township Fire Department
+3451 - Belvidere Township Police Department
+3452 - Benton Harbor Fire Department
+3453 - Benton Harbor Police Department
+3454 - Benton Township Fire Department
+3455 - Benton Township Police Department
+509939 - Benzie County Medical Examiner
+110019 - Benzie County Prosecuting Attorney
+3456 - Benzie County Sheriff Department
+3457 - Benzonia Township Fire Department
+3459 - Berkley Department of Public Safety
+3458 - Berkley Fire Department
+3460 - Berlin Orange Fire Department
+3461 - Berlin Township Fire Department
+3462 - Berrien County Forensic Laboratory
+3463 - Berrien County Medical Examiner
+3464 - Berrien County Narcotics Unit
+110021 - Berrien County Prosecuting Attorney-Benton Harbor
+110020 - Berrien County Prosecuting Attorney-Niles
+3465 - Berrien County Prosecuting Attorney-St. Joseph
+3466 - Berrien County Sheriff Department
+3467 - Berrien Springs Fire Department
+3468 - Berrien Springs/Oronoko Twp. Police Department
+3469 - Bertrand Township Fire Department
+3471 - Beverly Hills Department of Public Safety
+3473 - Big Prarie Fire Department
+3474 - Big Rapids Fire Department
+3475 - Big Rapids Police Department
+3476 - Big Rapids Township Fire Department
+3477 - Billing Township Fire Department
+3478 - Bingham Township Fire Department
+3479 - Birch Run Police Department
+3480 - Birch Run Township Fire Department
+3481 - Birmingham Fire Department
+3482 - Birmingham Police Department
+3483 - Bishop Airport Police
+3485 - Blackman Twp. Dept. of Public Safety
+3486 - Blackman Twp. Fire Department
+3484 - Blackman Twp. Fire Department
+3487 - Blissfield Police Department
+3488 - Blissfield Volunteer Fire Department
+3489 - Bloomfield Hills Public Safety Department
+3490 - Bloomfield Township Fire Department
+3491 - Bloomfield Township Police Department
+3492 - Bloomingdale Police Department
+3493 - Bloomingdale Township Fire Department
+3494 - Blue Lake Township Fire Department
+4456 - Bluewater Auto Theft
+3495 - Blumfield Township Fire Department
+3496 - Boardman Township Fire Department
+14509986 - Boise Police Department (Idaho)
+3497 - Boon Township Fire Department
+3498 - Boyne City Fire Department
+3499 - Boyne City Police Department
+3500 - Boyne Valley Fire Department
+3501 - Brady Township Police Department
+3502 - Branch County Medical Examiner
+110022 - Branch County Prosecuting Attorney
+3503 - Branch County Sheriff Department
+3504 - Branch Township Volunteer Fire Department
+3505 - Brandon Fire Department
+3506 - Breckenridge Police Department
+3507 - Breckenridge Wheeler Township Fire Dept.
+3508 - Bridgeport Fire Department
+4339 - Bridgeport Post
+3509 - Bridgeport Township Police Department
+3510 - Bridgman Fire Department
+3511 - Bridgman Police Department
+4341 - Bridgman Post
+3512 - Brighton Fire Department
+3513 - Brighton Police Department
+4343 - Brighton Post
+3514 - Brighton Township Fire Department
+3515 - Bronson Fire Department
+3516 - Bronson Police Department
+3517 - Brooks Regional Facility
+110100 - Broward County Sheriff's Office
+3518 - Brown City Fire Department
+3519 - Brown City Police Department
+3520 - Brownstown Fire Department
+3521 - Brownstown Police Department
+3522 - Bruce Township Fire Department
+3523 - Buchanan Fire Department
+3524 - Buchanan Police Department
+3525 - Buchanan Township Fire Department
+3526 - Buckley Fire Department
+3470 - Buena Vista Fire Department
+3527 - Buena Vista Twp. Police Department
+3528 - Burlington Township Fire Department
+3529 - Burlington Township Fire Department
+3530 - Burns Township Fire Department
+3531 - Burr Oak Fire Department
+3532 - Burr Oak Police Department
+3533 - Burton Police Department
+3534 - Byron Center Fire Department
+3535 - Byron Police Department
+4412 - C.H.I.E.F.
+14509976 - C.J.I.C.
+4394 - C.M.E.T.
+4423 - C.O.M.E.T.
+3536 - Cadillac Fire Department
+3537 - Cadillac Police Department
+4345 - Cadillac Post
+3538 - Calhoun County Medical Examiner
+110003 - Calhoun County Prosecutors Office
+3539 - Calhoun County Sheriff Department-Marshall Office
+14509959 - Calhoun County Sheriff Department- Battle Creek
+14509992 - Calhoun County Sheriff Department- Springfield
+3540 - Calumet Police Department
+4346 - Calumet Post
+3541 - Cambridge Township Police Department
+3542 - Camden Fire Department
+3543 - Camp Barakel Fire Department
+3544 - Camp Grayling Fire Department
+3545 - Canadian National Railway Police Department
+14509978 - Canadian Pacific Railway Police
+3546 - Cannon Township Fire Department
+3547 - Canton Township Fire Department
+3548 - Canton Township Police Department
+3549 - Capac Police Department
+509953 - Capital Post
+3550 - Capital Regional Air Authority Police Department
+3551 - Carleton Police Department
+3552 - Caro Police Department
+4348 - Caro Post
+3553 - Carp Lake Township Fire Department
+3554 - Carrollton Township Police Department
+3555 - Carson City Fire Department
+3556 - Carson City Hospital Medical Examiner
+3557 - Carson City Police Department
+3558 - Carsonville Fire Department
+3559 - Carsonville Police Department
+3560 - Cascade Fire Department
+3561 - Caseville Police Department
+7596 - Caseville Twp. Police Dept.
+3562 - Casnovia Township Fire Department
+3563 - Caspian Police Department
+3564 - Cass City Police Department
+3565 - Cass County Animal Control
+12011 - Cass County Medical Examiner
+3566 - Cass County Prosecuting Attorney's Office
+3567 - Cass County Sheriff Department
+9116 - Cassopolis Police Department
+3568 - Cassopolis Volunteer Fire Department
+3569 - Castleton Maple Grove Fire Department
+3570 - Cedar Springs Fire Department
+3571 - Cedar Springs Police Department
+3572 - Cedarville Township Fire Department
+3573 - Cement City Fire Department
+3574 - Centerline Department of Public Safety
+3575 - Centerline Police Department
+3576 - Central Lake Fire Department
+3577 - Central Lake Police Department
+3578 - Central Michigan University Police Department
+14509993 - Centreville Police Department
+3579 - Charlevoix County Medical Examiner
+110023 - Charlevoix County Prosecuting Attorney
+3580 - Charlevoix County Sheriff Department
+3581 - Charlevoix County Sheriff Department-Beaver Island Sub Station
+3582 - Charlevoix Fire Department
+3583 - Charlevoix Police Department
+3584 - Charlevoix Township Fire Department
+3585 - Charlotte Fire Department
+3586 - Charlotte Police Department
+3587 - Charlton Township Fire Department
+3588 - Cheboygan County Medical Examiner
+110024 - Cheboygan County Prosecuting Attorney
+3589 - Cheboygan County Sheriff Department
+3590 - Cheboygan Fire Department
+4349 - Cheboygan Post
+3591 - Cheboygan Public Safety
+3592 - Chelsea Fire Department
+3593 - Chelsea Police Department
+3594 - Cherry Capitol Airport Fire Department
+3595 - Cherry Grove Township Fire Department
+109932 - Chesaning Brady Fire Department
+9132 - Chesaning Police Department
+3596 - Chester Township Fire Department
+3597 - Chesterfield Fire Department
+3598 - Chesterfield Twp. Police Department
+109948 - Chicago Police Department
+3599 - Chikaming Township Police Department
+3600 - Children Protective Services
+3601 - Chippewa County Medical Examiner
+110025 - Chippewa County Prosecuting Attorney
+3602 - Chippewa County Sheriff Department
+3603 - Chippewa Martiny Fire Department
+3604 - Chocolay Township Police Department
+14509941 - CIAU-ISS
+110103 - City of Racine Police Department
+3605 - Clam Union Volunteer Fire Department
+3606 - Clare County Medical Examiner
+110026 - Clare County Prosecuting Attorney
+3607 - Clare County Sheriff Department
+3608 - Clare Fire Department
+3609 - Clare Police Department
+3610 - Clarkston Police Department
+3611 - Clarksville Fire Department
+3612 - ClarkTownship Volunteer Fire Department
+3614 - Clawson Fire Department
+3613 - Clawson Police Department
+3615 - Clay Township Fire Department
+3616 - Clay Township Police Department
+3617 - Clayton Township Police Department
+3618 - Clear Lake Fire Department
+3619 - Cleon Fire Department
+3620 - Climax Township Fire Department
+3621 - Clinton County Medical Examiner
+110027 - Clinton County Prosecuting Attorney
+3622 - Clinton County Sheriff Department
+3623 - Clinton Fire Department
+3624 - Clinton Police Department
+3625 - Clinton Township Fire Department
+3626 - Clinton Township Police Department
+3627 - Clio Police Department
+3629 - Coldwater Fire Department
+3630 - Coldwater Police Department
+4350 - Coldwater Post
+3631 - Coleman Community Fire Department
+3632 - Coleman Police Department
+3633 - Colfax Greenwood Township Fire Department
+3634 - Colfax Township Fire Department
+12709930 - Collaborative Testing Services
+12709931 - College of American Pathologists
+3635 - Coloma Township Police Department
+3636 - Colon Police Department
+3637 - Coloon Village &  Township Fire Department
+109999 - Columbia County Sheriff Department
+3638 - Columbia Township Fire Department
+3639 - Columbia Township Police Department
+110101 - Columbus Police Department
+3640 - Commerce Township Fire Department
+109935 - Computer Crimes-Lansing
+4414 - Computer Crimes-Livonia
+3641 - Concord Police Department
+3642 - Concord Pulaski Fire Department
+14509990 - Concord Township Police Department
+14509989 - Conover Police Department
+3643 - Constantine Fire Department
+3644 - Constantine Police Department
+3645 - Cooper Township Fire Department
+3646 - Coopersville Polkton Township
+3647 - Corunna Caledonia Fire Department
+3648 - Corunna Police Department
+4351 - Corunna Post
+3649 - Covert Fire Department
+3650 - Covert Township Police Department
+509940 - Crawford County Medical Examiner
+3651 - Crawford County Prosecutor
+3652 - Crawford County Sheriff Department
+3653 - CROCKERY Township Fire Department
+3654 - Croswell Fire Department
+3655 - Croswell Police Department
+3656 - CROTON Township Fire Department
+3657 - Crystal Falls Police Department
+3658 - CRYSTAL Township Fire Department
+3659 - CRYSTAL Township Fire Department
+110092 - CSC-DPD
+110115 - CSX Railroad Police
+3660 - CURRAN Volunteer Fire Department
+3661 - CURTIS Township Volunteer Fire Department
+3662 - CUSTER UNIT MASON County Fire Department
+3663 - CUTLERVILLE Fire Department
+3664 - CUTLERVILLE Fire Department
+4358 - D.I.C.E.
+4408 - D.R.A.N.O.
+509957 - D.R.A.T.T.
+3665 - DAFTER Township Fire Department
+3666 - DALTON Township Fire Department
+12509929 - Dare County Sheriff Department
+3667 - DAVISON AREA Fire Department
+3668 - Davison Police Department
+3669 - Davison Township Police Department
+5004 - DEA Detroit
+5008 - DEA East Lansing
+5005 - DEA Grand Rapids
+5006 - DEA Metro Airport
+5007 - DEA Saginaw
+3670 - Dearborn Fire Department
+3671 - Dearborn Hgts. Fire Department
+3672 - Dearborn Hgts. Police Department
+3673 - Dearborn Police Department
+3674 - Decatur Police Department
+3675 - DECATUR Volunteer Fire Department
+3676 - DECKERVILLE Fire Department
+3677 - Deckerville Police Department
+3678 - DEERFIELD Fire Department
+3679 - DEERFIELD Township Fire Department
+3680 - DELAWARE Township Fire Department
+7140 - Delta College Public Safety
+12020 - Delta County Medical Examiner
+110028 - Delta County Prosecuting Attorney
+3681 - Delta County Sheriff Department
+3682 - DELTA Township Fire Department
+3683 - Denmark Township Police Department
+3684 - DENTON Township Fire Department
+3685 - Denton Township Police Department
+3686 - Department Consumer/Industry
+3687 - Department of Army Police Department
+3688 - Department of Comm/Human Srvs.
+3689 - Department of Licensing & Reg.
+4352 - Detour Detachment
+3690 - Detour Police Department
+3691 - DETOUR Volunteer Fire Department
+3693 - Detroit Edison
+3694 - DETROIT Fire Department
+3695 - Detroit Metro Wayne County Fire Department
+4354 - Detroit Post
+14509944 - Detroit Public Schools Police Department
+3714 - DEWITT CITY Fire Department
+3715 - DeWitt Police Department
+3716 - DEWITT Township Fire Department
+3717 - Dewitt Township Police Department
+3718 - DEXTER AREA Fire Department
+509966 - Diagnostic Center for Population and Animal Health
+12023 - Dickinson Co. Medical Examiner   
+110029 - Dickinson County Prosecuting Attorney
+3719 - Dickinson County Sheriff Department
+3720 - DICKSON Township Fire Department
+14509958 - Douglas County Sheriffs Department-CO
+3721 - Douglas/Saugatuck Police Department
+3722 - DOVER HUDSON TownshipS F.D.
+3723 - DOWAGIAC Fire Department
+3724 - Dowagiac Police Department
+109991 - DPD-12th Precinct
+14509980 - DPD-1st Precinct
+14509942 - DPD-2nd Precinct
+14509991 - DPD-3rd Precinct
+109992 - DPD-Arson Investigation
+110128 - DPD-Bomb Tech
+109981 - DPD-Central District
+109997 - DPD-Central Events
+109982 - DPD-Eastern District
+109983 - DPD-Fatal Squad
+109984 - DPD-Force Investigation
+109993 - DPD-Forensic Laboratory
+110001 - DPD-Gaming
+109985 - DPD-Gang Enforcement
+110000 - DPD-General
+110005 - DPD-Harbormaster
+109986 - DPD-Headquarters
+110094 - DPD-Homicide
+109994 - DPD-Internal Affairs
+14509934 - DPD-Mounted Unit
+109987 - DPD-Northeastern District
+109988 - DPD-Northwestern District
+3712 - DPD-Precinct #9
+109996 - DPD-Sex Crimes Unit
+109989 - DPD-Southwestern District
+109995 - DPD-TMU
+109990 - DPD-Traffic Enforcement
+12053 - DPD-Training Center                              
+110116 - DPD- 10th Precinct
+14510001 - DPD- 5th Precinct
+110107 - DPD- Narcotics Section
+14509956 - DPD/MSP Major Case Unit
+3725 - DRYDEN Township Fire Department
+3726 - Dryden Township Police Department
+3727 - DSS/INSPECTOR GENERAL
+110098 - Dundee Police Department
+3728 - DUNDEE Township Fire Department
+3729 - DURAND Fire Department
+3730 - Durand Police Department
+3731 - DUTTON GAINES Township Fire Department
+3732 - E GRAND LAKE Fire Department
+3733 - East Grand Rapids D.P.S.
+3734 - EAST JORDAN Fire Department
+3735 - East Jordan Police Department
+3736 - EAST LAKE Fire Department
+3737 - East Lansing Fire Department
+3738 - East Lansing Police Department
+3739 - EAST MULLETT Fire Department
+3740 - EAST TAWAS Fire Department
+4361 - East Tawas Post
+3741 - Eastern Michigan Univ. Police Department
+3742 - Eastpointe Fire Department
+3743 - Eastpointe Police Department
+3744 - EASTWOOD Fire Department
+509941 - Eaton County Medical Examiner
+110030 - Eaton County Prosecuting Attorney
+3745 - Eaton County Sheriff Department
+3746 - Eaton Rapids Fire Department
+3747 - Eaton Rapids Police Department
+3748 - Eau Claire Fire Department
+3749 - Eau Claire Police Department
+109933 - Ecorse Fire Department
+3750 - Ecorse Police Department
+3751 - EDENVILLE Volunteer Fire Department
+3752 - Edmore Police Department
+3753 - EDWARDSBURG Fire Department
+3754 - EGELSTON Township Fire Department
+4418 - Eighth District HQ
+14510000 - El Paso County Sheriff's Department
+3755 - ELBA Township Fire Department
+3756 - ELBERTA Volunteer Fire Department
+3757 - Elk Rapids Police Department
+3758 - ELK RAPIDS Volunteer Fire Department
+3759 - ELK Township Fire Department
+3760 - ELKLAND Township Fire Department
+3761 - Elkton Police Department
+3762 - Ellsworth Police Department
+3763 - ELMIRA WARNER Fire Department
+3764 - ELSIE Fire Department
+3765 - Elsie Police Department
+4355 - Emergency Management Division
+3766 - Emmet County Medical Examiner
+110031 - Emmet County Prosecuting Attorney
+3767 - Emmet County Sheriff Department
+3768 - EMMETT Fire Department
+3769 - EMMETT Township Fire Department
+3770 - Emmett Township Police Department
+3771 - Empire Fire Department
+3772 - Erie Township Police Department
+3773 - Escanaba Department of Public Safety
+3774 - Essexville Police Department
+3775 - ESTRAL BEACH Fire Department
+3776 - Evart Police Department
+3777 - EVART Volunteer Fire Department
+3778 - EXETER Volunteer Fire Department
+3779 - FAIRFIELD Township Fire Department
+3780 - Fairgrove Police Department
+110085 - Fairhaven Twp. Police Department
+109916 - FANG
+3781 - Farmington Department of Public Safety
+3782 - Farmington Hills Fire Department
+3783 - Farmington Hills Police Department
+110095 - FBI-Denver Division
+109974 - FBI Ann Arbor
+3785 - FBI Bay City
+14509987 - FBI CJIS Division
+110084 - FBI Cleveland OH
+3787 - FBI Detroit
+3788 - FBI Flint
+3789 - FBI Grand Rapids
+3790 - FBI Kalamazoo
+7107 - FBI Lansing
+3786 - FBI Macomb County
+3791 - FBI Marquette
+3793 - FBI Oakland County
+12709933 - FBI St. Joseph
+3792 - FBI Traverse City
+110109 - FDA
+3794 - FENNVILLE Fire Department
+7651 - Fennville Police Dept.
+3795 - FENTON Fire Department
+3796 - Fenton Police Department
+3797 - FENTON Township Fire Department
+3798 - FERNDALE Fire Department
+3799 - Ferndale Police Department
+3800 - Ferris State University Police Department
+3801 - FERRY Fire Department
+3802 - FERRYSBURG Fire Department
+4334 - Fifth District Fugitive Team Battle Creek
+4438 - Fifth District Fugitive Team Paw Paw
+4440 - Fifth District HQ
+3803 - FILER Township Fire Department
+4338 - Fire Investigation Unit Bay City
+4340 - Fire Investigation Unit Bridgeport
+4342 - Fire Investigation Unit Bridgman
+4362 - Fire Investigation Unit Flint
+4476 - Fire Investigation Unit Gaylord
+4388 - Fire Investigation Unit Jackson
+4398 - Fire Investigation Unit Lansing
+4404 - Fire Investigation Unit Lapeer
+4419 - Fire Investigation Unit Negaunee
+4430 - Fire Investigation Unit Niles
+4434 - Fire Investigation Unit Northville
+4442 - Fire Investigation Unit Petoskey
+4459 - Fire Investigation Unit St. Joseph
+4465 - Fire Investigation Unit Waterford
+4467 - Fire Investigation Unit West Branch
+4470 - Fire Investigation Unit White Cloud
+1909930 - Fire Investigative Unit 6th District
+4347 - Fire Investigative Unit Caro
+4363 - Fire Investigative Unit Flint
+4367 - Fire Investigative Unit Gladwin
+4425 - Fire Investigative Unit Mt. Pleasant
+4432 - Fire Investigative Unit Niles
+4433 - Fire Investigative Unit Northville
+29917 - Fire Investigative Unit Paw Paw
+4451 - Fire Investigative Unit Saginaw
+4400 - First District HQ
+110126 - First Step
+3804 - Flat Rock Fire Department
+3805 - Flat Rock Police Department
+3806 - Flint Corrections Center
+3807 - Flint Police Department
+3808 - Flint Police Department-Arson Squad
+109972 - Flint Police Department-Special OPS
+109921 - Flint Post
+3809 - Flint Township Fire Department
+3810 - Flint Township Police Department
+110120 - Florence County Sheriff
+110105 - Florida State Attorney- 5th Judicial Circuit
+3811 - Flushing Fire Department
+3812 - Flushing Police Department
+3813 - Flushing Township Police Department
+3814 - Food and Drug Admin.
+3815 - FOREST Township Fire Department
+3816 - Forsyth Township Police Department
+3817 - FORT GRATIOT Fire Department
+3818 - FOWLERVILLE Fire Department
+3819 - Fowlerville Police Department
+3820 - FRANKENLUST Fire Department
+3821 - FRANKENMUTH Fire Department
+3822 - Frankenmuth Police Department
+3823 - Frankfort Police Department
+3824 - FRANKFORT Volunteer Fire Department
+3825 - FRANKLIN Fire Department INC
+3826 - Franklin Police Department
+3827 - Fraser Fire Department
+3828 - Fraser Police Department
+3829 - FREDERIC Township Fire Department
+3830 - FREDONIA Township Fire Department
+3831 - Freeport Police Department
+3832 - FREEPORT Volunteer Fire Department
+3833 - FREESOIL Fire Department
+3834 - FREMONT DEERFIELD Township Fire Department
+3835 - FREMONT Fire Department
+3836 - Fremont Police Department
+3837 - FRENCHTOWN Township Fire Department
+3838 - Frost Township Police Department
+3839 - FRUITPORT Township Fire Department
+3840 - Fruitport Township Police Department
+14509974 - FSD Quality Assurance
+110124 - Fugitive Team-1st District HQ
+3841 - G.A.I.N.
+3842 - Gagetown Elmwood Township Fire Department
+3843 - Gagetown Police Department
+3844 - Gaines Community Fire Department
+3845 - Gaines Police Department
+3846 - Gaines Township Fire Department
+509960 - Gaines Township Police Department
+3847 - Galesburg Charleston Township
+3848 - Galesburg Police Department
+3849 - Galien Police Department
+3850 - Galien Township Fire Department
+4353 - Gaming Section
+3851 - Garden City Fire Department
+3852 - Garden City Police Department
+3853 - Garfield Township Fire Department
+3854 - Garfield Township Fire Department
+3855 - Garfield Township Fire Department
+11900 - Garfield Township Police Department
+3856 - Garfield Township Volunteer Fire Department
+3857 - Gaylord Police Department
+4364 - Gaylord Post
+4365 - Gaylord Team
+3859 - Genesee County Medical Examiner
+3860 - Genesee County Parks & Recreation
+3858 - Genesee County Prosecuting Attorney
+14509983 - Genesee County Prosecutor
+3861 - Genesee County Sheriff Department
+3862 - Genesee Township Fire Department 2
+3863 - Genesee Township Police Department
+3864 - Gerald R. Ford International Airport
+3865 - Gerrish Fire Department
+3866 - Gerrish Township Police Department
+3867 - Gibraltar Police Department
+3868 - Gibson Township Fire Department
+3869 - Gladstone Department of Public Safety
+4366 - Gladstone Post
+3870 - Gladwin County Medical Examiner
+110032 - Gladwin County Prosecuting Attorney
+3871 - Gladwin County Sheriff Department
+3872 - Gladwin Police Department
+509954 - Gladwin Post
+3873 - Gladwin Rural Urban Fire Department
+3874 - Glen Arbor Township Volunteer Fire Department
+3875 - Gobles Pine Grove Fire Department
+12032 - Gogebic County Medical Examiner
+110033 - Gogebic County Prosecuting Attorney
+3876 - Gogebic County Sheriff Department
+3877 - Goodland Township Fire Department
+3878 - Graafschap Fire Department
+3879 - Grand Beach Police Department
+3880 - Grand Blanc Fire Department
+3881 - Grand Blanc Police Department
+3882 - Grand Blanc Township Police Department
+3883 - Grand Haven Fire Department
+3884 - Grand Haven Police Department
+4370 - Grand Haven Post
+3885 - Grand Haven State Park
+3886 - Grand Haven Township Fire Department
+3887 - Grand Ledge Fire Department
+3888 - Grand Ledge Police Department
+3889 - Grand Rapids Community College Police Department
+3890 - Grand Rapids Fire Department
+3891 - Grand Rapids Police Department
+3892 - Grand Rapids Township Fire Department
+3893 - Grand Traverse Band Tribal Police Department
+3894 - Grand Traverse County Fire Department
+3895 - Grand Traverse County Medical Examiner
+3896 - Grand Traverse County Prosecuting Attorney
+3897 - Grand Traverse County Sheriff Department
+8068 - GRAND TRAVERSE METRO FIRE \ 897 PARSONS RD \ 2319222077
+3898 - Grand Trunk Railroad
+3899 - Grand Valley State University Police Department
+3900 - Grandville City  Fire Department
+3901 - Grandville Police Department
+3902 - Grant Police Department
+3903 - Grant Township Fire Department
+3904 - Grant Township Fire Department
+3905 - Grant Township Volunteer Fire Department
+3906 - Grass Lake Fire Department
+3907 - Gratiot County Medical Examiner
+110034 - Gratiot County Prosecuting Attorney
+3908 - Gratiot County Sheriff Department
+3909 - Grattan Fire Department
+3910 - Grayling City Township Fire Department
+3911 - Grayling Police Department
+3912 - Green Oak Township Fire Department
+3913 - Green Oak Township Police Department
+3914 - Green Township Fire Department
+3915 - Greenbush Volunteer Fire Department
+3916 - Greenfield Shores Fire Department
+3918 - Greenville Department of Public Safety
+3917 - Greenville Fire Department
+3919 - Greenwood Township 2 Fire Department
+3920 - Grosse Ile Township Police Department
+3922 - Grosse Pointe Farms Public Safety Department
+3925 - Grosse Pointe Park Public Safety Department
+3926 - Grosse Pointe Public Safety Department
+3927 - Grosse Pointe Shores Department of Public Safety
+3929 - Grosse Pointe Woods D.P.S.
+4380 - Groveland Post
+3930 - Groveland Township Fire Department
+14509932 - Gun Lake Tribe Public Safety
+109934 - H.C.M.A.
+4330 - H.U.N.T.
+3931 - Hadley Township Fire Department
+3932 - Hagar Township Fire Department
+3934 - Hamburg Fire Department INC
+3933 - Hamburg Township Police Department
+3935 - Hamilton Fire Department
+3936 - Hamlin Township Fire Department
+3937 - Hampton Township Fire Department
+3938 - Hampton Township Police Department
+3939 - Hamtramck Fire Department
+3940 - Hamtramck Police Department
+3941 - Hancock Police Department
+3942 - Hannahville Tribal Police Department
+3943 - Hanover Township Fire Department
+3944 - Harbor Beach Fire Department
+3945 - Harbor Beach Police Department
+3946 - Harbor Springs Fire Department
+3947 - Harbor Springs Police Department
+3948 - Haring Township Fire Department
+3949 - Harper Woods Fire Department
+3950 - Harper Woods Police Department
+3951 - Harrison Community Fire Department
+3952 - Harrisville Fire Department
+3953 - Harsens Island Fire Fighters
+3954 - Hart Fire Department
+3955 - Hart Police Department
+4378 - Hart Post
+3956 - Hartford Fire Department
+3957 - Hartford Police Department
+3958 - Hartland Volunteer Fire Department
+3959 - Hastings Fire Department
+3960 - Hastings Police Department
+4379 - Hastings Post
+3961 - Hazel Park Fire Department
+3962 - Hazel Park Police Department
+3963 - Hazelton New Lorthrop Fire Department
+4359 - Headquarters
+3964 - Hendricks Township Fire Department
+3965 - Henrietta Township Fire Department
+3966 - Hersey Township Fire Department
+3967 - Hesperia Fire Department
+3968 - Hesperia Police Department
+3969 - Hickory Corners Fire Department
+3970 - Higgins Township District Fire Department
+110002 - Highland Park Fire Department
+3971 - Highland Park Police Department
+3972 - Highland Township Fire Department
+14509930 - Hilliard Police Department
+3973 - Hillman Fire Department
+3974 - Hillsdale City Fire Department
+12041 - Hillsdale County Medical Examiner
+110035 - Hillsdale County Prosecuting Attorney
+3975 - Hillsdale County Sheriff Department
+3976 - Hillsdale Police Department
+3977 - Hillsdale Rural Fire Department
+3978 - Holland Fire Department
+3979 - Holland Police Department
+3980 - Holland Township Fire Department
+3981 - Holly Police Department
+3982 - Holton Fire Department
+3983 - Home Township Police Department
+14509995 - Homeland Security Investigations
+3984 - Homer Fire Department
+3985 - Homer Police Department
+3986 - Homer Township Fire Department
+3987 - Homes Township Fire Department
+509932 - Hometown Security 2nd District
+110089 - Hometown Security 3rd District
+110088 - Hometown Security District 8
+110123 - Hometown Security Team-1st District HQ
+8391 - Hometown Security Team 5th District
+8169 - Hometown Security Team 6th District
+4381 - Honor Detachment
+3988 - Hope Township Fire Department
+3989 - Hopkins Fire Department
+3990 - Hopkins Police Department
+12042 - Houghton County Medical Examiner              
+110036 - Houghton County Prosecuting Attorney
+3991 - Houghton County Sheriff Department
+4382 - Houghton Lake Post
+3992 - Houghton Police Department
+3993 - Howard City Fire Department
+3994 - Howard City Police Department
+3995 - Howard Township Fire Department
+3996 - Howell Fire Department
+3997 - Howell Police Department
+3998 - Hubbard Lake Fire Department
+3999 - Hubbardston Fire Department
+4000 - Hudson Fire Department
+4001 - Hudson Mills Metro Police Department
+4002 - Hudson Police Department
+4003 - Hudson Township Fire Department
+4004 - Hudsonville Fire Department
+4005 - Hulbert Township Fire Department
+4006 - Huntington Woods D.P.S.
+4007 - Huntington Woods Police Department
+509961 - Huron Clinton Metropolitan Authority Police Dept
+4008 - Huron County Medical Examiner
+110037 - Huron County Prosecuting Attorney
+4009 - Huron County Sheriff Department
+110096 - Huron Potawatomi Police Department
+110081 - Huron Township Fire Department
+4010 - Huron Township Police Department
+4011 - ICAC Task Force
+4012 - ICAC Task Force
+4013 - Ida Township Volunteer Fire Department
+109949 - Illinois State Police Forensic Services-Chicago
+109963 - Illinois State Police Forensic Services-Joliet
+4014 - Imlay City Fire Department
+4015 - Imlay City Police Department
+4016 - Independence Township Fire Department
+4017 - Indian Lake Volunteer Fire Department
+14509952 - Ingham County Animal Control
+4018 - Ingham County Medical Examiner
+4019 - Ingham County Parks Police Department
+110038 - Ingham County Prosecuting Attorney
+4020 - Ingham County Sheriff Department
+4021 - Ingham Township Fire Department
+4022 - Inkster Fire Department
+4023 - Inkster Police Department
+109998 - Innocence Project
+4980 - INS Detroit
+5001 - INS Grand Rapids
+4360 - Intelligence Section
+4357 - Internal Affairs
+4024 - Inverness Fire Department
+4025 - Ionia County Medical Examiner
+110039 - Ionia County Prosecuting Attorney
+4026 - Ionia County Sheriff Department
+4028 - Ionia Department of Public Safety
+4027 - Ionia Fire Department
+4383 - Ionia Post
+12051 - Iosco County Medical Examiner   
+110040 - Iosco County Prosecuting Attorney
+4029 - Iosco County Sheriff Department
+4030 - Ira Township Fire Department
+4031 - Irish Hills Fire Department
+12052 - Iron County Medical Examiner   
+110041 - Iron County Prosecuting Attorney
+4032 - Iron County Sheriff Department
+4033 - Iron Mountain Police Department
+4384 - Iron Mountain Post
+4034 - Iron River Police Department
+4385 - Iron River Post
+4035 - Ironwood Police Department
+5003 - IRS Grand Rapids
+509942 - Isabella County Medical Examiner
+110042 - Isabella County Prosecuting Attorney
+4036 - Isabella County Sheriff Department
+4037 - Isabella North East Fire Department
+4038 - Ishpeming Police Department
+7988 - Ishpeming Township Police Dept.
+4039 - Ithaca Fire Department
+4040 - Ithaca Police Department
+4386 - Ithaca Post
+4389 - J.N.E.T.
+509943 - Jackson County Medical Examiner
+110043 - Jackson County Prosecuting Attorney
+4041 - Jackson County Sheriff Department
+4042 - Jackson Fire Department
+4043 - Jackson Police Department
+4044 - Jackson Police Department Major Crimes Unit
+4390 - Jackson Post
+4045 - James Township Fire Department
+4046 - Jamestown Township Fire Department
+4047 - Jerome Township Fire Department
+4048 - Johnstown Township Fire Department
+4049 - Jonesfield Lakefield Fire Department
+4050 - Jonesville Fire Department
+4051 - Jonesville Police Department
+4391 - Jonesville Post
+509944 - Kalamazoo County Medical Examiner
+110044 - Kalamazoo County Prosecuting Attorney
+4052 - Kalamazoo County Sheriff Department
+4053 - Kalamazoo Department of Public Safety
+4054 - Kalamazoo P.E.P.
+4055 - Kalamazoo Township Police Department
+110099 - Kalamazoo Valley Community College Department of Public Safety
+4056 - Kalkaska County Medical Examiner
+110045 - Kalkaska County Prosecuting Attorney
+4057 - Kalkaska County Sheriff Department
+4058 - Kalkaska Fire Department
+4059 - Kalkaska Police Department
+4392 - Kalkaska Post
+4060 - Keego Harbor Police Department
+4061 - Keeler Township Fire Department
+110122 - Kellogg Community College
+4062 - Kenockee Township Fire Department
+4063 - Kensington Metro Park Police Department
+4064 - Kent City Fire Department
+4065 - Kent County Circuit Court Probation Department
+4066 - Kent County Department Public Works
+4067 - Kent County Fire Department
+4068 - Kent County Juvenile Court
+4069 - Kent County Medical Examiner
+4070 - Kent County Prosecuting Attorney
+4071 - Kent County Sheriff Department
+14509945 - Kent Metro Cold Case Team
+4072 - Kent Narcotics
+4073 - Kentwood Fire Department
+4074 - Kentwood Police Department
+4075 - Keweenaw Bay Tribal Police Department
+12061 - Keweenaw County Medical Examiner
+110046 - Keweenaw County Prosecuting Attorney
+4076 - Keweenaw County Sheriff Department
+4077 - KIND
+4078 - Kinde Area Fire Department
+4079 - Kinde Police Department
+4080 - Kingsford Department of Public Safety
+4081 - Kingsley Fire Department
+4082 - Kingston Fire Department
+4083 - Kingston Police Department
+4084 - Kinross District Police Department
+4085 - Kinross Volunteer Fire Department
+4086 - Kirtland Public Safety
+4087 - Kochville Fire Department
+4107 - L'Anse Police Department
+4395 - L'Anse Post
+4327 - L.A.N.C.E.
+4475 - L.A.W.N.E.T Ann Arbor
+4331 - L.A.W.N.E.T Brighton
+4088 - Lac Vieux Tribal Police Department
+4089 - Laingsburg Fire Department
+4090 - Laingsburg Police Department
+4091 - Lake Angelus Police Department
+4092 - Lake County Medical Examiner
+110047 - Lake County Prosecuting Attorney
+4093 - Lake County Sheriff Department
+4094 - Lake Linden Police Department
+4095 - Lake Missaukee Fire Department
+4096 - Lake Odessa Fire Department
+4097 - Lake Odessa Police Department
+4098 - Lake Orion Police Department
+4264 - Lake St. Clair Metropark Police Department
+4099 - Lake Township Fire Department
+4100 - Lake Township Volunteer Fire Department
+4101 - Lakeland Medical Center
+4102 - Lakeland Volunteer Fire Department
+4103 - Lakeside Fire Department
+4104 - Lakeview Fire Department
+4105 - Lakeview Police Department
+4393 - Lakeview Post
+4106 - Lamotte Township Fire Department
+4396 - Lansing Auto Theft
+4108 - Lansing Community College Police Department
+4109 - Lansing Fire Department
+4110 - Lansing Fire Department
+4111 - Lansing General Hospital
+4112 - Lansing Police Department
+109939 - Lansing Police Department-Drugs
+4399 - Lansing Post
+4113 - Lansing School District Department of Public Safety
+4114 - Lansing Township Fire Department
+4115 - Lansing Township Police Department
+4116 - Lapeer County Animal Control
+4117 - Lapeer County Medical Examiner
+110048 - Lapeer County Prosecuting Attorney
+4118 - Lapeer County Sheriff Department
+4119 - Lapeer County Task Force
+4120 - Lapeer Fire Department
+4121 - Lapeer Police Department
+4403 - Lapeer Post
+4122 - Lapeer Township Police Department
+4123 - Larkin Fire Department
+4124 - LaSalle Volunteer Fire Department
+4125 - Lathrup Village Police Department
+4126 - Lathrup Village Southfield Fire Department
+4127 - Laurium Police Department
+4128 - Lawrence Township Fire Department
+4129 - Lawton Fire Department
+4130 - Lawton Police Department
+4131 - Lee Township Fire Department
+4132 - Lee Township Fire Department
+4133 - Leelanau County Medical Examiner
+110049 - Leelanau County Prosecuting Attorney
+4134 - Leelanau County Sheriff Department
+4135 - Leelanau Township Fire Department
+4136 - Legal Aid & Defender Association
+3320 - LEIN ROLLOUT TEST AGENCY
+4137 - Leland Volunteer Fire Department
+4138 - Lenawee County Medical Examiner
+110050 - Lenawee County Prosecuting Attorney
+4139 - Lenawee County Sheriff Department
+4140 - Lennon Police Department
+4141 - Leoni Township Fire Department
+4142 - Leoni Township Police Department
+4143 - Leonidas Volunteer Fire Department
+4144 - LeRoy Roselake Fire Department
+4145 - LeRoy Township Fire Department
+4146 - LeRoy Township Fire Department
+4147 - Leslie Fire Department
+4148 - Leslie Police Department
+4149 - Lexington Fire Department
+4150 - Lexington Police Department
+4151 - Liberty Township Fire Department
+4152 - Lincoln Fire Department
+109928 - Lincoln Park Fire Department
+4153 - Lincoln Park Police Department
+4157 - Lincoln Township Police Department-Berrien Co.
+4154 - Lincoln Township Police Department-Clare Co.
+4156 - Lincoln Township Police Department-Midland Co.
+4155 - Lincoln Township Police Department-Osceola Co.
+4158 - Linden Fire Department
+4159 - Linden Police Department
+4160 - Litchfield Fire Department
+4161 - Litchfield Police Department
+4162 - Little River Band of the Ottawa Indians Department of Public Safety
+4163 - Little Traverse Band Tribal PD
+4164 - Livingston County Medical Examiner
+110051 - Livingston County Prosecuting Attorney
+4165 - Livingston County Sheriff Department
+4166 - Livonia Fire Department
+4167 - Livonia Police Department
+4168 - Lockport Fabius Park Township Fire Department
+4169 - Londen Maybee Raisin Fire Department
+4170 - Long Rapids Township Fire Department
+4171 - Lovells Township Fire Department
+4172 - Lowell Police Department
+4173 - Lowell Volunteer Fire Department
+4174 - Lower Huron Metro Pk Police Department
+12071 - Luce County Medical Examiner
+110052 - Luce County Prosecuting Attorney
+4175 - Luce County Sheriff Department
+4176 - Ludington Fire Department
+4177 - Ludington Police Department
+4178 - Luna Pier Police Department
+4179 - Lupton Fire Department
+4180 - Lyon Township Fire Department
+4181 - Lyon Township Fire Department
+4182 - Lyons Fire Department
+4437 - M.A.G.N.E.T.
+4183 - M.A.N.E.T.
+4184 - M.E.T.
+4372 - M.E.T.
+4373 - M.E.T.
+14509999 - M.N.E.T.
+4185 - Mackinac County Medical Examiner
+110053 - Mackinac County Prosecuting Attorney
+4186 - Mackinac County Sheriff Department
+4458 - Mackinac Island Detail
+4187 - Mackinac Island Fire Department
+4188 - Mackinac Island Police Department
+4189 - Mackinaw City Fire Department
+4190 - Mackinaw City Police Department
+4191 - Macomb Community College Police Department
+4192 - Macomb County Auto Theft Squad
+509945 - Macomb County Medical Examiner
+4193 - Macomb County Prosecuting Office
+8914 - Macomb County Sheriff Department
+4195 - Macomb Township Fire Department
+4196 - Madison Heights Fire Department
+4197 - Madison Heights Police Department
+4198 - Madison Township Fire Department
+4199 - Madison Township Police Department
+109968 - Major Case Unit
+4200 - Mancelona Fire Department
+4201 - Mancelona Police Department
+4202 - Manchester Township Fire Department
+11184 - Manistee County Medical Examiner
+110054 - Manistee County Prosecuting Attorney
+4203 - Manistee County Sheriff Department
+4204 - Manistee Fire Department
+4205 - Manistee Police Department
+4415 - Manistee Post
+4206 - Manistee Township Fire Department
+4417 - Manistique Post
+4207 - Manistique Public Safety
+4411 - MANTIS
+4208 - Manton Fire Department
+6432 - Manton Police Department
+4209 - Maple Grove Fire Department
+4210 - Maple GroveTownship Fire Department
+4211 - Maple Rapids Fire Department
+4212 - Maple Rapids Police Department
+4213 - Maple Ridge Township Fire Department
+4214 - Maple Valley Township Fire Department
+4215 - Marcellus Fire Department
+4216 - Marengo Township Fire Department
+4217 - Marenisco Township Police Department
+4218 - Marine City Fire Department
+4219 - Marine City Police Department
+4220 - Marion Community Fire Department
+109966 - Marion Indiana Police Department
+4221 - Marion Police Department
+4222 - Marion Township Fire Department
+4223 - Markey Township Fire Department
+4224 - Marlette Fire Department
+4225 - Marlette Police Department
+4226 - Marquette Branch Prison
+12074 - Marquette County Medical Examiner             
+110055 - Marquette County Prosecuting Attorney
+4227 - Marquette County Sheriff Department
+4228 - Marquette Police Department
+4229 - Marshall City Fire Department
+4230 - Marshall Police Department
+4231 - Marshall Township Fire Department
+4232 - Martin Fire Department
+4233 - Marysville Fire Department
+4234 - Marysville Police Department
+4235 - Mason County Fire Department
+4236 - Mason County Fire Department 2
+4237 - Mason County Medical Examiner
+110056 - Mason County Prosecuting Attorney
+4238 - Mason County Sheriff Department
+4239 - Mason Fire Department
+4240 - Mason Police Department
+4241 - Mattawan Police Department
+4242 - Mayville Fire Department
+4243 - Mayville Police Department
+4244 - McBain Comm Fire Department
+4281 - MDNR- Bay City
+109967 - MDNR- Boyne City
+4280 - MDNR-Baraga
+4282 - MDNR-Brighton Recreation Area
+509963 - MDNR-Cadillac
+4283 - MDNR-Cedarville 
+4284 - MDNR-Clare
+110113 - MDNR-Coldwater
+4285 - MDNR-Crystal Falls
+14509961 - MDNR-Detroit
+4286 - MDNR-East Lansing
+4287 - MDNR-Edwardsburg
+109973 - MDNR-Escanaba
+4288 - MDNR-Grand Haven
+4289 - MDNR-Harrison 
+4290 - MDNR-Holland
+4291 - MDNR-Holly Recreation Area
+110108 - MDNR-Ionia Recreation Area
+4292 - MDNR-Ishpeming
+110127 - MDNR-Island Lake
+4293 - MDNR-Lansing
+4294 - MDNR-Ludington
+4295 - MDNR-Manistique
+109938 - MDNR-Marquette
+4296 - MDNR-Marshall         
+4297 - MDNR-Monroe
+4298 - MDNR-Morrice
+4299 - MDNR-Mt. Pleasant 
+4300 - MDNR-Muskegon
+4301 - MDNR-Muskegon State Park
+4302 - MDNR-Newaygo
+4303 - MDNR-Newberry
+109937 - MDNR-Norway
+4304 - MDNR-Ontonagon
+4305 - MDNR-Paw Paw
+109969 - MDNR-Pinckney RA
+4306 - MDNR-Plainwell
+110008 - MDNR-Pontiac Lake Rec Area
+2309929 - MDNR-Proud Lake
+4307 - MDNR-Sault Ste. Marie
+4308 - MDNR-Silver Lake State Park
+4309 - MDNR-Sleepy Hollow State Park
+4310 - MDNR-South Branch
+109927 - MDNR-Southfield
+4311 - MDNR-Stephenson
+4312 - MDNR-Stephenson2
+4313 - MDNR-Tawas City
+109962 - MDNR-Traverse City
+4314 - MDNR-Tustin 
+4315 - MDNR-Twin Lakes
+14509948 - MDNR-Van Riper
+4316 - MDNR-Walter Binder II
+4317 - MDNR-Warren-Dunes State Park
+509934 - MDNR-Waterloo Recreation Area
+4318 - MDNR-Wetmore
+110007 - MDNR-Wilson State Park
+4319 - MDNR Operations Center-Cadillac
+4320 - MDNR Operations Center-Gaylord
+4321 - MDNR Operations Center-Roscommon
+14509946 - MDNR Waterford Dodge #4
+14509943 - MDNR-Law Enforcement Div.  Rose Lake Field Office
+4245 - Mecosta Austin Stanwood Fire Department
+4246 - Mecosta County Medical Examiner
+110057 - Mecosta County Prosecuting Attorney
+8924 - Mecosta County Sheriff Department
+4248 - Melrose Township Fire Department
+110009 - Melvindale Fire Department
+4249 - Melvindale Police Department
+4250 - Memorial Healthcare Center
+4251 - Memphis Police Department
+4252 - Memphis Volunteer Fire Department
+4253 - Mendon Fire Department
+4254 - Mendon Police Department
+509946 - Menominee County Medical Examiner
+110058 - Menominee County Prosecuting Attorney
+4255 - Menominee County Sheriff Department
+4256 - Menominee Police Department
+4257 - Mercy Memorial Medical Center
+4258 - Meridian Fire Department
+4259 - Meridian Township Police Department
+4260 - Merrill Township Volunteer Fire Department
+4261 - Merritt Township Fire Department
+4262 - Metamora Township Fire Department
+4263 - Metamora Township Police Department
+4265 - Metro Narco Drug Task Force
+4436 - Metro Post
+4461 - Metro South Post
+109936 - MHESLA
+4266 - Michiana Police Department
+109970 - Michigan Attorney General's Office-Detroit
+509952 - Michigan Attorney General's Office-Health Care Fraud Div.
+4267 - Michigan Bell Telephone Company
+4269 - Michigan Department of Agriculture
+4268 - Michigan Department of Agriculture Racing Commission
+4273 - Michigan Department of Corrections-Gaylord
+4270 - Michigan Department of Corrections-Macomb Corr. Facility
+4271 - Michigan Department of Corrections-Muskegon
+4481 - Michigan Department of Corrections-OC Camp Lehman
+4272 - Michigan Department of Corrections-Saginaw
+4274 - Michigan Department of Corrections Parole Office
+4275 - Michigan Department of Corrections Saginaw Correctional Facility
+4276 - Michigan Department of Corrections State Prison of Southern Michigan Fire Department
+4277 - Michigan Department of Corrections Thumb Correctional Facility
+110111 - Michigan Department of Corrections- IA
+4278 - Michigan Department of Environment Quality
+4279 - Michigan Department of Management and Budget
+4322 - Michigan Department of Secretary of State
+14509962 - Michigan Department of State Police
+4477 - Michigan Department of Treasury
+12709929 - Michigan Liquor Control Commission
+4478 - Michigan Racing Commission
+4479 - Michigan State University Police Department
+4480 - Michigan Technological University  Police Department
+4488 - Mid-Michigan Community Fire Department
+4482 - MiddlevilleTHORNAPPLE Fire Department
+4483 - Midland County Medical Examiner
+110059 - Midland County Prosecuting Attorney
+4484 - Midland County Sheriff Department
+4485 - Midland Fire Department
+4486 - Midland Police Department
+4487 - Midland Township Fire Department
+4489 - Mikado Fire Department
+4490 - Milan Police Department
+4491 - Milford Police Department
+4492 - Milford Township Fire Department
+4493 - Millbrook Rolland Fire Department
+4494 - Millington Arbele Township Fire Department
+4495 - Millington Police Department
+4496 - Mills Township Fire Department-Midland
+4497 - Mills Township Fire Department-Prescott
+4498 - Milton Township Fire Department
+4499 - Minden City Fire Department
+14509949 - Minneapolis Police Department
+4420 - Mio Concept
+4500 - Missaukee County Medical Examiner
+110060 - Missaukee County Prosecuting Attorney
+4501 - Missaukee County Sheriff Department
+110132 - Missouri State Highway Patrol-DDCC
+4502 - Moffatt Township Volunteer Fire Department
+4503 - Moline Fire Department
+4504 - Monitor Township Fire Department
+4505 - Monroe County Medical Examiner
+110061 - Monroe County Prosecuting Attorney
+4506 - Monroe County Sheriff Department
+4507 - Monroe Fire Department
+4508 - Monroe Police Department
+4422 - Monroe Post
+4509 - Montague Fire District
+4510 - Montague Police Department
+110062 - Montcalm County Prosecuting Attorney
+4511 - Montcalm County Sheriff Department
+4512 - Montcalm Township Fire Department
+4513 - Montgomery Fire Department
+4514 - Montmorency County Medical Examiner
+110063 - Montmorency County Prosecuting Attorney
+4515 - Montmorency County Sheriff Department
+4405 - Montmorency Detachment
+4516 - Montrose Township Fire Department
+4517 - Montrose Township Police Department
+4518 - Moore Township Fire Department
+4519 - Moorland Township Fire Department
+4520 - Morenci Fire Department
+4521 - Morenci Police Department
+4522 - Morley Area Fire Department
+4523 - Morrice Police Department
+4524 - Morris Volunteer Fire Department
+4525 - Moscow Fire Department
+109931 - Mott Community College Department of Public Safety
+4526 - Mount Clemens Fire Department
+4528 - MSET TEAM(c/o GardenCity)
+14509966 - MSP-Paw Paw Polygraph
+14509935 - MSP Bomb Squad-Bridgeport
+14509936 - MSP Bomb Squad-Grand Rapids
+14509937 - MSP Bomb Squad-Grayling
+14509938 - MSP Bomb Squad-Lansing
+14509939 - MSP Bomb Squad-Northville
+14509940 - MSP Bomb Squad-Sterling Heights
+3322 - MSP Bridgeport Lab
+109918 - MSP CODIS 
+3323 - MSP Grand Rapids Laboratory
+3324 - MSP Grayling Laboratory
+8388 - MSP Hometown Security
+5137 - MSP ITD
+5138 - MSP Lansing Laboratory
+3325 - MSP Marquette Laboratory
+14509979 - MSP Metropolitan Detroit Laboratory
+3326 - MSP Northville Laboratory
+14509954 - MSP Southeastern Auto Theft
+3327 - MSP Sterling Heights Laboratory
+14509955 - MSP- BIOMETRICS
+4529 - Mt. Forest Township Fire Department
+4530 - Mt. Morris Fire Department
+4527 - Mt. Morris Police Department
+4531 - Mt. Morris Township CENTRAL Fire Department
+4532 - Mt. Morris Township Fire Department
+4533 - Mt. Morris Township Police Department
+4534 - Mt. Pleasant Fire Department
+4535 - Mt. Pleasant Police Department
+4424 - Mt. Pleasant Post
+4536 - Muir Volunteer Fire Department
+4537 - Mundy Township Police Department
+4538 - Munising Police Department
+4426 - Munising Post
+4539 - Muskegon County Airport Fire Department
+509947 - Muskegon County Medical Examiner
+4540 - Muskegon County Prosecutors Office
+4541 - Muskegon County Sheriff Department
+4542 - Muskegon Fire Department
+4543 - Muskegon Heights Fire Department
+4544 - Muskegon Heights Police Department
+4545 - Muskegon Police Department
+4546 - Muskegon Temporary Facility
+4547 - Muskegon Township Fire Department
+4548 - Muskegon Township Police Department
+4549 - Mussey Township Fire Department
+4413 - N.A.R.C.O.
+4444 - N.E.T.
+4550 - Naploeon Township Fire Department
+4551 - Napoleon Township Police Department
+4552 - Nashville Police Department
+4553 - Neebish Island Fire Department
+4554 - Negaunee Police Department
+4427 - Negaunee Post
+4555 - Nester Township Fire Department
+4556 - New Baltimore Fire Department
+4557 - New Baltimore Police Department
+4558 - New Buffalo Fire Department
+4559 - New Buffalo Police Department
+4560 - New Buffalo Township Fire Department
+4561 - New Era Fire Department
+4562 - New Era Police Department
+4563 - New Haven Fire Department
+4564 - New Haven Police Department
+4565 - New Lothrop Police Department
+4566 - Newaygo County Medical Examiner
+110064 - Newaygo County Prosecuting Attorney
+4567 - Newaygo County Sheriff Department
+4568 - Newaygo Fire Department
+4569 - Newaygo Police Department
+4428 - Newaygo Post
+4570 - Newberg Porter Fire Department
+4571 - Newberry Police Department
+4429 - Newberry Post
+4572 - Newport Fire Department
+4573 - Newton Township Fire Department
+4574 - Newton Township Fire Department
+109930 - Niagra Regional Police Service
+4575 - Niles Fire Department
+4576 - Niles Police Department
+4431 - Niles Post
+4577 - Niles Township Fire Department
+4578 - Norfolk & Southern Railroad
+110083 - Norfolk Circuit Court
+4579 - Norman Township Fire Department
+4580 - North Adams Fire Department
+4581 - North Branch Fire Department
+4582 - North Branch Police Department
+4583 - North Muskegon Fire Department
+4584 - North Muskegon Police Department
+4585 - North Oakland  Fire Authority
+4586 - North Oakland Medical Center
+4587 - Northern Michigan Univ. Police Department
+4588 - Northfield Township Fire Department
+4589 - Northfield Township Police Department
+4590 - Northville Police Department
+4591 - Northville Township Police Department
+4592 - Northwood Fire Department
+4593 - Norton Shores Fire Department
+4594 - Norton Shores Police Department
+4595 - Norvell Township Police Department
+4596 - Norway Police Department
+110121 - Nottawaseppi Huron Band of the Potawatomi Police Department
+4597 - Novi Fire Department
+4598 - Novi Police Department
+4445 - O.C.N.E.T
+4409 - O.C.U.
+4421 - O.M.N.I. #2
+4325 - O.M.N.I. #3/ R.H.I.N.O. 
+4323 - O.M.N.I. #4
+4324 - O.M.N.I. #5
+4599 - Oak Park Public Safety Department
+4600 - Oakland Community Coll. Police Department
+4601 - Oakland Community College-Auburn Hills
+109925 - Oakland Community College-Pontiac
+4602 - Oakland Community College-Southfield
+4603 - Oakland Community College-Waterford
+4604 - Oakland County Community Corrections Crooks Rd.
+4605 - Oakland County Community Corrections Dixie Hwy.
+4606 - Oakland County Medical Examiner
+4607 - Oakland County Prosecutor
+4608 - Oakland County Safety Police Department
+4610 - Oakland County Sheriff Department-1200 N Telegraph
+109952 - Oakland County Sheriff Department-Addison Twp.
+110087 - Oakland County Sheriff Department-Arson
+109953 - Oakland County Sheriff Department-Brandon Twp.
+109945 - Oakland County Sheriff Department-Commerce Twp.
+109946 - Oakland County Sheriff Department-Highland Twp.
+109954 - Oakland County Sheriff Department-Independence Twp.
+109955 - Oakland County Sheriff Department-Lyon Twp.
+109956 - Oakland County Sheriff Department-Oakland Twp.
+109957 - Oakland County Sheriff Department-Orion Twp.
+109960 - Oakland County Sheriff Department-Oxford Twp.
+109959 - Oakland County Sheriff Department-Royal Oak Twp.
+109958 - Oakland County Sheriff Department-Springfield Twp.
+110114 - Oakland County Sheriff Department- Pontiac
+4609 - Oakland County Sheriff-Rochester Hills Substation
+4611 - Oakland University Police Department
+6657 - Oakley Police Dept.
+109940 - Ocean County New Jersey Sheriff Department 
+4612 - Oceana County Medical Examiner
+4613 - Oceana County Sheriff Department
+4614 - Ocqueoc-Bearinger Fire Department
+4615 - Office of Attorney General
+110125 - Office of Inspector General
+4616 - Office of Prosecuting Attorney
+4617 - Ogemaw County Medical Examiner
+110065 - Ogemaw County Prosecuting Attorney
+4618 - Ogemaw County Sheriff Department
+4619 - Ogemaw Fire Department
+14509929 - Ohio BCI
+4620 - Ojibway Correctional Facility
+4621 - Oliver Township Fire Department
+4622 - Olivet Fire Department
+4623 - Olivet Police Department
+4624 - Omer Arenac Fire Department
+4625 - Onaway Fire Department
+4626 - Onaway Police Department
+4627 - Onekama Township Fire Department
+4628 - Onondaga Fire Department
+4629 - Onsted Fire Department
+14509950 - Ontario Provincial Police
+12095 - Ontonagon County Medical Examiner
+110066 - Ontonagon County Prosecuting Attorney
+4630 - Ontonagon County Sheriff Department
+4631 - Ontwa Township-Edwardsburg Police Department
+4632 - Orangeville Township Fire Department
+4633 - Orchard Lake Police Department
+4634 - Orion Township Fire Department
+4635 - Orleans Township Fire Department
+12097 - Osceola County Medical Examiner              
+110067 - Osceola County Prosecuting Attorney
+4636 - Osceola County Sheriff Department
+4637 - Oscoda Ausable Volunteer Fire Department
+4638 - Oscoda County Medical Examiner
+110068 - Oscoda County Prosecuting Attorney
+4639 - Oscoda County Sheriff Department
+4640 - Oscoda Township Police Department
+4641 - OshtemoFire Department
+4642 - Otisville Police Department
+4643 - Otsego County Fire Department
+4644 - Otsego County Medical Examiner
+110069 - Otsego County Prosecuting Attorney
+4645 - Otsego County Sheriff Department
+4646 - Otsego Fire Department
+4647 - Otsego Lake Township Fire Department
+4648 - Otsego Police Department
+4649 - Ottawa County Circuit Court Probation
+4650 - Ottawa County Community Corrections
+4651 - Ottawa County Health Department
+12101 - Ottawa County Medical Examiner     
+110070 - Ottawa County Prosecuting Attorney-Grand Haven
+110071 - Ottawa County Prosecuting Attorney-Holland
+4652 - Ottawa County Sheriff Department
+4653 - Ottawa Lake Fire Department
+4654 - Otter Lake Fire Department
+4655 - Overisel Fire Department 2
+4656 - Ovid Fire Department
+4657 - Ovid Police Department
+4658 - Owendale Fire Department
+14509988 - Owendale Police Department
+4659 - OWNIT
+4660 - Owosso Fire Department
+4661 - Owosso Police Department
+4662 - OwossoTownship Fire Department
+4663 - Oxford Fire Department
+4664 - Oxford Police Department
+4665 - P.A.C.T.
+4450 - P.I.T.
+4666 - Palmyra Township Fire Department
+4667 - Parchment Fire Department
+4668 - Parchment Police Department
+4669 - Park Township Fire Department
+4670 - Parma-Sandstone Fire Department
+4671 - Parma-Sandstone Police Department
+4672 - Paw Paw Fire Department
+4673 - Paw Paw Police Department
+4439 - Paw Paw Post
+4674 - Peck Police Department
+4675 - Pellston Fire Department
+4676 - Peninsula Fire Department
+4677 - Penn Township Fire Department
+4678 - Pennfield Township Fire Department
+4679 - Pennock Hospital
+509965 - Pennsylvania State Police
+4680 - Pentwater Fire Department
+4681 - Pentwater Police Department
+4682 - Pere Marquette Fire Department
+4683 - Perrington Fire Department
+4684 - Perry Area Fire Department
+4685 - Perry Police Department
+4686 - Petoskey Police Department
+4443 - Petoskey Post
+4687 - Petosky Fire Department
+4688 - Pewamo Fire Department
+4689 - Pickford Marquette Volunteer Fire Department
+4690 - Pigeon Police Department
+4691 - Pinckney Police Department
+4692 - Pinconning Fire Department
+4693 - Pinconning Police Department
+4694 - Pittsfield Township Police Department
+4695 - Plainfield Township Fire Department
+4696 - Plainfield Township Fire Department
+4697 - Plainwell Fire Department
+4698 - Plainwell Police Department
+4699 - Pleasant Ridge Police Department
+109978 - Plymouth Community Fire Department
+4700 - Plymouth Police Department
+4701 - Plymouth Township Police Department
+4702 - Pokagon Tribal Police Department
+4703 - Pokagon Volunteer Fire Department
+4704 - Pontiac Fire Department
+4705 - Pontiac Police Department
+4706 - Port Austin Police Department
+4707 - Port Huron Fire Department
+4708 - Port Huron Police Department
+4709 - Port Huron Township Fire Department
+4710 - Port Sanilac Police Department
+4711 - Port Sheldon Fire Department
+4712 - Portage Fire Department
+4713 - Portage Police Department
+4714 - Portage Township Fire Department
+4715 - Porter Township Fire Department
+4716 - Portland Fire Department
+4717 - Portland Police Department
+4718 - Portsmouth Township Fire Department
+4719 - Posen Area Fire/Rescue
+4720 - Potterville Benton Township Fire Department
+4721 - Potterville Police Department
+4722 - Prairieville Township Pine Lake Fire Department
+4723 - Prairieville Township Police Department
+110072 - Presque Isle County Prosecuting Attorney
+4724 - Presque Isle County Sheriff Department
+509948 - Presque Isle Medical Examiner
+4725 - Provost Marshals Office
+110104 - Put-In-Bay Police Department
+9576 - Quincy Police Dept.
+4726 - Raber Township Volunteer Fire Department
+4728 - Raisin Township Fire Department
+4727 - Raisin Township Police Department
+4729 - Ravenna Area Fire Department
+4730 - Ray Township Fire Department
+509962 - RCMP-GRC
+4731 - Reading Community Fire Department
+4732 - Reading Police Department
+4733 - Redford Township Fire Department
+4734 - Redford Township Police Department
+4735 - Reed City Fire Department
+4736 - Reed City Police Department
+4446 - Reed City Post
+4737 - Reese Blumfield Fire Department
+4738 - Reese Police Department
+4740 - Richfield Township Police Department-St. Helen
+4739 - Richfield Township Police Department-Davison
+4741 - Richland Police Department
+4742 - Richland Township Fire Department
+4743 - Richland Township Fire Department
+4744 - Richland Township Fire Department
+4745 - Richland Township Police Department
+4746 - Richmond Police Department
+4447 - Richmond Post
+4747 - Richmond Volunteer Fire Department
+4748 - Richville Fire Department
+4749 - Ridgeway Township Fire Department
+4750 - Riga Township Fire Department
+4751 - River Rouge Fire Department
+4752 - River Rouge Police Department
+4753 - Riverside Fire Department
+4754 - Riverton Township Fire Department
+4755 - Riverview Police Department
+4756 - ROBINSON Township Fire Department
+4757 - ROCHESTER Fire Department
+4758 - ROCHESTER HILLS Fire Department
+4759 - Rochester Police Department
+12709934 - Rockford (Illinois) Police Department
+4760 - ROCKFORD Fire Department
+4761 - Rockford Police Department
+4448 - Rockford Post
+4762 - Rockwood Police Department
+4763 - ROGERS CITY Fire Department
+4764 - Rogers City Police Department
+4449 - Rogers City Post
+4765 - Romeo Police Department
+4766 - ROMEO Township Fire Department
+4767 - Romulus Fire Department
+4768 - Romulus Police Department
+4769 - RONALD Township Volunteer Fire Department
+4770 - Roosevelt Park Police Department
+4771 - Roscommon County Medical Examiner
+4772 - Roscommon County Prosecutor
+4773 - Roscommon County Sheriff Department
+4774 - ROSCOMMON Township Fire Department
+4775 - ROSE CITY AREA Fire Department
+4776 - Rose City Police Department
+4777 - ROSEVILLE Fire Department
+4778 - Roseville Police Department
+4779 - Rothbury Police Department
+4780 - ROXAND Township Fire Department
+14509984 - Royal Canadian Mounted Police Department
+4781 - ROYAL OAK Fire Department
+4782 - Royal Oak Police Department
+4783 - ROYAL OAK Township Fire Department
+4784 - Rudyard Kinross Fire Department
+109917 - S.A.N.E.
+4441 - S.C.A.R
+4785 - S.C.A.T.T.
+4786 - S.C.E.N.T.
+110086 - S.E.T. Macomb County
+109923 - S.I.D.-Livonia
+110112 - S.I.D.-Livonia-Violent Crimes Investigation Section
+4401 - S.I.D. Lansing
+4787 - S.P.I.C.E.T.
+4416 - S.S.C.E.N.T.
+4788 - S.T.I.N.G.
+1909929 - S.W.E.T. Central
+4335 - S.W.E.T. East
+4455 - S.W.E.T. West
+4789 - SAGINAW CHIPPEWA Fire Department
+4790 - Saginaw Chippewa Tribal Police Department-Mt. Pleasant
+4791 - Saginaw Chippewa Tribal Police Department-Standish
+110093 - Saginaw County Animal Control
+4792 - Saginaw County Health Department
+4793 - Saginaw County Medical Examiner
+4794 - Saginaw County Prosecutor
+14509982 - Saginaw County Prosecutor
+4795 - Saginaw County Sheriff Department
+4796 - Saginaw Fire Department
+4797 - Saginaw Gang Task Force
+4798 - Saginaw Medical Center
+4799 - Saginaw Police Department
+4800 - Saginaw Township Fire Department
+4801 - Saginaw Township Police Department
+4802 - Saginaw Valley State University Police Department
+4803 - Salem Township Fire Department
+4804 - Salem Township Fire Department
+4805 - Saline Area Fire Department
+4806 - Saline Police Department
+4807 - SANBORN Township Fire Department
+4808 - Sand Lake Fire Department
+4809 - Sand Lake Fire Department
+4810 - Sand Lake Police Department
+4811 - SANDUSKY Fire Department
+4812 - Sandusky Police Department
+4452 - Sandusky Post
+4813 - Sanilac County Drug Task Force
+4814 - Sanilac County Medical Examiner
+110073 - Sanilac County Prosecuting Attorney
+4815 - Sanilac County Sheriff Department
+4816 - SARANAC Fire Department
+4817 - SAUBLE ELK EDEN Township Fire Department
+4818 - SAUGATUCK Township Fire Department
+4819 - Saugatuck-Douglas Police Department
+4820 - Sault Ste Marie Police Department
+4821 - Sault Ste. Marie Fire Department
+4453 - Sault Ste. Marie Post
+4822 - Sault Ste. Marie Tribal Police Department
+509949 - Schoolcraft County Medical Examiner
+110074 - Schoolcraft County Prosecuting Attorney
+4824 - Schoolcraft County Sheriff Department
+4823 - Schoolcraft Police Department
+4825 - Scottville Fire Department
+4826 - Scottville Police Department
+4827 - Sebewaing Police Department
+4828 - SEBEWAING Township Fire Department
+4435 - Second District HQ
+4829 - SECORD RESORT Volunteer Fire Department
+4830 - SELMA Township Fire Department
+4472 - Seventh District HQ
+4831 - SHELBY BENONA Fire Department
+4832 - Shelby Police Department
+4833 - SHELBY Township Fire Department
+4834 - Shelby Township Police Department
+4835 - Shepherd Police Department
+4836 - SHEPHERD TRI Township Fire DEP
+4837 - SHERIDAN ALBION Township Fire Department
+4838 - SHERIDAN COMM Fire Department
+4839 - SHERMAN FOUNTAIN Township Fire Department
+4840 - SHERMAN Township MARSHAL
+4841 - SHERWOOD Township Fire Department
+4842 - Shiawassee County Medical Examiner
+110075 - Shiawassee County Prosecuting Attorney
+4843 - Shiawassee County Sheriff Department
+4844 - SHIAWASSEE Township Fire Department
+4845 - Sigel Township Fire Department
+4374 - Sixth District Fugitive Team
+4375 - Sixth District HQ
+4846 - SLAGLE HARRIETTA Fire Department
+4847 - Sleeping Bear Dunes National Park Service
+4848 - Sodus Township Police Department
+4849 - SODUS Township Volunteer Fire Department
+4850 - SOLON Township Fire Department
+14509964 - Somerset County Prosecutor's Office (New Jersey)
+4851 - SOMERSET Township Fire Department
+4852 - Somerset Township Police Department
+4853 - SOO TOWNSHIP Fire Department
+4854 - South Branch Township Fire Department
+4855 - South Branch Township Fire Department
+4856 - SOUTH HAVEN Fire Department
+4857 - South Haven Police Department
+4454 - South Haven Post
+4858 - SOUTH LYON Fire Department
+4859 - South Lyon Police Department
+4860 - South Rockwood Fire Department
+4861 - South Rockwood Police Department
+4862 - South Shore Hubbard Lake Fire Department
+4863 - SOUTH TORCH LAKE Fire Department
+4864 - Southfield Fire Department
+4865 - Southfield Police Department
+109924 - Southgate Fire Department
+4866 - Southgate Police Department
+109947 - Sparrow Health System
+4867 - SPARTA Fire Department
+4868 - Sparta Police Department
+4869 - SPAULDING Township Fire Department
+7972 - Spaulding Twp. Police Dept.
+4870 - SPEAKER Township Fire Department
+4356 - Special Operations
+4871 - Spectrum Health Security
+14509933 - Spectrum Health Toxicology
+4872 - Spring Arbor Fire Department
+4873 - Spring Arbor Township Police Department
+4874 - Spring Lake Fire Department
+4875 - Spring Lake\Ferrysburg Police Department
+4877 - Springfield Department of Public Safety
+4876 - Springfield Fire Department
+4878 - SPRINGFIELD Township Volunteer Fire
+4879 - Springport Township Police Department
+4880 - SPRINGVALE Township Fire Department
+4881 - SPRINGVILLE TWP Fire Department
+4882 - St. Charles Police Department
+4885 - St. Clair County Medical Examiner
+110076 - St. Clair County Prosecuting Attorney
+4886 - St. Clair County Sheriff Department
+109920 - St. Clair County Task Force
+4887 - St. Clair Fire Department
+4888 - St. Clair Police Department
+4889 - St. Clair Shores Fire Department
+4890 - St. Clair Shores Police Department
+4891 - St. Ignace Police Department
+4457 - St. Ignace Post
+4892 - St. Ignace Volunteer Fire Department
+4893 - St. Johns Fire Department
+4894 - St. Johns Police Department
+4895 - St. Joseph County Medical Examiner
+110077 - St. Joseph County Prosecuting Attorney
+4896 - St. Joseph County Sheriff Department
+4883 - St. Joseph Fire Department
+4898 - St. Joseph Police Department
+4884 - St. Joseph Township Fire STA 2
+4899 - St. Joseph Township Police Department
+4900 - St. Louis Police Department
+4901 - St. Mary's Hospital
+14509957 - Stafford County Sheriff Department
+4902 - STANDISH Fire Department
+11771 - Standish Police Department              
+4903 - Stanton Police Department
+4397 - State Capitol Post
+4904 - Stephenson Police Department
+4460 - Stephenson Post
+4905 - STERLING AREA Fire Department
+4906 - STERLING HEIGHTS Fire Department
+4907 - Sterling Heights Police Department
+4908 - Stevensville Police Department
+4909 - Stockbridge Police Department
+4910 - STOCKBRIDGE Township Fire Department
+4911 - Stony Creek Metropk Police Department
+4912 - STRONACH Township Volunteer Fire Department
+4913 - STURGIS CITY Fire Department
+4914 - Sturgis Police Department
+4915 - SUGAR ISLAND Fire Department
+4916 - SUMMERFIELD Township Volunteer Fire Department
+4917 - Summit Township Fire Department
+4918 - Summit Township Police Department
+4919 - Sumpter Township Police Department
+4920 - SUNFIELD Fire Department
+4921 - SUPERIOR Township Fire Department
+4922 - SUPERIOR Township Volunteer Fire Department
+4923 - SURREY Township Fire Department
+4925 - SUTTONS BAY BINGHAM Fire Department
+4924 - Suttons Bay Police Department
+4926 - SWARTZ CREEK Fire Department
+4927 - Swartz Creek Police Department
+4928 - Sylvan Lake Police Department
+4462 - T.N.T. North-Traverse
+4344 - T.N.T. South-Cadillac
+509929 - T.N.U.
+4929 - TAMARAC HARBOR Fire Department
+509959 - Tawas Police Authority
+4931 - Taylor Fire Department
+4932 - Taylor Police Department
+4933 - TAYMOUTH Fire Department
+4934 - TECUMSEH Fire Department
+4935 - Tecumseh Police Department
+4936 - TEKONSHA Fire Department
+4937 - TEMPLE Volunteer Fire Department
+4938 - TEXAS Township Fire Department
+6989 - Thetford Twp. Police Dept.
+4410 - Third District Fugutive Team
+109926 - Third District Headquarters
+4939 - THOMAS Township Fire Department
+4940 - Thomas Township Police Department
+4941 - THOMPSONVILLE Volunteer Fire Department
+4942 - THREE OAKS Fire Department
+4943 - Three Oaks Police Department
+4944 - THREE RIVERS Fire Department
+4945 - Three Rivers Police Department
+4946 - Tittabawassee Fire Department
+4947 - Tittabawassee Twp. Police Department
+14509951 - Tobacco Tax Enforcement Team – 6th District
+14509977 - Tobacco Tax Unit, 8th District
+4948 - Torch Lake Twp Fire Dept.
+110102 - Town of Greece Police Department
+4949 - Toxicology Testing Center
+4950 - Transportation Security Administration ANDERSON
+4951 - TRAVERSE CITY Fire Department
+4952 - Traverse City Police Department
+4463 - Traverse City Post
+109922 - Trenton Fire Department
+4953 - Trenton Police Department
+4954 - TRI CITY AIRPORT Fire Department
+4955 - Tri County Metro
+4956 - Tri Town Fire Department
+4957 - Tri Township Fire Department
+4958 - Tri Unit Fire Department
+110131 - Tri-City Post
+4959 - Tri-Net
+14509975 - Trident Narcotics Taskforce
+4960 - Troy Fire Department
+4961 - Troy Police Department
+4962 - Trufant Community Fire Department
+14509998 - TSA-Office of Inpsection
+14509997 - TSA-OFFICE OF INSPECTION
+4963 - Tuscarora Township Police Department
+4964 - Tuscarora Township Volunteer Fire Department
+4965 - Tuscola County Medical Examiner
+4966 - Tuscola County Prosecutor's Office
+4967 - Tuscola County Sheriff Department
+4968 - Tustin Area Fire Department
+4969 - Twin Lakes Fire Department
+4468 - U.N.I.T.
+4377 - U.P.S.E.T.
+14509963 - U.P.S.E.T. East
+110130 - U.S. Customs and Border Protection-Detroit
+109977 - U.S. Department of Housing and Urban Development
+110090 - U.S. Immigrations & Customs Enforcement
+4970 - UAW EDUCATION CENTER Fire Department
+4971 - Ubly Police Department
+4973 - Unadilla Township Fire Department
+4974 - Unadilla Township Police Department
+4975 - Unemployment Agency
+14509985 - Unified Police Department
+4976 - Union City Fire Department
+4977 - Union City Police Department
+4978 - Unionville Fire Department
+4979 - Unionville Police Department
+4981 - United States Attorney's Office-Bay City
+4982 - United States Attorney's Office-Grand Rapids
+110006 - United States Attorney's Office-Marquette
+4983 - United States Border Patrol-Detroit
+109944 - United States Border Patrol-Gibraltar
+4984 - United States Border Patrol-Sault Ste. Marie
+4991 - United States Bureau of Indian Affairs
+4992 - United States Coast Guard-Grand Rapids
+110117 - United States Coast Guard- Selfridge
+4993 - United States Customs Service-Detroit
+4998 - United States Department of Agriculture-Forest Service
+4997 - United States Department of Agriculture-OIG
+110004 - United States Department of Homeland Security-Dearborn
+4999 - United States Department of Homeland Security-Detroit
+5000 - United States Department of Homeland Security-Port Huron
+109979 - United States Department of Homeland Security-Selfridge
+12709932 - United States Department of Justice-Office of the Inspector General
+5002 - United States Department of Treasury
+5009 - United States Environmental Protection Agency
+5010 - United States Federal Witness Protection Service
+5011 - United States Fish & Wildlife Service
+5012 - United States Fish & Wildlife Service
+14509931 - United States Forest Service-Cadillac
+109961 - United States Forest Service-Escanaba
+5013 - United States Forest Service-Harrisville
+5014 - United States Forest Service-Huber
+5015 - United States Forest Service-Manistee
+5016 - United States Forest Service-Oscoda
+14509953 - United States Forest Service Investigation Unit-Munising
+4995 - United States I.C.E.-Grand Rapids-Airport
+4994 - United States I.C.E.-Grand Rapids-Ottawa
+4996 - United States I.C.E.-Sault Ste. Marie
+5017 - United States Immigration and Naturalization Service-Detroit
+5018 - United States Marshal Service-Bay City
+5019 - United States Marshal Service-Detroit
+5020 - United States Marshal Service-Flint
+5021 - United States Marshal Service-Grand Rapids
+5022 - United States N.C.I. Service
+109971 - United States National Parks Service-Isle Royale
+509930 - United States National Parks Service-Munising
+5023 - United States Postal Inspection Service-Detroit
+5024 - United States Postal Inspection Service-Grand Rapids
+509967 - United States Postal Inspection Service- Allen Park
+5025 - United States Postal Service
+5026 - United States Probation and Parole
+5027 - United States Secret Service-Detroit
+5028 - United States Secret Service-Flint
+5029 - United States Secret Service-Grand Rapids
+5030 - United States Secret Service-Saginaw
+5031 - University of Michigan-Ann Arbor Department of Public Safety
+5032 - University of Michigan Hospital
+5033 - University of Michigan-Flint Department of Public Safety
+0 - Unknown
+109980 - US Army Criminal Investigation Laboratory
+110129 - US Department of Labor
+110091 - USAG Detroit Arsenal
+5034 - Utica Fire Department
+5035 - Utica Police Department
+509950 - Van Buren County Medical Examiner
+110078 - Van Buren County Prosecuting Attorney
+5036 - Van Buren County Sheriff Department
+5037 - Van Buren Township Fire Department
+5038 - Van Buren Township Police Department
+5039 - Vanderbilt Fire Department
+5040 - Vassar Fire Department
+5041 - Vassar Police Department
+5042 - Venice Township Fire Department
+5043 - Vermontville Fire Department
+5044 - Vernon Police Department
+5045 - Vernon Township Fire Department
+110110 - Veterans Administration Medical Center-Ann Arbor
+5046 - Veterans Administration Medical Center-Battle Creek
+110010 - Veterans Administration Medical Center-Saginaw
+5047 - VFW Home Fire Department
+5048 - Vicksburg Fire Department
+5049 - Vicksburg Police Department
+5050 - Vienna Township Fire Department
+5051 - Village of Cassopolis Police Department
+5052 - W.E.M.E.T.
+4369 - W.E.M.E.T.-Grand Haven
+4371 - W.E.M.E.T.-Grand Rapids
+4464 - Wakefield Post
+5053 - Waldron Fire Department
+5054 - Walker City Fire Department
+5055 - Walker Police Department
+5056 - Walkerville Area Fire Department
+5057 - Walkerville Police Department
+5058 - Walled Lake Fire Department
+5059 - Walled Lake Police Department
+5060 - Warren Fire Department
+5061 - Warren Police Department
+5062 - Washington Township Fire Department
+5063 - Washtenaw County Medical Examiner
+110079 - Washtenaw County Prosecuting Attorney
+5064 - Washtenaw County Sheriff Department
+5065 - Waterford Fire Department
+5066 - Waterford Township Police Department
+5067 - Waterloo Township Police Department
+5068 - Watertown Township Police Department
+5069 - Watervliet Fire Department
+5070 - Watervliet Police Department
+5071 - Wayland Fire Department
+5072 - Wayland Police Department
+4466 - Wayland Post
+5073 - Wayne County Airport Police Department
+5074 - Wayne County Medical Examiner
+5075 - Wayne County Police Department
+5076 - Wayne County Prosecutor's Office
+109965 - Wayne County Sheriff Department-Marine Division
+5077 - Wayne County Sheriff's Department-Detroit
+5078 - Wayne County Sheriff's Department-Highland Park
+5079 - Wayne County Sheriff's Department-Westland
+5080 - Wayne County Sheriff's Department Internal Affairs Section
+5081 - Wayne County Task Force
+5082 - Wayne Fire Department
+5083 - Wayne Police Department
+5084 - Wayne State University Police Department
+5085 - Webber Township Fire Department
+9733 - Webberville Police Dept.
+5086 - Weesaw Township Fire Department
+5087 - Weesaw Township Police Department
+5088 - West Bloomfield Fire Department
+5089 - West Bloomfield Township Police Department
+5090 - West Branch Police Department
+4469 - West Branch Post
+5091 - Western Michigan University Police Department
+4407 - Western Wayne Narcotics
+5092 - Westland Fire Department
+5093 - Westland Police Department
+5094 - Westphalia Fire Department
+5095 - Westwood Fire Department
+509951 - Wexford County Medical Examiner
+110080 - Wexford County Prosecuting Attorney
+5096 - Wexford County Sheriff Department
+5097 - Wheatland Township Fire Department
+5098 - White Cloud Fire Department
+5099 - White Cloud Police Department
+5100 - White Lake Fire Authority
+5101 - White Lake Township Fire Department
+5102 - White Lake Township Police Department
+5103 - White Pigeon Fire Department
+5104 - White Pigeon Police Department
+4471 - White Pigeon Post
+5105 - Whitefish Township Volunteer Fire Department
+5106 - Whiteford Township Volunteer 2 Fire Department
+5107 - Whitehall Fire Department
+5108 - Whitehall Police Department
+5109 - Whitney Township Fire Department
+5110 - Wildwood Fire Association INC
+5111 - Williamston Fire Department
+5112 - Williamston Police Department
+5113 - Wilson Township Fire Department
+5114 - Windsor Township Fire Department
+5115 - Winsor Township Fire Department
+5116 - Wixom Fire Department
+5117 - Wixom Police Department
+5118 - Wolverine Fire Department
+5119 - Wolverine Lake Police Department
+5120 - Woodbridge Township Fire Department
+5121 - Woodhaven Police Department
+5122 - Woodland Township Fire Department
+5123 - Woodland Township Police Department
+5124 - Woodstock Township Police Department
+5125 - WRIGHT AND TALLMADGE Fire Department
+509931 - Wyandotte Fire Department
+5126 - Wyandotte Police Department
+5127 - Wyoming Fire Department
+5128 - Wyoming Police Department
+5129 - Yale Fire Department
+5130 - Yale Police Department
+110119 - Youngstown Police Department
+5131 - Ypsilanti Fire Department
+5132 - Ypsilanti Police Department
+4474 - Ypsilanti Post
+5133 - Ypsilanti Township Fire Department
+5134 - Zeeland Fire Department
+5135 - Zeeland Police Department
+5136 - Zilwaukee Police Department

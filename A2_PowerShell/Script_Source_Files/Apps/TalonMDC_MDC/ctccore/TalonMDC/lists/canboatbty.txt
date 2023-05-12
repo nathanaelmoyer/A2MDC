@@ -1,0 +1,6 @@
+~<BLANK>
+HOUSE - Houseboat
+POWER - Powerboat(< 15m long with living cabin)
+RUN   - Runabout(Canoe,Kayak,rowboat,skiff,airboat)
+SAIL  - Sailboat
+OT    - All Others (describe in MIS field) 

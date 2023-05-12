@@ -1,0 +1,366 @@
+~<BLANK>
+AERO	1J - Single Engine Jet
+AERO	2J - Twin-Engine Jet
+AERO	3J - Tri-Engine Jet
+AERO	MJ - Multi-Engine Jet
+AERO	1P - Single Engine Prop
+AERO	2P - Twin-Engine Prop
+AERO	3P - Tri-Engine Prop
+AERO	MP - Multi-Engine Prop
+AERO	BP - Blimp
+AERO	SA - Glider / Sailplane
+AERO	HP - Helicopter
+AERO	HA - Hot Air Balloon
+AERO	UL - Ultralight / Hang Glider
+ATV	EB - Enclosed Body (Removeable Enclosure)
+ATV	EN - Enclosed Body (Non-Removeable Enclosure)
+ATV	MV - Multi-wheeled vehicle
+ATV	OP - Open Body
+AUTO	2D - Two Door
+AUTO	2H - 2-Door Hatchback(DO NOT USE retired in 2002)
+AUTO	2T - 2-Door Hardtop(DO NOT USE retired in 2002)
+AUTO	4D - Four Door
+AUTO	4H - 4-Door Hatchback(DO NOT USE retired in 2002)
+AUTO	4T - 4-Door Hardtop(DO NOT USE retired in 2002)
+AUTO	AM - Ambulance
+AUTO	CH - Coach(DO NOT USE retired in 2002)
+AUTO	CP - Coupe(DO NOT USE retired in 2002)
+AUTO	CV - Convertible
+AUTO	HB - Hatchback (3-Door)(DO NOT USE retired in 2002)
+AUTO	HR - Hearse
+AUTO	HT - Hardtop(DO NOT USE retired in 2002)
+AUTO	LM - Limousine
+AUTO	RD - Roadster(DO NOT USE retired in 2002)
+AUTO	RH - Retractable HT(DO NOT USE retired in 2002)
+AUTO	SD - Sedan (Use this code only if the number of doors is unknown or if no other code applies.)
+AUTO	2D - Sedan, 2-door
+AUTO	4D - Sedan, 4-door 
+AUTO	SW - Station Wagon
+AUTO	TO - Touring Car(DO NOT USE retired in 2002)
+CE	3D - 3 Door
+CE	AE - Aerial Platform
+CE	AI - Air Compressor
+CE	AM - Ambulance
+CE	AR - Armored Truck
+CE	AD - Asphalt Distributor
+CE	BA - Bulk Agriculture
+CE	BC - Brush or Wood Chipper
+CE	BD - Bulldozer
+CE	BG - Buggy, Concrete
+CE	BH - Backhoe
+CE	BK - Backhoe / Loader
+CE	BR - Beverage Rack
+CE	BU - Bus
+CE	CB - Chassis & Cab
+CE	CE - Const Eq-No Style Code
+CE	CI - Corn Picker
+CE	CK - Cotton Picker
+CE	CM - Concrete Mixer
+CE	CO - Combine, Self-Propelled
+CE	CR - Crane
+CE	CZ - Cotton Stripper
+CE	DE - Detasseling Equipment
+CE	DI - Potato Digger
+CE	DP - Dump
+CE	DR - Drill, Rock
+CE	DS - Tractor Truck (Diesel)
+CE	EX - Excavator (Digger)
+CE	FD - Field Chopper
+CE	FS - Fertilizer Spreader
+CE	FT - Fire Truck
+CE	FB - Flat Bed
+CE	FR - Flat Rack
+CE	FC - Floatation Chassis
+CE	FL - Fork Lift
+CE	GD - Grader
+CE	GE - Generator
+CE	GG - Garbage / Refuse
+CE	GN - Grain
+CE	GR - Glass Rack
+CE	HD - Hydraulic Dump, Port.
+CE	HL - Hay Bale Loader
+CE	HM - Hammer
+CE	HO - Hopper
+CE	HV - Harvester
+CE	HY - Hay Baler
+CE	LD - Loader
+CE	LF - Lift Boom (Persons)
+CE	LG - Log
+CE	LK - Log Skidder
+CE	LL - Carryall (E.G. Blazer/Bronco/Jeep/Etc.)
+CE	LS - Livestock Rack
+CE	LW - Lunch Wagon
+CE	MF - Farm Eq-No Style Code
+CE	MH - Motor Home
+CE	MO - Mower-Riding Lawn/Garden Tractor (<20HP)
+CE	MR - Mower-Conditioner
+CE	PK - Pickup
+CE	PL - Pallett
+CE	PM - Pickup w/Mounted Camper
+CE	PR - Prime Mover (Packer)
+CE	PV - Paver (Surfacer)
+CE	DI - Potato Digger
+CE	RF - Refrigerated Van
+CE	RO - Roller
+CE	SC - Scraper
+CE	SH - Shovel
+CE	SI - Striper
+CE	SO - Snow Removal
+CE	SS - Street Sweeper
+CE	ST - Stake or Rack
+CE	SY - Sprayer
+CE	SZ - Saw
+CE	TA - Tree Harvester
+CE	TC - Tractor (Track Type)
+CE	TF - Tractor (Farm/Wheels Type >20HP)
+CE	TH - Trencher
+CE	TN - Tank
+CE	TR - Tractor Truck (Gas)
+CE	TT - Tow Truck / Wrecker
+CE	VA - Vacuum Cleaner
+CE	VC - Van Camper
+CE	VN - Van
+CE	VT - Vanette
+CE	WE - Welder
+CE	WD - Well Driller
+CE	WN - Windrower
+CE	WS - Wood Splitter
+CYC	MK - Mini Bike
+CYC	MY - Minicycle
+CYC	MD - Moped
+CYC	MB - Motorbike
+CYC	MC - Motorcycle
+CYC	MS - Motorscooter
+CYC	MV - Multi-Wheel
+FE	3D - 3 Door
+FE	AE - Aerial Platform
+FE	AI - Air Compressor
+FE	AM - Ambulance
+FE	AR - Armored Truck
+FE	AD - Asphalt Distributor
+FE	BA - Bulk Agriculture
+FE	BC - Brush or Wood Chipper
+FE	BD - Bulldozer
+FE	BG - Buggy, Concrete
+FE	BH - Backhoe
+FE	BK - Backhoe / Loader
+FE	BR - Beverage Rack
+FE	BU - Bus
+FE	CB - Chassis & Cab
+FE	CE - Const Eq-No Style Code
+FE	CI - Corn Picker
+FE	CK - Cotton Picker
+FE	CM - Concrete Mixer
+FE	CO - Combine, Self-Propelled
+FE	CR - Crane
+FE	CZ - Cotton Stripper
+FE	DE - Detasseling Equipment
+FE	DI - Potato Digger
+FE	DP - Dump
+FE	DR - Drill, Rock
+FE	DS - Tractor Truck (Diesel)
+FE	EX - Excavator (Digger)
+FE	FD - Field Chopper
+FE	FS - Fertilizer Spreader
+FE	FT - Fire Truck
+FE	FB - Flat Bed
+FE	FR - Flat Rack
+FE	FC - Floatation Chassis
+FE	FL - Fork Lift
+FE	GD - Grader
+FE	GE - Generator
+FE	GG - Garbage / Refuse
+FE	GN - Grain
+FE	GR - Glass Rack
+FE	HD - Hydraulic Dump, Port.
+FE	HL - Hay Bale Loader
+FE	HM - Hammer
+FE	HO - Hopper
+FE	HV - Harvester
+FE	HY - Hay Baler
+FE	LD - Loader
+FE	LF - Lift Boom (Persons)
+FE	LG - Log
+FE	LK - Log Skidder
+FE	LL - Carryall (E.G. Blazer/Bronco/Jeep/Etc.)
+FE	LS - Livestock Rack
+FE	LW - Lunch Wagon
+FE	MF - Farm Eq-No Style Code
+FE	MH - Motor Home
+FE	MO - Mower-Riding Lawn/Garden Tractor (<20HP)
+FE	MR - Mower-Conditioner
+FE	PK - Pickup
+FE	PL - Pallett
+FE	PM - Pickup w/Mounted Camper
+FE	PR - Prime Mover (Packer)
+FE	PV - Paver (Surfacer)
+FE	DI - Potato Digger
+FE	RF - Refrigerated Van
+FE	RO - Roller
+FE	SC - Scraper
+FE	SH - Shovel
+FE	SI - Striper
+FE	SO - Snow Removal
+FE	SS - Street Sweeper
+FE	ST - Stake or Rack
+FE	SY - Sprayer
+FE	SZ - Saw
+FE	TA - Tree Harvester
+FE	TC - Tractor (Track Type)
+FE	TF - Tractor (Farm/Wheels Type >20HP)
+FE	TH - Trencher
+FE	TN - Tank
+FE	TR - Tractor Truck (Gas)
+FE	TT - Tow Truck / Wrecker
+FE	UV - Utility vehicle (Commonly ref to as: GATOR, MULE, etc.)
+FE	VA - Vacuum Cleaner
+FE	VC - Van Camper
+FE	VN - Van
+FE	VT - Vanette
+FE	WE - Welder
+FE	WD - Well Driller
+FE	WN - Windrower
+FE	WS - Wood Splitter
+SNO	EB - Enclosed Body (Removeable Enclosure)
+SNO	EN - Enclosed Body (Non-Removeable Enclosure)
+SNO	MV - Multi-wheeled vehicle
+SNO	OP - Open Body
+SPEC	EB - Enclosed Body (Removeable Enclosure)
+SPEC	EN - Enclosed Body (Non-Removeable Enclosure)
+SPEC	MV - Multi-wheeled vehicle
+SPEC	OP - Open Body
+TL	AC - Auto Carrier
+TL	TD - Auto Tow Dolly
+TL	DY - Auxiliary Dolly
+TL	BA - Bulk Agriculture
+TL	BC - Brush or Wood Chipper
+TL	BT - Boat
+TL	CG - Converter Gear
+TL	CT - Camping
+TL	SB - Cooking Trailer
+TL	CT - Travel
+TL	DY - Auxiliary Dolly
+TL	FB - Flat Bed
+TL	FT - Fire Truck
+TL	GA - Gondola/Wagon/Cart/Box Trailer
+TL	GE - Generator
+TL	GN - Grain
+TL	HE - Horse
+TL	HD - Hydraulic
+TL	HO - Hopper
+TL	HS - House
+TL	LB - Low Boy
+TL	LP - Logging/Pole
+TL	LS - Livestock
+TL	MT - Motorcycle
+TL	PT - Passenger Tram or Trailer
+TL	RF - Refrig Van
+TL	SE - Semi, Body Style Unknown
+TL	SM - Snowmobile
+TL	ST - Stake Rack Splitter
+TL	TE - Tent
+TL	TD - Tow Dolly, Auto
+TL	TN - Tanker
+TL	UT - Utility
+TL	VN - Van
+TL	WS - Wood
+TK	3D - 3 Door
+TK	4D - 4 Door
+TK	AE - Aerial Platform
+TK	AI - Air Compressor
+TK	AM - Ambulance
+TK	AR - Armored Truck
+TK	AD - Asphalt Distributor
+TK	BA - Bulk Agriculture
+TK	BC - Brush or Wood Chipper
+TK	BD - Bulldozer
+TK	BG - Buggy, Concrete
+TK	BH - Backhoe
+TK	BK - Backhoe / Loader
+TK	BR - Beverage Rack
+TK	BU - Bus
+TK	CB - Chassis & Cab
+TK	CE - Const Eq-No Style Code
+TK	CI - Corn Picker
+TK	CK - Cotton Picker
+TK	CM - Concrete Mixer
+TK	CO - Combine, Self-Propelled
+TK	CR - Crane
+TK	CZ - Cotton Stripper
+TK	DE - Detasseling Equipment
+TK	DI - Potato Digger
+TK	DP - Dump
+TK	DR - Drill, Rock
+TK	DS - Tractor Truck (Diesel)
+TK	EX - Excavator (Digger)
+TK	FD - Field Chopper
+TK	FS - Fertilizer Spreader
+TK	FT - Fire Truck
+TK	FB - Flat Bed
+TK	FR - Flat Rack
+TK	FC - Floatation Chassis
+TK	FL - Fork Lift
+TK	GD - Grader
+TK	GE - Generator
+TK	GG - Garbage / Refuse
+TK	GN - Grain
+TK	GR - Glass Rack
+TK	HD - Hydraulic Dump, Port.
+TK	HL - Hay Bale Loader
+TK	HM - Hammer
+TK	HO - Hopper
+TK	HV - Harvester
+TK	HY - Hay Baler
+TK	LD - Loader
+TK	LF - Lift Boom (Persons)
+TK	LG - Log
+TK	LK - Log Skidder
+TK	LL - Carryall (E.G. Blazer/Bronco/Jeep/Etc.)
+TK	LS - Livestock Rack
+TK	LW - Lunch Wagon
+TK	MF - Farm Eq-No Style Code
+TK	MH - Motor Home
+TK	MO - Mower-Riding Lawn/Garden Tractor (<20HP)
+TK	MR - Mower-Conditioner
+TK	PK - Pickup
+TK	PL - Pallett
+TK	PM - Pickup w/Mounted Camper
+TK	PR - Prime Mover (Packer)
+TK	PV - Paver (Surfacer)
+TK	DI - Potato Digger
+TK	RF - Refrigerated Van
+TK	RO - Roller
+TK	SC - Scraper
+TK	SH - Shovel
+TK	SI - Striper
+TK	SO - Snow Removal
+TK	SS - Street Sweeper
+TK	ST - Stake or Rack
+TK	SY - Sprayer
+TK	SZ - Saw
+TK	TA - Tree Harvester
+TK	TC - Tractor (Track Type)
+TK	TF - Tractor (Farm/Wheels Type >20HP)
+TK	TH - Trencher
+TK	TN - Tank
+TK	TR - Tractor Truck (Gas)
+TK	TT - Tow Truck / Wrecker
+TK	VA - Vacuum Cleaner
+TK	VC - Van Camper
+TK	VN - Van
+TK	VT - Vanette
+TK	WE - Welder
+TK	WD - Well Driller
+TK	WN - Windrower
+TK	WS - Wood Splitter
+BOAT	AP - Air Propeller
+BOAT	CF - Certificate of Origin
+BOAT	CT - Certificate of Title
+BOAT	EN - Inboard Engine
+BOAT	MA - Mast
+BOAT	OB - Outboard Motor
+BOAT	OD - Outdrive (includes jet pumps)
+BOAT	PO - Propeller
+BOAT	SL - Sail
+BOAT	SN - Spinnaker
+BOAT	BX - Unpublished Boat Part

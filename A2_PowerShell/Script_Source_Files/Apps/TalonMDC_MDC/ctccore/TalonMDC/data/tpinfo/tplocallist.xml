@@ -1,0 +1,64 @@
+<TalonPointList>
+	  <MultiBridges>
+	    <Group Name="DAHLocal">
+	      <MBNames>
+		    MB-dahadsall
+	      </MBNames>
+	    </Group>
+	  </MultiBridges>
+	<TalonPoints>
+		<TalonPoint Name="CLEMIS RMS">
+			<Access>
+				<Allow>MB-dahadsall</Allow>
+				<Deny/>
+			</Access>
+			<Description>CLEMIS RMS queries returns Person, Address and Incident data.</Description>
+			<Properties>
+				<SiteInfo>
+					<AgencyName>CLEMIS</AgencyName>
+					<Location>
+						<State>MI</State>
+						<Region>2</Region>
+					</Location>
+				</SiteInfo>
+				<Tags>
+					<Tag>RMS</Tag>
+					<Tag>Region 2</Tag>
+					<Tag>Vehicle</Tag>
+					<Tag>Address</Tag>
+					<Tag>Property</Tag>
+				</Tags>
+			</Properties>
+			<SupportedQueries>
+				<SupportedQuery>Person</SupportedQuery>
+				<SupportedQuery>Property</SupportedQuery>
+				<SupportedQuery>Vehicle</SupportedQuery>
+				<SupportedQuery>Address</SupportedQuery>
+				<SupportedQuery>Investigative</SupportedQuery>
+			</SupportedQueries>
+		</TalonPoint>
+		<TalonPoint Name="CLEMIS JMS">
+			<Access>
+				<Allow>DAHLocal</Allow>
+				<Deny/>
+			</Access>
+			<Description>CLEMIS JMS queries returns Person, Address and Incident data.</Description>
+			<Properties>
+				<SiteInfo>
+					<AgencyName>CLEMIS</AgencyName>
+					<Location>
+						<State>MI</State>
+						<Region>2</Region>
+					</Location>
+				</SiteInfo>
+				<Tags>
+					<Tag>JMS</Tag>
+					<Tag>Region 2</Tag>
+				</Tags>
+			</Properties>
+			<SupportedQueries>
+				<SupportedQuery>Person</SupportedQuery>
+			</SupportedQueries>
+		</TalonPoint>
+	</TalonPoints>
+</TalonPointList>

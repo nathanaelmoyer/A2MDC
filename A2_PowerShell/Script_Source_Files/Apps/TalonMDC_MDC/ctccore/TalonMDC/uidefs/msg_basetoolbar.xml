@@ -1,0 +1,9 @@
+<Controls>
+	<Separator/>
+	<Button ValidState="1" Image="printer.png" Label="Print" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="Quick Print" ExecCode="23008" />
+	<Button ValidState="6" Image="copy.png" Label="Copy" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="Copy" ExecCode="4023" />
+	<Button ValidState="4" Image="detail.png" Label="Open" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="Expand selected item into its own window"	ExecCode="23050" />    		
+	<Button ValidState="4" Image="lastform.png" Label="Last Form" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="Last Form"	ExecCode="23036" />    		
+</Controls>
+<Events>
+</Events>

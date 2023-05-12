@@ -1,0 +1,7 @@
+~<BLANK>
+SAIL  - Sail Only
+INB   - Inboard (Incl Inboard-Outboard)
+INOUT - Sail with Inboard Power
+OUTB  - Outboard
+OT    - Other(oars,paddles -clarify in MIS)
+

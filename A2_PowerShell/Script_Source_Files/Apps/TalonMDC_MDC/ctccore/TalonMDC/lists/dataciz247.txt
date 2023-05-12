@@ -1,0 +1,346 @@
+|<BLANK>
+7	AF - Afghanistan  
+7	-- - Africa (AC for reference only)  
+7	AA - Albania  
+7	AN - Algeria  
+7	YY - All others   (use the code YY for any country/ dependency/territory not included in this listing)   
+7	AD - Andorra  
+7	AO - Angola  
+7	AE - Anguilla (dependent territory of   United Kingdom) 
+7	AE - Anguilla (now separate)
+7	-- - Antarctica (AY for reference only)  
+7	AI - Antigua and Barbuda  (formerly Antigua)  
+7	AT - Argentina  
+7	AP - Armenia  
+7	AJ - Aruba (now independent of Netherlands Antilles)  
+7	AH - Ashmore and Cartier Islands, Territory  of (Australian external territory)   
+7	AS - Australia  
+7	AU - Austria  
+7	AV - Azerbaijan  
+7	AQ - Azores Islands  
+7	BD - Bahamas, The  
+7	BE - Bahrain/Bahrein  
+7	BW - Balearic Islands  
+7	BL - Bangladesh  
+7	BB - Barbados  
+7	AI - Barbuda, Antigua and   (formerly Antigua)  
+7	BF - Bassas Da India (French possession)  
+7	BY - Belarus
+7	BG - Belgium  
+7	BH - Belize (formerly British Honduras)  
+7	DH - Benin (formerly Dahomey)  
+7	BM - Bermuda (dependent territory of United Kingdom)  
+7	BN - Bhutan  
+7	BV - Bolivia  
+7	NX - Bonaire (Netherlands Antilles)  
+7	BP - Bosnia and Herzegovina  
+7	BT - Botswana  
+7	BQ - Bouvet Island (Norwegian territory)  
+7	BZ - Brazil  
+7	BH - British Honduras (now Belize)  
+7	BO - British Indian Ocean Territory   (Dependent territory of United Kingdom)  
+7	BS - British Solomon Islands  (now Solomon Islands)  
+7	VB - British Virgin Islands  
+7	BX - Brunei  
+7	BU - Bulgaria  
+7	UV - Burkina Faso (known as Burkina,   formerly Upper Volta)  
+7	BR - Burma  
+7	BI - Burundi  
+7	BY - Byelarus  
+7	CJ - Cambodia (formerly Khmer Republic  & Kampuchea)  
+7	CM - Cameroon  
+7	CD - Canada   (see separate list of Canadian Provinces; use code CD only when province is unknown)  
+7	ZI - Canary Islands  
+7	CV - Cape Verde Islands  
+7	CP - Cayman Islands (Dependent territory of United Kingdom)  
+7	CW - Central African Republic  
+7	CY - Ceylon (now Sri Lanka)  
+7	CF - Chad  
+7	CQ - Chile, Republic of  
+7	-- - China (CN for reference only)  
+7	HR - Christmas Island, Territory of (Australian external territory)    
+7	DB - Clipperton Island (French possession)  
+7	DD - Cocos (Keeling) Islands, Territory of   (Australian territory)  
+7	CB - Colombia, Republic of  
+7	DG - Comoros, Federal Islamic  
+7	ZR - Congo Kinshasa, now Zaire  
+7	DI - Cook Islands  
+7	DJ - Coral Sea Islands, Territory of   (Australian external territory)  
+7	CR - Costa Rica, Republic of  
+7	IY - Côte d’Ivoire, Republic of   (Ivory Coast) 
+7	KC - Croatia  
+7	CC - Cuba, Republic of  
+7	NX - Curacao (Netherlands Antilles)  
+7	CS - Cyprus, Republic of  
+7	EZ - Czech Republic  
+7	-- - Czechoslovakia (CK for reference only)  
+7	DH - Dahomey (now Benin)  
+7	DK - Denmark, Kingdom of  
+7	DN - Djibouti, Republic of  
+7	DM - Dominica  
+7	DR - Dominican Republic  
+7	PC - Ducie Islands (DU for reference only; see Pitcairn, Henderson, Ducie, and Oeno Islands) 
+7	-- - East Germany   (German Democratic Republic,  1945-1989; EM for reference only)  
+7	EU - Ecuador  
+7	EY - Egypt (formerly United Arab Republic)  
+7	EL - El Salvador  
+7	-- - Ellice and Gilbert Islands (GL forreference only) 
+7	TV - Ellice Islands (now Tuvalu)  
+7	TV - Ellice Islands (now Tuvalu)  
+7	TV - Ellice Islands now Tuvalu  
+7	EN - England  
+7	EK - Equatorial Guinea  
+7	ET - Eritrea  
+7	ES - Estonia  
+7	EO - Ethiopia  
+7	ER - Europa Island (French possession)  
+7	FA - Falkland Islands, Colony of the   (Islas Malvinas)  
+7	FO - Faroe Islands  
+7	-- - Federal Republic of Germany (West Germany, 1945-1989; WG  for reference only)
+7	FJ - Fiji  
+7	FD - Finland  
+7	FN - France  
+7	FG - French Guiana (Department of Guiana)  
+7	FP - French Polynesia, Territory of   (French overseas territory)  
+7	FR - French Southern and Antarctic Lands,  Territory of the (French overseas territory)
+7	GB - Gabon  
+7	GK - Gambia, The  
+7	GZ - Gaza  
+7	GD - Georgia (formerly Gruzinskaya)  
+7	-- - German Democratic Republic   (East Germany, 1945-1989; EM for reference only)   
+7	GE - Germany   
+7	GG - Ghana  
+7	RG - Gibraltar (dependent territory of United Kingdom)  
+7	-- - Gilbert and Ellice Islands  (GL for reference only) 
+7	KB - Gilbert Islands (now Kiribati)  
+7	KB - Gilbert Islands (now Kiribati)  
+7	KB - Gilbert Islands now Kiribati  
+7	GO - Glorioso Islands (French possession)  
+7	-- - Great Britain (see England, Scotland, Wales, Northern Ireland)    
+7	GC - Greece  
+7	GN - Greenland  
+7	GJ - Grenada  
+7	GP - Guadeloupe, Department of  
+7	GT - Guatemala  
+7	GF - Guernsey, Bailiwick of (British Crown dependency)   
+7	FG - Guiana, French  
+7	GI - Guinea  
+7	PG - Guinea-Bissau (formerly Portugese Guinea)    
+7	GY - Guyana  
+7	HT - Haiti  
+7	HE - Heard Island and McDonald Islands, Territory of (Australian external territory)   
+7	BP - Herzegovina, Bosnia and (HC for reference only)   
+7	NE - Holland (Netherlands)  
+7	HD - Honduras  
+7	HK - Hong Kong  
+7	HU - Hungary  
+7	IC - Iceland  
+7	II - India  
+7	IO - Indonesia (now includes Portugese Timor)    
+7	IR - Iran  
+7	IQ - Iraq  
+7	IE - Ireland (does not include Northern Ireland; see Northern Ireland)   
+7	FA - Islas Malvinas (Falkland Islands)  
+7	IB - Isle of Man  
+7	IS - Israel  
+7	IT - Italy (includes Sicily and Sardinia)  
+7	IY - Ivory Coast (Côte d’Ivoire)  
+7	JM - Jamaica  
+7	JN - Jan Mayen (Norweigan territory)  
+7	JA - Japan  
+7	JE - Jersey, Bailiwick of (British Crown dependency)    
+7	JO - Jordan  
+7	JU - Juan de Nova Island  
+7	CJ - Kampuchea (now Cambodia)  
+7	KT - Kazakhstan  
+7	DD - Keeling (Cocos) Islands   (Australian dependency)  
+7	KE - Kenya  
+7	CJ - Khmer Republic (now Cambodia)  
+7	KB - Kiribati (formerly Gilbert Islands)  
+7	-- - Korea (KR for reference only) 
+7	KV - Kosovo  
+7	KU - Kuwait  
+7	KZ - Kyrgyzstan  
+7	NF - Labrador (included in Newfoundland)  
+7	LS - Laos  
+7	LT - Latvia  
+7	LN - Lebanon  
+7	LE - Lesotho  
+7	LB - Liberia  
+7	LY - Libya  
+7	LI - Liechtenstein  
+7	LH - Lithuania  
+7	LX - Luxembourg  
+7	OC - Macao (now spelled Macau)  
+7	OC - Macau (formerly spelled Macao)  
+7	ZD - Macedonia  
+7	MP - Madagascar (included in Malagasy Republic)  
+7	IM - Madeira Islands  
+7	MP - Malagasy Republic (includes Madagascar)   
+7	MF - Malawi  
+7	MZ - Malaysia  
+7	MV - Maldives  
+7	ML - Mali  
+7	MY - Malta  
+7	IB - Man, Isle of (British Crown dependency)  
+7	KH - Manahiki Island  
+7	ZB - Martinique  
+7	MU - Mauritania  
+7	UM - Mauritius  
+7	YO - Mayotte, Territorial Collectivity of  
+7	HE - McDonald Island and Heard Island  
+7	MM - Mexico   (see separate list of Mexican States; use code MM only when state is unknown)      
+7	FS - Micronesia, Federated States of  
+7	LD - Moldova  
+7	MJ - Monaco  
+7	MG - Mongolia 
+7	XB - Montenegro  
+7	RR - Montserrat (dependent territory of United Kingdom)    
+7	MR - Morelos
+7	MQ - Morocco  
+7	ZO - Mozambique  
+7	SJ - Namibia (South-West Africa)  
+7	NR - Nauru  
+7	NP - Nepal  
+7	NE - Netherlands (Holland)  
+7	NX - Netherlands Antilles  
+7	TS - Nevis and Saint Christopher (or Saint Kitts) 
+7	NQ - New Caledonia and Dependencies, Territory of (French overseas territory)  
+7	NO - New Guinea (now Papua New Guinea)  
+7	HN - New Hebrides (now Vanuatu)  
+7	NZ - New Zealand  
+7	NU - Nicaragua
+7	NN - Niger 
+7	NG - Nigeria
+7	IU - Niue  
+7	OF - Norfolk Island, Territory of (Australian external territory)  
+7	KN - North Korea  
+7	KN - North Korea  
+7	-- - North Vietnam (VN for reference   only) 
+7	-- - North Vietnam (VN for reference only)  
+7	NI - Northern Ireland  
+7	NW - Norway  
+7	OI - Okinawa  
+7	OM - Oman  
+7	PK - Pakistan  
+7	PD - Palau, Republic of  
+7	PM - Panama
+7	NO - Papua New Guinea (formerly New Guinea)
+7	PF - Paracel Islands
+7	PV - Paraguay  
+7	-- - People’s Democratic Republic of Yemen (ST for reference only )   
+7	-- - People’s Democratic Republic of Yemen (ST for reference only) 
+7	RC - People’s Republic of China  
+7	RC - People's replublic of China
+7	PU - Peru  
+7	PI - Philippines  
+7	PC - Pitcairn, Henderson, Ducie, and Oeno Islands (dependent territory of United Kingdom)
+7	PO - Poland  
+7	FP - Polynesia, French  
+7	PT - Portugal  
+7	PG - Portugese Guinea (now Guinea-Bissau)  
+7	-- - Portugese Timor (now included in Indonesia; TI for reference only)
+7	QA - Qatar
+7	RB - Republic of Congo  
+7	RB - Republic of the Congo (or Republic of Congo)   (CX for reference only) 
+7	RY - Republic of Yemen 
+7	RE - Reunion, Department of  
+7	RH - Rhodesia (now Zimbabwe)  
+7	RU - Romania/Rumania  
+7	RA - Russia (USSR; SX for reference only)  
+7	RF - Russian Federation  
+7	RW - Rwanda  
+7	TS - Saint Christopher (or Saint Kitts) & Nevis  
+7	TS - Saint Christopher (or Saint Kitts) and Nevis  
+7	HS - Saint Helena (dependent territory of United Kingdom)  
+7	TS - Saint Kitts (or Saint Christopher) and Nevis
+7	-- - Saint Kitts-Nevis-Anguilla (AW for reference only)
+7	LU - Saint Lucia
+7	PS - Saint Pierre and Miquelon, Territorial Collectivity of  
+7	VV - Saint Vincent and the Grenadines  
+7	SH - San Marino  
+7	TP - Sao Tome and Principe  
+7	IT - Sardinia (included in Italy)  
+7	SB - Saudi Arabia  
+7	SS - Scotland  
+7	SG - Senegal
+7	XA - Serbia
+7	SE - Seychelles  
+7	IT - Sicily (included in Italy)  
+7	SA - Sierre Leone/Sierra Leone  
+7	II - Sikkim (now code as India; SK for reference only)
+7	SR - Singapore
+7	LF - Slovakia  
+7	LO - Slovenia  
+7	RV - Socialist Republic of Vietnam  
+7	BS - Solomon Islands (formerly British Solomon Islands)
+7	SM - Somalia  
+7	SF - South Africa  
+7	GS - South Georgia and the South Sandwich Islands  
+7	KO - South Korea  
+7	KO - South Korea  
+7	-- - South Vietnam (for reference only)
+7	-- - South Vietnam (VS for reference only)  
+7	-- - Southern Yemen (now Republic of Yemen; ST for reference only)
+7	SJ - South-West Africa (Namibia)  
+7	-- - Soviet Union (USSR; SX for reference only)  
+7	SP - Spain  
+7	RS - Spanish Sahara (now Western Sahara)  
+7	TE - Spratly Islands  
+7	CY - Sri Lanka (formerly Ceylon)  
+7	SU - Sudan  
+7	ZC - Surinam  
+7	SV - Svalbard (Norweigan territory)  
+7	SW - Swaziland  
+7	SQ - Sweden  
+7	SZ - Switzerland  
+7	SY - Syria  
+7	TW - Taiwan,  Republic of China  
+7	TW - Taiwan, Republic of China
+7	TJ - Tajikistan
+7	TZ - Tanzania, United Republic of  
+7	TH - Thailand  
+7	-- - Timor, Portugese (now included in Indonesia; TI for reference only)  
+7	TO - Togo
+7	TK - Tokelau (New Zealand territory)  
+7	TG - Tonga  
+7	TQ - Trinidad and Tobago  
+7	TT - Trinidad and Tobago  
+7	TM - Tromelin Island (French possession)  
+7	TC - Trucial States (now United Arab Emirates)  
+7	TD - Trust Territory of the Pacific Islands
+7	TF - Tuamotu Archipelago
+7	TU - Tunisia  
+7	TY - Turkey  
+7	UR - Turkmenistan  
+7	TR - Turks and Caicos Islands (dependent territory of United Kingdom)  
+7	TV - Tuvalu (formerly Ellice Islands)  
+7	UG - Uganda  
+7	UK - Ukraine  
+7	TC - United Arab Emirates   (formerly Trucial States) 
+7	EY - United Arab Republic   (now code as Egypt; UA for reference only )  
+7	UN - United Kingdom (see England, Scotland, Wales, Northern Ireland)  
+7	US - United States of America (USA)  
+7	XX - Unknown Place of Birth  
+7	UV - Upper Volta (now Burkina Faso)  
+7	UY - Uruguay  
+7	-- - USSR (Soviet Union;   SX for reference only)  
+7	UZ - Uzbekistan, Republic of  
+7	HN - Vanuatu, Republic of   (formerly New Hebrides)  
+7	VY - Vatican City  
+7	VZ - Venezuela, Republic of  
+7	-- - Vietnam (VM for reference only)
+7	RV - Vietnam, Socialist Republic of  
+7	WL - Wales  
+7	WF - Wallis and Futuna, Territory of the   (French overseas territory) 
+7	WB - West Bank  
+7	-- - West Germany   Federal Republic of Germany:   1945-1989 (WG for reference only)  
+7	WN - West Indies (for West Indies Islands not found in this listing)  
+7	RS - Western Sahara, Independent State of (formerly Spanish Sahara)    
+7	WS - Western Samoa  
+7	-- - Yemen Arab Republic (YE for reference only)  
+7	RY - Yemen, Republic of  
+7	YG - Yugoslavia  
+7	ZR - Zaire, Republic of (formerly Congo Kinshasa) 
+7	ZM - Zambia, Republic of
+7	RH - Zimbabwe, Republic of (formerly Rhodesia)

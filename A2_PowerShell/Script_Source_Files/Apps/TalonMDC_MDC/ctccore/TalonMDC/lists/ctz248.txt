@@ -1,0 +1,4 @@
+~<BLANK>
+C - U.S. Citizen
+F - non U.S. Citizen
+N - non U.S. Citizen-No IAQ requested

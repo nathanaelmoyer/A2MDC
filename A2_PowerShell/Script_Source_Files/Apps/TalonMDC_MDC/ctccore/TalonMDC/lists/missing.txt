@@ -1,0 +1,7 @@
+;EMV - Voluntary   //removed per 07/02 LEIN news Bulletin
+EMJ - Runaway Juvenile
+EMD - Disabled
+~EMI - Involuntary
+EME - Endangered
+EMX - Disaster Victim
+EMO - Other

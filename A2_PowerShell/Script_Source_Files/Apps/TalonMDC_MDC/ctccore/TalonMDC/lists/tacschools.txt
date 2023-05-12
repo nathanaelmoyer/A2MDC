@@ -1,0 +1,6 @@
+BASIC     - Basic
+TACSCHOOL - TAC
+UPDATE    - TAC Update Training
+INVEST    - Patrol/Investigation
+TRAINER   - Train-the-Trainer
+OTHER     - Other

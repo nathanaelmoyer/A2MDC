@@ -1,0 +1,13 @@
+1
+G	JS	ProsEDIT	pros/mparr group
+G	KWI	PittsfieldPDORI	Dept ORI
+G	KWJ	PittsfieldEntry	entry config
+G	KWL	PittsfieldTAC	TAC Config group
+G	KWW	PittsfieldQuery/CCH	Query/CCH config
+G	P@O	PittsfieldWW	Pittsfield WW Users
+G	S_I	PittsfieldDesktops	Pittsfield TWP Desktops Computers
+G	SAE	PittsfieldMobile	Pittsfield Mobile ORI
+G	T[@	PortHuronORI	Port Huron ORI
+G	T[A	PortHuronWW	Port Huron WW Users
+G	VDU	PortHuronDesktops	Port Huron PD Desktops
+G	VDV	PortHuronMobile	Port Huron Mobile ORI

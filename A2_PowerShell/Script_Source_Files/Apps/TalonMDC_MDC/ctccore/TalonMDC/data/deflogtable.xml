@@ -1,0 +1,21 @@
+<?ctcDefine Attribute="dateTimeWidth"    Value="80"?>
+<?ctcDefine Attribute="descriptionWidth" Value="400"?>
+<?ctcDefine Attribute="sourceWidth"      Value="90"?>
+<?ctcDefine Attribute="rowHeight"        Value="${tfs_RowHeight}"?> 
+<?ctcDefine Attribute="2xrowHeight"      Value="32"?>
+<XTTableDef FontSize="${tfs_FontSize}" RowHeight="${rowHeight}" ReverseAddOrder="false" ShowHorizontalGridLines="false" IndicateSortOrderInHeader="false" SortWhenColumnsClicked="true" SortColumn="0" SortReversed="false" ResortWhenNewRowAdded="true">
+  <ColumnTable>  
+    <Column PreferredWidth="${dateTimeWidth}" MaxWidth="${dateTimeWidth}" Resizable="true">
+      <Header Title="Time"/>
+    </Column>
+    <Column PreferredWidth="80" MaxWidth="150">
+      <Header Title="User"/>      
+    </Column>
+    <Column PreferredWidth="${sourceWidth}" Resizable="true">
+	  <Header Title="Source"/>
+    </Column>
+    <Column PreferredWidth="${descriptionWidth}" Resizable="true">
+      <Header Title="Description"/>
+    </Column>    
+  </ColumnTable>
+</XTTableDef>

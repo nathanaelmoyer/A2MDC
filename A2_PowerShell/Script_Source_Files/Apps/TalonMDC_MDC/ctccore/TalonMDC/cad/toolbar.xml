@@ -1,0 +1,467 @@
+<?ctcDefine Attribute="cadLayer"    			Value="CAD Buttons"?>
+<?ctcDefine Attribute="cadLayerButton"    		Value="Select CAD Button Layer"?>
+<?ctcDefine Attribute="activityViewButton"  		Value="Activity View"?>
+<?ctcDefine Attribute="messageListViewButton" 		Value="Message List View"?>
+<?ctcDefine Attribute="bulletinsViewButton" 		Value="Bulletins View"?>
+<?ctcDefine Attribute="emailViewButton" 		Value="Email View"?>
+<?ctcDefine Attribute="cadIncidentsButton" 		Value="CAD Incidents"?>
+<?ctcDefine Attribute="cadReportsButton" 	 	Value="CAD Reports"?>
+<?ctcDefine Attribute="cadStatusButton" 	 	Value="CAD Status"?>
+<?ctcDefine Attribute="cadCallsButton"	 	 	Value="CAD Calls"?>
+<?ctcDefine Attribute="reqCAD"		 	    	Value="RequiresCAD"?>
+<ToolBar Alignment="Horizontal">
+  <!--
+	ToolBar WITH CAD
+  
+	  Change log
+	  ==========
+	  4/2/07:	The local log view was not changing the nav buttons to the 'default view'
+	  
+	  2/13/06: 	Changed the 'Talon Ready' event to 'View Activated' (added 1.21.05) so the buttons
+				are updated when the new view menu items are selected.
+  -->
+  <Controls>
+	<Button ValidState="6" Image="talk.png" Label="WW" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="Who's Where Messaging" ExecCode="23041" />
+	<Button ValidState="4" Image="lastform.png" Label="Last Form" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="Last Form"	ExecCode="23036" />    
+	<Separator/>
+	<Button ValidState="7" Image="activityview.png" Label="LEIN Act" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="Activity View" PeerGroup="View Buttons Group" ProgID="${activityViewButton}">
+		<Script>
+			Helper.ActivateView( TViewNames.ActivityView );
+		</Script>
+	</Button>
+	<Button ValidState="6" Image="messageview.png" Label="LEIN List" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="Message List" PeerGroup="View Buttons Group" ProgID="${messageListViewButton}">
+		<Script>
+		    Helper.ActivateView( TViewNames.MDC_MessageList );
+		</Script>
+	</Button>	
+	<!-- no bulletins yet
+	<Button ValidState="6" Image="bulletins.png" Label="Bulletins" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="Bulletins" PeerGroup="View Buttons Group" ProgID="${bulletinsViewButton}">
+		<Script>
+			Helper.ActivateView( TViewNames.CABulletins );
+		</Script>
+	</Button>
+	-->
+	<!-- no mail
+	<Button ValidState="6" Image="mail.png" Label="Mail" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="Email" PeerGroup="View Buttons Group" ProgID="${emailViewButton}">
+		<Script>
+			Helper.ActivateView( TViewNames.MBMail );
+		</Script>
+	</Button>
+	-->
+	<Separator/>
+	<Button ValidState="8" Key="VK_F2" ProgAttrs="${reqCAD}" InitiallyEnabled="false" Image="phone.png" Label="CAD" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="CAD" PeerGroup="View Buttons Group" ProgID="${cadIncidentsButton}">
+		<Script>
+			Helper.ActivateView( TViewNames.CAD_Incidents );
+		</Script>
+	</Button>
+	<Button ValidState="8" Key="VK_F5" ProgAttrs="${reqCAD}" InitiallyEnabled="false" Image="traffic.png" Label="T-Stop" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="Show CAD Traffic Stop Form" PeerGroup="View Buttons Group" ProgID="${cadTrafficStopButton}">
+		<Script>
+			CAD.ShowForm( "cadnewtstop.xml" );
+		</Script>
+	</Button>
+	<Button ValidState="8" Key="VK_F9" ProgAttrs="${reqCAD}" InitiallyEnabled="false" Image="messages.png" Label="Reports" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="CAD Reports" PeerGroup="View Buttons Group" ProgID="${cadReportsButton}">
+		<Script>
+			Helper.ActivateView( TViewNames.CAD_Reports );
+		</Script>
+	</Button>
+	<!--
+	<Button ValidState="8" ProgAttrs="${reqCAD}" InitiallyEnabled="false" Image="status.png" Label="Status" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="Unit Status" PeerGroup="View Buttons Group" ProgID="${cadStatusButton}">
+		<Script>
+			Helper.ActivateView( TViewNames.CAD_UnitStatus );
+		</Script>
+	</Button>
+	<Button ValidState="8" ProgAttrs="${reqCAD}" InitiallyEnabled="false" Image="cad.png" Label="Incidents" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="Incidents" PeerGroup="View Buttons Group" ProgID="${cadCallsButton}">
+		<Script>
+			Helper.ActivateView( TViewNames.CAD_Calls );
+		</Script>
+	</Button>
+	-->
+	<!--
+	<Button Image="iiq.png" Label="IIQ" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="Launch IIQ" ValidState="8" ProgAttrs="${reqCAD}" InitiallyEnabled="false" >
+		<Script>
+			BASUTIL.StartFile( "www.ctc-core.com", "", MC );
+		</Script>
+	</Button>
+	-->
+	<Separator/>
+	<Button ToolTip="Status: En Route" Key="VK_F10" Image="enroute.png" Label="Enrou" LabelVAlignment="Bottom" LabelHAlignment="Center" ValidState="8" ProgAttrs="${reqCAD}" InitiallyEnabled="false" PeerGroup="CAD Status Group">
+		<Script>
+			CAD.SetStatus( "ER" );
+		</Script>
+	</Button>
+	<Button ToolTip="Status: At Scene" Key="VK_F11" Image="onscene.png" Label="AtScn" LabelVAlignment="Bottom" LabelHAlignment="Center" ValidState="8" ProgAttrs="${reqCAD}" InitiallyEnabled="false" PeerGroup="CAD Status Group">
+		<Script>
+			CAD.SetStatus( "AR" );
+		</Script>
+	</Button>
+	<Separator/>
+	<Button ValidState="7" Key="VK_F12" Image="daynight.png" Label="Day/Night" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="Day/Night Mode" ExecCode="23051" />
+	
+	<!-- 
+	<Button ToolTip="Status: Available" Key="VK_F8" Image="available.png" Label="Avail" LabelVAlignment="Bottom" LabelHAlignment="Center" ValidState="8" ProgAttrs="${reqCAD}" InitiallyEnabled="false" PeerGroup="CAD Status Group">
+		<Script>
+			CAD.SetStatus( "AVA"  );
+		</Script>
+	</Button>
+	 -->
+	 <!--
+	<Format Code="8">
+		//Right justify the ONA button 
+	</Format>
+	<Button Image="alert.png" ToolTip="Officer Needs Assistance" Key="VK_F1" KeyMods="ALT" Label="Assist" LabelVAlignment="Bottom" LabelHAlignment="Center" ValidState="8" ProgAttrs="${reqCAD}" InitiallyEnabled="false" >
+		<Script>
+			var evt = CAD.CreateEvent("EvtEmergency");
+			
+			evt.IncidentType="Officer Needs Assitance";
+			evt.Location = CAD.GetCachedValue( "Address" );
+			evt.UserCode = CAD.GetCachedValue( "UserCode" );
+			evt.Unit = CAD.GetCachedValue( "Unit" );
+
+			CAD.SendCADEventToMB(evt);
+		</Script>
+	</Button>
+	-->
+<!--
+	<Format Code="1">
+		|
+		|
+		|
+		|
+		|
+		|
+	</Format>
+	<Button ToolTip="Status: En Route" Key="VK_F1" Image="enroute.png" Label="Enrou" LabelVAlignment="Bottom" LabelHAlignment="Center"ValidState="8" ProgAttrs="${reqCAD}" InitiallyEnabled="false" PeerGroup="CAD Status Group">
+		<Script>
+			CAD.SetStatus( "ENR"  );
+		</Script>
+	</Button>
+	<Button ToolTip="Status: On Scene" Key="VK_F2" Image="onscene.png" Label="OnScn" LabelVAlignment="Bottom" LabelHAlignment="Center" ValidState="8" ProgAttrs="${reqCAD}" InitiallyEnabled="false" PeerGroup="CAD Status Group">
+		<Script>
+			CAD.SetStatus( "ONS"  );
+		</Script>
+	</Button>
+	<Button ToolTip="Status: Available" Key="VK_F8" Image="available.png" Label="Avail" LabelVAlignment="Bottom" LabelHAlignment="Center" ValidState="8" ProgAttrs="${reqCAD}" InitiallyEnabled="false" PeerGroup="CAD Status Group">
+		<Script>
+			CAD.SetStatus( "AVA"  );
+		</Script>
+	</Button>
+
+	<Button ToolTip="Status: En Route Jail" Key="VK_F9" Image="routejail.png" Label="EnrJl" LabelVAlignment="Bottom" LabelHAlignment="Center" ValidState="8" ProgAttrs="${reqCAD},FrmDetailsAnchor" InitiallyEnabled="false" PeerGroup="CAD Status Group">
+		<Script>
+			CAD.SetStatus( "EN JAIL"  );
+		</Script>
+	</Button>
+	<Button ToolTip="Status: At Jail" Key="VK_F10" Image="jail.png" Label="AtJai" LabelVAlignment="Bottom" LabelHAlignment="Center" ValidState="8" ProgAttrs="${reqCAD}" InitiallyEnabled="false" PeerGroup="CAD Status Group">
+		<Script>
+			CAD.SetStatus( "AT JAIL" );
+		</Script>
+	</Button>
+	<Button ToolTip="Status: Report Writing" Key="VK_F6" Image="reportwriting.png" Label="RptWr" LabelVAlignment="Bottom" LabelHAlignment="Center" ValidState="8" ProgAttrs="${reqCAD}" InitiallyEnabled="false" PeerGroup="CAD Status Group">
+		<Script>
+			CAD.SetStatus( "RPT WR"  );
+		</Script>
+	</Button>
+	<Separator/>
+	<Button ToolTip="Status: S Prec" Key="VK_F4" Image="sp.png" Label="SP" LabelVAlignment="Bottom" LabelHAlignment="Center" ValidState="8" ProgAttrs="${reqCAD}" InitiallyEnabled="false" PeerGroup="CAD Status Group">
+		<Script>
+			CAD.SetStatus( "S PREC" );
+		</Script>
+	</Button>
+	<Button ToolTip="Status: N Prec" Key="VK_F3" Image="np.png" Label="NP" LabelVAlignment="Bottom" LabelHAlignment="Center" ValidState="8" ProgAttrs="${reqCAD}" InitiallyEnabled="false" PeerGroup="CAD Status Group">
+		<Script>
+			CAD.SetStatus( "N PREC" );
+		</Script>
+	</Button>
+	<Button ToolTip="Status: Delhi Township" Image="dt.png" ValidState="8" Label="DLTW" LabelVAlignment="Bottom" LabelHAlignment="Center" ProgAttrs="${reqCAD}" InitiallyEnabled="false" PeerGroup="CAD Status Group">
+		<Script>
+			CAD.SetStatus( "DLTW" );
+		</Script>
+	</Button>
+	<Button ToolTip="Status: Ingham County" Image="ic.png" ValidState="8" Label="ICSO" LabelVAlignment="Bottom" LabelHAlignment="Center" ProgAttrs="${reqCAD}" InitiallyEnabled="false" PeerGroup="CAD Status Group">
+		<Script>
+			CAD.SetStatus( "ICSO" );
+		</Script>
+	</Button>
+-->
+	<!--
+	
+	Hidden buttons
+	
+	-->
+	<!-- 
+	<Button ToolTip="Status: HQ" Key="VK_F5" ValidState="8" ProgAttrs="${reqCAD}" InitiallyEnabled="false" PeerGroup="CAD Status Group">
+		< ! - - Blank button for key stroke - - >
+		<Script>
+			CAD.SetStatus( "HQ" );
+		</Script>
+	</Button>
+	-->
+	<Button ToolTip="Show Status Change Form" Key="VK_F6" ValidState="8" ProgAttrs="${reqCAD}" InitiallyEnabled="false" PeerGroup="CAD Status Group">
+		<!-- Blank button for key stroke -->
+		<Script>
+			CAD.ShowForm( "cadunitstatus.xml" );
+		</Script>
+	</Button>
+	<Button ToolTip="Inc Initiate" Key="VK_F7" ValidState="8" ProgAttrs="${reqCAD}" InitiallyEnabled="false">
+		<!-- Blank button for key stroke -->
+		<Script>
+			CAD.ShowForm( "cadnewincident.xml" );
+		</Script>
+	</Button>
+	<!-- 
+	<Button ToolTip="Show Unit Log Form" Key="VK_F3" KeyMods="SHIFT" ValidState="8" ProgAttrs="${reqCAD}" InitiallyEnabled="false">
+		< ! - - Blank button for key stroke - - >
+		<Script>
+			CAD.ShowForm( "reportunitlog.xml" );
+		</Script>
+	</Button>
+	-->
+	<Button ToolTip="Show Incident Update Form" Key="VK_F8" ValidState="8" ProgAttrs="${reqCAD}" InitiallyEnabled="false">
+		<!-- Blank button for key stroke -->
+		<Script>
+			CAD.ShowForm( "cadupdateincident.xml" );
+		</Script>
+	</Button>
+	<!--
+	<Button ValidState="8" ProgAttrs="${reqCAD}" InitiallyEnabled="false" Image="sy_closecall" ToolTip="Clear Incident">
+		<Script>
+			CAD.ShowForm( "cadclearincident.xml" );
+		</Script>
+	</Button>
+	-->
+	<!--
+	<Format Code="8">
+		//Right justify the ONA button 
+	</Format>
+	<Button Image="alert.png" ToolTip="Officer Needs Assistance" Key="VK_F1" KeyMods="ALT" Label="Assist" LabelVAlignment="Bottom" LabelHAlignment="Center" ValidState="8" ProgAttrs="${reqCAD}" InitiallyEnabled="false" >
+		<Script>
+			var evt = CAD.CreateEvent("EvtEmergency");
+			
+			evt.IncidentType="Officer Needs Assitance";
+			evt.Location = CAD.GetCachedValue( "Address" );
+			evt.UserCode = CAD.GetCachedValue( "UserCode" );
+			evt.Unit = CAD.GetCachedValue( "Unit" );
+			
+			
+			//Put into a form so the user can confirm it.
+			//CAD.ShowForm( "emergency.xml", evt );
+			CAD.SendCADEventToMB(evt);
+		</Script>
+	</Button>
+	-->
+    </Controls>
+  <Events>
+	<Event ID="CAD Logon Success">
+		<Script>
+		      //Get all components flagged with the 'Req CAD' attribute and enable them.
+		      
+		      var compsToEnable = ToolBar.GetComponentsByProgAttr("${reqCAD}");
+		      ToolBar.SetComponentsEnabled(compsToEnable, true);
+		</Script>
+	</Event>
+	<Event ID="CAD Incident Received">
+		<Script>
+		      //Determine if the CAD incident view is active
+		      //If not, blink appropriate buttons.
+		      
+		      var viewName = ViewController.GetCurrentViewName();
+		      if ( ! viewName.equalsIgnoreCase(TViewNames.CAD_Incidents) )
+				ToolBar.SetBlinkUntilPressed( "${cadIncidentsButton}" );
+		</Script>
+	</Event>
+	<Event ID="NightMode">
+		<Script>
+			//Loop through all buttons and set their image prefix
+			//to either night mode (n) or nothing
+			
+			var prefix = ( "true".equalsIgnoreCase( isNightMode ) ? TalonConstants.File_Prefix_NightModeImage : "" );        
+			var buttons = ToolBar.GetButtons();
+		
+			for( var i=0; i &lt; buttons.length; i++ )
+			{
+				buttons[i].SetImagePrefix(prefix);
+			} 
+		</Script>
+	</Event>
+	<Event ID="View Activated">
+		<Script>
+			//Arg: String viewName
+			
+			CAD.DebugTrace("Toolbar received 'View Activated' for viewname: ( " + viewName + " )" );
+			
+			var activateDefaultNav = false;
+			var navLayer;
+			
+			//Select the appropriate view button
+			var viewBtnName;       
+			
+			if ( viewName != null )
+			{
+				Helper.SetActiveView( viewName );
+				
+				if ( viewName.equalsIgnoreCase(TViewNames.ActivityView) )
+				{
+					viewBtnName = "${activityViewButton}";
+					activateDefaultNav=true;
+				}
+				else if ( viewName.equalsIgnoreCase(TViewNames.MDC_MessageList) )        
+				{
+					viewBtnName = "${messageListViewButton}";
+					activateDefaultNav = true;
+				}
+				else if ( viewName.equalsIgnoreCase(TViewNames.MBMail) )        
+				{
+					viewBtnName = "${emailViewButton}";
+					activateDefaultNav = true;
+				}
+				else if ( viewName.equalsIgnoreCase(TViewNames.CABulletins) )        
+				{
+					viewBtnName = "${bulletinsViewButton}";
+					activateDefaultNav = true;
+				}
+				else if ( viewName.equalsIgnoreCase(TViewNames.LocalLogs) )
+				{
+					activateDefaultNav = true;
+				}
+				else if ( viewName.equalsIgnoreCase(TViewNames.CAD_Reports) )
+				{
+					navLayer = TalonConstants.Layer_CADReportsNav;				
+					viewBtnName = "${cadReportsButton}"; 					
+				}
+				else if ( viewName.equalsIgnoreCase(TViewNames.CAD_Incidents) )
+				{
+					navLayer = TalonConstants.Layer_CADMessagesNav;
+					viewBtnName = "${cadIncidentsButton}";
+					
+					ToolBar.StopBlinkingIfNeeded( "${cadIncidentsButton}" );
+				}
+				else if ( viewName.equalsIgnoreCase(TViewNames.CAD_UnitStatus) )
+				{
+					navLayer = TalonConstants.Layer_CADUnitStatusNav;
+					viewBtnName = "${cadStatusButton}";
+				}
+				else if ( viewName.equalsIgnoreCase(TViewNames.CAD_Calls) )
+				{
+					navLayer = TalonConstants.Layer_CADCallsNav;
+					viewBtnName = "${cadCallsButton}";
+				}
+				
+			}
+        
+			if (activateDefaultNav)
+			{
+				ViewController.GetLayeredContManager().ActivateDefaultLayerByID(TalonConstants.Layer_CADMessagesNav);
+			}	
+			else if (navLayer != null)
+			{
+				ViewController.GetLayeredContManager().ActivateLayer( navLayer );
+			}
+	
+			//Toggle that button down
+			if ( viewBtnName != null )
+			{
+				var viewBtn = ToolBar.GetComponentByProgID(viewBtnName);
+				viewBtn.SetToggledDown(true);
+				    
+				//Tell the toolbar to toggle any other 'on' view buttons to 'off'
+				ToolBar.HandlePeerGroupExclusions(ToolBar.GetDefinitionForItem(viewBtn) );
+			}
+		</Script>
+	</Event>
+  </Events>
+  <!-- 
+  Help:
+  
+  Overview:
+  =========
+  This file defines a toolbar which is currently(02/02/06) used in Talon MDC.
+  It attempts to be more flexible than our standard toolbars by allowing the
+  use of ExecCodes (language strings) but also Javascript.
+  
+  The most basic functionality can be used by simply defining a button and
+  setting its ExecCode attribute.
+  
+  To use scripting, a button may embed a javascript.  Also, the file may
+  contain an 'Events' tag which when used in concert with the program
+  allows the program to callback to the tool bar.  For example, in Talon all
+  standard engine events are fired into the toolbar.  It defines and catches 
+  the 'Talon Ready' event to set buttons to their initial state.  These events
+  are completely program-driven and will very by application.
+  
+  
+  Scripting:
+  ==========
+  Registered Beans:
+	CAD (CADClientHandler)
+	CADConstants (CADConstants)
+	ClientController (TalonClientController)
+	Helper (ToolBarHelper)
+	MC (MCLANG)
+	TalonConstants (TalonConstants)
+	ToolBar (TOOLBARSCRIPTMGR)	
+    TViewNames (TViewNames)
+    ViewController (TViewController)
+    
+  
+  Valid States:
+  =============
+	  1 - Startup
+	  2 - Case Closed
+	  4 - Case Open
+	  8 - Manual/Programmer controls
+	  
+	  Combos:
+	  7 - All
+	  6 - After Startup
+	  
+	  
+  XML Elements:
+  =============
+  Common Attributes:
+	InitiallyEnabled:
+		The initial state for the component's 'enabled' value.
+		Default is true.
+    ProgAttrs:
+		Comma separated list of programmer defined attributes/flags that can be
+		used to reference the control later.  For example, I flag controls that
+		should be disabled w/o valid CAD logon as 'reqCAD'.  When Talon fires
+		the 'CAD Logon Success' event, I get all components that have that attr
+		and enable them.
+	ProgID:
+		A programmer-defined unique ID for a control.  Use to get a single control
+		in a script. For example, when a message is received and we're on another
+		view, I blink the state message view.
+    ToolTip:
+		The text to display on a hover-over
+	ValidState: 
+		Bit flags indicating which states the toolbar's buttons should be enabled.
+  
+  Button Attributes:
+	
+	ExecCode:
+		The code to fire into the program.  Note that if the ToolTip attribute is
+		not set, this will try to be used as a langauge string to set the ToolTip.
+	Image:
+		Image filename in the image directory to use as the button.
+    PeerGroup:
+		Instructs the manager to treat this button like a radio button with other
+		buttons in 
+	
+		
+  Button Properties:
+	Script:
+		Embed a script to execute when pressed.  If both this and ExecCode are
+		present, this takes precedent and the ExecCode is ignored.
+		
+  Container Attributes:
+	ID:
+		Used by scripts to activate a layer.
+	Layered:
+		When set to true, the SetLayered() method is called after this container
+		is added.
+		
+  Script Attributes:
+	(Future)Filename: The file of the javascript to execute.  Note that this will
+	be added the first time we need to write a long script.
+  -->
+</ToolBar>

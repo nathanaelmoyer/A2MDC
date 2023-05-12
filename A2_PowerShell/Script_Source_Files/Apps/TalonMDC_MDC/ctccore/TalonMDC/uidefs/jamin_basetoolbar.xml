@@ -1,0 +1,20 @@
+<Controls>
+	<Separator/>
+    <Button ProgramID="JAMIN"
+      ValidState="4" 
+      Image="jail.png" 
+      Label="JAMIN" LabelVAlignment="Bottom" LabelHAlignment="Center" 
+      ToolTip="JAMIN">
+			<Script>
+				MC.Trace( "Talon JAMIN button pressed" );
+				var url = MC.GetSys().GetParameter( "JAMINURL", "http://coretechcorp.com" );
+
+								
+				MC.Trace( "url:" + url );
+				//Use the following line to use the PC's default browser.
+				BASUTIL.StartFile( url, "", MC );
+				//Use the following line to use the Talon built-in browser.
+				//Helper.StartDlgBrowser( url, false, false, true );
+			</Script>
+    </Button>
+</Controls>

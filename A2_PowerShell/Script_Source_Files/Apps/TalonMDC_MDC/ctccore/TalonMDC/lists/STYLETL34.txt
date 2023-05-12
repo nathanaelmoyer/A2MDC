@@ -1,0 +1,34 @@
+~<BLANK>
+AC - Auto Carrier
+TD - Auto Tow Dolly
+DY - Auxiliary Dolly
+BA - Bulk Agriculture
+BC - Brush or Wood Chipper
+BT - Boat
+CG - Converter Gear
+CT - Camping
+CT - Travel
+DY - Auxiliary Dolly
+FB - Flat Bed
+FT - Fire Truck
+GA - Gondola
+GE - Generator
+GN - Grain
+HE - Horse
+HD - Hydraulic
+HO - Hopper
+HS - House
+LB - Low Boy
+LP - Logging
+LS - Livestock
+MT - Motorcycle
+RF - Refrig Van
+SE - Semi, Body Style Unknown
+SM - Snowmobile
+ST - Stake Rack Splitter
+TE - Tent
+TD - Tow Dolly, Auto
+TN - Tanker
+UT - Utility
+VN - Van
+WS - Wood

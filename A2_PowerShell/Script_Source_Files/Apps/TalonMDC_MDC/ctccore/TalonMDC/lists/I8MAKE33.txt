@@ -1,0 +1,3180 @@
+~<BLANK>
+ABTR/TL  - A & B Trailer Mfg. Co., Inc.
+ACKN/TL  - A & C Knight, Ltd.
+AJIN/TL  - A & J Industries Custom Fiberglassing
+AM  /TL  - A & M Boat Trailer
+AMCO/TL  - A & M Coach
+AONE/TL  - A-1 Trailer
+AAWS/TL  - A-A Welding Service
+AJTR/TL  - A. J. Travelute Trailer Mfg. Co.
+AAB /TL  - A.A.B. Co., Inc.
+AAA /TL  - AAA Mobile Home Mfg. Co.
+AATS/TL  - AAA Trailer Sales
+AALI/TL  - Aalite Co.
+AARD/TL  - Aardvark Co.
+ABBO/TL  - Abbot, Paul Co., Inc.
+ABC /TL  - ABC (Aluminum Body Corp.)
+ABCC/TL  - ABC Coach Co.(See Vought after 1959)
+ABCH/TL  - ABC Homes
+ABCO/TL  - ABCO Trailer Mfg. Co.
+ABER/TL  - Aberdeen Boat Trailer
+ABIA/TL  - ABI Leisure Inc.
+ACAE/TL  - Academy Mobile Home Corp.
+ACE /TL  - Ace Trailer of America
+ACEC/TL  - Ace Traveler Corp.
+ACME/TL  - Acme Trailer Mfg. Co.
+ACRO/TL  - Acro Tank Co.
+ACTD/TL  - Action Industries
+ACTO/TL  - Action Mobile Industries, Inc.
+ACTE/TL  - Active Homes Corp.
+ADA /TL  - Ada Horse Trailer
+ADMS/TL  - Adams Engineering Co.
+ADMT/TL  - Adams Trailer Mfg.
+ADDI/TL  - Addison Homes
+ADMI/TL  - Admiration Homes
+ADSP/TL  - Adspa Mobile Home
+ADVA/TL  - Advance Mfg. Co.
+AERG/TL  - Aero Glass Boat Co.
+AELI/TL  - Aero Liner Co.
+AERI/TL  - Aeroil Products Co., Inc.
+AGSY/TL  - Ag-Systems, Inc.
+AGTR/TL  - Ag-Tronic, Inc.
+ANCH/TL  - Ahoy
+FIRT/TL  - Air Buoy
+AIRI/TL  - Air Support Industries
+AIRM/TL  - Air-Flo Mfg. Co., Inc.
+GREG/TL  - Air-Flo Mobile Home
+AIRP/TL  - Air-O-Corp.
+AIRE/TL  - Aire-Line Mobile Homes
+AIRF/TL  - Airflyte Mfg. Co.
+AIRS/TL  - Airstream Travel Trailers
+AJAX/TL  - Ajax Trailer Co.
+TUCE/TL  - Al Tucker Trailer Co.
+ALMC/TL  - Al-Mac Products, Inc.
+ALAB/TL  - Alabama Trailer Co.
+ALAD/TL  - Aladdin Trailer Co.
+ALAI/TL  - Alair Coach Corp.
+GILD/TL  - Alan
+ALBE/TL  - Alberta Trailer Co., Ltd.
+ALCA/TL  - Alcan American, Inc.
+ALCO/TL  - Alcoa Trailer
+FIEA/TL  - Alex Fiegelson Co.
+MARH/TL  - Alexandria Mobile Home
+ALFO/TL  - Alforge Metals Corp.
+ALJO/TL  - Aljo
+ALL /TL  - All American Campers
+ALAR/TL  - All Around Horse Trailer
+ALLK/TL  - All Lakes Trailer
+ALLP/TL  - All Purpose Trailer Co., Inc.
+ALLR/TL  - All Star Coach, Inc.
+ALLU/TL  - All States Trailer Co.
+ALLM/TL  - All Steel Mfg. Co.
+ALLT/TL  - All-State Trailer Co.
+RLAC/TL  - Allen, R. L. Company, Inc.
+ALLW/TL  - Allentown Brake & Wheel Service, Inc.
+ALLB/TL  - Allied American Builders Corp.
+ALLC/TL  - Allied Mfg. Co.
+ALLD/TL  - Allied Products
+ALLI/TL  - Allis-Chalmers
+ALMD/TL  - Allmand, Inc
+ALLN/TL  - Alloy Machine Products Corp.
+ALLO/TL  - Alloy Trailers, Inc.
+SEAR/TL  - Allstate
+ALME/TL  - Alma Trailer Co.
+ALMI/TL  - Almac Industries, Ltd.
+ALOH/TL  - Aloha Trailer Co.
+ALPF/TL  - Alpine Mfg. Co.
+ALTE/TL  - Altec Industries
+ALUC/TL  - Aluma Craft
+HOLR/TL  - Aluma-lite
+ALMN/TL  - Alumna-Weld, Inc.
+ALUM/TL  - Aluminum
+SKYL/TL  - Aly
+HOME/TL  - Aly Alliance
+ALYT/TL  - Aly Travel Trailer
+AMBA/TL  - Ambassador
+AMC /TL  - AMC Trailer
+ABTM/TL  - Amco Boat Trailer
+AMEC/TL  - American Aluminum Co.
+AMEA/TL  - American Beauty
+AMEB/TL  - American Body & Trailer Co.
+AMED/TL  - American Coach Co.
+AMFA/TL  - American Dream
+AMEE/TL  - American Duralite Corp.
+AEAG/TL  - American Eagle
+AMFA/TL  - American Family Homes, Inc.
+AMEI/TL  - American Pipe & Steel Corp.
+AMEH/TL  - American Pride Homes
+AREC/TL  - American Road Equipment
+ARMT/TL  - American Road Trailer Camper
+AMEA/TL  - American Shelter Systems, Inc.
+AMEM/TL  - American Trailer & Mfg. Co.
+AMET/TL  - American Trailer Specialists
+AME /TL  - American Trailers, Inc.
+AMEP/TL  - American Way Homes Corp.
+AMRI/TL  - Americana Mobile Homes, Inc.
+AMES/TL  - Amerigo Travel Trailer
+AMPC/TL  - Ampco Mfg.
+AMT /TL  - Amtec Trailer
+ANAL/TL  - Ana-Log
+ANCH/TL  - Anchor Homes, Inc.
+ANDE/TL  - Ander-Ett, Inc.
+ANDH/TL  - Anderson Coach Co.
+ANDI/TL  - Anderson Mobile Homes Mfg. Co.
+ANDM/TL  - Andrea Mobile Homes
+ANDR/TL  - Andrews Payloader
+ANGE/TL  - Angelus Trailer Mfg. Co.
+ANTH/TL  - Anthony Co.
+ANTO/TL  - Anton Mfg. Co.
+APAC/TL  - Apache Coach Co.
+APAE/TL  - Apache Trailer Corp.
+APAH/TL  - Apacheon Coach Co.
+APEC/TL  - Apeco Mobile Homes
+APEX/TL  - Apex Travelers, Inc.
+APOL/TL  - Apollo Homes
+APPL/TL  - Appleby Camper Trailer
+APLE/TL  - Appleton Trailer
+AQCR/TL  - Aqua Cruiser, Inc.
+AQUA/TL  - Aquaforge
+AQUT/TL  - Aqualand Trailers
+TRRI/TL  - Aquarius
+ARAB/TL  - Arabi Homes, Inc.
+ARAB/TL  - Arabian
+AGDC/TL  - Aragon Distributing Co, Inc.
+ARCO/TL  - Arcos Boat Trailer
+ARCA/TL  - Arctic Cat
+ARCT/TL  - Arctic Enterprises, Inc.
+ARGS/TL  - Argosy Travel Trailer
+ARIC/TL  - Aristocrat Trailer Sales
+RAW /TL  - Arkansas Traveler
+SKYL/TL  - Arlington Mobile Homes
+ARMA/TL  - Armadillo Trailers, Inc.
+ARMH/TL  - Armor Homes of Virginia
+ARMO/TL  - Armor Mobile Homes Mfg. Co.
+ARNT/TL  - Arndt Trailers
+ARND/TL  - Arnold Travel Trailer Mfg. Co.
+AROS/TL  - Aros
+ARRC/TL  - Arrow Campers, Inc.
+ARRM/TL  - Arrow Motor Homes
+ARRT/TL  - Arrow Trailers, Inc.
+ARRW/TL  - Arrowhead Trailers
+ARTA/TL  - Art James Mfg.
+TRAH/TL  - Art Roll Mfg. Co., Inc.
+ARTH/TL  - Artcraft Mobile Homes Mfg. Co.
+ARTG/TL  - Artcraft of Georgia
+ASBY/TL  - Ashby Brothers
+ASHD/TL  - Ashdown Mfg. Corp.
+ASHT/TL  - Ashton Trailer
+ASI /TL  - ASI Trailer
+ASPE/TL  - Aspen Camper, Inc.
+ASPL/TL  - Asplundh Manufacturing Div.
+ASPT/TL  - ASPT
+ATTC/TL  - Associated Truck & Trailer
+ASTR/TL  - Astro Mobile Homes Mfg. Co.
+ATHE/TL  - Athey Products Corp.
+ATLA/TL  - Atlantic Coast Camper
+ATLC/TL  - Atlantic Mobile Corp.
+ATLN/TL  - Atlantic Mobile Sales
+ATLD/TL  - Atlas Division
+ATWO/TL  - Atwood Mobile Home
+AUBN/TL  - Auburn Homes
+AURO/TL  - Aurora Mobile Homes
+AUTH/TL  - Auto Homes Industries
+AUTI/TL  - Auto Trailer Co.
+AUTM/TL  - Auto-Mate
+AVA /TL  - Ava Travel Trailer
+AVAC/TL  - Avalair Corp.
+AVAO/TL  - Avalon Mobile Homes
+AVCO/TL  - Avco Corp.
+FTWD/TL  - Avion
+AVIO/TL  - Avion Coach Corp.
+AWAY/TL  - Away We Go Travel Trailer
+AXLE/TL  - Axle & Equipment Sales Co.
+AYRW/TL  - Ayr-Way Campers
+AZAL/TL  - Azalea Homes
+AZTE/TL  - Aztec Mobile Homes
+BBCH/TL  - B & B Cozy-Home
+BBCB/TL  - B & B Custom Built Trailers
+BBTM/TL  - B & B Trailer Mfg., Inc.
+BJEN/TL  - B & J Enterprises, Inc.
+BMMF/TL  - B & M Mfg. Co.
+BNST/TL  - B & S Boat Trailer Mfg. Co.
+BWHO/TL  - B & W Homes, Inc.
+CLAB/TL  - B.M. Clark Co., Inc.
+BMBM/TL  - B.M.B. Mfg. Co.
+BABC/TL  - Babcock's Mobile Home Mfg. Co.
+BADG/TL  - Badger Trailer Co.
+BAIL/TL  - Baillie's Tri-R Welding
+BAKE/TL  - Baker Equipment & Engineering Co.
+BAKI/TL  - Baker Trailer & Body co.
+BALD/TL  - Baldwin Enterprises
+BALE/TL  - BaleMuvr
+BALI/TL  - Balko, Inc.
+BALL/TL  - Ballien Mfg. Co.
+BALT/TL  - Baltz Industries, Inc.
+BAME/TL  - Bame Three Axle Trailer
+BAND/TL  - Bandera Trailer
+BANH/TL  - Bankhead Enterprises, Inc.
+BANK/TL  - Bankhead Welding Service
+BANN/TL  - Banner Homes Corp.
+BATM/TL  - Bantam Camp Trailer
+BARA/TL  - Bar-A-Horse Trailer
+BACC/TL  - Bar-C Horse Trailer
+BRCO/TL  - Barco Mfg. Co.
+BARC/TL  - Barcraft Homes, Inc.
+BARK/TL  - Barker Trailer Manufacturers, Inc.
+BARN/TL  - Barnes Pump Drain Unit
+BARO/TL  - Baron Homes, Inc.
+BARI/TL  - Barrentine Mfg. Co.
+BARE/TL  - Barrett Trailers, Inc.
+BAMH/TL  - Barrington Homes
+BARH/TL  - Barth Corp.
+BARL/TL  - Bartlett Trailer Corp.
+BART/TL  - Bartolini Chassis Trailer
+JLM /TL  - Bass Tracker
+BASS/TL  - Bass Trail Trailer Co., Inc
+BATA/TL  - Batavia Trailers, Inc.
+BAUG/TL  - Baughman Mfg. Co.
+BAY /TL  - Bay Trailers
+BEAC/TL  - Beachcomber Industries Ltd.
+BEAI/TL  - Beaird Payliner
+BEAT/TL  - Beall Trans-Liner, Inc.
+BEAL/TL  - Beall, Inc.
+BRCT/TL  - Bear Cat Mfg., Inc.
+BEAN/TL  - Bear Industrial Trailers
+BRTR/TL  - Bear Trailer Mfg., Inc.
+BEAV/TL  - Beaver Trailer
+BEC /TL  - Beck Camping Trailer
+BECK/TL  - Becker, Charles H., Inc.
+BEDE/TL  - Bedell Trailers
+BEBO/TL  - Bee Bob Trailers
+BEET/TL  - Beeat Truck Mount Camper
+BBEE/TL  - BeeBee Sales Co.
+BEEA/TL  - Beechraft Mobile Home
+BEEC/TL  - Beechwood Industries, Inc.
+BEEE/TL  - Bee-Line Travel Trail.
+BEEG/TL  - Beemer & Grubb Enterprises
+BEEM/TL  - Beemer Trailer Mfg. & Sales
+BELA/TL  - Bel-Aire Campers or Coaches
+BELE/TL  - Bel-Aire Mobile Homes
+BELF/TL  - Bell Mfg. Corp.
+BELL/TL  - Bella Casa Co.
+BELP/TL  - Bellaire Products
+BELN/TL  - Bellamy's Mfr. & Research Products
+BELR/TL  - Bellew's Perris Balley Campers
+BELS/TL  - Bell's Camp Trailers
+BELS/TL  - Bell-s Camp Trailers
+BELT/TL  - Bell's Custom Coaches
+BELT/TL  - Bell-s Custom Coaches
+BELH/TL  - Belshe Trailer
+BELV/TL  - Belvedere Mobile Homes
+BNHR/TL  - Ben Hur
+BEDX/TL  - Bendix Corp.
+BENL/TL  - Benlo Co.
+BENS/TL  - Benson Truck Bodies, Inc.
+BERH/TL  - Berkshire Industries
+BERM/TL  - Bermar Mfg. Corp.
+BRTO/TL  - Bertolini Container Co.
+BERT/TL  - Bertran Trailer
+LAKE/TL  - Bestrail
+BETH/TL  - Bethany Fellowship
+BETE/TL  - Betten France Transportation
+BETT/TL  - Better Built
+BIEW/TL  - Biewer Industries
+BIGH/TL  - Big Horn Trailer
+VACD/TL  - Big Sur
+BIGT/TL  - Big Tex
+BIGV/TL  - Big Valley Trailers, Inc.
+BIGI/TL  - Big Well Industries
+BILK/TL  - Bilken Enterprises
+BJMS/TL  - Bill James Trailer Sales
+RIVR/TL  - Bill Rivers
+BILL/TL  - Bills Welding Model Trailer
+BILE/TL  - Biltmore Mobile Homes
+BILR/TL  - Biltrite Mobile Homes
+BILT/TL  - Biltwell (or Builtwell)
+BINK/TL  - Binkley Co., The
+BINS/TL  - Binks Mfg. Co.
+BIOT/TL  - Biot Camping Trailer
+CMCO/TL  - Birchwood
+BIRE/TL  - Bird Engineering, Inc.
+BIRM/TL  - Birmingham Mfg. Co., Inc.
+BJMC/TL  - BJ Mfg. Co.
+BLAB/TL  - Black Built
+BLAK/TL  - Black Diamond Enterprises
+BLAC/TL  - Black Diamond Trailer, Inc.
+BLAW/TL  - Blackwell Burner Co.
+BLAS/TL  - Blaine's Custom Mfg. Service
+BLAI/TL  - Blair Horse Trailer
+MHMC/TL  - Blair House
+BLST/TL  - Blake Trailers
+BLAH/TL  - Blanchard Foundry Co.
+BLAR/TL  - Blaze Industries
+BLAE/TL  - Blazer
+BLAZ/TL  - Blazon Mobile Homes Corp.
+BLIN/TL  - B-Line Farm Equip.
+BLIT/TL  - Blitz Mfg. Co.
+BLIX/TL  - Blix Coach
+BLOO/TL  - Bloom, Inc.
+BLUB/TL  - Blue Bird Body Co.
+BLGA/TL  - Blue Gator Boat Trailer
+BLUE/TL  - Blue Ribbon Coach Co.
+BLUJ/TL  - Blue Trailer
+BLUJ/TL  - Blue, John Co.
+BLUG/TL  - Blue-Ridge Pre-Built Mobile Homes
+BOCS/TL  - Bo Cats, Inc.
+BOAN/TL  - Boanza Mobile Homes
+BOAR/TL  - Boardman Co.
+BMTR/TL  - Boat Master Trailers
+BOTL/TL  - Boatel Trailer
+THOA/TL  - Boatoter
+BOBC/TL  - Bob Coons
+BOB /TL  - Bob S Trailer
+BOBM/TL  - Bobby's Custom Camper Mfg.
+BOBK/TL  - Bobko, Inc.
+BOCK/TL  - Bock Products, Inc.
+BOIS/TL  - Boise Cascade Mobile Home
+BOLA/TL  - Boles-Aero, Inc.
+BOLG/TL  - Bolinger Flatbed Trailer
+BOMG/TL  - Bomag Trailer
+BOMA/TL  - Bo-Mar Mfg. Co.
+BOMA/TL  - Bo-Mar Mfg. Co.
+BOMB/TL  - Bombardier, Ltd.
+BONA/TL  - Bon-Aire Homes, Inc.
+BONC/TL  - Bonanza Travel Coach, Inc.
+BONE/TL  - Bond Mobile Homes, Inc.
+CHII/TL  - Bonnavilla
+BONI/TL  - Bonnieville Mfg. Co.
+BOON/TL  - Boone Trailers, Inc.
+BORC/TL  - Borg Co.
+BORF/TL  - Born Free
+BOUL/TL  - Boulder Trailer
+BOWN/TL  - Bowen Mobile Homes, Inc.
+BOWE/TL  - Bowers Mfg. Co.
+BOWI/TL  - Bowie Industries Corp.
+BOWM/TL  - Bowman & Sons
+BOWS/TL  - Bowsman Trailers
+BOXR/TL  - Boxer Trailer
+BOYD/TL  - Boyd, E.G., Trailer Co.
+BOYR/TL  - Boyer Industries
+SSTL/TL  - BP
+BRAC/TL  - Braco Custom Products
+BRAF/TL  - Bradford Industries
+BRTI/TL  - Brae Trailers, Inc
+BRAD/TL  - Brandt Trailers, Inc.
+BRAW/TL  - Brandywine Travel Trailer
+BRAN/TL  - Branstrator Engineering Corp.
+BRAU/TL  - Braughms Travel Trailer
+BRAV/TL  - Bravo Trailer
+BREZ/TL  - Breeze Camping Travel Trailer
+BREN/TL  - Brenner Tank, Inc.
+BREI/TL  - Brent Industries
+BRET/TL  - Brentwood Mobile Homes
+BREW/TL  - Brewer Utility
+BRIE/TL  - Bridge Mfg. and Equipment Co.
+BRIG/TL  - Brigadier Mobile Homes
+BRIH/TL  - Brighton Built Trailers
+LAOT/TL  - Brindle
+BRIO/TL  - Bristol Homes
+BRIT/TL  - Bristol Mfg. Co.
+BROA/TL  - Broadlane Homes, Inc. of Indiana
+BROD/TL  - Broadmore Mobile Homes
+BROB/TL  - Brobts & Associates
+BROR/TL  - Brock Star Trailer
+BROK/TL  - Broken Arrow Mobile Home
+BROO/TL  - Brooklyn Trailer
+BROT/TL  - Brooks Brothers Trailers, Inc.
+BRDK/TL  - Brooks Horse Trailer
+BRKW/TL  - Brookwood Mobile Home
+BROE/TL  - Brooten Fabricating, Inc.
+BROU/TL  - Brougham Industries, Inc.
+BROY/TL  - Brown Industries
+BROW/TL  - Brown Trailer
+BROH/TL  - Broyhill Co., The
+BRUN/TL  - Brunswick Travel Trailer
+BRTE/TL  - Brute Equipment Inc.
+BUCC/TL  - Buccaneer Mobile Homes
+BUCI/TL  - Bucita Pop Top Trailer
+BUCK/TL  - Buck Camper Co.
+BUDR/TL  - Buck Dragster Flatbed
+BUCN/TL  - Buckeye Flatbed Trailer
+BUCM/TL  - Buckeye Mobile Homes, Inc.
+KINC/TL  - Buckingham
+BUCO/TL  - Bucko, Inc.
+BUCS/TL  - Buckskin Trailer Mfg. Co.
+BUDC/TL  - Budd Co. Trailer Division, The
+BUDD/TL  - Buddy Mobile Homes, Inc.
+BUDG/TL  - Budger Mfg. Co.
+BUDS/TL  - Budson Knobby Flatbed Trailer
+BUHL/TL  - Buhl Machine Works
+BUIL/TL  - Built Rite Trailer
+BILT/TL  - Builtwell
+BLKE/TL  - Bulk Equipment Mfr. , Inc.
+BULK/TL  - Bulk-Hauler Trailer
+BLTR/TL  - Bullet Trailers, Inc.
+BULL/TL  - Bullmobile Trailer, Inc.
+PARH/TL  - Bunkhouse
+BUNT/TL  - Bunton Co.
+BUNY/TL  - Bunyan, Paul Co.
+BURC/TL  - Burch Trailer
+BURE/TL  - Burkeen Equipment & Supply Co.
+BURK/TL  - Burkhart Trailer Mfg. Co.
+BURL/TL  - Burlington Mfg. Co.
+BURN/TL  - Burnup and Sims, Inc.
+BURR/TL  - Burris Stock Trailer
+BRRO/TL  - Burro, Inc.
+BUSH/TL  - Bushcraft Trailer
+LODC/TL  - Bushog/Loadcraft
+BSB /TL  - Busse Brown Trailer
+BUTL/TL  - Butler Mfg. Co.
+CBUT/TL  - Butler, C. Trailer Mfg. Co.
+BUTE/TL  - Butler, L. T.
+BYER/TL  - Byerly Trailer & Mfg. Co.
+BYRM/TL  - Byers Mfg. Inc.
+MTRA/TL  - C & C Industries
+CANS/TL  - C & S
+CVWE/TL  - C & V Welding and Fabricating
+CMOR/TL  - C-Mor
+CBUT/TL  - C. Butler Trailer Mfg. Co.
+OSBO/TL  - C. D. Osborn & Son
+KELL/TL  - C.C. Kelley & Son
+CADE/TL  - Cadet Coach Corp.
+CADF/TL  - Cadillac Fabrication, Inc.
+CALT/TL  - Cal Trailer Manufacturing
+CALC/TL  - Calcinator
+CALD/TL  - Caldwell, E. L., & Sons
+CLCO/TL  - Calico Trailers
+CALF/TL  - California Camper Mfg.
+CALH/TL  - California Mobile Homes
+CALS/TL  - Calis Travel Trailer
+CALK/TL  - Calkins Trailer
+CALL/TL  - Callahan Engineering Co.
+CALN/TL  - Callen Camper Co.
+CALU/TL  - Calumet Coach Co.
+CAVL/TL  - Calvacade Industries, Inc.
+CLVA/TL  - Calvade Trailer
+CALI/TL  - Calvia Brothers Trailer Mfg.
+CALY/TL  - Calypso
+CAMY/TL  - Cam-O-Tel Corp.
+CAMI/TL  - Cam-Pact Co., Inc.
+CAMA/TL  - Cambridge Homes, Inc.
+CAMB/TL  - Cambridge Mfg. Co., Inc.
+CAMD/TL  - Camel Camper Trailer
+CAMT/TL  - Camelot Camper Trailer
+CMEO/TL  - Cameo Travel Trailer
+SKYL/TL  - Cameron Mobile Homes
+CRAF/TL  - Camp Craft Travel Trailer
+CAMC/TL  - Camp Cruiser Mfg. Co.
+CAME/TL  - Camp Equipment Co., Inc.
+CAMF/TL  - Camp Four Industries, Inc.
+CAML/TL  - Camp-A-While Homes Mfg. Co.
+CAMU/TL  - Camp-Mor, Inc.
+CAMV/TL  - Camp-N All Co.
+CMBL/TL  - Campbell Coach Co., Inc.
+CAMM/TL  - Camper City Coach Craft
+CAMO/TL  - Camper Corp. of America
+CAMP/TL  - Camper De Ville, Inc.
+CAMS/TL  - Campers Unlimited
+CAMR/TL  - Campers, Inc.
+CMPF/TL  - Campfire Travel Trailer
+CMPS/TL  - Campsite Mfg. Co.
+CACR/TL  - Can-Car(Cdn Car Trailer Sales Div.)
+CAND/TL  - Canadian Trailmobile Ltd.
+CANE/TL  - Cane River Trailer Co., Inc.
+CANG/TL  - Canoga Classic Campers
+CANT/TL  - Canton Trailer Co.
+CAPT/TL  - Capacity of Texas, Inc.
+CAPC/TL  - Capco Flatbed
+MIDL/TL  - Capella
+CAPA/TL  - Capital Industries, Inc.
+CAPI/TL  - Capitol
+CAPL/TL  - Capitol Trailer Coach Co.
+CAPM/TL  - Caprice Homes Mfrs. Co.
+CACA/TL  - Car Caddy
+CARA/TL  - Car Camp
+CRMT/TL  - Car Mate Trailers
+CART/TL  - Car-Tel Corp.
+CARB/TL  - Caravan Industries
+CARD/TL  - Caravel Industries
+CARH/TL  - Cardinal Homes, Inc.
+CARE/TL  - Cardinal Industries
+CARF/TL  - Care-Free Camper Mfg. Co.
+CARY/TL  - Carey Trailers, Inc.
+ALTE/TL  - Cargo Pole Trailer
+CARI/TL  - Caribou Craft Camper & Trailer Mfg
+CARK/TL  - Carley
+CARL/TL  - Carlisle
+CARM/TL  - Carma Mfg. Co.
+CARW/TL  - Carnes Welding & Fabricating Co.
+CARN/TL  - Carolina Mobile Homes
+CARO/TL  - Carolina Travel Trailers
+CARG/TL  - Carriage, Inc.
+CARR/TL  - Carrie-Craft Div.
+CRKG/TL  - Carrier King Trailer
+CARS/TL  - Carry Craft Trailers
+COTC/TL  - Carry-On Trailer Corp.
+CATI/TL  - Carson Trailer Inc
+CARC/TL  - Carter Trailer Co., Inc.
+CASA/TL  - Casa Manana Mfg. Corp.
+CASH/TL  - Cascade Coach Co.
+CASR/TL  - Cash Trailers, Inc.
+CUAS/TL  - Cass
+CAST/TL  - Castle Enterprises, Inc.
+CATA/TL  - Catalina Amphibious Homes
+CAPH/TL  - Cataphote
+CATO/TL  - Catolac Corp.
+CAUL/TL  - Caulkins Boat Trailer
+CAVA/TL  - Cavalier Homes, Inc.
+CAVC/TL  - Cavalier Trailer Mfg. Co.
+CAVE/TL  - Caveman Industries
+CMBL/TL  - CCC, Inc.
+CENA/TL  - Central Industries, Inc.
+CNTR/TL  - Centreville Trailer
+CENI/TL  - Centurion International, Inc.
+CENU/TL  - Centurion Travel Trailer
+CENR/TL  - Century Auto Body & Trailer Mfg. Co.
+CERT/TL  - Certified Boat Trailer
+CEVA/TL  - Ceva Mfg. Co.
+CHAC/TL  - Challenge-Cook Brothers, Inc.
+CHAE/TL  - Challenger Homes, Inc.
+CHLG/TL  - Challenger Trailer
+CHAL/TL  - Chamberlin Trailers
+CHAM/TL  - Champion Home Builders Co.
+CHMP/TL  - Champ Horse Trailer
+TRIL/TL  - Chancey
+CHPL/TL  - Chaperalle Horse Trailer
+CHAG/TL  - Charger Pick-up Campers
+MERM/TL  - Charisma
+CHAR/TL  - Charlamor Corp.
+BECK/TL  - Charles H. Becker Inc.
+DICH/TL  - Charlevoix Mobile Homes
+CPTC/TL  - Charlie Perkins Trailer Company, Inc.
+CHAH/TL  - Charmac Trailers
+BOWN/TL  - Charmer Mobile Home
+CHAT/TL  - Chateau Mfg. Co., Inc.
+CHRV/TL  - Chateau Recreational Vehicle Div.
+CHEN/TL  - Cheney Weeder, Inc.
+CHEE/TL  - Cherne Industrial, Inc.
+CHEO/TL  - Cherokee Camper
+CHER/TL  - Cherokee Mobile Homes
+CHES/TL  - Chesapeake Mobile Homes
+CHET/TL  - Cheston & Eshelman Co.
+CHEX/TL  - Chevelle Mobile Homes, Inc.
+CHEP/TL  - Chevron Corp.
+CHIC/TL  - Chickasha Mobile Homes
+CHII/TL  - Chief Industries
+CHIE/TL  - Chief Ocala Trailer Mfg.
+CHIL/TL  - Chilton Trailer Co., Inc.
+CHNO/TL  - Chinook
+CHYI/TL  - Chin Yuan Chi Casting Corp.
+CHIP/TL  - Chippewa Mobile Homes Corp.
+CHIM/TL  - Chipmore Mfg. Co., INc.
+CHIS/TL  - Chisolm Trailers, Inc.
+CRI /TL  - Chris Craft Corp.
+CHRI/TL  - Christianson Industries, Inc.
+JWBC/TL  - Christie, J. W. Bill, Inc.
+CHRS/TL  - Chrysler Boat Co.
+CHUK/TL  - Chukar, Inc.
+CIMR/TL  - Cimarron Mfg. Co.
+MOBU/TL  - Cinderella Mobile Homes
+BARE/TL  - Circle B Livestock Trailers
+CIRD/TL  - Circle D Trailer
+CIRH/TL  - Circle H Horse Trailer
+WTWI/TL  - Circle J Stock Trailer
+CIRK/TL  - Circle K Kennimore
+WELB/TL  - Circle L
+CIRC/TL  - Circle S Star Route
+CSMC/TL  - Circle Supreme Mfg.
+CIRV/TL  - Circle V Horse Trailer
+CITA/TL  - Citation Travel Trailer
+CITY/TL  - City Dump Trailer
+CIWE/TL  - City Welding & Mfg. Co.
+CLAA/TL  - Clapper Camper
+CLAN/TL  - Clar-Mont Mfg. Co.
+CLAR/TL  - Clark Equipment Co.
+CLAM/TL  - Clark Mfg. Co.
+CLAB/TL  - Clark, B.M., Co., Inc.
+CLAS/TL  - Classic Trailer Mfg.
+CLST/TL  - Claster Trailer
+CLAX/TL  - Claxton
+CLAY/TL  - Clay Camper Co.
+CLAZ/TL  - Clayton Craft
+CLAT/TL  - Clayton Homes, Inc.
+CLVR/TL  - Cleavers of Bismark
+CLEM/TL  - Clement-Braswell
+CLEG/TL  - Cleveland Mfg. Co., Inc. (CMC)
+CLIH/TL  - Cliff Hall, Inc.
+CLIF/TL  - Cliff Office Trailer
+CLIN/TL  - Cline
+CLIP/TL  - Clipper Mfg. Co.
+CLOU/TL  - Clough Equipment Co.
+CLEG/TL  - CMC (Cleveland Mfg. Co., Inc.)
+CMIL/TL  - CMI Load King
+CUST/TL  - CMW (Custome Metal Works)
+CMWC/TL  - CMWC Trailer Co., Inc.
+COAC/TL  - Coach Craft, Inc.
+COAH/TL  - Coachmen Homes Corp.
+COAS/TL  - Coastal Trailer Corp.
+COBR/TL  - Cobra Travel Trailers
+COBU/TL  - Coburn Industries, Inc.
+CODY/TL  - Cody Motorcycle Trailer
+COLE/TL  - Coleman Camping Trailers
+CLON/TL  - Colonial Flatbed Trailer
+COLF/TL  - Colonial Mobile Homes Mfg.
+FAIH/TL  - Colonnade Mobile Homes
+CFCH/TL  - Colony Factory Crafted Homes
+COLG/TL  - Colony Mfg. & Sales Corp.
+COLO/TL  - Colorado Mobile Homes
+COLT/TL  - Colt
+COLP/TL  - Colt Camper, Inc.
+CLMB/TL  - Columbia
+COLS/TL  - Columbia Mobile Homes, Inc.
+CLUM/TL  - Columbia Trailer Co., Ltd.
+COLU/TL  - Columbine Camp & Coach
+COMM/TL  - Com-Camp
+COMA/TL  - Comanche Mobile Homes
+COMC/TL  - Comanche Trailer Corp.
+COMN/TL  - Comet Construction Co.
+COME/TL  - Comet Corp.
+COMO/TL  - Comet Mobile Homes
+YARB/TL  - Comet Motorcycle Trailer
+COML/TL  - Commercial Structures
+COMR/TL  - Commercial Vehicles, Inc.
+COMP/TL  - Commodore Corp.
+COMY/TL  - Commune
+COMY/TL  - Community Homes, Inc.
+CMPT/TL  - Compact Equipment Co.
+KITM/TL  - Companion
+CPTN/TL  - Competition Trailers, Inc.
+COMI/TL  - Competitive Boat Trailer
+CMCO/TL  - Conchemco Homes Group
+CONC/TL  - Concord Mobile Homes
+CNRD/TL  - Concord Products, Inc.
+CONE/TL  - Concord Travelers
+CONH/TL  - Condor Motor Home
+CONG/TL  - Conestega Mfg. Co.
+CONI/TL  - Conestoga Mobile Homes
+CONL/TL  - Connell Indistries, Inc.
+CRCO/TL  - Connell Industries, Unc. (Greene, NY)
+CONR/TL  - Conner Industries, Inc.
+CNRY/TL  - Conroy Industries
+CONP/TL  - Consolidated Mobile Industries
+ZIMM/TL  - Consort Mobile Homes
+CNST/TL  - Constructore Trailers, Inc.
+CONM/TL  - Contempori Mobile Homes, Inc.
+CONT/TL  - Continental
+CONW/TL  - Continental Homes, Inc.
+CONX/TL  - Continental Mfg. Co., Inc.
+CONV/TL  - Continental of Colorado, Inc.
+CNTL/TL  - Continental Wheel & Trailer
+CNMI/TL  - Contract Manufacturers Inc.
+CONZ/TL  - Converto
+COWY/TL  - Conway
+CNWD/TL  - Conwed Trailer
+COOK/TL  - Cook Semi Trailer
+COON/TL  - Coon Custom Coach Mfg.
+COOS/TL  - Coos-Bilt Trailers
+COOE/TL  - Coose Trailer Mfg. Co.
+COPC/TL  - Copco Steel & Engineering
+COPP/TL  - Copperstate Coach Co.
+CORG/TL  - Corder Mfg. Co., Inc.
+CORN/TL  - Corn Belt Manufacturing. Inc.
+COT /TL  - Corner Utility Trailer
+CORO/TL  - Corona Coach Co.
+CORR/TL  - Correct Craft, Inc.
+CORS/TL  - Corsair Div.
+CORT/TL  - Cortez House Trailer
+CORV/TL  - Corvette Travel Trailer
+COTT/TL  - Cottage-Ette Mfg.
+REDM/TL  - Country Estate
+CRVM/TL  - Country R. V. Mfg., Inc.
+COUN/TL  - Country Squire Travel Trailer
+COUA/TL  - Country-Aire Travel Trailer
+RMWC/TL  - Country-Boy
+COUI/TL  - Countryside Industries, Inc.
+REMI/TL  - Countryside Mobile Home
+COUR/TL  - Courthouse Camper Trailer
+GRSO/TL  - Coventry Mobile Home
+COVE/TL  - Covered Wagon Trailer
+COXS/TL  - Cox Trailers
+COYN/TL  - Coynco Products
+COYO/TL  - Coyote Mfg. Corp.
+COZA/TL  - Cozad Trailer Sales
+CRWE/TL  - Craft Weld Trailer
+CRAM/TL  - Craftmade Homes, Inc.
+CRAW/TL  - Crawler Trailer
+CREE/TL  - Cree Coaches, Inc.
+CRET/TL  - Creightons Trailer
+REDM/TL  - Crescent
+CREO/TL  - Crest Mobile Homes, Inc.
+CRST/TL  - Crest Trailer
+LONE/TL  - Crestlane
+SKYL/TL  - Crestwood Homes
+CRIC/TL  - Cricket Corp.
+CRIM/TL  - Crimson Homes
+CRIT/TL  - Criterion Homes Mfg. Inc.
+CROT/TL  - Croft
+CRII/TL  - Cronkhite Industries Inc.
+CROH/TL  - Cross Hill Mobile Homes
+CROE/TL  - Cross Truck Equipment Co., Inc.
+CROI/TL  - Crossland Industries
+CROR/TL  - Crossroads
+CRLY/TL  - Crowley Mfg.
+CRON/TL  - Crown
+CROW/TL  - Crown Line
+REDM/TL  - Crownhaven
+CRUI/TL  - Cruisaire Motor Corp.
+CRUM/TL  - Cruzmaster Camper
+CRVM/TL  - CRV
+CANS/TL  - C & S
+CSTW/TL  - C & S Trailer World
+CRYS/TL  - Crystal Welding Inc.
+CSMM/TL  - CSM Manufacturing Co.
+CUKE/TL  - Cuke, Inc.
+CULL/TL  - Cullip Industries
+CULP/TL  - Culpepper Trailer Co.
+CUMB/TL  - Cumberland Coaches
+CURT/TL  - Curtis
+CUAS/TL  - Custom Assembly
+CUSB/TL  - Custom Bond Mfg. Co.
+CUSA/TL  - Custom Camper Co.
+CUSC/TL  - Custom Coach Co.
+CUSF/TL  - Custom Craft Mfg. Co.
+CUSE/TL  - Custom Engineering
+CFBT/TL  - Custom Fab Bodies and Trailers Inc.
+CUSO/TL  - Custom Frames, Inc.
+CUSI/TL  - Custom Homes, Inc.
+CUKH/TL  - Custom King Horse Trailer
+CUST/TL  - Custom Metal Works (CMW)
+CUSL/TL  - Custom Plumbing Co.
+CUSM/TL  - Custom Trailers, Inc.
+SKYL/TL  - Custom Villa
+CWTR/TL  - C & W Trailers
+CWCF/TL  - CWC Feather-Lite Mfg. Co.
+CYCK/TL  - Cycle Kamp, Inc.
+TTMC/TL  - Cycle-Mate
+HOWA/TL  - Cycle-Sleeper
+CEEZ/TL  - CZ Engineering, Inc.
+DMVE/TL  - D.M. & V. Enterprises, Inc.
+DACO/TL  - Daco Trailer Corp.
+DAFF/TL  - Daffin Mfg. Co.
+DAIR/TL  - Dairy Equipment Co.
+DAKO/TL  - Dakota Mfg. Co., Inc.
+DALW/TL  - Dalewood Manufacturing Co., Inc.
+DALI/TL  - Dalton, Inc.
+DAMO/TL  - Damon Industries, Inc.
+DAND/TL  - Dan Dee Industries, Inc.
+DANT/TL  - Dan's Trailer Supply, Inc.
+DANA/TL  - Dana Truck Mount Camper
+DANT/TL  - Dandy Mobile Homes
+DANB/TL  - Danny Boy Trailer
+DARB/TL  - Darby Industries
+DARC/TL  - Darcell Industries, Inc.
+RICD/TL  - Darian Mobile Homes
+DART/TL  - Dart
+DARV/TL  - Darvon Double Trailer
+DAVE/TL  - Dave Hicks Co., Inc.
+DAVC/TL  - Davenco, Inc.
+DAVN/TL  - Davenport Trailer or Mobile Home Co.
+DAVD/TL  - David Mfg. Co.
+DAVO/TL  - Davron Traveler, Inc.
+DAWE/TL  - Dawes Products Co.
+MONC/TL  - Daytona Mobile Homes
+DDTI/TL  - D & D Trailer Inc.
+DERE/TL  - De Rose Industries, Inc.
+DESA/TL  - De Soto Coach Co.
+DELA/TL  - De-Lar, Inc.
+DEAN/TL  - Dean Industries, Inc.
+DECA/TL  - Decamp Homes, Inc.
+DCCS/TL  - Deep South Sales Co.
+DEER/TL  - Deere, John, Trailer
+DEGE/TL  - DeGeest Mfg. Co.
+DEIC/TL  - Deico Auto Carrier Trailer
+DEKC/TL  - Dekco Mobile Mfg.
+DELR/TL  - Del Rey Industries, Inc.
+MADR/TL  - Del Rio
+DELN/TL  - Delavan Trailer
+DELH/TL  - Delhi Metal Products, Ltd.
+DELM/TL  - Delmar Mfg. Co., Inc.
+DELP/TL  - Delphi Body Works, Inc.
+DELS/TL  - Delta Homes Corp.
+DELT/TL  - Delta Truck Trailer Co., Inc.
+DELU/TL  - Delto Homes, Inc.
+DELX/TL  - Deluxe Homes, Inc.
+DEMM/TL  - Demco
+DEMC/TL  - Demo Horse Trailer
+DEMP/TL  - Dempster
+DENN/TL  - Dennison Utility Trailer
+DENE/TL  - Denver Trailer Supply, Inc.
+DERH/TL  - Denzin & Rahn Mfg. Co., Inc.
+DERH/TL  - Derco Utility Trailer
+DESG/TL  - Design Intennt, Inc.
+DESI/TL  - Design Structures
+DEST/TL  - Destiny Industries, Inc.
+DETH/TL  - Dethmers Mfg. Co.
+DTRL/TL  - Detrail Trailer
+DETE/TL  - Detroit Trailer Co.
+DETI/TL  - Detroiter Homes
+DEAL/TL  - Deutz-Allis Corp.
+DEVL/TL  - Devil Travel Trailer
+DEVI/TL  - Deville Industries, Inc.
+DEVN/TL  - Devine's Machine & Design, Inc.
+DEWE/TL  - DewEze Mfg., Inc.
+DIAB/TL  - Diamond B
+DIAS/TL  - Diamond-Bilt
+DIAC/TL  - Diamond C
+DCTR/TL  - Diamond City Trailer Mfg
+DIAM/TL  - Diamond G Equipment
+DIAD/TL  - Diamond Mobile Home Mfg.
+DIAO/TL  - Diamond S
+DIAS/TL  - Diamond Steel Co., Inc.
+DICH/TL  - Dickinson Homes, Inc.
+DICK/TL  - Dickirson Equipment Corp.
+DICO/TL  - Dico Co.
+DIDI/TL  - Didier Mfg. Co.
+DILL/TL  - Dillis Trailer Mfg.
+DILO/TL  - Dillon Enterprises, Inc.
+DILY/TL  - Dilly
+DITC/TL  - Ditch Witch
+DIVO/TL  - Divco-Wayne Industries
+DIVE/TL  - Dively Mfg. Co.
+DIXI/TL  - Dixie
+DIXE/TL  - Dixie Craft Trailers, Inc.
+DM  /TL  - DM Utility Trailer
+DMHC/TL  - DMH Co.
+DMI /TL  - DMI, Inc.
+DODD/TL  - Dodd Mfg. Co., Inc.
+DODE/TL  - Dodge Woodcraft
+DOEP/TL  - Doepker Industries Ltd.
+DOLA/TL  - Dolan Corp.
+DOLI/TL  - Dolphin Homes
+DONM/TL  - Don May Enterprises
+DONA/TL  - Don-A-Bell Homes, Inc.
+DONU/TL  - Donahue Corp., The
+DONH/TL  - Donhal, Inc.
+DONL/TL  - Donnell Boat Trailer
+DONS/TL  - Dons Boat Trailer
+DOO /TL  - Doo Snowmobile Trailer
+DOOL/TL  - Doolittle
+DOON/TL  - Doonan Trailer Corp.
+TIWD/TL  - Dorado Mobile Homes
+DOLI/TL  - Doral
+DORI/TL  - Dormi Industries, Inc.
+SILC/TL  - Dorsett Mobile Homes
+DORS/TL  - Dorsey Trailers Inc.
+DOUE/TL  - Double E Trailer Mfg.
+DD  /TL  - Double Horse Trailer
+DOUJ/TL  - Double J Horse Trailer
+DOUB/TL  - Double Shuffle Mobile Home
+DOUG/TL  - Douglas Homes, Inc.
+EDEY/TL  - Dovekie
+DICH/TL  - Dover Mobile Homes
+DOWE/TL  - Downer Industries
+DOWH/TL  - Downey Sheet Metal Shop
+DWNS/TL  - Downs Clark Trailer
+DRAG/TL  - Drag Master Utility Trailer
+DRGL/TL  - Draglite Trailer
+DREA/TL  - Dreamer
+DRML/TL  - Dreamliner Trailer
+DRES/TL  - Dresser Industries
+DRIE/TL  - Drifter Mfg. Co.
+DRIF/TL  - Driftwood Homes Corp.
+DRIV/TL  - Drive On Trailer Mfg.
+DRYD/TL  - Drydock Trailer, Inc.
+DUAE/TL  - Dual Evans Corp.
+DUAL/TL  - Dual-Wide, Inc.
+DUDE/TL  - Dude Trailer
+DUGA/TL  - Dugan Trailer, Inc.
+DUKE/TL  - Duke Mobile Homes
+DUNB/TL  - Dunbar Kapple
+DUNH/TL  - Dunham Mfg. Co., Inc.
+DUPA/TL  - Dupage Coach Co.
+DUPX/TL  - Duplex Mill & Manufacturing Co.
+DURE/TL  - Dura-Craft Mobile Homes
+BALT/TL  - Durabilt
+DURC/TL  - Durcholz Trailer
+DURO/TL  - Duro Mobile Homes
+DURB/TL  - Durobilt
+DUGO/TL  - Dusgo Trailer
+DUTC/TL  - Dutchman Manufacturing
+DUTE/TL  - Dutec Trailer
+DUTT/TL  - Dutton-Lainson Co., Mfg. Div.
+DSWS/TL  - DWS Storeway Trailer
+DYNC/TL  - Dynacruiser Mount Trailer
+DYNW/TL  - Dynaweld Trailer
+EZHA/TL  - E Z Haul
+EXTO/TL  - E Z Tow Manufacturing, Co.
+EZCK/TL  - E-Z Camper (or Kamper)
+EZLD/TL  - E-Z Loader Boat Trailer
+EZUT/TL  - E-Z Utility Trailer
+ETNY/TL  - E. D. Etnyre & Co.
+CALD/TL  - E. L. Caldwell & Sons
+BOYD/TL  - E.G. Boyd Trailer Co.
+EZAC/TL  - E.Z.A. Mfg. Co.
+EAGB/TL  - Eager Beaver Trailer
+EAGC/TL  - Eagle Custom Coach Mfg. Co.
+EAGE/TL  - Eagle Equipment
+EAGL/TL  - Eagle Trailer Mfg., Inc.
+EASM/TL  - Easom Engineering
+EADU/TL  - East Dump Trailer
+EASU/TL  - East Se Trailer
+EASE/TL  - Eastern-Bilt, Inc.
+EAST/TL  - Easton Car & Construction
+EALO/TL  - Easy Loader Trailer
+EARI/TL  - Easy Rider Trailer
+EATR/TL  - Easy Trail, Inc.
+EASW/TL  - Easy Traveler Trailer
+EASY/TL  - Easyown Mfg. Co.
+REDM/TL  - Eaton Park
+EBON/TL  - Ebony Line Products
+MHEB/TL  - EBY, M.H., Inc.
+ECOF/TL  - Econo Flo Bulk Service
+ECLN/TL  - Econoline Utility Trailer
+ECMY/TL  - Economy Camper Co.
+EDEY/TL  - Edey & Duff
+EDWA/TL  - Edwards Trailer
+EEZY/TL  - EE-ZY Trailer Co.
+EHMC/TL  - EHM Mfg. Co.
+EIDA/TL  - Eidal International Corp.
+EIGH/TL  - Eight Point
+CMCO/TL  - El Camino
+ELDC/TL  - El Do-Craft Boat Co., Inc.
+ELDO/TL  - El Dorado Mfg., Ltd.
+ELCA/TL  - Elcar Mobile Homes, Inc.
+ELCO/TL  - Elcona Homes Corp
+ELDE/TL  - Elder Trailer & Body
+ELCT/TL  - Electric Wheel Co.
+ELGI/TL  - Elgin
+ELIT/TL  - Elite Mfg.
+ELJA/TL  - Eljay Mfg. Co.
+ELKH/TL  - Elkhart Mfg. Co.
+PRIC/TL  - Elkton
+ELLI/TL  - Elliott Mobile Home Mfg.
+ELLS/TL  - Ellis Trailer Co.
+EMBA/TL  - Embassy Homes
+EMBB/TL  - Embassy Mobile Homes
+EMCO/TL  - Emmco Trailer
+EMPI/TL  - Empire Trailer, Inc.
+EMPR/TL  - Empress Industres
+HAYE/TL  - Enerex
+ENER/TL  - Energy Mfg. Co.
+ENGL/TL  - English Industries
+CRIM/TL  - English Squire
+ENRT/TL  - En Route, Inc.
+ENSE/TL  - Ensenada Mobile Homes
+EREK/TL  - Erectors & Fabricators, Inc.
+ERCE/TL  - Eric Enterprises, Inc.
+ERIE/TL  - Erie City Welding & Spring
+ERIN/TL  - Erin Truck and Body Equipment
+HOMS/TL  - Ernest Holmes Div.
+ESCA/TL  - Escape Trailer
+ESCT/TL  - Escort Trailer Corp.
+ESQU/TL  - Esquire
+ESSK/TL  - Essick Trailer
+ESSI/TL  - Essick/Hadco Div.
+ESTE/TL  - Estevan Industries, Ltd.
+ETNY/TL  - Etnyre & Co., E. D.
+EVAN/TL  - Evans Mfg. Co., Inc., John
+EVAP/TL  - Evans-Plugge Co., Inc.
+EVAS/TL  - Evanston Coach Co.
+EVEN/TL  - Evens Trailer Mfg., Inc.
+EVER/TL  - Evergreen Log Trailer
+EVIN/TL  - Evinrude Motors
+EXCL/TL  - Excalibur Trailer
+EXCE/TL  - Excell Travel Trailer
+ESCO/TL  - Exco Boat Trailers
+EXEC/TL  - Executive Industries, Inc.
+MILY/TL  - Exhibitor
+EXPL/TL  - Explorer Motor Home
+CLAT/TL  - Expo V
+EXTL/TL  - Extend-Ell Industries
+YARB/TL  - EZ-Roller Boat Trailer
+GLWO/TL  - EZZ Pull
+EZZY/TL  - Ezzy Load Boat Trailer
+FHMC/TL  - F & H Mfg. Co.
+LONF/TL  - F. A. Long
+FABC/TL  - F.A.B. Mfg. Co.
+FACT/TL  - Factory Outlet Trailers
+FAIH/TL  - Fairmont Homes, Inc.
+FAIM/TL  - Fairmont Steel Products
+HOLM/TL  - Fairway
+FALM/TL  - Falco Mfg. Co.
+FALN/TL  - Falcon Coach Co.
+FARW/TL  - Farenwald Boat Trailer
+FMSH/TL  - Farm Shop, Inc.
+JLM /TL  - Fast Tracker
+RRMA/TL  - Fat Cat
+FAWN/TL  - Fawn Corp.
+FAYE/TL  - Fayette Trailer
+CWCF/TL  - Feather-Lite
+FEDE/TL  - Federal Trailer Co.
+GLFI/TL  - Feedliner
+FLBR/TL  - Felburn Flatbed Trailer
+FELD/TL  - Feldman Custom Trailers
+FELL/TL  - Fellwon Trailer
+FELP/TL  - Felps Mfg. Corp.
+FERE/TL  - Ferree Trailer Corp.
+FERT/TL  - Fertilizer Dealer Supply, Inc.
+FETE/TL  - Feteri Mfg. Co.
+FEYF/TL  - Fey, Frank & Co.
+FIEA/TL  - Fiegelson, Alex, Co.
+FIEL/TL  - Field & Stream
+FIED/TL  - Field Office Mfg. Co.
+FIAC/TL  - Fieldacre Horse Trailer
+FIEM/TL  - Fields Mfg. Co.
+FIES/TL  - Fiesta Trailer
+FIFE/TL  - Fife Trailer
+SKYL/TL  - Fifth Avenue
+FIGU/TL  - Figura, Mike
+FILK/TL  - Finger Lakes Trailer
+FIRB/TL  - Fireball Trailer Mfg.
+FIRT/TL  - Firestone Tire & Rubber Products
+FIRS/TL  - First American Coach
+FISC/TL  - Fischer
+FIVK/TL  - Five-K Trailer Co., Inc.
+FLAG/TL  - Flag Ship Boat Trailer
+FLAI/TL  - Flair Industries of Illinois, Inc.
+SUNM/TL  - Flamenco
+FLAM/TL  - Flamingo Trailer Mfg.
+FLAS/TL  - Flasko Mfg. Co.
+FLE /TL  - Fleet Cap'n Trailers
+FLEA/TL  - Fleet-Aire Camper Co.
+FLEE/TL  - Fleetcraft Corp.
+FLEM/TL  - Fleetwing Mobile Homes
+FTWD/TL  - Fleetwood Enterprises, Inc.
+FLMG/TL  - Fleming Equipment Co.
+FLEN/TL  - Fleming Mfg. Co., Inc.
+FLEI/TL  - Flexi-Coil Ltd.
+FLIN/TL  - Flintstone Industries
+FLOA/TL  - Float-On of Florida
+FLOE/TL  - Floe international
+FLOD/TL  - Florida Trailer Co.
+FLOI/TL  - Florida Wholesale Distributor
+FLOR/TL  - Florig Equipment Co., Inc.
+FLOT/TL  - Flote-Aire Corp.
+LYNH/TL  - FloTrail
+FLOW/TL  - Flow Boy, Inc.
+FLYL/TL  - Flying L Trailer, Inc.
+FONA/TL  - Fontaine Truck Equipment Co.
+FONT/TL  - Fontenelle Homes, Inc.
+FOOT/TL  - Foot Hill Horse Trailer
+FORE/TL  - Ford's Mobile Home Mfg.
+FORF/TL  - Foreman Mfg. Co.
+FORG/TL  - Foremost Mobile Home Mfg.
+FORI/TL  - Forest City Industries, Inc.
+GERR/TL  - Forest Park
+FORH/TL  - Forester
+FORL/TL  - Forlyn Engineering Co.
+FOML/TL  - Formaloy Flat Snowmobile Trailer
+FORN/TL  - Forney Horse Trailer
+FORS/TL  - Fort Lupton Campers
+FORT/TL  - Fort Smith Camper Mfg. Co.
+FOR /TL  - Forte Trailer
+FORU/TL  - Fortune Homes Corp.
+FOSJ/TL  - Fost Joe Dog
+FOST/TL  - Foster Flatbed Trailer
+FORR/TL  - Fostron's Factory Outlet Trailers
+FOTX/TL  - Fotografix Boat Trailers
+FOUN/TL  - Fountain Flatbed Trailer
+FOUR/TL  - Four Seasons Travel Trailer
+FOUS/TL  - Four Star Coach Co.
+FOUT/TL  - Four State Industries, Inc.
+FOUW/TL  - Four Winds
+FRCS/TL  - Francis Travel Trailer
+FEYF/TL  - Frank Fey & Co.
+FRAC/TL  - Frank Motor Homes, Inc.
+RUSE/TL  - Frank Russell Mfg. Co.
+FRAI/TL  - Franklin Coach Co.
+FRAK/TL  - Franklin Homes, Inc.
+HOLR/TL  - Free Spirit
+SKYL/TL  - Freedom Mobile Homes
+FREE/TL  - Freeway Travelers, Inc.
+FREA/TL  - Freeway, Inc.
+FREN/TL  - French Horse Trailer
+FRIE/TL  - Friendship Industries
+FRES/TL  - Friess Trailer
+FROL/TL  - Frolic Homes, Inc.
+FRON/TL  - Frontier Homes Corp.
+FROS/TL  - Frost Trailer Co.
+FRUE/TL  - Fruehauf Corp.
+FRYE/TL  - Frye
+FULL/TL  - Fuller Mfg. Co.
+FULT/TL  - Fulton Boat Trailer
+FUNL/TL  - Funliner Mfg. Co.
+FUNT/TL  - Funtime Camper Trailer
+FUQU/TL  - Fuqua Homes, Inc.
+FUTU/TL  - Futurama
+GFTR/TL  - G & F Trailer
+GCMC/TL  - G. & C. Mfg. Co.
+WOLF/TL  - G.T.Wolfe Mobile Homes
+GABR/TL  - Gabriel Auto Carrier
+GADA/TL  - Gad-About Trailers
+GALA/TL  - Galactic Corp.
+GALB/TL  - Galbreath, Inc.
+GALI/TL  - Galion Manufacturing Div. (Hercules)
+GALT/TL  - Gallatin Homes
+SHAM/TL  - Galway
+GARD/TL  - Gardner, Inc.
+GARP/TL  - Gardner-Pacific-Sunrader, Inc.
+GARS/TL  - Garson Flatbed Trailer
+GARH/TL  - Garway Homes, Inc.
+GARO/TL  - Garwood
+GARY/TL  - Gary Carolina Co.
+GATE/TL  - Gates, Walter C.
+GATP/TL  - Gator Products, Inc.
+GATO/TL  - Gator Trailers Corp.
+GEEB/TL  - Gee-Bee-Dee Manufacturing & Supply Co.
+GEEC/TL  - Geer Co.
+GEER/TL  - Geering Industries, Inc
+GEHL/TL  - Gehl Co.
+GELT/TL  - Gelt Trailers
+GEM /TL  - Gem Industries, Inc.
+GEMI/TL  - Gemini Trailer
+GEMT/TL  - Gemtop
+GENA/TL  - General
+GAAC/TL  - General Amer Aero Coach
+GENG/TL  - General Coach Mfg. Co.
+GENF/TL  - General Coach of Florida
+GEN /TL  - General Coach Works of Canada
+GENH/TL  - General Coach Works, Inc.
+GECI/TL  - General Engines Co., Inc.
+GENM/TL  - General Homes Div.
+GENE/TL  - General Trailer Co., Inc.
+GENT/TL  - Gentry
+GEOT/TL  - Georgia Trailer & Equipment Corp.
+GERA/TL  - Gerard Lowboy Trailer
+GERR/TL  - Gerring Industries, Inc.
+GHIE/TL  - Ghieapy Jol Trailer
+GIAA/TL  - Giant
+GIBR/TL  - Gibraltar Industries, Inc.
+GIBL/TL  - Gibralter Coach Mfg. Co.
+GIDD/TL  - Giddings Machine Co., Inc.
+GILD/TL  - Giles Industries, Inc.
+GILM/TL  - Gilmore Trailer, Inc.
+GILS/TL  - Gilson Brothers Co.
+GINR/TL  - Gin Ray Mfg. Co.
+GIND/TL  - Gindy Mfg. Corp.
+GIRA/TL  - Girard's Mfg. Co.
+GIVE/TL  - Givens Mfg. Co.
+GLAD/TL  - Gladding Travel Trailer
+CENI/TL  - Gladiator
+GLWO/TL  - Glass-Wood Products, Inc.
+GLAT/TL  - Glasstite, Inc.
+GLSS/TL  - Glass Stream Trailers
+GLST/TL  - Glastron, Inc.
+GLEC/TL  - Glen & Cecil Mobile Home Mfg
+GLEH/TL  - Glen Manor Homes, Inc.
+GLNL/TL  - Glen-L Trailers
+GLEB/TL  - Glenbrook Homes Of Tennesee
+GLEL/TL  - Glendale Mobile Homes
+GLEN/TL  - Glenhill Road Machinery
+GLID/TL  - Glider Mobile Homes Corp.
+GLIT/TL  - Glitsch
+GLOB/TL  - Globe Camper Mfg.
+GLFI/TL  - Globe Fabricators, Inc.
+GLOM/TL  - Globemaster Mobile Homes
+GLOS/TL  - Globestar Industries, Inc.
+GLOV/TL  - Glover Plastic Sprayer
+SSTL/TL  - GN Custom
+GOCO/TL  - Go Corp.
+GOLN/TL  - Go-Lite, Inc.
+GOGA/TL  - Go-Tag-Along
+GOGE/TL  - Go-Tel Leasing Corp.
+GOEB/TL  - Goebel Trailer Co.
+GOFF/TL  - Goff Mfg. Corp.
+GOLA/TL  - Gold Leaf Engineering Co.
+GOLD/TL  - Gold Star Mobile Homes, Inc.
+GOLE/TL  - Golden Coach Mfg. Co.
+SKYL/TL  - Golden Falcon Homes, Inc.
+GOLK/TL  - Golden Isle Trailers, Inc.
+GONU/TL  - Golden Nugget Travel Trailer
+KITM/TL  - Golden State
+GOLL/TL  - Golden State Mobile Homes
+GOLM/TL  - Golden West Mobile Homes
+GONA/TL  - Gonard Enterprises, Inc.
+GOOD/TL  - Good Mfg. Co.
+GOOY/TL  - Goodyear Camper Mfg., Inc.
+GOOS/TL  - Gooseneck Trailer Mfg. Co., Inc.
+GORB/TL  - Gorbett Brothers
+GORE/TL  - Gore Trailer
+GORM/TL  - Gorman-Rupp Company, The
+GRAB/TL  - Grady-White Boat Co.
+GRAF/TL  - Graffin Wellpoint Corp.
+GRAM/TL  - Gramm
+GRDP/TL  - Grand Premier Travel Trailer
+REDM/TL  - Granville
+GRAV/TL  - Gray-Velle Mobile Homes
+GDAN/TL  - Great Dane Trailers, Inc.
+GREA/TL  - Great Divide Coach Mfg.
+GRLK/TL  - Great Lake
+GREL/TL  - Great Lakes Mobile Homes
+GRSO/TL  - Great Southwest Corp.
+GRNE/TL  - Green & Green Mfg. Co., Inc.
+GREE/TL  - Green Boat Trailer
+SKYL/TL  - Greenbriar
+GREN/TL  - Greencastle Coach Co.
+GRNH/TL  - Greenhaven Mobile House Trailer
+GREI/TL  - Greenvilla
+GREI/TL  - Greenville
+GREG/TL  - Gregory Mfg. Co.
+GRER/TL  - Gregory Trailer Sales
+STAL/TL  - Grenadier Mobile Homes
+GRIZ/TL  - Grizzly Mfg. Co., Inc.
+GROE/TL  - Gronewegen B.V.
+GRUM/TL  - Grumman-Olsen
+GUER/TL  - Guerdon Industries
+GUID/TL  - Guidon Camper Trailer
+GWM /TL  - Gulf & Western Mfg. Co., Inc.
+GULF/TL  - Gulf States Mfg. Corp.
+GUTH/TL  - Guthrie Trailer Sales, Inc.
+GYEL/TL  - Gypsum Express LTD
+HBTC/TL  - H & B Trailer Co.
+HSMI/TL  - H. & S. Mfg., Inc.
+HWMC/TL  - H. & W. Mfg. Co.
+HACK/TL  - Hackney & Sons, Inc.
+HADL/TL  - Hadley Trailer Mfg. Co.
+HAIR/TL  - Hairgrove Industries, Inc.
+HALC/TL  - Halco Co.
+HALE/TL  - Hale Horse Trailer
+HALL/TL  - Hall, R.D. Mfg., Inc.
+HALR/TL  - Halliburton Co.
+HAMB/TL  - Hamby Co., The
+CLAT/TL  - Hamilton House
+HAMI/TL  - Hamilton Trailer
+HAML/TL  - Hamlite
+HAMP/TL  - Hampton Homes, Inc.
+HAMP/TL  - Hampton Rhoads
+HANK/TL  - Hank's Mobile Home Service
+HANO/TL  - Hanover
+HNSO/TL  - Hanson Camping Trailer
+HAPY/TL  - Happy Travl'r Coaches, Inc.
+HARD/TL  - Hardee Mgf. Co.
+HARG/TL  - Harding Trailer Co.
+HARK/TL  - Harklau Industries, Inc.
+HARW/TL  - Harlow Travel Trailer
+HRTK/TL  - Harmon Tank Co.
+HRLL/TL  - Harrell Mfr.
+HARR/TL  - Harrington Mfg. Co., Inc.
+HARC/TL  - Harris Honker Camper Mfg.
+HARF/TL  - Harrison Trailer Mfg. Co.
+HARM/TL  - Hart Mfg., Inc.
+HARH/TL  - Hart Mobile Homes Corp.
+HARI/TL  - Hartford Homes, Inc.
+HARL/TL  - Hartline Travel Trailers
+HART/TL  - Hartman
+HTFD/TL  - Hatfield Welding & Trailer Sales, Inc.
+HAUA/TL  - Haul-A-Day Trailers
+NODE/TL  - Hauler-Trailer
+HAUL/TL  - Haulette Trailer
+HAUT/TL  - Haul-It-All-Flatbed Trailer
+HAUI/TL  - Haulmark Industries, Inc.
+BMMF/TL  - Haul-Rite Boat Trailer
+HALN/TL  - Haulin Trailers, LLC
+HAWK/TL  - Hawkeye Camping Trailer
+CORN/TL  - Hawkeye Eagle
+HAWT/TL  - Hawthorne Trailer
+HAYE/TL  - Hayes Equipment Corp.
+HAYN/TL  - Haynes Mfg. Co., Inc.
+HEAR/TL  - Hearthside Mobile Homes
+ARCT/TL  - Heavy Hauler
+HECK/TL  - Heckaman Mfg., Inc.
+HECO/TL  - Heco Boat Trailer
+HEDW/TL  - Hed-Way, Inc.
+HEIL/TL  - Heil Co., The
+HEIT/TL  - Heilite Trailers, Inc.
+HLWD/TL  - Hellwood Trailer
+HELM/TL  - Helm Mfg. Co.
+HELR/TL  - Helmers Custom Coach
+HENN/TL  - Henderson Mfg. Co.
+HENE/TL  - Henred-Fruehauf (Pty.) Ltd.
+HENS/TL  - Henslee Mobile Homes, Inc.
+HERB/TL  - Herbst Brothers
+HERC/TL  - Hercules
+GALI/TL  - Hercules Galion (or Galion)
+HERI/TL  - Heritage Mobile Homes
+HERO/TL  - Heron Travel Campers
+HERR/TL  - Herrli Industries, Inc.
+HERT/TL  - Herter Snowmobile Trailer
+HERZ/TL  - Herzig Mfg. Co.
+HESS/TL  - Hesse Corp.
+HEWI/TL  - Hewitt-Lucas Body Co.
+HIAA/TL  - Hiawatha Mobile Homes
+HIBD/TL  - Hibdon Mfg. Co.
+HKRY/TL  - Hickory King Horse Trailer
+HICS/TL  - Hicks
+HIDE/TL  - Hide-A-Way Camper
+HICH/TL  - High Chaparral, Inc.
+YARB/TL  - Highlander Travel and Boat Trailers
+HIST/TL  - Highstone Trailer
+HIGA/TL  - Highway Cruisers, Inc.
+HIGY/TL  - Highway Industries
+HIGW/TL  - Highway Manufacturing Co.
+HIGE/TL  - Highway Sleeper Corp.
+HIGH/TL  - Highway Trailer
+HIGK/TL  - Highway Trailer of Wis & Calif
+HIBT/TL  - Hilbilt Mfg. Co.
+HILC/TL  - Hill Country Homes, Inc.
+HILD/TL  - Hill Dump Trailer
+HILF/TL  - Hill Mfg. Co.
+HILI/TL  - Hillco, Inc.
+HILM/TL  - Hillcrest Homes, Inc.
+HILB/TL  - Hillsboro Industries, Inc.
+HILT/TL  - Hilltop Mfg., Inc.
+HILP/TL  - Hilltopper Mfg. Corp.
+HILS/TL  - Hilo Snyder Travel Trailer
+HI  /TL  - Hi-Lo Travel Trailer
+HILO/TL  - Hilton Mobile Homes, Inc.
+HIRE/TL  - Hire Dump Trailer
+RVKO/TL  - Hitch Hiker
+HITC/TL  - Hitching Rail Trailer
+HIUT/TL  - Hi-U-Trailer Mfg.
+HM  /TL  - HM
+HOBB/TL  - Hobbs Trailers
+HOBO/TL  - Ho-Bo Trailers
+SUNW/TL  - Hoger
+HOLE/TL  - Holden Trailer Mfg. Co.
+HOLH/TL  - Holiday House
+HOLI/TL  - Holiday Industries, Inc.
+HOMA/TL  - Holiday Marine Sales, Inc.
+HOLM/TL  - Holiday Mobile Homes
+HOLR/TL  - Holiday Rambler Corp.
+HOLO/TL  - Holiday Royal Travel Trailer
+HOMA/TL  - Holiday Trail
+HOLS/TL  - Holiday Trailer Sales & Mfg. Co.
+HOLR/TL  - Holiday Vacationer
+HOLU/TL  - Holland Camper Co.
+HOLL/TL  - Holland Trailers
+HOLY/TL  - Holly Industries (or Coach Co.)
+HLPK/TL  - Holly Parks, Inc.
+HOLW/TL  - Hollywood Mobile Homes
+HOAN/TL  - Holman Compressor Trailer
+HOMS/TL  - Holmes, Ernest Div.
+HOLZ/TL  - Holmes-Craft
+HOL /TL  - Holsclaw Brothers, Inc.
+HOLN/TL  - Holstein Mfg., Inc.
+HOLT/TL  - Holt Trailer
+HOLV/TL  - Holva Travel Trailer
+ACTE/TL  - Homecraft
+HMDE/TL  - Homemade Trailer Code
+FRIE/TL  - Homes American
+HOME/TL  - Homette Homes (or Corp.)
+HOMM/TL  - Homeway Mobile Homes
+HONO/TL  - Honorbuilt Trailer Mfg.
+SPRS/TL  - Hoosier
+HOOS/TL  - Hoosier Mobile Homes
+HOP /TL  - Hop Cap P/U Camper Trailer
+HOPK/TL  - Hopkins Mfg. Corp.
+HORI/TL  - Horizon Mobile Homes
+HORN/TL  - Horner-Golem Co.
+HORT/TL  - Hornet Flatbed Trailer
+HOIN/TL  - Hornet Industries, Inc.
+HOUE/TL  - Houle Industries, Inc.
+HOUF/TL  - House of Architecture
+HOUH/TL  - House of Harmony, Inc.
+HOWA/TL  - Howard Mfg. Co.
+HOWD/TL  - Howdan Mfg. Co.
+HOWE/TL  - Howe Engineered Sales Co.
+HOWL/TL  - How-Lo Campers Co.
+HDSN/TL  - Hudson Trailer
+HUGH/TL  - Hughes
+HULL/TL  - Hullco
+HUMS/TL  - Humes Truck & Trailer Mfg. Co.
+HUNE/TL  - Hunter Custom Trailers
+HUTR/TL  - Hunter Structures Trailer
+WRIG/TL  - Hunter's Dream
+HUNG/TL  - Huntington Distributors
+HUNM/TL  - Hunt's Trailer Mfg.
+HURO/TL  - Huron Industries, Inc.
+HURS/TL  - Hurst Trailers, Inc.
+HSKY/TL  - Hus-Key Mfg., Inc.
+HUSS/TL  - Huss Sales, Inc.
+HUST/TL  - Hustler Boat Trailer
+HYDE/TL  - Hyde Corp.
+HYLD/TL  - Hylander Utilit  Trailer
+HYLN/TL  - Hy-Line Enterprises, Inc.
+HYLT/TL  - Hylton Homes, Inc.
+HYST/TL  - Hyster Corp.
+HYTR/TL  - Hyundai Trailers
+PERC/TL  - I.B. Perch Co.
+IDEC/TL  - I.D.E.C.O.
+ISEI/TL  - I.S.E., Inc.
+IBEN/TL  - Iben Boat Trailer
+ICL /TL  - ICL Cargo Trailer
+IDEL/TL  - Ideal Industries
+IDLE/TL  - Idle-Time Cabover Camper Trailer
+INDU/TL  - IME
+IMPA/TL  - Impala Mobile Homes & Travel Trailers
+IMPD/TL  - Imperial Industries
+IMPI/TL  - Imperial Mobile Homes
+PTRT/TL  - Independence
+INDE/TL  - Independence Products Co.
+INDN/TL  - Indian Campers, Inc.
+INDA/TL  - Indies House, Inc.
+INDM/TL  - Indio Trailer Mfg. Corp.
+INDU/TL  - Industrial & Municipal Engnr Inc.
+INGE/TL  - Ingerson Mfg. Co.
+INLA/TL  - Inland Equipment Corp.
+INLI/TL  - Inline Southwest Horse Trailer
+INSL/TL  - Insley Four Wheel Tag Trailer
+INTC/TL  - Interconsult Mfg. Co.
+INTE/TL  - International Coach Mfg.
+INTL/TL  - International Harvester Co.
+INTI/TL  - International Industries, Inc.
+INTM/TL  - International Mobile Homes of Calif
+INTR/TL  - International Trailer Corp.
+INTP/TL  - Interstate Products
+INTT/TL  - Interstate Trailers, Inc.
+INTS/TL  - Interstate Travel Trailer
+INRP/TL  - Intrapid Trailer
+INVA/TL  - Invader Travel Trailer
+IONI/TL  - Ioni-A-Home Mfg. Co.
+IPSC/TL  - IPSCO-Lambton Steel
+JORG/TL  - Ira Jorgenson
+IRBK/TL  - Irabeck & Co.
+IRD /TL  - IRD
+JJ  /TL  - J & J Flatbed Trailer
+JLTL/TL  - J & L Tank, Inc.
+PENN/TL  - J. C. Penney
+JFW /TL  - J.F.W. Mfg., Inc.
+ROSS/TL  - J.H. Ross Co.
+JJJ /TL  - J.J.J., Inc.
+JSMH/TL  - J.S. Mobile Homes
+JTIL/TL  - J.T. Indu., Ltd.
+JACK/TL  - Jack's Trailer Mfg.
+JACT/TL  - Jack's Trailer Mfg. of Florida
+JAC /TL  - Jackson Trailer
+JACL/TL  - Jaclen Mfg. Co.
+JACS/TL  - Jacobsen Mobile Homes
+JAHN/TL  - Jahn Flatbed Trailer
+JALL/TL  - Jalldee, Inc.
+MRIN/TL  - Jamaica
+JAMA/TL  - Ja-Mar Manufacturing Inc
+JANT/TL  - Jantz Mfg., Inc.
+JARC/TL  - Jarco, Inc.
+JASO/TL  - Jason Mfg.
+JAYD/TL  - Jay Dee Industries
+JAYW/TL  - Jay Wren Trailer
+JAYK/TL  - Jay-Kee Mfg., Inc.
+JAY /TL  - Jayco, Inc.
+JBEN/TL  - J B Enterprises
+JECR/TL  - Jec Ro
+JENE/TL  - Jen Sell Corp.
+JERA/TL  - Jeraco Enterprises, Inc.
+JERW/TL  - Jerry's Welding Service (JWS)
+JJT /TL  - Jerry James Trailers
+JERR/TL  - Jerrytime Camper
+JERS/TL  - Jersey Trailer
+JETS/TL  - Jet Stream Camping Trailer
+JEWE/TL  - Jewel Trailer, Inc.
+JIMD/TL  - Jim & Dave's Trailer Mfg.
+JIMA/TL  - Jim Dandy, Inc.
+JIMS/TL  - Jim's Trailer Shop
+JIMG/TL  - Jim Glo Trailers
+JMGL/TL  - Jimglo Trailers & Products
+JLM /TL  - JLM Industries, Inc.
+JOBS/TL  - Job Site Trailer
+JOES/TL  - Joe's Custom Boat Trailer
+JOEW/TL  - Joe's Welding Service
+MCKA/TL  - John A. McKay
+BLUJ/TL  - John Blue Company
+DEER/TL  - John Deere Trailer
+EVAN/TL  - John Evans Mfg. Co., Inc.
+PITZ/TL  - John Pitzer Mfg. Co.
+WYDR/TL  - John T. Wydro
+JHNS/TL  - Johns Corp.
+JOHN/TL  - Johnson Corp.
+JOHO/TL  - Johnson Motors
+JWSS/TL  - Johnson Welding & Steel Supply
+JOHS/TL  - Johnson's Trailer Building & Repair
+JOPL/TL  - Joplin
+JORG/TL  - Jorgenson, Ira
+THAT/TL  - Joseph Thatcher
+JOSH/TL  - Joshua Trailer
+JOYC/TL  - Joy Mfg. Co.
+JROD/TL  - J-Rod Trailer Co.
+JUDE/TL  - Jude Tent Trailer
+JUNR/TL  - Junior Camping Trailer
+JOEW/TL  - JWS
+JWSS/TL  - JWSS
+KGMF/TL  - K & G Mfg. Co.
+KWMH/TL  - K & K Mobile Homes
+KMMC/TL  - K & M Mfg. Co.
+KLI /TL  - K Line Trailer
+KMAR/TL  - K-Mart Camper Foldup
+KAL /TL  - Kal-Custom Boat Trailer
+KALL/TL  - Kallio Co.
+KALY/TL  - Kalyn Co.
+KAMA/TL  - Kamp-A-While Industries
+KAMP/TL  - Kampers Kabin
+KANH/TL  - Kan Haul Trailer Sales
+KANE/TL  - Kane Trailers
+KANZ/TL  - Kanzol Enterprises, Inc.
+KARA/TL  - Karavan Trailers, Inc.
+KARO/TL  - Kar-Go Metal Stamping Co.
+KRGO/TL  - Kargo Trailers
+KARR/TL  - Kar-Rite Corporation
+KARI/TL  - Kari Cool Trailer
+NEUF/TL  - Karl M. Neufeld
+KARS/TL  - Karson Industries, Inc.
+KART/TL  - Kartote
+KASE/TL  - Kasey
+KASS/TL  - Kassborth
+KAUF/TL  - Kaufman Trailers, Inc.
+KAYD/TL  - Kaydel, Inc.
+KAYO/TL  - Kayot, Inc.
+KAYF/TL  - Kayout-Forester Travel Trailer
+KAYW/TL  - Kaywood Homes, Inc.
+KBAR/TL  - K-Bar Industries, Inc.
+KENC/TL  - Kden-Craft Products, Inc.
+PREC/TL  - Keel-Hauler
+KELE/TL  - Kelley Manufacturing
+KELL/TL  - Kelley, C. C. & Son
+KELS/TL  - Kelson Engineering Co.
+KEMP/TL  - Kempf Car Hauler
+KEPT/TL  - Kempter Trailer
+KNC /TL  - Ken Craft Trailer
+KEN /TL  - Ken Trailer
+KENN/TL  - Kenron Corp.
+KWNS/TL  - Kensington Welding & Trailer Co.
+KENO/TL  - Kenskill Trailer Corp.
+KNTI/TL  - Kent Industries, Inc.
+GILD/TL  - Kentuckian Mobile Homes
+KENT/TL  - Kentucky Mfg. Co.
+KENW/TL  - Kenway Campers, Inc
+KEYI/TL  - Key Industries, Inc.
+SKYL/TL  - Key Largo
+KEYS/TL  - Keystone Coach Mfg. Co.
+KEYO/TL  - Keystone Trailer & Equipment Co.
+KIEF/TL  - Kiefer Built, Inc.
+KILG/TL  - Kilgore Industries
+KILL/TL  - Kill Bros.
+BULK/TL  - Killebrew Mfg. Co.
+KINA/TL  - King Fish Boat Trailer
+KALY/TL  - King Goose Trailers
+KINC/TL  - King Homes, Inc.
+KNG /TL  - King Horse Trailer
+KOTR/TL  - King of the Road Trailer Co.
+KIND/TL  - King Richards, Inc.
+KINE/TL  - King Trailer Co., Inc.
+KINF/TL  - King-Co
+KNGH/TL  - Kingham
+KGHY/TL  - Kings Highway
+FAIH/TL  - Kingsley
+KINS/TL  - Kingston Horse Trailer
+KNGS/TL  - Kingsway Travel Trailer
+KIPC/TL  - Kipco
+KISM/TL  - Kismet Mfg. Co.
+KIT /TL  - Kit House Trailer
+KITM/TL  - Kit Kamper
+KITM/TL  - Kit Mfg. Co., Inc.
+WRIH/TL  - Kitty Hawk
+KLAE/TL  - Klassen Homes, Ltd.
+KLAS/TL  - Klassic Trailer Mfg.
+KLIN/TL  - Klinger Products
+KOFF/TL  - KMM
+ACKN/TL  - Knight, A. & C., Ltd.
+KNOW/TL  - Knowles Mfg. Co.
+KNOX/TL  - Knox Homes Corp.
+KODI/TL  - Kodiak Coach & Mfg. Co.
+KOFF/TL  - Koffel Machine & Metal Fabricating, Inc.
+KOMF/TL  - Komfort Travel Trailer
+KOMP/TL  - Kompak Camping Trailer
+KONK/TL  - Kon Kwest Mfg.
+KONT/TL  - Kontiki Camper Trailer
+KORY/TL  - Kory Farm Equipment Div.
+KOST/TL  - Koster Mfg., Inc.
+KOUN/TL  - Kountryaire Travel Trailer
+KOZY/TL  - Kozy Coach Co.
+KRAE/TL  - Krager Kustom Koach, Inc.
+KRIS/TL  - Kris Kraft Mobile Homes
+KROP/TL  - Kropf Mfg. Co., Inc.
+KROS/TL  - Kross Kountry
+KROW/TL  - Krown Camper
+KURM/TL  - Kurmann Trailer Mfg. Co.
+KUST/TL  - Kustom Kraft
+HOWE/TL  - Kutter
+LEEN/TL  - L & E Enterprises
+LG  /TL  - L & G Trailer
+LLTR/TL  - L & L Trailers
+LMMC/TL  - L & M Trailer Mfg.
+LCRT/TL  - L-Cart, Inc.
+LAWC/TL  - L. A. Woods Co., Inc.
+SMIH/TL  - L. B. Smith, Inc.
+BUTE/TL  - L. T. Butler
+LACR/TL  - La Crosse
+TIDW/TL  - La Donti
+LASL/TL  - La Vega
+LACY/TL  - Lacey, W.E. & Sons
+LABE/TL  - Lady Bea Trailers
+LFTL/TL  - Lafayette
+LAKL/TL  - Lakeland Camper & Mfg.
+LAKE/TL  - Lakeside Industries
+LKWD/TL  - Lakewood
+MODL/TL  - Lamplighter
+LNCE/TL  - Lance Truck Mount Camper
+LANA/TL  - Lancer Mobile Homes
+LAND/TL  - Landcraft Corp.
+LANS/TL  - Landis Steel Co.
+LANM/TL  - Landmaster
+LANH/TL  - Landola Homes, Inc.
+LANL/TL  - Landoll Corp.
+LAN /TL  - Lane Flatbed Trailer
+LANE/TL  - Lane Horse Trailer
+LANP/TL  - Lanes Pacesetter Trailer
+LANT/TL  - Lanheim, Inc.
+LAOT/TL  - LaOtto Metal Fabricating Co. Inc.
+LARA/TL  - Larado Mobile Homes
+LARK/TL  - Lark Trailer
+LARS/TL  - Larsen Lapline Trailer
+LARO/TL  - Larson Machine, Inc.
+REDM/TL  - Las Brisas
+LASA/TL  - LaSalle
+LASL/TL  - LaSalle Homes
+CHRV/TL  - LaStrada
+LAWN/TL  - Lawndale Homes, Inc.
+LAWR/TL  - Lawrence Trailer
+SKYL/TL  - Layton
+LAYT/TL  - Layton Homes Corp.
+LAZJ/TL  - Lazy J Horse Trailer
+LBT /TL  - LBT
+LEAD/TL  - Leader Horse Trailer
+SIGN/TL  - Lear Siegler
+LECH/TL  - Lechmere Construction
+LEDW/TL  - Ledwell & Son Enterprises, Inc.
+LEE /TL  - Lee
+LEEC/TL  - Lee Coaches
+LEER/TL  - Leer, Inc.
+LEES/TL  - Leesburg Div.
+LEIR/TL  - Leisure Craft
+LEIT/TL  - Leisure Home Trailer
+LESR/TL  - Leisure Manor, Inc.
+LEIU/TL  - Leisure Products, Inc.
+LELA/TL  - Leland Engineering, Inc.
+LEMC/TL  - Lemco Tool Corp.
+LERY/TL  - Leroi
+LEVC/TL  - Levco Manufacturers, Inc.
+LEWA/TL  - Lewaub Trailer Mfg.
+YARB/TL  - Li'l Pup
+LIBA/TL  - Liberty Coach Co.
+LIBH/TL  - Liberty Homes, Inc.
+LIBE/TL  - Liberty Travel Trailers
+LICH/TL  - Lichty's Blacksmithing, Inc.
+LIEB/TL  - Lieber Industries, Inc.
+LFET/TL  - Lifetime Custom Coach
+LIGH/TL  - Light Equipment Div. (old code DAVI)
+LIGT/TL  - Lighter-Bilt Trailers, Inc.
+LILC/TL  - Lil' Cat, Inc.
+YARB/TL  - Lil' Tail Gator
+LILZ/TL  - Lil'Z
+LICO/TL  - Linco Trailer Home
+LICO/TL  - Lincoln Electric Co., Inc.
+LINP/TL  - Lincoln Park Mobile Homes, Inc.
+LINF/TL  - Lincraft Industries
+LIND/TL  - Linde
+LINT/TL  - Lintzcraft Travel Trailer
+LINV/TL  - Linville Horse Trailer
+LINW/TL  - Linwood Mfg., Inc.
+LIQU/TL  - Liquid & Bulk Tank Div.
+LISL/TL  - Lislet Foundries, Ltd.
+CSMM/TL  - Lite Line, The
+LICH/TL  - Little Champ Camper
+LITC/TL  - Little Chum Mfg. Co.
+LITD/TL  - Little Dude Trailer Co.
+GEM /TL  - Little Gem
+LITP/TL  - Little Prince Travel Trailer
+LITS/TL  - Little Sport Enterprises
+LITT/TL  - Littleford Brothers Inc.
+LLOD/TL  - Lloyd's Trailer Finishing
+LMC /TL  - LMC
+CARW/TL  - Load Ease
+LODZ/TL  - LOAD-EAZ Trailer Inc.
+LOAK/TL  - Load King Trailer Co.
+LOAD/TL  - Load Rite Trailers
+LODE/TL  - Load Star Corp.
+LODC/TL  - Loadcraft Div., Bushog
+LOGN/TL  - Logan Coach, Inc.
+LONA/TL  - Lonaire Mfg. Corp.
+PRIC/TL  - London
+LONB/TL  - Lone Star Boat Mfg.
+LONE/TL  - Lonergan Corp.
+LGCH/TL  - Long Chih Industrial Co., Ltd
+LONF/TL  - Long F.A.
+MARF/TL  - Long Haul, The
+LONT/TL  - Long Trailer Co., Inc.
+LONF/TL  - Long, F.A.
+LONH/TL  - Longmark Mobile Homes
+LONR/TL  - Longrun
+LONN/TL  - Lonnie's Trailer Sales
+LOPR/TL  - Loprofile Boat Trailer
+LORK/TL  - Lorak, Inc.
+LOVB/TL  - Lovebug Travel Trailer
+LOWB/TL  - Low Boy Trailer
+LOWP/TL  - Low Pro Custom Trailer
+LOWE/TL  - Lowe Industries
+LUBB/TL  - Lubbock
+LUED/TL  - Luedtke Mfg., Inc.
+LUFK/TL  - Lufkin Trailers
+LUGR/TL  - Luger Industries
+LUND/TL  - Lundell
+LUNG/TL  - Lundgreen Flatbed
+LUVI/TL  - Luv-It Mfg.
+LUXO/TL  - Luxor-Leffingwell Coach
+LUXU/TL  - Luxury Homes, Inc.
+LYNH/TL  - Lynch Manufacturing
+LYNC/TL  - Lyncoach & Truck Co.
+LYNN/TL  - Lynnton Mfg. Co.
+MMMC/TL  - M & M Mfg. Co.
+MWMC/TL  - M & W Mfg. Co.
+MGM /TL  - M.G.M., Inc.
+MHEB/TL  - M.H. Eby, Inc.
+MJMT/TL  - M.J.M. Trailer Mfg., Inc.
+MACA/TL  - MacDonald Camper Kit
+MACD/TL  - MacDonald's Mobile Homes
+MACG/TL  - MacGregor Yacht Corp
+MCKT/TL  - Mack Trailer Mfg. Co., Inc.
+MACO/TL  - Macoma Engineering, Inc.
+MADD/TL  - Madden Trailer
+MADR/TL  - Madrin Homes
+MAGC/TL  - Magic Tilt Trailer Mfg. Co., Inc.
+MAGI/TL  - Magic Touch, Inc.
+MAGL/TL  - Magline, Inc.
+MAGN/TL  - Magnolia Mobile Homes Mfg.
+MAGO/TL  - Magnolia Travel Trailer
+MAGT/TL  - Magnum Custom Trailer Mfg. Co.
+MAHO/TL  - Mahoning Homes, Inc.
+MAI /TL  - Mai Mfg. Co.
+MAIR/TL  - Mair & Son, Inc.
+MAJE/TL  - Majestic Corp.
+MAJR/TL  - Majestic Rides Mfg., Inc.
+MAJO/TL  - Major Way
+MALH/TL  - Malheur Mobile Homes, Inc.
+MALI/TL  - Malibu Campers
+MALL/TL  - Mallard Coach Corp.
+MANT/TL  - Manatee Homes
+OREG/TL  - MANG
+MANG/TL  - Mangar Co.
+ROCS/TL  - Manitou Mobile Homes
+MANK/TL  - Mankato Mobile Homes, Inc.
+MANN/TL  - Manning, Richard
+MANO/TL  - Manor Homes, Inc.
+MHMC/TL  - Manufactured Housing Management Corp.
+MAPL/TL  - Maple Leaf, Inc.
+MARP/TL  - Marathon Homes Corp.
+MRAU/TL  - Marauder Travelers, Inc.
+MARB/TL  - Marbrough Boat Trailer
+MARH/TL  - Marietta Homes
+MARI/TL  - Marine Camper Trailer
+MVEN/TL  - Marine Venture Enterprisers, Inc.
+MRIN/TL  - Marion Homes, Inc.
+MARN/TL  - Marion Metal Products Co.
+MRIO/TL  - Marion Trailer Sales
+MARF/TL  - Mark Fore Vatco Industries
+MAIN/TL  - Mark Line Industries, Inc.
+MARA/TL  - Mark Twain Mfg. Co.
+MAKV/TL  - Mark V Trailer
+MARK/TL  - Marking Mfg.
+MARO/TL  - Marlette Homes, Inc.
+MARR/TL  - Marlin Mfg.
+MARQ/TL  - Marquette Custom Boat Trailer
+MRQM/TL  - Marquez Mfg., Ltd.
+MARS/TL  - Mars Camper Co.
+MARL/TL  - Marshall
+MARW/TL  - Marshfield Homes, Inc.
+MWST/TL  - Martco Waste System Equip.
+MRTI/TL  - Martin Lowboy Semi Trailer
+MART/TL  - Martin Trailers, Ltd.
+MRTZ/TL  - Martinez Trailer
+MARV/TL  - Mar-Val Industries, Inc.
+SPEA/TL  - Marvin A. Spears Co.
+MASC/TL  - Mascot Homes, Inc.
+MASS/TL  - Massey-Ferguson, Inc.
+MASN/TL  - Masson's Welding
+HIGL/TL  - Master House
+MASG/TL  - Master Liner Mfg.Co.
+MASV/TL  - Master View
+MASL/TL  - Masterbilt Trailers, Inc.
+MASR/TL  - Mastercraft
+MAST/TL  - Masterline Co., Inc.
+MTRA/TL  - Mastertrack
+MATE/TL  - Mate, Inc.
+MATL/TL  - Matlock Trailer Corp.
+MAUR/TL  - Maurell Trailer
+MAVE/TL  - Maverick Mobile Home
+BIRE/TL  - Max Trailer
+MAXC/TL  - Maxcraft Trailer Mfg.
+MAXE/TL  - Maxey Mfg., Inc.
+HOLN/TL  - Maxi-Barbeque
+MTPA/TL  - Maxwell Trailers & Pickup Accessories
+ROLP/TL  - Mayberry
+MAYC/TL  - Mayco Two Wheel Trailer
+MAYA/TL  - Mayfair Mobile Home
+GOOD/TL  - Mayfair Trailer
+MAYF/TL  - Mayflower Trailers or Homes
+MAEN/TL  - Mays Enterprises, Inc.
+MCCB/TL  - McCabe-Powers Body Co.
+MCCA/TL  - McCain Industries
+MCCR/TL  - McCarthy Trailers
+MCCL/TL  - McClain Trailer Mfg. Co.
+MCCY/TL  - McClenny Machine Co. of Virginia, Inc.
+MCCK/TL  - McCook Mfg. Co.
+MCCO/TL  - McCoy Mfg. & Sales Co.
+MCOY/TL  - McCoy/Taylor, Inc.
+MCCM/TL  - McCrabb Mfg., Inc.
+MACC/TL  - McDonald Camper Kit Distributor
+MCFA/TL  - McFarlane Mfg. Co., Inc.
+MCKA/TL  - McKay, John A.
+MCNM/TL  - MCN Mobile Homes Corp.
+MCNA/TL  - McNamee Coach Corp.
+MCQV/TL  - McQuerry Horse Trailer
+MCQU/TL  - McQuerry Tan Trailer
+MDTR/TL  - M-D Trailer Co.
+MEAD/TL  - Meade
+MECH/TL  - Mech Handling Co.
+MEDA/TL  - Medallion Mobile Homes
+MEDF/TL  - Medford Industries
+MEDI/TL  - Medical Coaches, Inc.
+MELG/TL  - Melges Boat Works, Inc.
+MELO/TL  - Melody Home Mfg. Co.
+ELCO/TL  - Memory
+MERB/TL  - Mercury Boat Co.
+MERH/TL  - Mercury Coach Corp.
+MERR/TL  - Mercury Trailer Industries
+MERW/TL  - Merhow Industries
+MERT/TL  - Merit Tank & Body
+MERM/TL  - Merrimac Corp.
+MERI/TL  - Merritt Equipment Co.
+MESA/TL  - Mesa III Travel Trailer
+META/TL  - Metal Craft Mfg.
+MFAB/TL  - Metal Fabrication, Inc.
+METO/TL  - Metoo Travel Trailer
+METZ/TL  - Metzendorf Trailer Mfg.
+MGNO/TL  - Mgnol Tandem Boat Trailer
+MGS /TL  - MGS, Inc.
+MICA/TL  - Michalke Mfg. Corp.
+MICG/TL  - Michigan Central Airlines
+FALM/TL  - Michigan Lo-Loader
+MDST/TL  - Mid States Camping Trailer
+MIDS/TL  - Midas International Corp.
+MIDA/TL  - Mid-Atlantic Homes Co.
+COAM/TL  - Middlebury
+MIDD/TL  - Middlesex Equipment Co.
+MIDQ/TL  - Mid-Equipment Corp.
+MIDL/TL  - Midland Industries, Inc.
+MIDE/TL  - Midway Engineering Co.
+MIDI/TL  - Midwest Industries, Inc.
+MIDT/TL  - Midwest Mini-Tote Co.
+MIDW/TL  - Midwest Mobile Homes & Trlr Mfg. Co.
+OWES/TL  - Mighty Midget
+MILC/TL  - Milco Tank & Boat Co.
+MILY/TL  - Miley Trailer Co., Inc.
+MILA/TL  - Millan Flatdeck
+MLLR/TL  - Miller
+MILE/TL  - Miller & Smith
+MIL /TL  - Miller Electric Mfg., Co.
+MILT/TL  - Miller Tilt-Top Trailer Inc.
+MILL/TL  - Miller Trailers Inc.
+MIDT/TL  - Mini-Tote
+MTCI/TL  - Mississippi Tank Co., Inc.
+MIT /TL  - Mitchell Camper Trailer
+MITC/TL  - Mitchell Industrial Tire Co., Inc.
+MITC/TL  - Mitco
+MITT/TL  - Mitts & Merill, Inc.
+MLBL/TL  - MLBLT
+MOTR/TL  - Mo Trailer Corp.
+MOBB/TL  - Mobilaire Mobile Homes
+MOBC/TL  - Mobile Chapel Trailer
+MOBG/TL  - Mobile Engineering Co.
+MOBH/TL  - Mobile Facility Engineering Co.
+MOBF/TL  - Mobile Freeze
+MOBJ/TL  - Mobile Garage Mfg. Co.
+MOBK/TL  - Mobile Holding Corp.
+MOBL/TL  - Mobile Home Co.
+MOHO/TL  - Mobile Home Industries, Inc.
+MOBN/TL  - Mobile Home Service
+MBIE/TL  - Mobile International
+COMR/TL  - Mobile Lab
+MOBO/TL  - Mobile Mfg. Corp.
+MOBP/TL  - Mobile of Marysville
+MOBR/TL  - Mobile Office, Inc.
+MOBS/TL  - Mobile Products, Inc.
+MOBT/TL  - Mobile Scout Mfg. Corp.
+DESG/TL  - Mobile Sign
+MOBU/TL  - Mobile Structures, Inc.
+MOBV/TL  - Mobile Tops, Inc.
+MBIL/TL  - Mobile Traveler
+MOBW/TL  - Mobile Unit Mfg., Inc.
+MOBX/TL  - Mobilemanor, Inc.
+MOCC/TL  - Mobley Metal Works
+MODN/TL  - Modern
+MODH/TL  - Modern Mobile Homes
+MODI/TL  - Modernistic Industries
+MODU/TL  - Module, Inc.
+MODL/TL  - Moduline International, Inc.
+MOHA/TL  - Mohawk, Inc.
+MOLL/TL  - Molloy Mobile Crafts
+MNRC/TL  - Monarc
+MONB/TL  - Monarch Boat Co.
+MONC/TL  - Monarch Industries, Inc.
+MONH/TL  - Monarch Mobile Homes
+MONI/TL  - Monitor Coach Co.
+MONO/TL  - Mono
+MONN/TL  - Monon Trailer Div.
+MNRO/TL  - Monroe Motors Inc., Wally-Mo Division
+MONS/TL  - Monson & Sons Trailer
+MOAL/TL  - Monte Aluminum Trailer Dump
+MOCA/TL  - Monte Carlo Mobile Homes
+MNTE/TL  - Montebello Mobile Home Trailer
+MONU/TL  - Montgomery Mfg. Co.
+RIVS/TL  - Montgomery Ward
+MNTG/TL  - Montgomery, Bill
+MONV/TL  - Monticlaire Mobile Homes
+MONW/TL  - Montone Mfg. Co.
+MOOD/TL  - Moody Mfg. Co.
+MORM/TL  - Morgan Mobile, Inc.
+MORN/TL  - Morgan Trailer Mfg. Co.
+MORT/TL  - Moritz, Inc.
+MORI/TL  - Morris Brothers
+MORS/TL  - Morse Horse Trailer
+MOSE/TL  - Moser
+MOTE/TL  - Motel Mobile Corporation of America
+MOTA/TL  - Motoc Semi Flatbed Trailer
+MOUA/TL  - Mount Vernon Mobile Home
+MOUE/TL  - Mountain Valley Enterprises
+MOUM/TL  - Mountain View Campers
+MOUN/TL  - Mountaineer Mfg. Co.
+MPC /TL  - MPC Cruiser Camper Trailer
+MRED/TL  - Mr. Ed. Boat Trailer
+MSI /TL  - M-System, Inc.
+MTCI/TL  - MTC
+MULE/TL  - Multech Corp.
+MULT/TL  - Multi Trailer
+MUNC/TL  - Muncy Homes, Inc.
+MRRA/TL  - Murray Marine Corp.
+MURT/TL  - Murray Trailers
+MUSG/TL  - Mustang Trailer Mfg., Inc.
+MUVA/TL  - Muv-All Trailers Multech Corp.
+MYCO/TL  - Myco Industries
+MYWA/TL  - My-Way Corp.
+NAMC/TL  - N & Ha Mfg. Co.
+NABO/TL  - Nabors Trailers, Inc.
+NAIR/TL  - Nairobi Trailer
+NELL/TL  - Nallej of Florida
+NAMO/TL  - Namco Industries
+NASA/TL  - Nasan Trailer
+NASM/TL  - Nash Mfg.
+NASU/TL  - Nashua Mfg. Co.
+NATL/TL  - National Mobile Homes
+NATW/TL  - Nationwide
+NAVJ/TL  - Navajo Horse Trailer
+NEAL/TL  - Neal Mfg. Co., Inc.
+TWIC/TL  - Necedah Flyers
+NECT/TL  - Neckover Trailer Mfg. Co.
+NELS/TL  - Nelson Mfg. Co.
+NELN/TL  - Nelson-Dykes Co.
+NEOS/TL  - Neosho Custom Coach Co.
+NEPT/TL  - Neptune Corp.
+NERC/TL  - Nerco Trailer
+NEUF/TL  - Neufeld, Karl M.
+NEVA/TL  - Nevada Air Products Co.
+NEVD/TL  - Nevadan Mfg. Co.
+NEVL/TL  - Nevlen Company Inc.
+NEBM/TL  - New Bame Trailer
+TOWN/TL  - New Castle
+NEWD/TL  - New Dimension
+NEWE/TL  - New England Homes or Trailers
+NEWH/TL  - New Holland
+NWMC/TL  - New McGrath
+REDM/TL  - New Moon
+NEWT/TL  - New Paris Traveler Corp.
+NEWS/TL  - New Style Homes, Inc.
+NEWK/TL  - New Yorker Homes Corp.
+NEWC/TL  - Newcomer Industries, Inc.
+NEWM/TL  - Newham Enterprises
+NEWN/TL  - Newman Trailers
+NEWP/TL  - Newport Homes, Inc.
+NIAG/TL  - Niagara Trailer Co.
+NICE/TL  - Niceson Boat Trailer
+NICK/TL  - Nickel & Holman
+NIMR/TL  - Nimrod Tent Trailer
+NOBI/TL  - Nobility Homes, Inc.
+NOBL/TL  - Noble Cultivators Ltd.
+NODE/TL  - Nodine Mfg.
+NOEL/TL  - Noel Mfg.
+NOLE/TL  - Nolena Foster Trailer
+SKYL/TL  - Nomad
+NOMN/TL  - Nomanco, Inc.
+NORC/TL  - Norcal Boat Trailer
+NODI/TL  - Nordic
+NORD/TL  - Nordine Mfg. Co.
+NORJ/TL  - Norjack, Inc.
+NORI/TL  - Norris Homes, Inc.
+NORS/TL  - Norse Trailer
+NORN/TL  - North American Mfg. Co.
+NORO/TL  - North American Shipbuilding
+NOCO/TL  - North Country
+NORR/TL  - Northern Cruisers
+NHYD/TL  - Northern Hydrolics, Inc.
+NORU/TL  - Northern Star Mobile Home
+NORV/TL  - Northland
+NRVR/TL  - North River Homes
+NRTW/TL  - Northway Trailer
+NORW/TL  - Northwest Trailers
+NORX/TL  - Northwestern Mobile Homes
+NRWN/TL  - Norwin Trailer
+NOTH/TL  - Nothsway Tandem Trailer
+NUWA/TL  - Nu-Wa Campers, Inc.
+NUEL/TL  - Nuell Coach Corp.
+NUTT/TL  - Nuttall Trailers
+NUWH/TL  - NUWA Horizon Camper Trailer
+NUWE/TL  - NuWay Mobile Home Mfg. Co.
+OAKC/TL  - Oak Coach Co.
+OKCK/TL  - Oak Creek Homes, Inc.
+FTWD/TL  - Oak Park
+OASI/TL  - Oasis Travel Trailer
+OBER/TL  - Oberlin Trailers, Inc.
+OBRI/TL  - Obrect Trailer
+ODOM/TL  - Odom Boyd Trailer Mfg. Co.
+ODYS/TL  - Odyssey Trailer Co.
+OELR/TL  - Oelrich Mfg. Co.
+OFFC/TL  - Office Master, Inc.
+OFFI/TL  - Officer, The
+OHIO/TL  - Ohio Body Mfg. Co.
+OKHT/TL  - OK Horse Trailer
+OKLA/TL  - Oklahoma Horse Trailer
+OKLH/TL  - Oklahoma Trailer, Inc.
+OLDT/TL  - Olds Trails Trailer
+OLGE/TL  - Olgen Mfg. Co.
+OLSO/TL  - Olson
+OMAH/TL  - Omaha Standard Flatbed Trailer
+OMCJ/TL  - OMC Johnson
+ONEI/TL  - Oneida Coach Mfg.
+ONOI/TL  - Ono, Inc.
+OPNR/TL  - Open Road Campers, Inc.
+ORBI/TL  - Orbit Industries, Inc.
+ORCO/TL  - Orcon Industries
+OREG/TL  - Oregon Mfg. Co., Inc.
+ORIO/TL  - Oriole Trailer Mfg. Co.
+ORLA/TL  - Orlando Boar Co.
+OSAG/TL  - Osage Trailer Mfg. Co., Inc.
+OSBO/TL  - Osborn, C. D. & Co.
+OSTD/TL  - Oshkosh Trailer Division
+GIAT/TL  - Osterlund, Inc.
+OTTE/TL  - Otterbacher Mfg., Inc.
+OUTD/TL  - Outdoor Equipment
+OVRL/TL  - Over-Lowe Co.
+OVEL/TL  - Overland Mfg. Co.
+OWNS/TL  - Owens Mfg. Co.
+OWES/TL  - Owens-Classic, Inc.
+OWNA/TL  - Ownahome, Inc.
+OZAR/TL  - Ozark Trailer & Mobile Homes
+TLMC/TL  - Ozark Trailway
+PHAA/TL  - P & H
+PJTM/TL  - P. J. Trailer Manufacturing, Inc
+PARM/TL  - P.J. Parmiter & Sons, Ltd.
+PDAA/TL  - P/D
+PAMR/TL  - Pace American, Inc.
+PACB/TL  - Pacemaker Boat Trailer
+PACC/TL  - Pacemaker Mobile Homes & Travel Trlr
+MCCY/TL  - Pacer
+PACS/TL  - Pacesetter
+PBTI/TL  - Pacific Boat Trailers
+PACI/TL  - Pacific Campers
+PAGE/TL  - Page Trailer
+PAKM/TL  - Pak-Mor Mfg. Co.
+PALC/TL  - Pal Mfg. Co., Inc.
+PALE/TL  - Palace Corp.
+PALO/TL  - Palamino Camping Trailer
+PALM/TL  - Palm Trailers
+PALW/TL  - Palmer Machine Works, Inc.
+PALN/TL  - Palmetto Sales of Laurens
+PAMC/TL  - Pamco Trailer
+PANA/TL  - Pan American Mobile Homes
+PANO/TL  - Panorama Homes, Inc.
+PARD/TL  - Pardonnet Mfg. Co.
+PARC/TL  - Paris Trailer Co.
+PARE/TL  - Park Estates Homes
+PARH/TL  - Park Homes, Inc.
+PARK/TL  - Park Lane Mobile Homes
+PARL/TL  - Park Royal
+PARP/TL  - Park Trailer Corp.
+PARR/TL  - Parker
+PRHT/TL  - Parkhurst
+PAKH/TL  - Parkhurst Mfg. Co., Inc.
+PARS/TL  - Parkmaster
+PARU/TL  - Parkway Mfg. Co.
+PARW/TL  - Parkwood Homes, Inc.
+PARX/TL  - Parkwood Mobile Homes of Florida
+PARM/TL  - Parmiter, P. J. & Sons Ltd.
+PAST/TL  - Pastime Mfg. Co.
+PATH/TL  - Pathfinder Mobile Homes
+PTRT/TL  - Patriot Homes, Inc.
+ABBO/TL  - Paul Abbot Co., Inc.
+BUNY/TL  - Paul Bunyan Co.
+PAUL/TL  - Pauli Cooling Systems, Inc.
+PEAB/TL  - Peabody Solid Waste Management
+PEEK/TL  - Peek
+PERL/TL  - Peerless Division
+PELI/TL  - Pelican Aluminum Mfg.
+PEND/TL  - Pendlay
+COAH/TL  - Pendleton
+PENI/TL  - Peninsula Camper Mfg.
+WISO/TL  - Penn Royal
+PNNT/TL  - Penn Trailer
+PENC/TL  - Pennco Industries, Inc.
+PENU/TL  - Penn-Cupit Industries Ltd.
+PEMC/TL  - Pennsbury Manufacturing Corp
+PECT/TL  - Pennstyle Campers, Inc.
+PENS/TL  - Pennsylvania Furnace and Iron
+PENN/TL  - Penny, J. C.
+ADDI/TL  - Penthouse
+PEQU/TL  - PEQUA
+PERC/TL  - Perch, I.B.
+PERF/TL  - Performance Products, Inc.
+PERM/TL  - Perma Tent Camper
+PERO/TL  - Perone Trailer
+PERR/TL  - Perris Valley Campers
+PETE/TL  - Peterson
+PFAU/TL  - Pfaudler Co.
+AERG/TL  - Phantom
+PHEL/TL  - Phelan Mfg. Co.
+PHEP/TL  - Phelps Horse Trailer
+PHIL/TL  - Phill Trailer
+PHIM/TL  - Phillips Mfg. Co., Inc.
+PHII/TL  - Phillips Trailers
+PHOE/TL  - Phoenix Camping Trailer
+PICK/TL  - Pick-Up Top Mfg.
+PICW/TL  - Pickwick
+PAUL/TL  - Picnic Caddy
+PIED/TL  - Piedmont
+PIER/TL  - Pierce Lowboy Trailer
+PIKE/TL  - Pike Trailer Co.
+PILG/TL  - Pilgrim Mfg. Co.
+PRKA/TL  - Pine Grove Mfg.
+PINE/TL  - Pines Trailer Corp.
+PINS/TL  - Pinson Truck Equipment Co.
+PIOE/TL  - Pioneer Coach Mfg.
+PION/TL  - Pioneer Sales & Mfg. Co.
+PIPE/TL  - Pipestone Tandem Boat Trailer
+PITM/TL  - Pitman Brothers Co.
+PIXI/TL  - Pixie Piker Travel Trailer
+PLAI/TL  - Plains Industries, Inc.
+PLAC/TL  - Plastic Engs. & Consultants
+PLAS/TL  - Plastic Forming Co.
+PLAT/TL  - Platt Trailer Co.
+PLAG/TL  - Plattsburg Mfg.
+PLAM/TL  - Playmate Coaches
+PLAL/TL  - Play-Mor Trailers, Inc.
+PLEA/TL  - Pleasure Homes Mfg.
+PLES/TL  - Pleasuremate Industries
+PLEM/TL  - Pleasureway Mfg.
+POIE/TL  - Pointer-Willamette
+POLA/TL  - Polar Mfg. Co.
+POLL/TL  - Pollock Industries
+POLR/TL  - Poloron Homes of Pa., Inc.
+POND/TL  - Ponderosa Homes, Inc.
+PONE/TL  - Ponderosa Industries
+DMHC/TL  - Pontiac Chief
+POOL/TL  - Poole, Inc.
+POR /TL  - Por Trailer
+PRTT/TL  - Port Trailer Mfg. Co.
+PORE/TL  - Portable Structures
+PORT/TL  - Porta-Built Industries
+PORK/TL  - Porta-Kamp Mfg.
+BRIE/TL  - Port-O-Hauler
+PUCK/TL  - Power Box Utility Trailer
+HUSS/TL  - Powerful Paul Jr
+POWE/TL  - Powerline Products
+MCCB/TL  - Powers
+PRAR/TL  - Prarie Schooner, Inc.
+PREB/TL  - Prebuilt Mfg.
+PREI/TL  - Pre-Built Structures
+PREC/TL  - Precision Deburring & Fabricating Inc.
+PREM/TL  - Premier Trailer
+PRES/TL  - Presidential Mobile Homes
+PRTG/TL  - Prestige Housing, Inc.
+PREV/TL  - Presvac Systems (Burlington) Ltd.
+PREW/TL  - Prew Proco Travel Trailer
+PRIC/TL  - Price-Meyers Corp.
+PRIN/TL  - Princess Homes
+PRIO/TL  - Prior Products, Inc.
+PRIV/TL  - Private Coach
+PROG/TL  - Progress Industries, Inc.
+PROT/TL  - Pro-Trail, Inc.
+FTWD/TL  - Prowler
+PROW/TL  - Prowler Industries
+PUCK/TL  - Puckett Bros. Mfg. Co., Inc.
+PULL/TL  - Pull A Long Mfg. & Sales
+SHEM/TL  - Puller-Tensioner
+TRIM/TL  - Pullman Trailmobile
+PUMA/TL  - Puma Camper Sales
+PUZE/TL  - Puzey Bros., Inc.
+PWTR/TL  - PW Trailer
+PYLE/TL  - Pyle Haul-It-All Flatbed
+PYRA/TL  - Pyramid Mobil Homes
+QE  /TL  - QE Mfg. Co., Inc.
+QUAK/TL  - Quaker City Iron Works, Inc.
+QUAL/TL  - Quality Trailer
+QUIC/TL  - Quickload
+RAMA/TL  - Ramada Tent Camping Trailer
+RGAA/TL  - R & G
+RRAA/TL  - R & H Horse Trailer
+RIIN/TL  - R & I Industries
+RRMA/TL  - R & R Mfg. Co.
+RECB/TL  - R.E. Custom Boat Trailer
+HALL/TL  - R.D. Hall Mfg. Inc.
+RLAC/TL  - R.L. Allen Company, Inc.
+RVKO/TL  - R.V. Kompacts, Inc.
+RSTB/TL  - R/S Truck Body Co., Inc.
+RACH/TL  - Rach Welding
+RACM/TL  - Racmac Trailer
+RADE/TL  - Radamacher Trailer
+RAES/TL  - Raes Utility Trailer
+RAIB/TL  - Rainbow Camper Co.
+RAIC/TL  - Rainbow Corp.
+RAIN/TL  - Rainway Mfg. Co.
+RALL/TL  - Rallymaster Travel Trailer
+HOLR/TL  - Rambler Trailer
+RAMN/TL  - Ramlin
+RAMR/TL  - Ramsey Trailers
+CHAE/TL  - Ranch House Mobile Home
+RANH/TL  - Ranch King Enterprises, Inc.
+RANA/TL  - Ranchette Travel Trailer
+RANC/TL  - Rancho Trailers, Inc.
+RAND/TL  - Randall, Walter
+RVTI/TL  - Randall's VIP Trailers, Inc
+RANE/TL  - Randolph Coach
+RITZ/TL  - Ranger Mobile Homes
+WOOM/TL  - Ranger Trail Trailers
+RAPI/TL  - Rapid Traveler Coaches
+RATC/TL  - Ratco Welding
+RAVE/TL  - Ravens-Metal Products, Inc.
+RAW /TL  - Rawhide Stock and Horse Trailer Mfg.
+RAYI/TL  - Raymond Products Co.
+RAYM/TL  - Raymur Acceptance Corp.
+RAYN/TL  - Raynell Campers
+RCII/TL  - R.C. Industries, Inc.
+REA /TL  - Rea Trailer Co.
+REAL/TL  - Realco Trailer
+RELT/TL  - Realite Trailer
+REBL/TL  - Rebel Boat Trailer
+REBE/TL  - Rebel Mobile Home
+RECS/TL  - Rec-Sha Trailer
+RECG/TL  - Reco Goliath Tent Trailer
+RCON/TL  - Reconstructed Trailer or Motor home
+REDA/TL  - Red Arrow Trailer Co.
+REDD/TL  - Red Dale Coach Co.
+REDG/TL  - Red Gooser Horse Trailer
+REDR/TL  - Red River Custom Trailer
+FAIM/TL  - Redi-Haul Trailers
+REDM/TL  - Redman Homes, Inc.
+REDS/TL  - Redstone Coach Co.
+REED/TL  - Reed Enterprises, Inc.
+REEG/TL  - Reed Mfg. Co.
+REEV/TL  - Reeves Trailer
+REGE/TL  - Regent Homes Corp.
+REGI/TL  - Regis Corp.
+RMWC/TL  - Reid's Mfg. and Welding Co.
+REID/TL  - Reids Trailers, Inc.
+REIN/TL  - Reinell Boat Trailer
+RELC/TL  - Relco Corp.
+RELB/TL  - Reliable Tank Inc.
+RELI/TL  - Reliance Trailer Mfg.
+RELM/TL  - Reliart Trailer Mfg. Co.
+CVWE/TL  - Relibilt
+REMB/TL  - Rembrant Mobile Home
+DERE/TL  - Rembrook
+REMC/TL  - Remco
+REMI/TL  - Remic Industries, Inc.
+SNRZ/TL  - Remington Homes
+REMK/TL  - Remke Trailer
+RENT/TL  - Rent-A-Trailer Corp.
+REVE/TL  - Revella Camping Trailer
+REXM/TL  - Rex Mobile Homes
+REYN/TL  - Reynolds Mfg. Co.
+ALLM/TL  - Rezner
+RFCM/TL  - RFC Mfg., Inc.
+RWMI/TL  - Rice & Woolard Mfg., Inc.
+MANN/TL  - Richard Manning
+RICL/TL  - Richards & Clark Mfg. co.
+RCHS/TL  - Richards Utility Trailer
+RICD/TL  - Richardson
+RICH/TL  - Richardson Homes Corp.
+RICN/TL  - Richland Homes Mfg. Co.
+RICK/TL  - Rickman Trailer
+RIDE/TL  - Ride-On, Inc.
+RIDG/TL  - Ridgecraft Corp.
+RRNR/TL  - Ridge Runner Industries, Inc.
+RIGH/TL  - Right Products, Inc.
+RIME/TL  - Rimer, Inc.
+RING/TL  - Ring-o-matic Mfg. Co.
+RINK/TL  - Rink Mfg. Co.
+RIPC/TL  - Ripco, Inc.
+RITB/TL  - Rite-Bilt
+RITE/TL  - Rite-On Trailers
+RITZ/TL  - Ritz-Craft, Inc. of Pa.
+RIVU/TL  - River Run
+FRAK/TL  - Riverchase
+RIVE/TL  - Riverdale Steel Works
+RVOK/TL  - River Oaks Homes
+RIVR/TL  - Rivers, Bill
+RIVS/TL  - Riverside
+RIVT/TL  - Riverside Trailer Mfg. Co.
+RITT/TL  - River Trail Trailers
+REDM/TL  - Riverview
+RIVW/TL  - Riviera Mfg. Co.
+RIVN/TL  - Rivinius, Inc.
+RDKG/TL  - Road King Travel Trailer
+RORA/TL  - Road Ranger Camper Trailer
+ROAC/TL  - Road Roamer Campers
+RADC/TL  - Roadcraft Mfg. & Leasing
+ROAE/TL  - Roadliner Mfg. Division
+ROAF/TL  - Roadmaster Mfg. Co.
+ROAG/TL  - Roadrunner Mfg. Corp.
+ROAL/TL  - Roadway Trailer, Ltd.
+ROAM/TL  - Roaminghome Co., Inc.
+HARR/TL  - Roanoke-Hustler
+ROBT/TL  - Robert Horse Trailer
+ROBR/TL  - Robin Hood Travel Trailers
+ROBI/TL  - Robin Mfg. Co.
+ROCS/TL  - Rochester Homes, Inc.
+ROCE/TL  - Rocket Trailer, Ltd.
+ROTI/TL  - Rockett Trailers
+ROCK/TL  - Rockford Industries, Inc.
+ROCM/TL  - Rockie Mountain Mfg., Inc.
+ROCB/TL  - Rockin-Bar Trailers Ltd.
+ROCN/TL  - Rockland Homes, Inc.
+ROCT/TL  - Rockport Trailer Mfg. Corp.
+ROKW/TL  - Rockwood, Inc.
+ROGE/TL  - Rogers Brothers Corp.
+ROGR/TL  - Rogers Trailers, Inc.
+ROGU/TL  - Rogue River Trailer Mfg. Co.
+ROLC/TL  - Rolco Mfg. Co.
+ROLI/TL  - Rolite, Inc.
+ROLH/TL  - Roll-A-Long & Sterling Coach Co.
+ROLM/TL  - Rolling Homes, Ltd.
+ROLP/TL  - Rollohome Corp.
+ROLS/TL  - Rolls Inernational Trailer
+ROMA/TL  - Romae Industries
+REMC/TL  - Rome Engineering & Mfg. Co.
+RONC/TL  - Ronco Coaches, Inc.
+ROOF/TL  - Roofmaster
+ROSC/TL  - Rosco Two Wheel Trailer
+ROSE/TL  - Rosemont Mobile Home
+ROSS/TL  - Ross, J. H., Co.
+ROTO/TL  - Rotocraft Boat Trialer
+ROUL/TL  - Roulette Caravan Co.
+ROUS/TL  - Roust-About
+ROV /TL  - Rover
+ROYA/TL  - Royal Brothers
+ROYC/TL  - Royal Crest Co.
+ROYL/TL  - Royal Industries Noble Div.
+ROYS/TL  - Royals International
+ROYF/TL  - Royco Mfg. Co.
+ROYH/TL  - Roycraft Coach Co.
+RUCH/TL  - Ruchmore Homes
+COMP/TL  - Ruffian
+RUNA/TL  - Run-About
+RUII/TL  - Rush Industries, Inc.
+RUSH/TL  - Rushmore Homes
+RUSS/TL  - Russco Lowboy Trailer
+RUSE/TL  - Russell, Frank Mfg. Co.
+RUST/TL  - Rustler Horse Trailer
+RYAN/TL  - Ryan Mfg.
+RYDR/TL  - Ryder
+SHTR/TL  - S & H Trailer Mfg. Co., Inc.
+SMTC/TL  - S & M Trailer Co.
+SABQ/TL  - Sabre Equipment Div.
+SAFA/TL  - Safari
+SAFE/TL  - Safeway Mobile Homes Div.
+SAGE/TL  - Sage Mfg. Co.
+SAHA/TL  - Sahara Mobile Homes
+NEWD/TL  - Saint Charles
+SALE/TL  - Salem Mobile Home Trailer
+SALI/TL  - Saling Mfg. Co.
+SALV/TL  - Salvaco, Inc.
+SAMP/TL  - Sampson
+SAMS/TL  - Sams
+SANI/TL  - Sani-Cruiser Co.
+SANK/TL  - Sanker Mfg. & Supply
+SANL/TL  - Santa Cruz Trailer Mfg. Co.
+SANP/TL  - Santa Fe Springs Div.
+SNTA/TL  - Santa Fe Trailer Co.
+FTWD/TL  - Santana
+SANR/TL  - Santeler Brothers
+SATU/TL  - Saturn Homes
+FLNG/TL  - Sauk Centre Welding & Machine Works, Inc.
+SAVA/TL  - Savage Coach Mfg., Inc.
+SAVN/TL  - Savannah Homes, Inc.
+SCAD/TL  - Scad-A-Bout Mfg. & Aluminum co.
+SCMP/TL  - Scamp Trailer
+SCAP/TL  - Scamper Coach Trailer
+SCEN/TL  - Scenic Campers Co.
+SCEP/TL  - Scepter Utility Trailer
+SCHA/TL  - Schantz & Sons, Inc.
+SCHE/TL  - Schenkel Brothers Mfg. Co.
+SCHI/TL  - Schertzer Equipment Co.
+SCHK/TL  - Schetzky Equipment Corp.
+SCHL/TL  - Schevelle Homes Sales Corp. of Alabama
+SCHM/TL  - Schiebout Mfg. Co.
+SCHN/TL  - Schien Body & Equipment Co.
+SCHF/TL  - Schifsky
+SCHR/TL  - Schlemmer Boat Co.
+SCHU/TL  - Schnure Ho' Trailer
+SCHD/TL  - Schrader Dump Trailer
+SCHT/TL  - Schult Mobile Homes Corp.
+SCHW/TL  - Schwartz Mfg. Co.
+SCIT/TL  - SCI Trailer
+SCOR/TL  - Scorpion Trailer
+SCOC/TL  - Scotsman Industries, Inc.
+SCOM/TL  - Scotsman Mfg. Co.
+SERR/TL  - Scotty Sportsman
+SCTB/TL  - Scoutboat Trailer
+SCUL/TL  - Scully Coach Co., Inc.
+SNOB/TL  - Sea Bird
+SEAB/TL  - Sea Breeze Trailer
+GOFF/TL  - Sea Craft Boat Trailer
+BMMF/TL  - Sea King Boat Trailer
+SEAL/TL  - Sea Lion Utility Trailer
+SEAS/TL  - Sea Stallion Trailers
+SBRT/TL  - Seabring Home, Inc.
+SEAC/TL  - Seacamper Boat Trailer
+SEAM/TL  - Seal Mate
+NEAL/TL  - Seal-Mor
+SEOV/TL  - Searover TC Camper
+SEAR/TL  - Sears
+SEAW/TL  - Sears, Wendell
+SBTT/TL  - Sebring Home Corp.
+SECO/TL  - Seco Mfg. Co.
+SECU/TL  - Security Industries
+SEEM/TL  - Seemore Flatbed Trailer
+SEID/TL  - Seiden Mobile Homes
+SELB/TL  - Selburn Flatbed Trailer
+SELY/TL  - Selby Mfg. Co.
+SELR/TL  - Sellers Trailer
+SELM/TL  - Selma Trailer & Mfg. Co.
+SELO/TL  - Selox Mfg., Ltd.
+SEMN/TL  - Seminole Boat Trailer
+SEMC/TL  - Semlac Corp.
+SERR/TL  - Serro Travel Trailer Co.
+SHDO/TL  - Shadow Trailers
+SPOM/TL  - Shalimar Mobile Homes
+SHAC/TL  - Shamrock Campers
+SHAM/TL  - Shamrock Homes
+FAIH/TL  - Shannon
+SHAR/TL  - Sharratt Mobile Homes & Supplies
+SHAS/TL  - Shasta Industries
+SHAW/TL  - Shaw-Wynn Homes Corp.
+GRSO/TL  - Sheffield
+SHEL/TL  - Shelby Mobile Homes
+FIVK/TL  - Sheppard
+SHEM/TL  - Sherman & Reilly, Inc.
+SHER/TL  - Shertzer Dump Trailer
+SHBA/TL  - Sherwood Baronet Tent Trailer
+SHSY/TL  - Sherwood Sentry Horse Trailer
+SHIL/TL  - Shiloh Homes
+SHIB/TL  - Shipbuilt Van Trailer
+SHIM/TL  - Shipmate
+SHIP/TL  - Shippette Mobile Homes
+SHOM/TL  - Sho-Me Campers Co.
+SHOO/TL  - Shoops Horse Trailer
+JIMD/TL  - Shop-Built
+SHOP/TL  - Shopmade Flatbed Trailer
+MIDI/TL  - Shore-Lander
+YARB/TL  - Shoreline Trailer
+SHWM/TL  - Show-Me Trailers, Inc.
+SHOW/TL  - Showco Nomad Trailer
+SIEB/TL  - Siebert Trailers, Inc.
+WERN/TL  - Siefmund Werner
+SIER/TL  - Sierra Campers Mfg.
+PARH/TL  - Siesta
+SIGA/TL  - Sigame Corp.
+SIGN/TL  - Signal Division
+SIEA/TL  - Silver Eagle Travel Trailer
+SILE/TL  - Silver Leaf Mfg. Co.
+SIST/TL  - Silver Star Trailer
+SILV/TL  - Silver Streak Trailer Co.
+SVTR/TL  - Silver Trail
+SILC/TL  - Silvercrest Industries, Inc.
+SILL/TL  - Silverline
+SIME/TL  - Simek Mfg., Inc.
+SIMN/TL  - Simenson Mfg. Co.
+SIMO/TL  - Simon Utility Trailer
+SIMT/TL  - Simpson Enterprises, Inc.
+SING/TL  - Single Tilt Trailer
+SISU/TL  - Sisu USA Inc.
+SIXP/TL  - Six Pac Camper
+SKAM/TL  - Skamper Corp.
+TRLN/TL  - Skeeter
+BOMB/TL  - Ski Doo
+SKIK/TL  - Ski Kart
+MASS/TL  - Ski Whiz
+SKIT/TL  - Ski-Tow Mfg. Co., Inc.
+SKIM/TL  - Skim Air Trailer
+SKIP/TL  - Skipper B Trailer Co., Inc.
+SKPP/TL  - Skippy Trailer
+PARH/TL  - Skoolsout
+SKYC/TL  - Skycraft Trailer
+SKYH/TL  - Skyhomes, Inc.
+SKYI/TL  - Skylark Industries, Inc.
+SKYL/TL  - Skyline Corp.
+SLPE/TL  - Sleep Easy Trailer
+SLOA/TL  - Sloat Mfg. Co.
+SMWD/TL  - Smallwood
+SMAR/TL  - Smartlee
+SMIR/TL  - Smith-Roles Ltd.
+SMIH/TL  - Smithco
+SMOK/TL  - Smokey Trailer
+SWEM/TL  - SMP
+SNAT/TL  - Snatcher Trailer Company
+BALI/TL  - Sno Van
+SNOB/TL  - Sno-Bird Trailer Co., Inc.
+TUCR/TL  - Sno-Cat
+BYRM/TL  - Sno-Trailer
+SNWC/TL  - Snow Co., The
+GOFF/TL  - Snow Master
+RACH/TL  - Snow Treck
+SNOE/TL  - Snowflake Coach Industry
+CHRI/TL  - Snowflite
+SNTT/TL  - Snowton Trailer
+SNYD/TL  - Snyder Trailer Co.
+SOCI/TL  - Society Coach Builders
+SODE/TL  - Soderstrom Machine Shop
+SOL /TL  - Sol Cat Boat Trailer
+SOND/TL  - Son-Dyke Trailer Co.
+SOON/TL  - Sooner Mfg.
+SOUE/TL  - Southeastern
+SNRG/TL  - Southern Energy Homes, Inc.
+SOLS/TL  - Southern Lifestyle Homes, Inc.
+SOUH/TL  - Southern Trailers
+SOUT/TL  - Southlane Horse Trailer
+SOUW/TL  - Southwest Truck Body Co.
+PRIC/TL  - Sovereigh Mobile Homes
+SPAC/TL  - Space Age Campers
+SPCE/TL  - Space Assemblies, Inc
+CUSB/TL  - Space Master
+SPAE/TL  - Space-Craft Trailers Mfg.
+SPAH/TL  - Sparrowhawk Trailer Co.
+SPAT/TL  - Spartan Aricraft Co.
+SPPR/TL  - Spartan Products
+SPEA/TL  - Spears, Marvin A., Co.
+SPEL/TL  - Special Endeavors, Inc.
+SPEM/TL  - Specialty Mfg. Co.
+SPEE/TL  - Speedway Trailer Div.
+SPEN/TL  - Spen & Co.
+SPEP/TL  - Spencer Sports Products
+NEWH/TL  - Sperry New Holland
+SPOK/TL  - Spokane Travel Homes
+SPON/TL  - Sport King Campers
+SPOC/TL  - Sportcoach Corporation of America
+SPOM/TL  - Sportcraft Homes, Inc.
+SPLT/TL  - Sportliner Tent Trailer
+SPRM/TL  - Sportmasters of Tennessee, Inc
+SPTL/TL  - Sportsliner Camping Trailer
+SPMN/TL  - Sportsman
+SPOS/TL  - Sportsman's Dream Mfg. Co.
+SPRA/TL  - Sprayline Two Wheel Trailer
+SPRS/TL  - Spreuer and Son, Inc.
+SPRN/TL  - Springtrail Mfg. Co.
+SPRI/TL  - Sprite
+SPRO/TL  - Sprout, Waldron & Co., Inc.
+SQUI/TL  - Squire Travel Trailer
+SSTL/TL  - SS Trailer Co.
+SAIC/TL  - St. Clair Custom Built
+SAIJ/TL  - St. Joseph Marine Trailer
+STAC/TL  - Stack Truck, Inc.
+STAG/TL  - Stage Coach Mfg. Co.
+STAF/TL  - Stam Mfg. Co.
+STAN/TL  - Standard
+STAD/TL  - Standard Steel
+SCTI/TL  - Star Custom Trailers, Inc.
+STAS/TL  - Star Fire, Inc.
+STAA/TL  - Star Machine Shop Co. Ltd.
+STAW/TL  - Star Meteor Florida
+STAX/TL  - Star Mobile Homes
+STAP/TL  - Star Tank & Trailer Mfg. Co.
+STRK/TL  - Star Trail
+STTT/TL  - Star Transport Trailers, Inc.
+STRB/TL  - Starbuck Trailer
+SARC/TL  - Starcraft Mfg. Co.
+STRD/TL  - Stardust Travel Trailer
+STRK/TL  - Stark Bros. Motor Sales
+STRL/TL  - Starline Trailer Mfg. Co.
+STAV/TL  - Starlite Mfg. Co.
+STAM/TL  - Starmaster Camping Trailer
+BEDX/TL  - Statesman Mobile Home
+STAL/TL  - Statler Homes Mfg.
+GUER/TL  - Statler Mobile Home Trailer
+STEA/TL  - Steadman Containers Ltd.
+STEC/TL  - Steco Trailer Co.
+STEE/TL  - Steed-Pollak Mfg. Co.
+STEO/TL  - Steelco, Inc.
+STCR/TL  - Steelcraft Log Trailer
+STEP/TL  - Stepper Trailer
+STLN/TL  - Sterline Flatbed Trailer
+STEM/TL  - Sterling
+STEU/TL  - Steury Trailer
+STEG/TL  - Stew-Gar, Inc.
+STET/TL  - Stewart, Inc.
+STID/TL  - Stidham Horse Trailer
+STLO/TL  - Stilo Trailer
+STOC/TL  - Stockland
+STOD/TL  - Stoddard Mfg. Co
+STOT/TL  - Stoner Totter Trailer
+STON/TL  - Stoner Trail
+STOP/TL  - Stopover Traveler & Camper Co.
+STOU/TL  - Stoughton Trailers, Inc.
+TRVO/TL  - Stow and Go
+STRC/TL  - Strahan Mfg. Co.
+STRE/TL  - Streamline Trailer Co.
+STRI/TL  - Strick Trailers Corp.
+LICH/TL  - Strongboy
+STUA/TL  - Stuart
+STCC/TL  - Stucco Trailer
+WICH/TL  - Style-Craft Mobile Homes
+SUBT/TL  - Suburban Motors, Inc.
+SUMT/TL  - Summitt Trailer
+SNBT/TL  - Sun Belt Energy Housing, Inc.
+SNBR/TL  - Sunbird, Inc.
+SUBL/TL  - Sun Blazer Travel Trailer
+SUNR/TL  - Sun Chaser
+SUNV/TL  - Sun Devil Trailers, Inc.
+SUNR/TL  - Sun Recreational Industries, Ltd.
+SUNL/TL  - Sun State Mobile Homes
+SNTR/TL  - Sun Trailer & Utilities
+SUNN/TL  - Sun Valley
+SNLT/TL  - Sun-Lite, Inc.
+WILM/TL  - Sun-Ray
+SUNM/TL  - Sundancer
+HAIR/TL  - Sundowner
+SUNW/TL  - Sundowner Trailer Co.
+SNFL/TL  - Sunflower Travel Trailer
+SUNH/TL  - Sunhome Mfg.
+SUNO/TL  - Sunline Coach Co.
+GERR/TL  - Sunny Brook
+GARP/TL  - Sunrader
+MIDL/TL  - Sunrise Park Mobile Homes
+SUNI/TL  - Sunset Mobile Homes
+SUNT/TL  - Sunset Travelers
+SUNS/TL  - Sunshine Homes
+DSSC/TL  - Super Cooker
+MORT/TL  - Super Goose
+SUPI/TL  - Superior Ideal, Inc.
+SPRR/TL  - Superior Office Trailer
+SUPR/TL  - Superior Trailer Works
+STMC/TL  - Supertrail Mfg. Co., Inc.
+SUPM/TL  - Supreme Industries, Inc.
+AGTR/TL  - Sure-Weigh
+SURE/TL  - Sureload
+SURF/TL  - Surf-Rider, Inc.
+CARH/TL  - Surry Mobile Homes
+SUSQ/TL  - Susquehanna-Santee Boat Works, Inc.
+CONC/TL  - Suwanee Mobile Homes
+SWAE/TL  - Swan Industries
+SWAN/TL  - Swanee Trailer Mfg. Co.
+SWNS/TL  - Swanson Tilt Trailer
+SWEM/TL  - Sweetwater Metal Products Co., Inc.
+HERR/TL  - Swift Haven Mobile Homes
+SWNG/TL  - Swinger Camper Mobile Home
+SWIS/TL  - Swiss Colony Travelers, Inc.
+SYCA/TL  - Sycamore Mobile Homes
+SYLV/TL  - Sylvan Double Snowmobile Trailer
+LIBH/TL  - Sylvan Mobile Homes
+TANM/TL  - T & M Enterprises
+TTMC/TL  - T & T Industries
+TESC/TL  - T.E.S. (Truck Equipment & Sales Co.)
+TIME/TL  - T.O. Corp.
+TACO/TL  - Tacoma Trailer
+TAGA/TL  - Tag-A-Long Trailers
+TAHI/TL  - Tahiti Ski Trailers
+TAIL/TL  - Tailor Maid Industries
+TALB/TL  - Talbert Mfg. Inc.
+TCI /TL  - Talbot-Carlson, Inc.
+TAND/TL  - Tanden Boat Trailer
+TANO/TL  - Tandom Boat Trailer
+TANK/TL  - Tankraft Trailer
+TANN/TL  - Tannehill Trailer
+TARA/TL  - Tara Products, Inc.
+TARG/TL  - Target Coach Mfg. Co.
+TART/TL  - Tartan Corp.
+TAUB/TL  - Taube Tool Corp.
+FTWD/TL  - Taurus
+TAWA/TL  - Tawas Trailers, Inc.
+TALM/TL  - Taylor Metal Works, Inc.
+TAYL/TL  - Taylor Mobile Homes
+TBCT/TL  - TBC
+TCI /TL  - TCI
+TEAR/TL  - Tear Drop, Inc.
+TEC /TL  - TEC
+TEEN/TL  - Tee Nee Trailer Co.
+TEJA/TL  - Tejas Trailers, Inc.
+TELS/TL  - Tel Star Trailers
+TEMK/TL  - Tem Ken Trailers Mfg.
+TEPE/TL  - Tempe Trailers
+TENN/TL  - Tennessee Trailer
+TERA/TL  - Terra Cruiser Div.
+TERF/TL  - Terra-Marina Mfg. Co.
+TERS/TL  - Terry Industries of Virginia
+FTWD/TL  - Terry Travel Trailer
+TETO/TL  - Teton Travel Trailer
+TEXL/TL  - Tex Willett Co.
+TEXA/TL  - Texan Trailer Mfg. Co.
+TEXK/TL  - Texarkana Div.
+TEXS/TL  - Texas Bragg
+LITD/TL  - Texas Royal Boat Trailer
+THAT/TL  - Thatcher, Joseph
+THGH/TL  - The Highland Group
+OFFI/TL  - The Officer
+THEU/TL  - Theurer Atlantic, Inc.
+THIL/TL  - Thiele, Inc.
+THIE/TL  - Thiermann Utility Equipment Div.
+THIM/TL  - Thimsen Mfg. Co.
+THOM/TL  - Thomas & Co.
+THOA/TL  - Thomas Mfg.
+THMP/TL  - Thompson Concrete Pump Trailer
+THON/TL  - Thorns Trailer
+THOR/TL  - Thoroughbred Boat Trailer
+THRC/TL  - Three C's, Inc.
+THRE/TL  - Three-Dimensional Mobiles Inc
+THRM/TL  - Three-Way Campers Mfg.
+THUN/TL  - Thunderbird Castles
+THBT/TL  - Thunderbolt Trailer
+TIBR/TL  - Ti-Brook, Inc.
+TIAR/TL  - Tiara Industries
+TOWN/TL  - Ticonderoga Mobile Homes
+TIDE/TL  - Tide Craft, Inc.
+TIDW/TL  - Tidwell Industries, Inc.
+MOHO/TL  - Tiffany Mobile Home
+TIGE/TL  - Tiger Trailer
+TGRL/TL  - Tigerline Trailer
+TILT/TL  - Tilton-Hilton
+MAGL/TL  - Tiltster
+TIMB/TL  - Timberline Mfg. Co.
+TMBW/TL  - Timberwolf
+MELO/TL  - Timco
+TIME/TL  - Time Out
+TIMK/TL  - Timken Bearing Boat Trailer
+TIMP/TL  - Timpte, Inc.
+TINK/TL  - Tinker Clubs of America, Inc.
+TITA/TL  - Titan Trailer Corp.
+TITL/TL  - Titleist Travel Trailer
+TLT /TL  - T & L Trailers
+TMTL/TL  - TM Trailer
+TMCI/TL  - TMC Inc.
+TODC/TL  - Todco
+TODD/TL  - Toddy Custom Built Trailers
+TOKE/TL  - Token Flatbed Trailer
+TONC/TL  - Tonco Lowboy Trailer
+TOPC/TL  - Top Campers
+TOPK/TL  - Top Kat
+SUNS/TL  - Topaz Star
+TOMT/TL  - Topline Trailers Manufacturing
+TOPP/TL  - Topper Mobile Homes, Inc.
+TORC/TL  - Torch Industries
+TORI/TL  - Torino
+SPOM/TL  - Toronado
+TOTC/TL  - Tote Co.
+TOTA/TL  - Totem Total Trailer
+TOTE/TL  - Totemall
+TOUA/TL  - Toura Products
+TOHO/TL  - Tourhome Camper Trailer
+TOUR/TL  - Tourite Mobile Homes Mfg.
+AJIN/TL  - Tow-A-Lite
+TOGO/TL  - Tow Go Trailers
+TOWL/TL  - Tow Low
+TOWD/TL  - Tow Mor Products
+TOWP/TL  - Tow Pro, Inc.
+TOWR/TL  - Towmaster
+TOWN/TL  - Town & Country Mfg.
+TOWC/TL  - Towncrier Camper
+TOYO/TL  - Toyocar Van Container Trailer
+TACR/TL  - Tracer Horse Trailer
+TRCC/TL  - Tracker Corp.
+TRKM/TL  - Tracker Marine, Inc.
+TRCP/TL  - Tracpac Snowbmobile Trailer
+TRAA/TL  - Trader Horn Trailer Supply
+TQAA/TL  - Tradewind Industries, Inc.
+TRAC/TL  - Trail Aire, Inc.
+TRAD/TL  - Trail Car Boat Trailer
+TRAE/TL  - Trail Haven Div.
+TRLI/TL  - Trail It Horse Trailer
+TRLK/TL  - Trail King Industries
+TRKG/TL  - Trail King Travel Trailer
+TRLM/TL  - Trail Master Trailers, Inc.
+TRIA/TL  - Trail Mate Trailer Co.
+TRST/TL  - Trail Star Tent Trailer
+TRLE/TL  - Trail-Easy Travel Trailer
+TRET/TL  - Trail-Et Horse Trailer
+DAKO/TL  - Trail-Eze (old code TLZE)
+TRAJ/TL  - Trail-It Coach Mfg. Co.
+TRIL/TL  - Trail-O-Matic Trailer
+TRAL/TL  - Trail-Or-Floats
+TRAH/TL  - Trail-R-Craft, Inc.
+TRRI/TL  - Trail-Rite Trailer Mfg. Co.
+TRAM/TL  - Trail-Wide Corp.
+TRBL/TL  - Trailblazer Trailer
+TRBO/TL  - Trailboss House Trailer
+TRLC/TL  - Trailco Mfg. & Sales Co.
+TRAG/TL  - Trailco-Norwin
+TRCF/TL  - Trailcraft Boat Trailer
+HMDE/TL  - Trailer (Homemade)
+RCON/TL  - Trailer (Reconstructed)
+TRLR/TL  - Trailer (Unpublished)
+TRCO/TL  - Trailer Coach Metal Spec.
+TRFR/TL  - Trailer Wheel and Frame Co.
+TRRT/TL  - Trailerette Trailer
+TRLN/TL  - Trailers, Inc.
+TRVR/TL  - Trailevator
+TRAI/TL  - Trailex, Inc.
+HILT/TL  - Trailflex
+TLTR/TL  - Trailite Trailer
+TRAF/TL  - Trailmaster Tanks, Inc.
+TRIM/TL  - Trailmobile
+TRAK/TL  - Trailorama
+TRST/TL  - Trailstar Travel Trailer
+TRBF/TL  - Trainliner
+TRMC/TL  - Tramco, Inc.
+TRPR/TL  - Tramper Travel Trailer
+CHAM/TL  - Tran Star
+TRAN/TL  - Trans Canada Rent-A-Trailer System
+CHAM/TL  - Trans Van
+TTTR/TL  - Trans-Trail Trailer
+TNSC/TL  - Transco Trailer
+TRAO/TL  - Transcraft Corp.
+TRBE/TL  - Transfer
+TRSG/TL  - Transglobal
+TRAP/TL  - Transit
+TRNS/TL  - Transliner Insulated Tank Trailer
+TRSM/TL  - Transmobile Trailer
+TTSI/TL  - Transport Systems, Inc.
+TTTI/TL  - Transport Trailers, Inc.
+TRAQ/TL  - Transporter
+TRAR/TL  - Transvair
+TRBC/TL  - Trav Otel Industries
+TRBB/TL  - Trav-L-Homes
+TRVC/TL  - Travco Corp.
+TBC /TL  - Travel Cruiser
+TRAS/TL  - Travel Equipment Corp
+TRVL/TL  - Travel Home, Inc.
+TRAU/TL  - Travel Industries
+TRLO/TL  - Travel Long, Inc.
+TMTR/TL  - Travel Mate Trailer
+TRQU/TL  - Travel Queen Coaches
+TRWD/TL  - Travel World, Inc.
+PHIM/TL  - Travel-lite Campers
+TRAW/TL  - Travelaire Trailer Mfg.
+TRMI/TL  - Traveler Mfg. Inc.
+TRVE/TL  - Traveleze Industries, Inc.
+TRTT/TL  - Traveliner Travel Trailer
+TRAY/TL  - Travelmaster, Inc.
+TRHM/TL  - Travelo Homes Co.
+TRAZ/TL  - Travelpak Car Topper Sales
+TRBA/TL  - Travette Mfg.
+TRVS/TL  - Travis Trailer
+TRBD/TL  - Travois Trailer
+TXTT/TL  - Traxcavator Tract
+TREA/TL  - Treasure Chest Products
+TREK/TL  - Trek, Inc.
+TREC/TL  - Trevco Enterprises
+TLMC/TL  - Tri-Lakes Mfg. Co., Inc.
+TRSY/TL  - Tri-Pak Systems Co.
+BAIL/TL  - Tri-R
+TRIT/TL  - Tri-Star Corp.
+TIST/TL  - Tri-State Homes, Inc.
+LELA/TL  - Tri-Trak
+TRI /TL  - Tri-Way HD Snowmobile Trailer
+TRIW/TL  - Tri-Way Trailer
+TRTL/TL  - Triad Trailers Ltd.
+TIAK/TL  - Triangle-K Trailer Co.
+LONF/TL  - Triax Tube
+TRIG/TL  - Triggs-Miner Corp.
+TRLL/TL  - Trillium Trailer
+TRIN/TL  - Trinity Products
+TRIB/TL  - Triple B Mfg. Co., Inc.
+TRIP/TL  - Triple R Trailer
+TRRR/TL  - Triple R Trailers
+TRTN/TL  - Triton Trailer Corp.
+TRIS/TL  - Triumph Sales & Service
+TRIV/TL  - Trivellnto
+TRLP/TL  - TRL Enterprises, Inc.
+TROJ/TL  - Trojan
+TROH/TL  - Trojan Homes
+TROM/TL  - Trombly Woodworking Co.
+TROQ/TL  - Trophy Travel Trailer
+TROP/TL  - Tropicana Mfg. Co.
+TROT/TL  - Trotwood Trailer
+TROX/TL  - Troxell Trailer Mfg.
+TROU/TL  - Troy Industries
+TROY/TL  - Troyler Corp.
+TRUT/TL  - Tru-Trailer Co.
+TRTR/TL  - Truck & Trailer Equipment Co.
+TRUE/TL  - Truck Equipment Service Co.
+HKEG/TL  - Truck Trailer Sales & Service, Inc.
+VWTC/TL  - Truckin Trailer
+TRUC/TL  - Truco
+TRVO/TL  - TRV Corp.
+TUCR/TL  - Tucker Sno-Cat Corp.
+TUCE/TL  - Tucker, Al, Trailer Co.
+TUFB/TL  - Tufby Converter Dolly
+TUFC/TL  - Tuff Cat Trailers, Inc.
+TUFT/TL  - Tuff Thom Trailers, Inc.
+TUFN/TL  - Tuff-N-Lite
+TUFF/TL  - Tuffy
+TUKA/TL  - Tuk-A-Way-Trailer
+CLIH/TL  - Turn-A-Port
+TUBO/TL  - Turnbow Trailer
+GATP/TL  - Turtle
+MARA/TL  - Twain, Mark, Mfg.
+TWEN/TL  - Twentieth Century Mfg. Co.
+TRFR/TL  - TWF
+TWIL/TL  - Twilight Coach Mfg.
+TWIT/TL  - Twilite Mobile Home Mfg.
+TWIC/TL  - Twin City Racing
+TWIG/TL  - Twin Grove Mfg., Inc.
+GUER/TL  - Twin Lakes
+TWIN/TL  - Twin Trailer
+TYBE/TL  - Tybex Corp.
+TYLE/TL  - Tyler Coach Mfg.
+TYSO/TL  - Tyson Skylark Trailer
+UHAU/TL  - U-Haul Co.
+USAV/TL  - U-Save Trailers
+TINK/TL  - U-Totem
+ULTR/TL  - Ultra, Inc.
+FOUT/TL  - Ultra-Lite
+UNIA/TL  - Union Machine & Tool Works
+UNID/TL  - United Fiberglass
+UNIE/TL  - United Mfg. Co.
+UNIL/TL  - United Mobile Sales
+UNIM/TL  - United States Aluminum Co.
+UNIO/TL  - United States Mobile Homes
+UNIS/TL  - United States Mobile Homes (Florida)
+UNIT/TL  - United Trailer Service & Supply Co.
+UNIV/TL  - Universal Camper Mfg.
+UNIR/TL  - Universal Tractor Foreign Trade Co.
+UNII/TL  - Univision Industries Ltd.
+TRLR/TL  - Unpublished Trailer Mfg.
+UNVE/TL  - Unverferth-McCurdy Mfg. Co., Inc.
+URIL/TL  - Urili Flatbed Trailer
+USAC/TL  - USA Motor Corp.
+USCA/TL  - U.S. Cargo, Inc.
+UTHM/TL  - Utah Mobile Homes
+UTE /TL  - Ute Trailer
+UTIL/TL  - Utility Trailer Mfg. Co.
+UTOP/TL  - Utopia Coach Corp.
+VW  /TL  - V & W
+VWTC/TL  - V.W.T. Corp.
+VACA/TL  - Vacation Homes
+VACD/TL  - Vacation Industries
+VACG/TL  - Vacation Wagon, Inc.
+VCAT/TL  - Vacationeer Trail Trailer
+VADA/TL  - Vada Open Top Cattle Trailer
+VADO/TL  - Vador
+VAGA/TL  - Vagabond
+VALA/TL  - Valiant Mobile Homes
+VALC/TL  - Valley Campers
+VALL/TL  - Valley Foundry & Machine Works
+VALY/TL  - Valley Trailers
+VANA/TL  - Van Art, Inc.
+VANB/TL  - Van Bibber Enterprises
+VANC/TL  - Van Camp Equipment
+VANO/TL  - Van Car Corp.
+GUER/TL  - Van Dyke
+VANR/TL  - Van Guard Trailer, Ltd.
+VANP/TL  - Vance Campers, Inc.
+VANS/TL  - Vanson Boat Trailer
+VAQU/TL  - Vaquero Trailer
+MRIO/TL  - Vault Carrier
+VW  /TL  - Veenema & Wingers, Inc.
+FLIN/TL  - Vega Mobile Home
+VEGA/TL  - Vegas Mfg. Co.
+VENT/TL  - Ventoura Corp.
+VNTU/TL  - Ventura Tent Camper
+VNTR/TL  - Venturi Paris  S.A.
+VENC/TL  - Venus Coaches
+VERN/TL  - Vermeer Mfg. Co.
+VRMO/TL  - Vermont Traveler
+VRSA/TL  - Versa Two Wheel Trailer
+VERT/TL  - Vertex
+VESE/TL  - Vesely Co.
+VET /TL  - Vet Boat Trailer
+VICR/TL  - Victor Mobile Homes
+VICH/TL  - Victorian Homes, Inc.
+VICO/TL  - Victory Implement Co.
+VIKI/TL  - Viking
+FAIH/TL  - Village Green
+MIDL/TL  - Village Park Mobile Homes
+VLLA/TL  - Villager Travel Trailer
+MOSE/TL  - Vim Trailer Mfg. Inc.
+VIND/TL  - Vindale Corp.
+VINT/TL  - Vintage Homes
+VHMC/TL  - Virginia Homes MFG. Corp.
+VIRG/TL  - Virginia Mobile Homes Industries
+VIRI/TL  - Virginian Coach Camper Corp.
+VISC/TL  - Viscount Trailers
+VSTA/TL  - Vista Custom Trailer
+VIST/TL  - Vista Liner Coach & Trailer
+VISQ/TL  - Vista Queen Trailer
+VITO/TL  - Vito Mfg. Co.
+VIVI/TL  - Vivian Industrial Plastics
+VM  /TL  - VM Boat Trailer
+VOLU/TL  - Volunteer Mfg. Corp.
+VOUG/TL  - Vought Industries
+VULC/TL  - Vulcan Trailer Mfg. Co.
+WWWH/TL  - W & W White Horse Trailer
+WW  /TL  - W-W Trailers
+WCMS/TL  - W.C. Manufacturing & Specialty Co.
+LACY/TL  - W.E. Lacey & Sons
+WFMI/TL  - W.F. Mickey Body Co., Inc.
+WTCI/TL  - W.T.C.
+WANE/TL  - Wa-Nee Homes Corp.
+WANC/TL  - Wabash National Corporation
+WAGC/TL  - Wago Campers
+WAGM/TL  - Wagon Master Trailer
+WAGT/TL  - Wagon Train, Inc.
+WAGO/TL  - Wagon-Haven, Inc.
+REDM/TL  - Walden Mobile Homes
+WALR/TL  - Walker Mobile Homes
+WALK/TL  - Walker Stainless Equipment Co.
+WALE/TL  - Walker Tractor Mfg.
+WALM/TL  - Wallstrom Boat Trailer
+WALL/TL  - Wallstrong Boat Trailer
+WALH/TL  - Walsh Body & Trailer
+GATE/TL  - Walter C. Gates
+WATR/TL  - Walter Products & Engineering Co.
+RAND/TL  - Walter Randall
+WANA/TL  - Wanamaker Trailer
+WAND/TL  - Wanderer Camper
+WARD/TL  - Ward Industries
+WARH/TL  - Warhawk Mfg. Co.
+WARR/TL  - Warrenville Trailer Mfg., Inc.
+WARM/TL  - Warrior Mfr.
+WATS/TL  - Watson Industries
+WTCI/TL  - Watson Tractor Co., Inc.
+WATT/TL  - Watt Camper
+WAST/TL  - Waverly Structures
+WAYF/TL  - Wayfarer Coach Mfg.
+WAYM/TL  - Waymatic Welding & Fabricating Co.
+WAYS/TL  - Wayside Campers
+WEAV/TL  - Weaver & Sons
+WEBE/TL  - Weber
+WEDG/TL  - Wedgewood Homes
+WEEK/TL  - Week-N-Der Pickup Camper
+WEER/TL  - Weeres Trailer
+WELC/TL  - Welch Mfg. & Engineering Co.
+WELD/TL  - Weld-It Company
+WELL/TL  - Wells Cargo, Inc.
+WEMA/TL  - WeMac Mfg. Co.
+SEAW/TL  - Wendell Sears
+WERG/TL  - Wenger Mfg.
+WERN/TL  - Werner, Siegmund
+WERT/TL  - Werts Bilt
+WERT/TL  - Werts Welding Service
+WTTS/TL  - Wesco Truck & Trailer Sales
+WESC/TL  - West Coach Mfg. Co.
+FTWD/TL  - West Field
+WESD/TL  - West Wind Trailer Co.
+WTKI/TL  - Westank Industries, Inc.
+WECR/TL  - Westcraft Mobile Homes
+WESE/TL  - Western
+WESH/TL  - Western Coach Corp.
+WESI/TL  - Western Dynamics Corp.
+TIDW/TL  - Western Mansion
+WESL/TL  - Western Trailer Coach
+WSTI/TL  - Western Trailers, Inc.
+WTWI/TL  - Western Trailer Works, Inc.
+WTWI/TL  - Western World, Inc.
+WWEK/TL  - Westerwalder Eisenwerk
+WESM/TL  - Westholt Mfg.
+WESN/TL  - Westinghouse Equipped Mobile Home
+JTIL/TL  - Westlake
+WESR/TL  - Westland Trailer Co.
+WESS/TL  - Westward Coach Mfg.
+WEST/TL  - Westways Mfg.
+WHEL/TL  - Wheel Campers Corp.
+WHLE/TL  - Wheeler Truck Trailer
+WHIE/TL  - White Line Mfg. & Dist. Co.
+WHIT/TL  - White Motor Corp.
+WHIA/TL  - White Star Trailer
+WHHA/TL  - Whitehaul Kaler Trailer
+WHKA/TL  - Whitehead & Kales
+WHIY/TL  - Whitley Mfg. Co.
+WICH/TL  - Wickes Homes
+WICK/TL  - Wicks Engineering & Construction Co.
+HOLR/TL  - Wide World
+WIGA/TL  - Wig-A-Wam, Inc.
+WILO/TL  - Wil-Ro, Inc.
+WILY/TL  - Wil-Trail Corp.
+WILD/TL  - Wildcat Travel Trailers
+FTWD/TL  - Wilderness
+WILC/TL  - Will Craft Camper Trailer
+WILR/TL  - Willborn Brothers
+TEXL/TL  - Willett, Tex, Co.
+WICT/TL  - Williams Craft, Inc.
+WILW/TL  - Williamsen Truck Equipment Corp.
+WILA/TL  - Willmar Manufacturing
+WILZ/TL  - Wilray Manufacturing
+WILX/TL  - Wilson Trailer Co., Inc.
+WILM/TL  - Wilson Trailer Mart
+WINS/TL  - Windsor Mobile Homes (old code WIND)
+WINE/TL  - Windward Enterprises
+WING/TL  - Winger Mfg. Co.
+WINN/TL  - Winnebago Industries, Inc.
+WINP/TL  - Winpower Corp.
+WINI/TL  - Winston Industries
+WINT/TL  - Winter Weiss Co.
+WISO/TL  - Wisconsin Homes, Inc.
+WITA/TL  - Wisconsin Tag-A-Long Trailer
+WISC/TL  - Wisconsin Trailer Co., Inc.
+WISD/TL  - Wise Welding, Inc.
+WISG/TL  - Wise-Craft Mfg.
+WISH/TL  - Wishbone Trailers, Inc.
+WIZA/TL  - Wizard
+WOLM/TL  - Wolfe Mfg. Co.
+WOLF/TL  - Wolfe, G.T., Mobile Homes
+WOLV/TL  - Wolverine Camper
+WOND/TL  - Wonder Land Camper
+WSBT/TL  - Wonder State Boat Trailer
+WOOM/TL  - Wood Mfg. Co., Inc.
+BRIO/TL  - Woodbrook
+GUER/TL  - Woodhaven
+WOOA/TL  - Woodland Camper Co.
+WPAR/TL  - Woodland Park, Inc.
+WOON/TL  - Woodline Custom Camper
+LAWC/TL  - Woods, L.A. and Co., Inc.
+WOOS/TL  - Woodsmen Camper
+WORH/TL  - Work Horse Mfg.
+WORK/TL  - Work-N-Play
+WRLD/TL  - World Trailers, Inc,
+WORL/TL  - World Wide Industries
+WORR/TL  - Worrell Trailer Mfg.
+WRAN/TL  - Wrangler Recreational Products
+WRAG/TL  - Wrangler Trailers
+WRIH/TL  - Wright Brothers, Inc.
+WRIG/TL  - Wright Industries, Inc.
+WYFR/TL  - Wy Frame Corp.
+WYDR/TL  - Wydro, John T.
+WYLI/TL  - Wylie Mfg. Co.
+WYNN/TL  - Wynn Trailer Works
+XTRA/TL  - X-Tra Camper Co.
+XPLO/TL  - Xplorer Enterprises of Constantine
+XPLO/TL  - Xtra Room
+RLAC/TL  - XTZ Horse Trailer
+XYZ /TL  - XYZ Trailer
+YWAA/TL  - Y W
+YACH/TL  - Yacht Club
+YADR/TL  - Yadro Trailers
+YAMP/TL  - Yampa Coach Mfg.
+YAGE/TL  - Yanger Mobile Homes
+YARB/TL  - Yarbrough Mfg. Co., Inc.
+YAZO/TL  - Yazoo Mfg. Co., Inc.
+YELL/TL  - Yellowstone, Inc.
+YORK/TL  - York Trailer
+MARF/TL  - You'll Haul It
+YOUN/TL  - Young Spring & Wire
+YSOB/TL  - Ysob Co.
+YUCH/TL  - Yuchi Mobile Homes
+YUKO/TL  - Yukon Delta
+ZIEG/TL  - Ziegler
+ZIEM/TL  - Zieman
+ZIMM/TL  - Zimmer Homes Corp.
+ZIPP/TL  - Zipper, Inc.
+ZOLL/TL  - Zollinger Trailer Co.

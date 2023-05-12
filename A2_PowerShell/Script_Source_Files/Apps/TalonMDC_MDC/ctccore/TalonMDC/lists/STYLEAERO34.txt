@@ -1,0 +1,14 @@
+~<BLANK>
+1J - Single Engine Jet
+2J - Twin-Engine Jet
+3J - Tri-Engine Jet
+MJ - Multi-Engine Jet
+1P - Single Engine Prop
+2P - Twin-Engine Prop
+3P - Tri-Engine Prop
+MP - Multi-Engine Prop
+BP - Blimp
+SA - Glider / Sailplane
+HP - Helicopter
+HA - Hot Air Balloon
+UL - Ultralight / Hang Glider

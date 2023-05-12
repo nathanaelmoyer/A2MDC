@@ -1,0 +1,8 @@
+~<BLANK>
+IN - Inboard (Incl Inboard-Outboard)
+MP - Manual (Oars, etc)
+OB - Outboard
+SA - Sail Only
+SI - Sail with Inboard Power
+SO - Sail with Outboard Power
+

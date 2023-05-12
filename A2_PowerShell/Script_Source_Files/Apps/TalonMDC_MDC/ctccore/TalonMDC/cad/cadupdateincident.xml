@@ -1,0 +1,59 @@
+<CADNewIncident ClassName="com.ctccore.talon.cad.EvtUpdateIncident" GlobalFormatTextField="4">
+  <Title>CAD Incident Update</Title>  
+  <FormDefinition>
+  <XMLItem Label="Incident #" 
+			Type="Text"
+			JContFormat="0"
+			Enabled="true" 
+			Editable="true"
+			ReadCachedCADValue="IncidentNumber"
+			Columns="20"
+			>
+		<Field>IncidentNumber</Field>
+    </XMLItem>
+    <XMLItem Type="Line" PreceedingNextLinePixels="20" />
+    <XMLItem Label="Incident Type" Type="Combo" PreceedingNextLinePixels="20" JContFormat="0" Enabled="true" Editable="false">
+      <Values LoadExternally="true" Filename="incidenttypes.xml" />
+      <Field>IncidentType</Field>
+    </XMLItem>
+    <XMLItem Label=" " Type="Text" JContFormat="0" Enabled="true" Columns="10" MaxLength="6" SCFormat="0x40">
+      <Field>IncidentType2</Field>
+    </XMLItem>
+    <XMLItem Type="Line" PreceedingNextLinePixels="20" />
+    <XMLItem Label="Address" Type="Text" PreceedingNextLinePixels="20" JContFormat="0" Enabled="true" Columns="20" MaxLength="30" SCFormat="0x40">
+      <Field>Address</Field>
+    </XMLItem>
+    <XMLItem Label="Apt." Type="Text" JContFormat="0" Enabled="true" Columns="5" MaxLength="4" SCFormat="0x40">
+      <Field>Apartment</Field>
+    </XMLItem>
+    <XMLItem Label="Building" Type="Text" JContFormat="0" Enabled="true" Columns="5" MaxLength="4" SCFormat="0x40">
+      <Field>Building</Field>
+    </XMLItem>
+    <XMLItem Label="City" Type="Text" JContFormat="0" Enabled="true" Columns="15" MaxLength="15" SCFormat="0x40">
+      <Field>City</Field>
+    </XMLItem>
+    <XMLItem Type="Line" PreceedingNextLinePixels="20" />
+    <XMLItem Label="Comments" Type="TextArea" PreceedingNextLinePixels="20" JContFormat="0" Enabled="true" Columns="20" Rows="5">
+      <Field>Comments</Field>
+    </XMLItem>    
+  </FormDefinition>
+  <Button Label="Submit" Action="Submit;Close" Key="VK_ENTER"/>
+  <Button Label="Clear Form" Action="Clear"/>
+  <Button Label="Cancel" Action="Close" Key="VK_ESCAPE"/>
+  <Events>
+    <Event ID="Form Created">
+      <Script>
+        //See if the user has a 'current' incident number, if he
+        //does place that in the incident number field.
+        /*
+        var curIncident = CAD.GetCachedValue( "IncidentNumber" );
+        if ( curIncident != null )
+        {
+          var incField = FormBuilder.GetComponent("CurrentIncident");
+          incField.setText( "" + curIncident );
+        }
+        */
+      </Script>
+    </Event>
+  </Events>
+</CADNewIncident>

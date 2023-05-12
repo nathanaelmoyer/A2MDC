@@ -1,0 +1,18 @@
+~<BLANK>
+AF - Air Force Serial Number
+AS - Air National Guard Serial Number
+AR - Alien Registration Number
+AS - Army Serial Number
+CI - Canadian Social INS Number
+MC - Marine Corps Serial Number
+MD - Mariners Document or ID Number
+AS - National Guard Serial Number
+NS - Navy Serial Number
+OA - Originating Agency Police/ZD
+PP - Passport Number
+PI - Personal Identification Number
+PS - Port Security Card Number
+MP - RCMP ID or Fingerprint Number
+SS - Selective Service Number
+CG - US Coast Guard Number
+VA - Veterans Admin Claim Number

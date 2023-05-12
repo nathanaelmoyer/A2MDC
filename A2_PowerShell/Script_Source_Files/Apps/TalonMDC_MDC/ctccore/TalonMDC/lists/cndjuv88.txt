@@ -1,0 +1,8 @@
+~<BLANK>
+1 - No contact with victim(s)/
+2 - No association with/
+3 - Not near home/business of/
+4 - Not standing,loitering or congregating at/
+5 - Curfew/
+6 - Must attend school/
+7 - Other/

@@ -1,0 +1,8 @@
+1889
+G	MHO	FentonTAC	TAC Config group	
+G	MHP	FentonQuery/CCH	Query/CCH config	
+G	MHQ	FentonEntry	entry config	
+G	MHR	FentonQueryOnly	Query Only config	
+G	MHX	ShelbyTwpEntry	entry config	
+G	MHY	ShelbyTwpTAC	TAC Config group	
+G	MHZ	ShelbyTwpQuery/CCH	Query/CCH config	

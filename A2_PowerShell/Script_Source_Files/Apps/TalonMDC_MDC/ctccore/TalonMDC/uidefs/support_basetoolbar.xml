@@ -1,0 +1,20 @@
+<Controls>
+	<Separator/>
+    <Button ProgramID="SUPPORT"
+      ValidState="4" 
+      Image="support.png" 
+      Label="Support" LabelVAlignment="Bottom" LabelHAlignment="Center" 
+      ToolTip="Contact Support">
+			<Script>
+				MC.Trace( "Talon SUPPORT button pressed" );
+				var url = MC.GetSys().GetParameter( "SUPPORTURL", "http://coretechcorp.com/submit-a-support-request/" );
+
+								
+				MC.Trace( "url:" + url );
+				//Use the following line to use the PC's default browser.
+				BASUTIL.StartFile( url, "", MC );
+				//Use the following line to use the Talon built-in browser.
+				//Helper.StartDlgBrowser( url, false, false, true );
+			</Script>
+    </Button>
+</Controls>

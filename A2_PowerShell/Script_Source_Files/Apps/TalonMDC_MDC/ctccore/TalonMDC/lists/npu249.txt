@@ -1,0 +1,24 @@
+~<BLANK>
+01 - Sale of hand gun
+02 - Sale of long gun
+03 - Sale of other(Frame, Receiver, etc.)
+05 - Pre-pawn of hand gun
+06 - Pre-pawn of long gun
+07 - Pre-pawn of other(Frame, Receiver, etc.)
+09 - Redemption of hand gun
+10 - Redemption of long gun
+11 - Redemption of other(Frame, Receiver, etc.)
+13 - Test
+14 - Gun permit of any type
+15 - Explosives -Responsible Persons
+16 - Explosives -Possessor
+17 - Explosives -State Check
+18 - Explosives -Responsible Person -Renewal
+19 - National Firearms Act background check
+20 - ATF Firearms Licensee background check
+21 - Nuclear Regulatory Commission background check
+22 - Return of Handgun
+23 - Return of Long Gun
+24 - Return of Other
+34 - Firearm Permit Recheck/Revocation Check
+

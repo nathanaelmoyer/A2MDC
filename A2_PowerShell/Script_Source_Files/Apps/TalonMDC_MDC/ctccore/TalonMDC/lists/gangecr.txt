@@ -1,0 +1,10 @@
+~<BLANK>
+A - Self-admitted gang membership at time of arrest or incarceration
+B - Identified as a gang member by a reliable informant or individual
+C - Corroborated identification as a gang member by an informant or individual of unknown reliability
+D - Frequents a documented gang's area, associates with known gang members, and/or affects gang dress, hand signals, tattoos, or symbols
+E - Has been arrested with known gang members for offenses consistent with gang activity
+F - Self-admitted gang membership (at any time other than arrest or incarceration)
+;G - Terrorist acting alone.
+;H - Subject is suspected or believed to be associated with terrorism or a terrorist organization.
+I - Has been identified as a gang member by an authorized penal organization

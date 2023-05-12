@@ -1,0 +1,12 @@
+<Controls>
+    <Separator/>
+    <Button ProgramID="DaveTest" ValidState="4" Image="bulletins.png" Label="Dave" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="Test toolbar">
+	<Script>
+		MC.Trace( "DaveTest button pressed" );
+		MC.Trace( "TIMSORI:" + MC.GetSys().GetParameter( "TIMSORI", "" ) );
+		var URL = MC.GetSys().GetParameter( "CrimeAnalysisURL", "http://localhost:29080/TalonCA" );
+		BASUTIL.StartFile( URL, "", MC );
+		//BASUTIL.StartFile( "Notepad2.exe", "", MC );
+	</Script>
+    </Button>    		
+</Controls>

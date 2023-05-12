@@ -1,0 +1,11 @@
+<BLANK>
+AERO - Aircraft
+ATV - All Terrain Vehicles
+~AUTO - Automobile
+CE - Construction Equipment
+CYL - Motorcycle
+FE - Farm and Garden Equipment
+SNO - Snowmobile
+SPEC - Special Type (Other)
+TL - Trailer
+TK - Truck

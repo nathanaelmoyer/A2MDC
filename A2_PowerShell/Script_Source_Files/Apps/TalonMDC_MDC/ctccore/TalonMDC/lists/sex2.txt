@@ -1,0 +1,6 @@
+~<BLANK>
+F - Female
+M - Male
+;G - Female to a male  Removed 8/18/2017 per MSP
+;N - Male to a female  Removed 8/18/2017 per MSP
+U - Unknown

@@ -1,0 +1,495 @@
+~<BLANK>
+00	;0095 - Child Abuse Prev (Non-expiring) ***NO LONGER VALID 01/01/2002***
+00	0029 - Runaways, Missing Persons, Disaster Victims
+00	0080 - Civil Infraction-MVC-Local Ord.  LEIN ONLY Requires 14:1 and 41:Description Charge
+00	0081 - Civil Infraction-MVC-State Law   LEIN ONLY Requires 14:1 and 41:Description Charge
+00	0040 - Juvenile Custody Order Family Independence Agency  LEIN ONLY
+00	0030 - Parking     LEIN ONLY                
+00	0085 - Paternity     LEIN ONLY  Requires 14:7                   
+00	0087 - Not Guilty by Insanity                                
+00	0090 - Stalking Personal Protection Order Expiring
+00	0092 - Bond Conditional Release Order Expiring
+00	0094 - Child Abuse Prev (Expiring) 
+00	0096 - Domestic Personal Protection
+00	0097 - Involuntarily Hospitalization/Treatment Program
+00	0098 - Legally Incapacitated
+00	0099 - Divorce Personal Protection Order Expiring
+01	0101 - Treason
+01	0102 - Treason Misprision
+01	0103 - Espionage
+01	0104 - Sabotage
+01	0105 - Sedition
+01	0106 - Selective Service
+01	0199 - Sovereignty
+02	0201 - Military Desertion
+02	0299 - Military
+03	0301 - Illegal Entry
+03	0302 - False Citizenship
+03	0303 - Smuggling Aliens
+03	0399 - Immigration
+09	0901 - Homicide -Willful Kill -Family -Gun
+09	0902 - Homicide -Willful Kill -Family -Weapon (identify weapon)
+09	0903 - Homicide -Willful Kill -Nonfamily -Gun
+09	0904 - Homicide -Willful Kill -Nonfamily -Weapon (identify weapon)
+09	0905 - Homicide -Willful Kill -Pub Off -Gun
+09	0906 - Homicide -Willful Kill -Pub Off -Weapon (identify weapon)
+09	0907 - Homicide -Willful Kill -Pol Off -Gun
+09	0908 - Homicide -Willful Kill -Pol Off -Weapon (identify weapon)
+09	0909 - Homicide -Neglig Mansl -Veh
+09	0910 - Homicide -Neglig Mansl -Weapon (identify weapon)
+09	0911 - Homicide -Willful Kill -Gun
+09	0912 - Homicide -Willful Kill -Weapon (identify weapon)
+09	0913 - Homicide -John or Jane Doe -No Warrant
+09	0999 - Homicide (describe offense)
+10	1001 - Kidnap Minor For Ransom
+10	1002 - Kidnap Adult For Ransom
+10	1003 - Kidnap Minor To Sexually Asslt
+10	1004 - Kidnap Adult To Sexually Asslt
+10	1005 - Kidnap Minor
+10	1006 - Kidnap Adult
+10	1007 - Kidnap Hostage For Escape
+10	1008 - Abduct -No Ransom Or Asslt
+10	1009 - Kidnap -Hijack Aircraft
+10	1010 - Kidnap Minor -Parental
+10	1011 - Kidnap Minor -Nonparental
+10	1020 - False Imprisonment -Minor -Nonparental
+10	1021 - False Imprisonment -Minor -Parental
+10	1099 - Kidnaping (describe offense)
+11	1101 - Rape -Gun
+11	1102 - Rape With Weapon (identify weapon)
+11	1103 - Rape -Strong-arm
+11	1104 - Sex Asslt -Sodomy -Boy -Gun
+11	1105 - Sex Asslt -Sodomy -Man -Gun
+11	1106 - Sex Asslt -Sodomy -Girl -Gun
+11	1107 - Sex Asslt -Sodomy -Woman -Gun
+11	1108 - Sex Asslt -Sodomy -Boy -Weapon
+11	1109 - Sex Asslt -Sodomy -Man -Weapon
+11	1110 - Sex Asslt -Sodomy -Girl -Weapon
+11	1111 - Sex Asslt -Sodomy -Woman -Weapon (identify weapon)
+11	1112 - Sex Asslt -Sodomy -Boy -Stgarm
+11	1113 - Sex Asslt -Sodomy -Man -Stgarm
+11	1114 - Sex Asslt -Sodomy -Girl -Stgarm
+11	1115 - Sex Asslt -Sodomy -Woman -Stgarm
+11	1116 - Stat Rape -No Force
+11	1117 - Sex Asslt -Carnal Abuse
+11	1118 - Rape -Elderly
+11	1119 - Rape -Disabled
+11	1120 - Sex Assault -Elderly
+11	1121 - Sex Assault -Disabled
+11	1122 - Rape -Drug-induced
+11	1123 - Sexual Assault -Drug-Induced
+11	1198 - Rape (Use the MIS Field to further describe offense)
+11	1199 - Sex Asslt (describe offense)
+12	1201 - Robbery -Business -Gun
+12	1202 - Robbery -Business -Weapon
+12	1203 - ROBBERY BUSINESS STRONG ARM
+12	1204 - ROBBERY STREET GUN
+12	1205 - ROBBERY STREET OTHER WEAPON
+12	1206 - ROBBERY STREET STRONG ARM
+12	1207 - ROBBERY RESIDENCE GUN
+12	1208 - ROBBERY RESIDENCE OTHER WEAPON
+12	1209 - ROBBERY RESIDENCE STRONG ARM
+12	1210 - ROBBERY FORCIBLE PURSESNATCHING
+12	1211 - ROBBERY BANKING TYPE INSTITUTION
+12	1212 - Carjacking - Armed
+12	1299 - ROBBERY (OTHER)
+13	1301 - AGG/FEL ASSAULT FAMILY GUN
+13	1302 - AGG/FEL ASSAULT FAMILY OTHER WEAPON
+13	1303 - AGG/FEL ASSAULT FAMILY STRONG ARM
+13	1304 - AGG/FEL ASSAULT NONFAMILY GUN
+13	1305 - AGG/FEL ASSAULT NONFAMILY OTHER WEAPON
+13	1306 - AGG/FEL ASSAULT NONFAMILY STRONG ARM
+13	1307 - AGG/FEL ASSAULT PUB OFF GUN
+13	1308 - AGG/FEL ASSAULT PUB OFF OTHER WEAPON
+13	1309 - AGG/FEL ASSAULT PUB OFF STRONGARM
+13	1310 - AGG/FEL ASSAULT POL OFF GUN
+13	1311 - AGG/FEL ASSAULT POL OFF OTHER WEAPON
+13	1312 - AGG/FEL ASSAULT POL OFF STRONGARM
+13	1313 - ASSAULT & BATTERY/SIMPLE ASSAULT
+13	1314 - AGGRAV ASSLT, GUN
+13	1315 - AGGRAV ASSLT, (IDENTIFY WEAPON)
+13	1316 - INTIMIDATION
+13	1399 - ASSAULT (OTHER)
+14	1401 - ABORTION ACT ON OTHER
+14	1402 - ABORTION ACT ON SELF
+14	1403 - SUBMISSION TO ABORTIONAL ACT
+14	1404 - ABORTIFACIENT - SELL, MFG, ETC
+14	1499 - ABORTION (OTHER)
+16	1601 - Threat -Federal Protectees (President, Vice President, etc.)
+16	1602 - Threat -Terroristic -State Offenses
+16	1603 - ASSIST, SPONSOR, OR PROVIDE MATERIAL OR FINANCIAL
+17	1701 - State/Local -Material Witness
+17	1702 - Federal -Material Witness
+20	2001 - Arson -Business -Endangered Life
+20	2002 - Arson -Resid -Endangered Life
+20	2003 - Arson -Business -Defraud Insurer
+20	2004 - Arson -Resid -Defraud Insurer
+20	2005 - Arson -Business
+20	2006 - Arson -Resid
+20	2007 - Burning Of -(identify object)
+20	2008 - Arson -Pub -Bldg -Endangered Life
+20	2009 - Arson -Pub -Bldg
+20	2099 - Arson (describe offense)
+21	2101 - Extort -Threat Injure Person
+21	2102 - Extort -Threat Damage Prop
+21	2103 - Extort -Threat Injure Reputation
+21	2104 - Extort -Threat Accuse Person of Crime
+21	2105 - Extort -Threat of Informing of Vio
+21	2199 - Extortion (describe offense)
+22	2201 - Burgl -Safe -Vault
+22	2202 - Burgl -Forced Entry -Resid
+22	2203 - Burgl -Forced Entry -Nonresid
+22	2204 - Burgl -No Forced Entry -Resid
+22	2205 - Burgl -No Forced Entry -Nonresid
+22	2206 - Burgl Tools -Possess
+22	2207 - Burgl -Banking -Type Inst
+22	2299 - Burglary (describe offense)
+23	2301 - Pocketpicking
+23	2302 - Purse Snatching -No Force
+23	2303 - Shoplifting
+23	2304 - Larc -Parts From Veh
+23	2305 - Larc -From Auto
+23	2306 - Larc -From Shipment
+23	2307 - Larc -From Coin Machine
+23	2308 - Larc -From Bldg
+23	2309 - Larc -From Yards
+23	2310 - Larc -From Mails
+23	2311 - Larc -From Banking-type Inst
+23	2312 - Larc -From Interstate Shipment
+23	2313 - Obstruct Correspondence (postal violation)
+23	2314 - Theft Of US Govt Prop
+23	2315 - Larc On US Govt Reserv
+23	2316 - Larc -Postal
+23	2399 - Larceny (describe offense)
+24	2401 - Theft And Sale Veh
+24	2402 - Theft And Strip Veh
+24	2403 - Theft And Use Veh Other Crime
+24	2404 - Vehicle Theft
+24	2405 - Theft Veh By Bailee
+24	2406 - Receive Stolen Veh
+24	2407 - Strip Stolen Veh
+24	2408 - Possess Stolen Veh
+24	2409 - Interstate Transp Stolen Veh
+24	2410 - Aircraft Theft
+24	2411 - Unauth Use Of Veh (includes joyriding)
+24	2499 - Stolen Vehicle (describe offense)
+25	2501 - Forgery Of Checks
+25	2502 - Forgery Of -(identify object )
+25	2503 - Counterfeiting Of -(identify object)
+25	2504 - Pass Forged -(use pass for utter and/or distribute) -(identify object)
+25	2505 - Pass Counterfeited (use pass for utter and/or distribute) -(identify object)
+25	2506 - Possess Forged -(identify object)
+25	2507 - Possess Counterfeited -(identify object)
+25	2508 - Possess Tools For Forgery/Counterfeiting
+25	2509 - Transport Forged -(identify object)
+25	2510 - Transport Counterfeited -(identify object)
+25	2511 - Transport Tools For Forgery/Counterfeiting
+25	2589 - Forgery (describe offense)
+25	2599 - Counterfeiting (describe offense)
+26	2601 - Fraud -Confidence Game
+26	2602 - Fraud -Swindle
+26	2603 - Mail Fraud
+26	2604 - Fraud -Imperson
+26	2605 - Fraud -Illeg Use Credit Cards
+26	2606 - Fraud -Insuff Funds Check
+26	2607 - Fraud -False Statement
+26	2608 - Fraud By Wire
+26	2609 - Fraud and Abuse -Computer
+26	2610 - Identity Theft
+26	2699 - Fraud (describe offense)
+27	2701 - Embezzle -Business Prop
+27	2702 - Embezzle -Interstate Shipment
+27	2703 - Embezzle -Banking -Type Inst
+27	2704 - Embezzle -Public Prop (U.S., state, city prop.)
+27	2705 - Embezzle -Postal
+27	2799 - Embezzle (describe offense)
+28	2801 - Sale Of Stolen Prop
+28	2802 - Transport Interstate Stolen Prop
+28	2803 - Receive Stolen Prop
+28	2804 - Possess Stolen Prop
+28	2805 - Conceal Stolen Prop
+28	2899 - Stolen Property (describe offense)
+29	2901 - Damage Prop -Business
+29	2902 - Damage Prop -Private
+29	2903 - Damage Prop -Public
+29	2904 - Damage Prop -Business -With Explosive
+29	2905 - Damage Prop -Private -With Explosive
+29	2906 - Damage Prop -Public -With Explosive
+29	2999 - Damage Property (describe offense)
+35	3501 - Hallucinogen -Mfr (NOT TO INCLUDE MARIJUANA)
+35	3502 - Hallucinogen -Distrib (NOT TO INCLUDE MARIJUANA)
+35	3503 - Hallucinogen -Sell (NOT TO INCLUDE MARIJUANA)
+35	3504 - Hallucinogen -Possess (NOT TO INCLUDE MARIJUANA)
+35	3505 - Hallucinogen -(NOT TO INCLUDE MARIJUANA) (describe offense)
+35	3510 - Heroin -Sell 
+35	3511 - Heroin -Smuggle 
+35	3512 - Heroin -Possess
+35	3513 - Heroin (describe offense) 
+35	3520 - Opium or Deriv -Sell 
+35	3521 - Opium or Deriv -Smuggle 
+35	3522 - Opium or Deriv -Possess 
+35	3523 - Opium or Deriv (describe offense) 
+35	3530 - Cocaine -Sell 
+35	3531 - Cocaine -Smuggle 
+35	3532 - Cocaine -Possess 
+35	3533 - Cocaine (describe offense) 
+35	3540 - Synth Narcotic -Sell
+35	3541 - Synth Narcotic -Smuggle 
+35	3542 - Synth Narcotic -Possess 
+35	3543 - Synth Narcotic (describe offense) 
+35	3550 - Narcotic Equip -Possess 
+35	3560 - Marijuana -Sell
+35	3561 - Marijuana -Smuggle
+35	3562 - Marijuana -Possess
+35	3563 - Marijuana -Producing 
+35	3564 - Marijuana (describe offense) 
+35	3570 - Amphetamine -Mfr 
+35	3571 - Amphetamine -Sell 
+35	3572 - Amphetamine -Possess
+35	3573 - Amphetamine (describe offense) 
+35	3580 - Barbiturate -Mfr 
+35	3581 - Barbiturate -Sell 
+35	3582 - Barbiturate -Possess 
+35	3583 - Barbiturate (describe offense) 
+35	3599 - Dangerous Drugs (describe offense) 
+36	3601 - Sex Offense -Against Child-Fondling
+36	3602 - Homosexual Act With Girl
+36	3603 - Homosexual Act With Boy
+36	3604 - Incest With Minor
+36	3605 - Indecent Exposure (to minors and adults)
+36	3606 - Bestiality
+36	3607 - Incest With Adult
+36	3608 - Seduction Of Adult
+36	3609 - Homosexual Act With Woman
+36	3610 - Homosexual Act With Man
+36	3611 - Peeping Tom
+36	3612 - Failure to Register As A Sex Offender
+36	3613 - Sex Offender Registration Violation
+36	3614 - Indecent Exposure to Minor
+36	3615 - Indecent Exposure to Adult
+36	3616 - Lewd or Lascivious Acts with Minor
+36	3617 - Sexually Violate Human Remains/Necrophilia
+36	3618 - Molestation of Minor
+36	3619 - Voyeurism
+36	3620 - Sex Offense - Elderly
+36	3621 - Sex Offense - Disabled
+36	3622 - Transport Interstate for Sexual Activity
+36	3623 - Indecent Liberties
+36	3699 - Sex Offense (describe offense)
+37	3700 - Obscene Material
+37	3701 - Obscene Material -Mfr
+37	3702 - Obscene Material -Sell
+37	3703 - Obscene Material -Mailing
+37	3704 - Obscene Material -Possess
+37	3705 - Obscene Material -Distrib
+37	3706 - Obscene Material -Transport
+37	3707 - Obscene Communication
+37	3799 - Obscenity (describe offense)
+38	3801 - Neglect Family
+38	3802 - Cruelty Toward Child
+38	3803 - Cruelty Toward Wife
+38	3804 - Bigamy
+38	3805 - Contrib Delinq Minor
+38	3806 - Neglect Child (includes nonsupport of child)
+38	3807 - Nonpayment Of Alimony
+38	3808 - Nonsupport Of Parent
+38	3809 - Cruelty Toward Elderly
+38	3810 - Cruelty Toward Disabled
+38	3811 - Neglect Elderly
+38	3812 - Neglect Disabled
+38	3899 - Family Offense (describe offense)
+39	3901 - Bookmaking
+39	3902 - Card Game -Operating
+39	3903 - CARD GAME PLAYING  (LEIN ONLY)
+39	3904 - Card Game
+39	3905 - Dice Game -Operating
+39	3906 - DICE GAME PLAYING (LEIN ONLY)
+39	3907 - Dice Game
+39	3908 - Gambling Device -Possess
+39	3909 - Gambling Device -Transport
+39	3910 - Gambling Device -Not Registered
+39	3911 - Gambling Device
+39	3912 - Gambling Goods -Possess
+39	3913 - Gambling Goods -Transport
+39	3914 - Gambling Goods
+39	3915 - Lottery -Operating
+39	3916 - Lottery -Runner
+39	3917 - LOTTERY PLANNING (LEIN ONLY)
+39	3918 - Lottery
+39	3919 - Sports Tampering
+39	3920 - Transmit Wager Information
+39	3921 - Establish Gambling Place
+39	3999 - Gambling (describe offense)
+40	4001 - Keeping House Ill Fame
+40	4002 - Procure For Prostitute (pimping) (use when prostitutes are minors or adults)
+40	4003 - Commercial Sex -Homosexual Prostitution
+40	4004 - Prostitution
+40	4005 - Frequent House Ill Fame
+40	4006 - Trnsp Female Interstate for Immoral Purp
+40	4007 - Procure for Prostitute Who Is A Minor
+40	4008 - Procure for Prostitute Who Is An Adult
+40	4009 - Transport Interstate for Commercialized Sex
+40	4099 - Commercial Sex (describe offense)
+41	4101 - Liquor -Mfr
+41	4102 - Liquor -Sell
+41	4103 - Liquor -Transport
+41	4104 - Liquor -Possess
+41	4105 - MINOR MISREPRESENTING AGE (LEIN ONLY)
+41	4199 - Liquor (describe offense)
+42	4299 - DRUNKENNESS (ALL CRIMINAL)
+48	4801 - Resisting Officer
+48	4802 - Obstruct Criminal Invest
+48	4803 - Making False Report
+48	4804 - Evidence -Destroying
+48	4805 - Witness -Dissuading
+48	4806 - Witness -Deceiving
+48	4807 - Refusing to Aid Officer
+48	4808 - Compounding Crime
+48	4809 - Unauth Communication With Prisoner
+48	4810 - Illegal Arrest
+48	4811 - Crossing Police Lines
+48	4812 - Failure Report Crime
+48	4813 - Failing to Move On
+48	4899 - Obstruct Police (describe offense)
+49	4901 - Escape -(identify type of institution) (enter date of escape in Date of Warrant [DOW] Field)
+49	4902 - Flight To Avoid -(prosecution, confinement, etc.)
+49	4903 - Aiding Prisoner Escape (identify type of institution)
+49	4904 - Harboring Escape/Fugitive
+49	4999 - Flight -Escape (describe offense)
+50	5001 - Bail -Secured Bond
+50	5002 - Bail -Personal Recog
+50	5003 - Perjury
+50	5004 - Perjury -Subornation Of
+50	5005 - Contempt Of Court
+50	5006 - Obstructing Justice
+50	5007 - Obstructing Court Order
+50	5008 - Misconduct -Judic Officer
+50	5009 - Contempt Of Congress
+50	5010 - Contempt Of Legislature
+50	5011 - Parole Violation
+50	5012 - Prob Violation
+50	5013 - Condit Release Violation
+50	5014 - Mandatory Release Violation
+50	5015 - Failure To Appear
+50	5016 - Violation of a Court Order
+50	5050 - (use 5015) NO LONGER VALID 12/7/2007
+50	5051 - (use 5015) NO LONGER VALID 12/7/2007
+50	5052 - (use 5015) NO LONGER VALID 12/7/2007
+50	5091 - FAILURE TO SIGN REGISTRATION (SOR)
+50	5099 - Obstruct -(specify Judic, Congr, Legis, Commsn)
+51	5101 - Bribe -Giving
+51	5102 - Bribe -Offering
+51	5103 - Bribe -Receiving
+51	5104 - Bribe (describe offense)
+51	5105 - Conflict Of Interest
+51	5106 - Gratuity -Giving
+51	5107 - Gratuity -Offering
+51	5108 - Gratuity -Receiving
+51	5109 - Gratuity (describe offense)
+51	5110 - Kickback -Giving
+51	5111 - Kickback -Offering
+51	5112 - Kickback -Receiving
+51	5113 - Kickback (describe offense)
+51	5199 - Bribery (describe offense)
+52	5201 - Altering Identification On Weapon (specify weapon)
+52	5202 - Carrying Concealed Weapon (specify weapon)
+52	5203 - Carrying Prohibited Weapon (specify weapon)
+52	5204 - Explosives -Teaching Use (specify type of explosive)
+52	5205 - Explosives -Transporting (specify type of explosive)
+52	5206 - Explosives -Using (specify type of explosive)
+52	5207 - Incendiary Device -Possess (specify type of device)
+52	5208 - Incendiary Device -Using (specify type of device)
+52	5209 - Incendiary Device -Teaching Use (specify type of device) (do not use if ARSON)
+52	5210 - Licensing -Registration Weapon (specify weapon)
+52	5211 - Explosives -Possessing (specify type of explosive)
+52	5212 - Possession Of Weapon (specify weapon)
+52	5213 - Firing Weapon (specify weapon)
+52	5214 - Selling Weapon (specify weapon)
+52	5215 - Threat To Bomb (describe offense)
+52	5216 - Threat To Burn (describe offense)
+52	5217 - Weapon Trafficking
+52	5299 - Weapon Offense (describe offense)
+53	5301 - Anarchism
+53	5302 - Riot -Inciting
+53	5303 - Riot -Engaging In
+53	5304 - Riot -Interfere Firearm
+53	5305 - Riot -Interfere Officer
+53	5306 - Riot (describe offense)
+53	5307 - Assembly -Unlawful
+53	5308 - FALSE FIRE ALARM (LEIN ONLY)
+53	5309 - Harassing Communication
+53	5310 - Desecrating Flag
+53	5311 - Disord Conduct (specify conduct)
+53	5312 - DISTURBING THE PEACE (LEIN ONLY)
+53	5313 - VAGRANCY CURFEW (LEIN ONLY)
+53	5314 - VAGRANCY LOITERING (LEIN ONLY)
+53	5399 - Public Peace (describe offense)
+54	5401 - Hit And Run
+54	5402 - Transp Dangerous Material
+54	5403 - Driving Under Influence Drugs
+54	5404 - Driving Under Influence Liquor
+54	5405 - Moving Traffic Violation (LEIN ONLY)
+54	5406 - Non-Moving Traffic Violation (LEIN ONLY)
+54	5499 - Traffic Offense (describe offense)
+55	5501 - Drugs -Adulterated
+55	5502 - Drugs -Misbranded
+55	5503 - Drugs -Health or Safety
+55	5510 - Food -Adulterated
+55	5511 - Food -Misbranded
+55	5512 - Food -Health or Safety
+55	5520 - Cosmetics -Adulterated
+55	5521 - Cosmetics -Misbranded
+55	5522 - Cosmetics -Health or Safety
+55	5599 - Health -Safety (describe offense)
+56	5699 - Civil Rights (describe offense)
+57	5701 - Divulge Eavesdrop Info
+57	5702 - Divulge Eavesdrop Order
+57	5703 - Divulge Message Contents
+57	5704 - Eavesdropping (describe offense)
+57	5705 - Eavesdrop Equip (describe offense)
+57	5706 - Opening Sealed Communication
+57	5707 - Trespassing (describe offense)
+57	5708 - Wiretap -Failure To Report
+57	5799 - Invade Privacy (describe offense)
+58	5801 - Smuggle Contraband (specify type)
+58	5802 - Smuggle Contraband Into Prison (specify type)
+58	5803 - Smuggle To Avoid Paying Duty (specify type)
+58	5899 - Smuggling (describe offense)
+59	5999 - Election Laws (describe offense)
+60	6099 - Antitrust (describe offense)
+61	6101 - Income Tax (describe offense)
+61	6102 - Sales Tax (describe offense)
+61	6103 - Liquor Tax (describe offense)
+61	6199 - Tax Revenue (describe offense)
+62	6201 - Conservation -Animals (describe offense)
+62	6202 - Conservation -Fish (describe offense)
+62	6203 - Conservation -Birds (describe offense)
+62	6204 - Conservation -License -Stamp (describe offense)
+62	6205 - Conservation -Environment (describe offense)
+62	6299 - Conservation (describe offense)
+63	6399 - VAGRANCY (OTHER)  (LEIN ONLY)
+63	6300 - MONEY LAUNDERING (describe offense)
+64	6401 - Sexual Exploitation of Minor -Material -Transport
+64	6402 - Sexual Exploitation of Minor -Material -Photograph
+64	6403 - Sexual Exploitation of Minor -Material -Film
+64	6404 - Sexual Exploitation of Minor -Exhibition of Minor
+64	6405 - Sexual Exploitation of Minor -Sex Performance
+64	6406 - Sexual Exploitation of Minor -Via Telecommunications
+64	6407 - Sexual Exploitation of Minor -Prostitution
+64	6408 - Enticement of Minor for Indecent Purposes -via Telecommunications
+64	6409 - Enticement of Minor for Prostitution
+64	6410 - Enticement of Minor for Indecent Purposes
+64	6411 - Human Trafficking
+64	6499 - Exploitation/Enticement (Use the MIS Field to further describe offense)
+70	7099 - CRIMES AGAINST PERSON
+71	7199 - PROPERTY CRIMES
+72	7201 - ANIMAL CRUELTY
+72	7299 - MORALS -DECENCY CRIMES
+73	7399 - PUBLIC ORDER CRIMES
+80	8001 - SUBJECT IS A THREAT TO A U.S. SECRET SERVICE PROTECTEE
+80	8003 - SUBJECT IS A DEPORTED CRIMINAL/AGRRAVATED FELON
+80	8004 - ALIEN UNLAWFULLY PRESENT DUE TO ORDER OF REMOVAL
+80	8005 - SOUGHT FOR VIOLATION OF NATIONAL SECURITY REGISTRATION
+81	8100 - Escape From Custody
+81	8101 - Abscond While On Parole
+81	8102 - Abscond While On Probation

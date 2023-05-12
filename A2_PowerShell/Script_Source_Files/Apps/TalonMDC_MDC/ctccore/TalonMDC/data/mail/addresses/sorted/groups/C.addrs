@@ -1,0 +1,52 @@
+1
+G	]CV	CAROORI	CO Dept ORI
+G	]CX	CAROTAC	CO TAC Config group
+G	]CY	CAROWW	CARO PD WW Users
+G	]FF	CAROMOBILE	CO Mobile
+G	AMH	ClintonTwpDISPORI	Clinton Twp Disp ORI
+G	CMS	ClintonTwpRECORDSORI	Records ORI
+G	CMT	ClintonTwpDBORI	DB ORI
+G	II	CenterLineDISPORI	Centerline Dispatch ORI
+G	KWO	ChelseaPDORI	Dept ORI
+G	KWP	ChelseaEntry	entry config
+G	KWQ	ChelseaTAC	TAC Config group
+G	KWR	ChelseaQuery/CCH	Query/CCH config
+G	MBT	ClintonTwpTAC	TAC Config group
+G	MBU	ClintonTwpQuery/CCHNOMESSAGES	config group
+G	MBV	ClintonTwpQueryOnly	Query Only config
+G	MCO	CenterLineEntry	entry config
+G	MCP	CenterLineTAC	TAC Config group
+G	MTB	Coreaccounts	Core accounts
+G	N_]	CLEMINTELLITECH	Intellitech group
+G	PHI	CLEMISWW	CLEMIS WW Users
+G	PIA	CLEMISMDC	CLEMIS MDC
+G	PIB	CLEMISDesktops	CLEMIS Desktop PCs
+G	PO\	ClintonTwpWW	Clinton Township WW Users
+G	PSS	CenterLineWW	Centerline WW Users
+G	RBN	ChelseaWW	Chelsea WW Users
+G	RV_	ChelseaMobile	Chelsea Mobile ORI
+G	RW@	ClintonTwpMobile	Clinton Twp Mobile ORI
+G	W^[	CapacORI	Capac ORI
+G	W^\	CapacWW	Capac WW Users
+G	W^]	CapacQuery/CCH	Query/CCH config
+G	W^Y	Capacdesktop	Capac Desktop ORI
+G	W^Z	Capacmobile	Capac Mobile ORI
+G	W_E	CapacTAC	TAC Config group
+G	XBU	Court31CCTAC	TAC Config group
+G	XBV	Court31CCStClairCOURTORI	Court ORI 31CC
+G	XBW	Court72DCStClairPROBORI	Probate only ORI
+G	XBX	Court72DCTAC	TAC Config group
+G	XBY	Court72DCStClairCOURTORI	Court Only
+G	XCH	Court72DCStClairQUERY/CCH	Query/CCH config
+G	XJ_	CAMBRIDGETWPDESKTOP	CAMBRIDGE Desktop
+G	XK@	CAMBRIDGETWPMOBILE	CAMBRIDGE TWP Mobile ORI
+G	XKA	CAMBRIDGETWPORI	CAMBRIDGE TWP ORI
+G	XKC	CAMBRIDGETEPTAC	TAC Config group
+G	XMN	CAMBRIDGETWPWW	CAMBRIDGE TWP WW Users
+G	XMS	CAMBRIDGETWPENTRY	CAMBRIDGE TWP ENTRY config
+G	XQO	CLINTONCITYDesktop	CLINTONCITY Desktop
+G	XWK	CLINTONCITYMOBILE	CN Mobile ORI
+G	XWL	CLINTONCITYORI	CLINTON City ORI
+G	XWM	CLINTONCITYTAC	ClintonCityTAC Config group
+G	XWN	CLINTONCITYQUERYCCH	ClintonCITY Query/CCH config
+G	XWO	CLINTONCityWW	ClintonCity WW Users

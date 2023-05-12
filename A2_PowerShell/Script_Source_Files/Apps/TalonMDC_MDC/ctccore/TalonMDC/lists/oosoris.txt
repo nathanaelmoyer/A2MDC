@@ -1,0 +1,51 @@
+AL003065Y - Alabama
+AKAST0102 - Alaska
+AZCCHPX00 - Arizona
+AR060015Y - Arkansas
+CA0349417 - California
+COCBI0000 - Colorado
+CTCSP0000 - Connecticut
+DEDSP00C7 - Delaware
+DCMPD00M7 - District of Columbia
+FL03701F3 - Florida
+GAGBI0091 - Georgia
+HI0020000 - Hawaii
+ID001015Y - Idaho
+IL0849600 - Illinois
+INISP0007 - Indiana
+IADPS0000 - Iowa
+KSKHPQ000 - Kansas
+KYKSP0000 - Kentucky
+LALSP0000 - Louisiana
+MEMSP0000 - Maine
+MDMSP0005 - Maryland
+MAMSP0054 - Massachusetts
+MI3300203 - Michigan
+MNBCA0000 - Minnesota
+MSMHP0000 - Mississippi
+MOMHP0040 - Missouri
+MT025015Y - Montana
+NBNSP0D00 - Nebraska
+NV0139900 - Nevada
+NHNSP0080 - New Hampshire
+NJNSP0000 - New Jersey
+NMNSP0026 - New Mexico
+NY1010000 - New York
+NCDCI0002 - North Carolina
+NDRCD0000 - North Dakota
+OHOHP0098 - Ohio
+OKOLETS00 - Oklahoma
+OR024015Y - Oregon
+PAPSP0007 - Pennsylvania
+RIRSP0006 - Rhode Island
+SCLED0000 - South Carolina
+SDDCI0000 - South Dakota
+TNTBI0000 - Tennessee
+TX0000000 - Texas
+UTBCI0000 - Utah
+VTVSP0000 - Vermont
+VAVSP0000 - Virginia
+WAWSP0000 - Washington
+WVWSP0000 - West Virginia
+WI013015Y - Wisconsin
+WY0110400 - Wyoming

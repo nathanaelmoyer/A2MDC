@@ -1,0 +1,44 @@
+<CADNewIncident ClassName="com.ctccore.talon.cad.EvtNewIncident">
+  <Title>CAD New Incident</Title>  
+  <FormDefinition>
+    <XMLItem Label="Incident Type" Type="Combo" JContFormat="0" Enabled="true" Editable="false" Columns="15">
+      <Values LoadExternally="true" Filename="incidenttypes.xml" />
+	  <Field>IncidentType</Field>
+    </XMLItem>
+    <XMLItem Label=" " Type="Text" JContFormat="0" Enabled="true" Columns="10" MaxLength="6" SCFormat="0x40" >
+      <Field>IncidentType2</Field>
+    </XMLItem>
+    <XMLItem Type="Line" PreceedingNextLinePixels="20" />
+    <XMLItem Label="Address" Type="Text" PreceedingNextLinePixels="20" JContFormat="0" Enabled="true" Columns="20" MaxLength="30" SCFormat="0x40">
+      <Field>Address</Field>
+    </XMLItem>
+    <XMLItem Label="Apt." Type="Text" JContFormat="0" Enabled="true" Columns="5" MaxLength="4" SCFormat="0x40">
+      <Field>Apartment</Field>
+    </XMLItem>
+    <XMLItem Label="Building" Type="Text" JContFormat="0" Enabled="true" Columns="5" MaxLength="4" SCFormat="0x40">
+      <Field>Building</Field>
+    </XMLItem>
+    <XMLItem Label="City" Type="Text" JContFormat="0" Enabled="true" Columns="15" MaxLength="15" SCFormat="0x40">
+      <Field>City</Field>
+    </XMLItem>
+    <XMLItem Type="Line" PreceedingNextLinePixels="20" />
+    <XMLItem Label="Location" Type="Text" PreceedingNextLinePixels="20" JContFormat="0" Enabled="true" Columns="20" MaxLength="30" SCFormat="0x40">
+      <Field>Location</Field>
+    </XMLItem>
+    <XMLItem Type="Line" PreceedingNextLinePixels="20" />
+    <XMLItem Label="Complainant Name" Type="Text" PreceedingNextLinePixels="20" JContFormat="0" Enabled="true" Columns="20" MaxLength="20" SCFormat="0x40">
+      <Field>ComplainantsName</Field>
+    </XMLItem>
+    <XMLItem Label="Phone Number" Type="Text" JContFormat="0" Enabled="true" Columns="10" MaxLength="10" SCFormat="0x40">
+      <Field>ComplainantsPhone</Field>
+    </XMLItem>
+    <XMLItem Type="Line" PreceedingNextLinePixels="20" />
+    <XMLItem Label="Comments" Type="Text" PreceedingNextLinePixels="20" JContFormat="0" Enabled="true" Columns="20" MaxLength="20" SCFormat="0x40">
+      <Field>Comments</Field>
+    </XMLItem>    
+  </FormDefinition>
+  <Button Label="Submit" Action="Submit;Close"/>
+  <Button Label="Clear Form" Action="Clear"/>
+  <Button Label="Cancel" Action="Close"/>
+  <Button Label="Help"/>
+</CADNewIncident>

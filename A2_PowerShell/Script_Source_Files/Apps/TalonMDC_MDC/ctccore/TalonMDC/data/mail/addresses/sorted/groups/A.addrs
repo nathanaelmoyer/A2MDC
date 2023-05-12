@@ -1,0 +1,34 @@
+1
+G	]DN	AKRONORI	AK Dept ORI
+G	]DO	AKRONTAC	AK TAC Config group
+G	]DP	AKRONWW	AKRON PD WW Users
+G	]FC	AKRONMOBILE	AK Mobile
+G	]MO	AlmontTAC	AM TAC Config group
+G	C	Administrators	Talon Administrators
+G	KI[	AnnArborEntry	entry config
+G	KI\	AnnArborQuery/CCH	Query/CCH config
+G	KI]	AnnArborQueryOnly	Query Only config
+G	KI_	AnnArborTAC	TAC Config group
+G	KIW	AnnArborORI	Main ORI - All
+G	LL^	AnnArborcityATTYORI	City Atty only
+G	PCG	AnnArborWW	Ann Arbor WW Users
+G	RHA	AnnArborMobile	Ann Arbor Mobile ORI
+G	SCD	AnnArborDesktop	Ann Arbor Desktop
+G	U_W	AlmontPDORI	Almont PD ORI
+G	U_X	AlmontDesktop	Almont Desktop
+G	U_Y	AlmontWW	LC-Almont WW Users
+G	URV	AdminTest	Talon Administrators
+G	V@N	AlmontMobile	Almont Mobile
+G	XQ\	AdrianTwpWW	AdrianTwp WW Users
+G	XQH	AdrianTWPORI	Adrian Twp ORI
+G	XQI	AdrianTwpMobile	Adrian TWP Mobile ORI
+G	XQJ	AdrIAnTwpDesktop	Adrian TWP Desktop
+G	XQK	AdrianTwpEntry	entry config
+G	XQL	AdrianTwpTAC	TAC Config group
+G	XQM	AdrianTWPQueryonly	Query Only config
+G	XQU	AdrianCITYMobile	Adrian City Mobile ORI
+G	XR^	AdrianCITYDesktop	Adrian City Desktop
+G	XR_	AdrianCITYENTRY	entry config
+G	XS@	AdrianCITYORI	Adrian City ORI
+G	XSA	AdrianCITYTAC	TAC Config group
+G	XSB	AdrianCITYWW	Adrian CITY WW Users

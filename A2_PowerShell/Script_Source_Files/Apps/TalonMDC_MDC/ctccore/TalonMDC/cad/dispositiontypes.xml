@@ -1,0 +1,6 @@
+<Values>
+  <Value Display=" " Value=" " Default="true"/>
+  <Value Display="Cleared By Arrest" Value="CLR"/>
+  <Value Display="No Report" Value="N/R"/>
+  <Value Display="Report Taken" Value="R"/>
+</Values>

@@ -1,0 +1,20 @@
+<Controls>
+	<Separator/>
+    <Button ProgramID="TDEXVIEWER"
+      ValidState="4" 
+      Image="tdex.png" 
+      Label="TDEx Viewer" LabelVAlignment="Bottom" LabelHAlignment="Center" 
+      ToolTip="TDEx Viewer">
+			<Script>
+				MC.Trace( "Talon TDEX Web Viewer button pressed" );
+				var url = MC.GetSys().GetParameter( "TDExWebViewerURL", "http://coretechcorp.com" );
+
+								
+				//MC.Trace( "url:" + url );
+				//Use the following line to use the PC's default browser.
+				BASUTIL.StartFile( url, "", MC );
+				//Use the following line to use the Talon built-in browser.
+				//Helper.StartDlgBrowser( url, false, false, true );
+			</Script>
+    </Button>
+</Controls>

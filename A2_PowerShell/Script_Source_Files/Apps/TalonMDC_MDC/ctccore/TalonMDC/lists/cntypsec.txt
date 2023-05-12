@@ -1,0 +1,11 @@
+~<BLANK>
+BD - Corporate bonds & debentures issued by corporations, including banks, trust companies, charitable/religious groups, credit unions & co-operatives.
+CC - Canadian-issued currency.
+CU - Foreign-issued currency.
+ID - Stolen, lost, or fraudulent identification documents.
+MO - Money orders & traveller's checks.
+PP - Canadian & foreign passports.
+SB - Federal, provincial & municipal bonds & debentures.
+ST - Stocks.
+VD - Vehicle documents.
+OT - All other security documents.

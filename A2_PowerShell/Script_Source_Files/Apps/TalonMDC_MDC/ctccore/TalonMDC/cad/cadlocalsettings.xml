@@ -1,0 +1,9 @@
+<CADLocalSettings>
+	<CustomClass Class="com.ctccore.talon.cad.client.CADLogonMenuItemInserter" KeepAlive="True" WaitForTalonReady="True"/>
+	<INISettings>
+		CADAutoClearStatusSecs=-1
+		CADDisplayDialogWhenStatusChanges=true
+		FKeyPrefix=S
+		MailView_RecipientPanelClass=com.ctccore.talon.cad.client.clemis.ClemisMailRecipientPanelManager
+	</INISettings>
+</CADLocalSettings>

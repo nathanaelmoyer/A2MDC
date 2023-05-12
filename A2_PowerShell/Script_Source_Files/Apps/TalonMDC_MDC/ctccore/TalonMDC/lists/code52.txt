@@ -1,0 +1,22 @@
+|<BLANK>
+;A/    - Administrative File Maintenance (Internal Review of FBI Record) Removed per MSP 11/20/07
+~C/    - Criminal Justice Purpose
+;D/    - Domestic Violence and Stalking  (Civil or Criminal Courts) Removed per MSP 11/20/07 -readded 06/03/2014
+D/    - Domestic Violence and Stalking  (Civil or Criminal Courts)
+E/    - Michigan Conviction-only
+F/    - Firearms and Related Permits (PPO/MHO files)
+H/    - HUD Housing Applicants
+J/    - Criminal Justice Employment
+M/    - Michigan-only Record
+Q/    - Quality Assurance
+I/    - Identification Segment Only
+HYTA  - Holmes Youth Training Act (Suppressed)
+CSA/  - Conviction Set Aside (Suppressed)
+7411  - Controlled Substance (Suppressed)
+ABUSE - Domestic Abuse (Suppressed)
+KID   - Parental Kidnapping (Suppressed)
+;RETRN - Return of Seized Firearms     Removed per MSP 01/20/15
+VET   - Subject Use of Veterans Court Allowance
+DHS/  - Department of Human Services
+DTCT  - Subject Use of Drug Treatment Court Allowance
+MHC   - Convictions deferred or dismissed after the subject is referred to a mental health court

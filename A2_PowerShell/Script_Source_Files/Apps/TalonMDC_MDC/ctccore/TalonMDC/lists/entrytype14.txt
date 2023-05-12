@@ -1,0 +1,12 @@
+~<BLANK>
+1 - Civil Bench FTA/FCJ 
+2 - Misdemeanor
+3 - Felony
+4 - Felony-No Warrant
+5 - Miscellaneous Want
+6 - Criminal Bench    
+7 - Civil
+8 - Material Witness
+10 - Non-Criminal Process        
+11 - Injunctive Order       
+13 - Sex Offender Regist.

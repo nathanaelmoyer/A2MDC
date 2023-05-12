@@ -1,0 +1,43 @@
+<XTTableDef 
+	CheckedColumn="0" 
+	ReverseAddOrder="false" 
+	ShowHorizontalGridLines="true" 
+	IndicateSortOrderInHeader="false" 
+	SortWhenColumnsClicked="true" 
+	RowHeight="24" 
+	SortColumn="4" 
+	SortReversed="false" 
+	ResortWhenNewRowAdded="true">
+  <RowData>
+	<RowTag SubjectName="Name" Type="Attr"/>
+  </RowData>
+  <ColumnTable>
+    <Column PreferredWidth="30" Resizable="true" BooleansAsCheckboxes="true" Editable="true">
+      <Header Title=""/>
+      <Data SubjectName="Selected" Type="Attr" />
+    </Column>
+    <Column PreferredWidth="24" Resizable="true">
+      <Header Title=""/>
+      <Data DataID="IsGroup" Type="External"/>
+      <Renderer Class="com.ctccore.util.swing.JCELLRENDERER"/>
+    </Column>
+    <Column PreferredWidth="24" Resizable="true">
+      <Header Title=""/>
+      <Data DataID="HasImage" Type="External"/>
+      <Renderer Class="com.ctccore.util.swing.JCELLRENDERER"/>
+    </Column> 
+    <Column PreferredWidth="24" Resizable="true">
+      <Header Title=""/>
+      <Data DataID="HasAttachment" Type="External"/>
+      <Renderer Class="com.ctccore.util.swing.JCELLRENDERER"/>
+    </Column> 
+    <Column PreferredWidth="200" Resizable="true">
+      <Header Title="Name"/>
+      <Data SubjectName="Name" Type="Attr"/>
+    </Column>
+    <Column PreferredWidth="400" Resizable="true">
+      <Header Title="Description"/>
+      <Data SubjectName="Description" Type="Property"/>
+    </Column>
+  </ColumnTable>
+</XTTableDef>

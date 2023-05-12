@@ -1,0 +1,9 @@
+Title
+SupplementNumber
+DateWritten
+OfficerID
+Narrative
+;ReviewPreviouslyApproved
+;ReviewedBy
+;ReviewStatus
+AccessAllowed

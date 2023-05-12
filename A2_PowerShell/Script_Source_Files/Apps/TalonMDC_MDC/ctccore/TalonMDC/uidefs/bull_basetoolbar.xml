@@ -1,0 +1,11 @@
+<Controls>
+	<Separator/>
+	<Button ValidState="6" Image="bulletins.png" Label="Bulletins" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="Bulletins" PeerGroup="View Buttons Group" ProgID="${bulletinsViewButton}">
+		<Script>
+			Helper.ActivateView( TViewNames.CABulletins );
+		</Script>
+	</Button>
+		
+</Controls>
+<Events>
+</Events>

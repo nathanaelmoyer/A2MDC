@@ -1,0 +1,22 @@
+***BIOS flash started on 5/5/2023 at 16:26:45***
+Command: D:\A2_PowerShell\Script_Source_Files\BIOS_Update\Latitude_7414_7214_5414_Rugged_1.40.0.exe /s /bls /l="D:\A2_PowerShell\Script_Source_Files\BIOS_Update\Logs\1532620087.txt" 
+
+WSMT Supported: using WMI commands
+1.35.0 INSTALLED (Dell System Latitude 5414)
+- Gigabit Ethernet : X07
+- System BIOS with BIOS Guard : 1.35.0
+- Embedded Controller : A06
+- Intel Management Engine (VPro) Update : 11.8.92.4222
+
+
+1.40.0 UPDATE (Dell System Latitude 5414)
+- System BIOS with BIOS Guard : 1.40.0
+- Embedded Controller : A06
+- Gigabit Ethernet : X07
+- Intel Management Engine (VPro) Update : 11.8.93.4323
+- Rugged2 Board Map : 1.0.1
+- PCR0 XML : 0.0.0.1
+
+Exit Code = 2 (Reboot Required)
+***BIOS flash finished at 5/5/2023 at 16:27:00***
+

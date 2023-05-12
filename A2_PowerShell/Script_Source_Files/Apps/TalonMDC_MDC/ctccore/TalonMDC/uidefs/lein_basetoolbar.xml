@@ -1,0 +1,10 @@
+<Controls>
+	<Separator/>
+	<Button ValidState="6" Image="messagelist.png" Label="LEIN" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="LEIN View" PeerGroup="View Buttons Group" ProgID="${messageListViewButton}">
+		<Script>
+		    Helper.ActivateView( TViewNames.ManagedMessagesView );
+		</Script>
+	</Button>
+</Controls>
+<Events>
+</Events>

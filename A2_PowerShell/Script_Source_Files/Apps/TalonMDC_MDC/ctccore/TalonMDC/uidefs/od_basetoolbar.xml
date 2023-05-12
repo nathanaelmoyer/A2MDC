@@ -1,0 +1,35 @@
+<Controls>
+	<Separator/>
+	<Button ProgID="odButton" InitiallyEnabled="False" ValidState="4" Image="daily.png" Label="Daily" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="Officer Daily"	ExecCode="23355" >
+		<Script>
+			MC.Trace( "Button script: odButton" );
+			var od = ClientController.GetTIMSController();
+			var operator = od.GetOperator();
+			var settings = operator.GetUserSettings();
+			
+			if ( settings.GetParameter("IncludeOfficerDaily", false) )
+			{
+				var odViewButton = ToolBar.GetComponentByProgID("odButton");
+				odViewButton.setEnabled(true);
+			}
+		</Script>
+	</Button>
+</Controls>
+<Events>
+	<Event ID="OfficerDaily Loaded">
+		<Script>
+			MC.Trace( "Event script: OfficerDaily Loaded" );
+			var tims = ClientController.GetTIMSController();
+			var operator = tims.GetOperator();
+			var settings = operator.GetUserSettings();
+			var odAllowed = settings.GetParameter("IncludeOfficerDaily", false);
+			
+			MC.Trace( "odAllowed:" + odAllowed );
+			if ( odAllowed )
+			{
+				var odViewButton = ToolBar.GetComponentByProgID("odButton");
+				odViewButton.setEnabled(true);
+			}
+		</Script>
+	</Event>
+</Events>

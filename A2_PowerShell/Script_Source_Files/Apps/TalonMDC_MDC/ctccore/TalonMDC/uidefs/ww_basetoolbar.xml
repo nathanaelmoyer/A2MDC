@@ -1,0 +1,17 @@
+<Controls>
+	<Separator/>
+	<Button ProgID="WWBtn" ValidState="8" Image="talk.png" Label="WW" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="Who's Where Messaging" ExecCode="23041" InitiallyEnabled="True"/>
+</Controls>
+<Events>
+<!--   Need to set this based on permission too.
+	<Event ID="WW Available">
+		<Script>
+			var wwButton = ToolBar.GetComponentByProgID("WWBtn");
+			if ( wwButton != null )
+			{
+				wwButton.setEnabled(true);
+			}
+			</Script>
+		</Event>
+-->
+</Events>

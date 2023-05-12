@@ -1,0 +1,21 @@
+~<BLANK>
+A    - Armed & Dangerous (Not valid for Warrant)
+F    - Armed & Dangerous - Hold for Latent Fingerprint Exam
+J    - Caution-Child Abduction (EME & EMI only)
+P    - Hold for Latent FinderPrint Exam
+C/00 - Caution, Armed and dangerous
+C/01 - Caution, (Other)
+C/05 - Caution, Violent tendencies
+C/10 - Caution, Martial arts expert
+C/15 - Caution, Explosive expertise
+C/20 - Caution, Known to abuse drugs
+C/25 - Caution, Escape risk
+C/30 - Caution, Sexually violent predator -contact ORI for info.
+C/50 - Caution, Heart condition
+C/55 - Caution, Alcoholic
+C/60 - Caution, Allergies
+C/65 - Caution, Epilepsy
+C/70 - Caution, Suicidal
+C/80 - Caution, Medication required
+C/85 - Caution, Hemophiliac
+C/90 - Caution, Diabetic

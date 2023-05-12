@@ -1,0 +1,17 @@
+<CADNewIncident ClassName="com.ctccore.talon.cad.EvtReportRequest" GlobalFormatTextField="4">
+	<Fields>
+		<ReportType>Query Incident</ReportType>
+	</Fields>
+	<Title>CAD Query Incident</Title>  
+	<FormDefinition>
+		<XMLItem Label="Incident #" Type="Text" JContFormat="0" Columns="15" MaxLength="15" SCFormat="64">
+			<Field>IncidentNumber</Field>
+		</XMLItem>
+		<XMLItem Label="" Type="Line" PreceedingNextLinePixels="20" />
+		<XMLItem Label="Unit Times" Type="CheckBox" PreceedingNextLinePixels="20">
+			<Field>IsUnitTime</Field>
+		</XMLItem>
+	</FormDefinition>
+	  <Button Label="Submit" Action="Submit;Close" Key="VK_ENTER"/>
+	  <Button Label="Cancel" Action="Close" Key="VK_ESCAPE"/>
+</CADNewIncident>

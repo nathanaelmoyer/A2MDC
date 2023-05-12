@@ -1,0 +1,165 @@
+~<BLANK>
+ACEE/FE  - Ace Enterprises, Inc.
+AGCH/FE  - Ag-Chem Equipment Co., Inc.
+AMDI/FE  - Agricultural Machinery Div.
+AIRC/FE  - Aircap Manufacturers, Inc.
+AIRC/FE  - Aircap Manufacturers, Inc.
+ALLI/FE  - Allis-Chalmers Corp.
+AMER/FE  - AMC
+AMER/FE  - American Motors Corp.
+AMF /FE  - AMF Lawn & Garden Div.
+LINM/FE  - Apache
+ARIN/FE  - Ariens Co.
+ARPS/FE  - Arps Div.
+AUPR/FE  - Austin Products, Inc.
+AVCO/FE  - Avco Corp.
+BLIN/FE  - B Line Farm Equipment Co.
+BAMA/FE  - Badger-Northland, Inc.
+AMDI/FE  - Bean sprayer
+BELU/FE  - Belarus Machinery, Inc.
+RCKL/FE  - Big A
+OPED/FE  - Bolens
+BRAF/FE  - Bradford Industries
+BRST/FE  - Briggs & Stratton Corp.
+BUNT/FE  - Bunton Company
+BUSO/FE  - Bushog Div.
+CANC/FE  - Can-Car, Inc.
+MURM/FE  - Carry-All
+CASE/FE  - Case, J. I., Co.
+CAT /FE  - Caterpillar Tractor Co.
+CHIM/FE  - Chipmore Mfg. Co., Inc.
+CLAR/FE  - Clark Equipment Co.
+GRVE/FE  - Clark-Gravely Corp.
+COLM/FE  - Columbia Tractor Mower
+COMT/FE  - Comet Riding Mower
+DAYB/FE  - Commando
+CRFT/FE  - Craftsman
+INTL/FE  - Cub Cadet
+CUBC/FE  - Cub Cadet Corp.
+DATO/FE  - Daton
+DAYB/FE  - Daybrook-Ottawa Div.
+DEER/FE  - Deere, John
+DEUT/FE  - Deutz Tractor
+DILM/FE  - Dille & McGuire Mfg. Co.
+DIXO/FE  - Dixon Industries, Inc.
+DMI /FE  - DMI, Inc.
+DYNM/FE  - Dynamark Tractor Mower
+LANL/FE  - Easy Rider
+ENGI/FE  - Economy
+ARIN/FE  - Emperor
+ENGI/FE  - Engineering Products Co., Inc.
+ERIC/FE  - Erick
+ERIC/FE  - Erickson Corp.
+JACO/FE  - Estate
+EXCI/FE  - Excel Industries, Inc.
+FALL/FE  - Falls
+INTL/FE  - Farmall
+FIRE/FE  - Firestone Tractor
+FMC /FE  - FMC Corp.
+FORD/FE  - Ford
+FURA/FE  - Furatell Industries
+GAFN/FE  - Gafner Machine, Inc.
+GEHL/FE  - GEHL Co.
+GE  /FE  - General Electric
+GILS/FE  - Gilson Brothers Co.
+MORD/FE  - Grasshopper
+GRVE/FE  - Gravely
+HDHM/FE  - H. D. Hudson Manufacturing Co.
+HAHN/FE  - Hahn, Inc.
+HARD/FE  - Hardee Mfg. Co.
+HECD/FE  - Heckendorn Mfg. Co.
+HESC/FE  - Hesston Corp.
+HINE/FE  - Hines Mfg. Co.
+HINT/FE  - Hinomoto Tractor Sales USA, Inc.
+HOML/FE  - Homelite
+HOND/FE  - Honda
+FURA/FE  - Honeybee
+HOWC/FE  - Howard Commercial Turf Equipment Co.
+HUFF/FE  - Huffy
+HUSF/FE  - Husky Farm Equipment Ltd.
+HARR/FE  - Hustler By Harrington Mfg. Co.
+EXCI/FE  - Hustler Riding Mower Mfg. Excel Ind.
+INTL/FE  - International Harvester Co.
+PENN/FE  - J. C. Penney
+CASE/FE  - J. I. Case Co.
+JACO/FE  - Jacobsen Manufacturing Co.
+DEER/FE  - John Deere
+ARPS/FE  - Johnson Workhorse
+KAST/FE  - Kaster Mfg. Co.
+KOEH/FE  - Koehring Co.
+KUBO/FE  - Kubota Tractor Corp.
+KUTK/FE  - Kut-Kwick Corp.
+SIMP/FE  - Landlord
+LANL/FE  - Landoll Corp.
+LARO/FE  - Larson Machine, Inc.
+LBOY/FE  - Lawn Boy
+LACH/FE  - Lawn Chief
+MTD /FE  - Lawn Flite
+LEYL/FE  - Leyland Tractors
+LILL/FE  - Lilliston Corp.
+LINM/FE  - Lindig Mfg. Corp.
+LONG/FE  - Long Mfg. N.C., Inc.
+LONL/FE  - Longlife
+MAL /FE  - Mal Tractor
+MASS/FE  - Massey-Ferguson, Inc.
+MELR/FE  - Melroe Div.
+MERY/FE  - Merry Mfg. Corp.
+MERY/FE  - Merrytiller
+MIMO/FE  - Minneapolis Moline
+MOLY/FE  - Mobility, Inc.
+MTD /FE  - Modern Tool & Die (MTD)
+MODR/FE  - Modern, Inc.
+MONR/FE  - Monroe Tractor
+RIVS/FE  - Montgomery Ward (Riverside)
+MORW/FE  - Morger Welding & Mfg., Inc.
+MORD/FE  - Moridge Mfg., Inc.
+UNIF/FE  - Mountaineer
+MTD /FE  - MTD (Modern Tool & Die)
+MURM/FE  - Murray Mfg. Co.
+MURR/FE  - Murray Ohio Manufacturing Co.
+NAMO/FE  - National Mower Co.
+NEWI/FE  - New Idea Electric Lawn Garden Tractor
+OLIV/FE  - Oliver
+OTAS/FE  - Otasco
+OPED/FE  - Outdoor Power Equipment Div.
+OWAT/FE  - Owatonna Manufacturing Co., Inc.
+PASQ/FE  - Pasqauli, USA
+PENN/FE  - Penney, J. C.
+POLO/FE  - Poloron Products
+ENGI/FE  - Power King
+MTD /FE  - Ranch King
+RCKL/FE  - Rickel Mfg. Corp.
+RIVS/FE  - Riverside
+ROPE/FE  - Roper Outdoor Power Products
+ROYE/FE  - Royer Foundry and Machine Co.
+ROYE/FE  - Royer Shredder
+RUGG/FE  - Rugg Manufacturing Co.
+SATO/FE  - Satoh Japanese Tractor
+SEAR/FE  - Sears, Roebuck & Co.
+GILS/FE  - Senator
+SIMP/FE  - Simplicity Manufacturing Co., Inc.
+SNAP/FE  - Snapper
+SPET/FE  - Speedex Tractor Co.
+NEWH/FE  - Sperry New Holland
+SWIM/FE  - Swisher Mower & Machine Co.
+TYLR/FE  - TCI, Inc.
+AGCH/FE  - Terra-Gator
+TORO/FE  - Toro Co.
+CANC/FE  - Tree Farming Equipment Div.
+TRYC/FE  - Tryco Mfg. Co., Inc.
+DILM/FE  - Turfmaster
+TYLR/FE  - Tyler
+UNIF/FE  - United Farm Tools, Inc.
+FARM/FE  - Unpublished Farm/Garden Equip Mfg.
+VENM/FE  - Ventura Mfg. and Implement Co.
+VERN/FE  - Vermeer Mfg. Co.
+VERS/FE  - Versatile Manufacturing Co.
+WIZA/FE  - Western Auto Supply Co.
+WHEE/FE  - Wheel Horse Products, Inc.
+WHIT/FE  - White Motor Corp.
+WILA/FE  - Willmar Manufacturing
+WIZA/FE  - Wizard
+WOOC/FE  - Wood/Chuck Chipper Corp.
+YANM/FE  - Yanmar Tractor USA, Inc.
+YARD/FE  - Yard-man Co.
+YAZO/FE  - Yazoo Mfg. Co., Inc.

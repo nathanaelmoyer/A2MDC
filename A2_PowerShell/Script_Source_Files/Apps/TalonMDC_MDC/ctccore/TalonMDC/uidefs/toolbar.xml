@@ -1,0 +1,193 @@
+<?ctcDefine Attribute="cadLayer"    			Value="CAD Buttons"?>
+<?ctcDefine Attribute="stateLayer"    			Value="State Buttons"?>
+<?ctcDefine Attribute="stateLayerButton"    	Value="Select State Button Layer"?>
+<?ctcDefine Attribute="cadLayerButton"    		Value="Select CAD Button Layer"?>
+<?ctcDefine Attribute="activityViewButton"  	Value="Activity View"?>
+<?ctcDefine Attribute="messageListViewButton" 	Value="Message List View"?>
+<?ctcDefine Attribute="cadIncidentsButton" 		Value="CAD Incidents"?>
+<?ctcDefine Attribute="cadReportsButton" 	 	Value="CAD Reports"?>
+<?ctcDefine Attribute="cadNavPanel" 		    Value="cadNavePanelID"?>
+<ToolBar Alignment="Horizontal">
+   <!--
+		--MDC ToolBar W/O CAD--
+    
+	Change log
+	==========
+	2/13/06:	Changed the 'Talon Ready' event to 'View Activated' (added 1.21.05) so the buttons
+				are updated when the new view menu items are selected.
+	2/13/06:	Changed image names for State view buttons and added Exit button.
+  -->
+  <Controls>
+<!-- OLD
+    <Button ValidState="7" Image="sy_dn" 	    ToolTip="Day/Night Mode"			ExecCode="23051" />
+    <Button ValidState="6" Image="sy_ww" 	  	ToolTip="Who's Where Messaging" 	ExecCode="23041" />
+    <Button ValidState="4" Image="sy_lasttxt" 	ToolTip="Last Form" 				ExecCode="23036" /> 
+    <Button ValidState="6" Image="sy_actview" 	ToolTip="Activity View" PeerGroup="State Buttons Group" ProgID="${activityViewButton}">
+      <Script>
+        Helper.ActivateView( TViewNames.ActivityView );
+      </Script>
+    </Button>       
+    <Button ValidState="6" Image="sy_msglist" ToolTip="Message List" PeerGroup="State Buttons Group" ProgID="${messageListViewButton}">
+      <Script>
+        Helper.ActivateView( TViewNames.MDC_MessageList );
+      </Script>
+    </Button>
+-->
+
+	<Button ValidState="7" Image="daynight.png" Label="Day/Night" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="Day/Night Mode" ExecCode="23051" />
+	<Button ValidState="6" Image="talk.png" Label="WW" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="Who's Where Messaging" ExecCode="23041" />
+	<Button ValidState="4" Image="lastform.png" Label="Last Form" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="Last Form"	ExecCode="23036" />    
+	<Separator/>
+	<Button ValidState="7" Image="activityview.png" Label="Activity" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="Activity View" PeerGroup="View Buttons Group" ProgID="${activityViewButton}">
+		<Script>
+			Helper.ActivateView( TViewNames.ActivityView );
+		</Script>
+	</Button>
+	<Button ValidState="6" Image="messageview.png" Label="Msg List" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="Message List" PeerGroup="View Buttons Group" ProgID="${messageListViewButton}">
+		<Script>
+		    Helper.ActivateView( TViewNames.MDC_MessageList );
+		</Script>
+	</Button>	
+    <Button ValidState="1" Image="exit.png"  Label="Exit" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="Exit Talon"> 
+      <Script>
+		ClientController.ExitProgram( true, "Exit via ToolBar", false );
+      </Script>
+    </Button>
+    
+    <Container Layered="True">
+      <Container ID="State Buttons">
+        
+        
+      </Container>      
+    </Controls>
+  </Container>
+  <Events>    
+	<Event ID="NightMode">
+      <Script>
+		//Arg: boolean isNightMode
+		
+        //Loop through all buttons and set their image prefix
+        //to either night mode (n) or nothing
+        
+        var prefix = ( "true".equalsIgnoreCase( isNightMode ) ? TalonConstants.File_Prefix_NightModeImage : "" );        
+        var buttons = ToolBar.GetButtons();
+        
+        for( var i=0; i &lt; buttons.length; i++ )
+        {
+          buttons[i].SetImagePrefix(prefix);
+        } 
+      </Script>
+    </Event>    
+    <Event ID="View Activated">
+      <Script>
+        //Arg: String viewName
+               
+        //Select the appropriate view button
+        var viewBtn;       
+        
+        if ( viewName != null )
+        {
+			Helper.SetActiveView( viewName );
+			
+			if ( viewName.equalsIgnoreCase(TViewNames.ActivityView) )
+			{
+			  viewBtn = ToolBar.GetComponentByProgID("${activityViewButton}");
+			}
+			else if ( viewName.equalsIgnoreCase(TViewNames.MDC_MessageList) )        
+			{
+			  viewBtn = ToolBar.GetComponentByProgID("${messageListViewButton}");	      
+			}
+        }
+        
+        
+        //Toggle that button down
+        if ( viewBtn != null )
+        {
+		    viewBtn.SetToggledDown(true);
+		    
+		    //Tell the toolbar to toggle any other 'on' view buttons to 'off'
+		    ToolBar.HandlePeerGroupExclusions(ToolBar.GetDefinitionForItem(viewBtn) );
+		}
+      </Script>
+    </Event>
+  </Events>
+  <!-- 
+  Help:
+  
+  Overview:
+  =========
+  This file defines a toolbar which is currently(02/02/06) used in Talon MDC.
+  It attempts to be more flexible than our standard toolbars by allowing the
+  use of ExecCodes (language strings) but also Javascript.
+  
+  The most basic functionality can be used by simply defining a button and
+  setting its ExecCode attribute.
+  
+  To use scripting, a button may embed a javascript.  Also, the file may
+  contain an 'Events' tag which when used in concert with the program
+  allows the program to callback to the tool bar.  For example, in Talon all
+  standard engine events are fired into the toolbar.  It defines and catches 
+  the 'Talon Ready' event to set buttons to their initial state.  These events
+  are completely program-driven and will very by application.
+  
+  
+  Scripting:
+  ==========
+  Registered Beans:
+	CAD (CADClientHandler)
+	CADConstants (CADConstants)
+	ClientController (TalonClientController)
+	Helper (TalonToolBarHelper) TODO: Create
+	MC (MCLANG)
+	TalonConstants (TalonConstants)
+	ToolBar (TOOLBARSCRIPTMGR)	
+    TViewNames (TViewNames)
+    ViewController (TViewController)
+    
+  
+  Valid States:
+  =============
+	  1 - Startup
+	  2 - Case Closed
+	  4 - Case Open
+	  8 - Manual/Programmer controls
+	  
+	  Combos:
+	  7 - All
+	  6 - After Startup
+	  
+	  
+  XML Elements:
+  =============
+  Button Attributes:
+	
+	ExecCode:
+		The code to fire into the program.  Note that if the ToolTip attribute is
+		not set, this will try to be used as a langauge string to set the ToolTip.
+	Image:
+		Image filename in the image directory to use as the button.
+    PeerGroup:
+		Instructs the manager to treat this button like a radio button with other
+		buttons in 
+	ToolTip:
+		The text to display on a hover-over
+	ValidState: 
+		Bit flags indicating which states the toolbar's buttons should be enabled.
+		
+  Button Properties:
+	Script:
+		Embed a script to execute when pressed.  If both this and ExecCode are
+		present, this takes precedent and the ExecCode is ignored.
+		
+  Container Attributes:
+	ID:
+		Used by scripts to activate a layer.
+	Layered:
+		When set to true, the SetLayered() method is called after this container
+		is added.
+		
+  Script Attributes:
+	(Future)Filename: The file of the javascript to execute.  Note that this will
+	be added the first time we need to write a long script.
+  -->
+</ToolBar>

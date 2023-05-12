@@ -1,0 +1,1263 @@
+~<BLANK>
+AC  /300 - AC 3000 ME
+ACAD/BEA - Acadian Beaumont Series
+ACAD/CAN - Acadian Canso Series
+ACAD/INV - Acadian Invader Series
+ACUR/INT - Acura Integra
+ACUR/LEG - Acura Legend
+ACUR/NSX - Acura NSX
+ACUR/SLX - Acura SLX
+ACUR/VIG - Acura Vigor
+ADLR/--- - Adler (antique vehicles)
+ALFA/164 - Alfa Romeo 164
+ALFA/26S - Alfa Romeo 2600 Spider
+ALFA/26P - Alfa Romeo 2600 Sprint
+ALFA/GT6 - Alfa Romeo Alfa GT6
+ALFA/AGT - Alfa Romeo Alfetta GT
+ALFA/ARN - Alfa Romeo Arna
+ALFA/BER - Alfa Romeo Berlina
+ALFA/DUE - Alfa Romeo Duetto
+ALFA/GIU - Alfa Romeo Giulia
+ALFA/GIS - Alfa Romeo Giulia Spider
+ALFA/GIP - Alfa Romeo Giulia Sprint
+ALFA/GIT - Alfa Romeo Giulietta
+ALFA/GTV - Alfa Romeo GT Veloce
+ALFA/G25 - Alfa Romeo GTV6 2.5
+ALFA/MIL - Alfa Romeo Milano
+ALFA/MON - Alfa Romeo Montreal
+ALFA/SPI - Alfa Romeo Spider Series
+ALFA/ZAG - Alfa Romeo Zagato
+AMER/ALI - American Motors Alliance
+AMER/AMB - American Motors Ambassador
+AMER/ARN - American Motors American
+AMER/AMX - American Motors AMX
+AMER/CON - American Motors Concord
+AMER/EAG - American Motors Eagle
+AMER/ENC - American Motors Encore
+AMER/GRE - American Motors Gremlin
+AMER/HOR - American Motors Hornet
+AMER/JAV - American Motors Javelin
+AMER/MAR - American Motors Marlin
+AMER/MAT - American Motors Matador
+AMER/MED - American Motors Medallion (thru 1987)
+AMER/PAC - American Motors Pacer
+AMER/RA  - American Motors Rambler American
+AMER/RC  - American Motors Rambler Classic
+AMER/RR  - American Motors Rambler Rogue
+AMER/REB - American Motors Rebel
+AMER/SPI - American Motors Spirit
+AMER/SPO - American Motors Sportabout
+ASVE/AV  - Assembled Vehicle
+ASVE/REP - Assembled Vehicle (Homemade or Kit)
+ASTO/DB5 - Aston-Martin DB-5
+ASTO/DB6 - Aston-Martin DB-6
+ASTO/LAG - Aston-Martin Lagonda
+ASTO/VIR - Aston-Martin Saloon (Virage)
+ASTO/VAN - Aston-Martin Vantage
+ASTO/VIR - Aston-Martin Virage (Saloon)
+ASTO/VOL - Aston-Martin Volante
+ASUN/GT  - Asuna GT
+ASUN/SE  - Asuna SE
+ASUN/SUF - Asuna Sunfire
+ASUN/SUR - Asuna Sunrunner
+AUDI/100 - Audi 100
+AUDI/1GL - Audi 100GL
+AUDI/1LS - Audi 100LS
+AUDI/TT  - Audi 2000 TT-Coupe
+AUDI/TT  - Audi 2000 TT-Roadster
+AUDI/200 - Audi 200LS
+AUDI/400 - Audi 4000
+AUDI/500 - Audi 5000
+AUDI/A80 - Audi 80
+AUDI/FOX - Audi 80 LS (Fox)
+AUDI/850 - Audi 850
+AUDI/A90 - Audi 90
+AUDI/A2  - Audi A2
+AUDI/AA4 - Audi A4
+AUDI/AA6 - Audi A6
+AUDI/ALL - Audi Allroad
+AUDI/AVA - Audi Avant
+AUDI/CAB - Audi Cabriolet
+AUDI/QTO - Audi Quattro
+AUDI/AS4 - Audi S4
+AUDI/AS6 - Audi S6
+AUDI/S90 - Audi Super 90
+AUDI/V8  - Audi V-8
+AUST/110 - Austin 1100
+AUST/180 - Austin 1800
+AUST/850 - Austin 850
+AUST/A40 - Austin A40
+AUST/A55 - Austin A55
+AUST/A10 - Austin A99 & 110
+AUST/A60 - Austin Cambridge
+AUST/CPS - Austin Cooper S
+AUST/MAR - Austin Marina
+AUST/MIN - Austin Mini
+AUST/MIC - Austin Mini Cooper
+MG  /4R  - Austin Princess
+AUST/WES - Austin Westminster
+AUHE/100 - Austin-Healy 100 Series
+AUHE/300 - Austin-Healy 3000 Series
+AUHE/SPR - Austin-Healy Spirit
+AVTI/AAV - Avanti Series A
+AVTI/ABV - Avanti Serris B
+AZTC/TL  - Aztec Products Inc.
+BZEL/ELE - B & Z Electric Electra-King
+BMC /PRI - B M C Princess
+BENT/ARN - Bentley Arnage
+BENT/AZU - Bentley Azure
+BENT/BRO - Bentley Brooklands
+BENT/CON - Bentley Continental Convertible
+BENT/COR - Bentley Corniche
+BENT/EGT - Bentley Eight
+BENT/MUL - Bentley Mulsanne
+BENT/TBR - Bentley Turbo R
+BERO/CAB - Bertone Cabrio
+BERO/PAL - Bertone Palinuro
+BERO/X19 - Bertone X19
+BESA/BAC - Besasie Automobile Co., Inc Baci
+BMW /160 - BMW 1600
+BMW /180 - BMW 1800
+BMW /28  - BMW 2.8
+BMW /20  - BMW 200
+BMW /200 - BMW 2000 Series
+BMW /2   - BMW 2002 Series
+BMW /250 - BMW 2500 Series
+BMW /280 - BMW 2800 Series
+BMW /30  - BMW 3.0 Si
+BMW /318 - BMW 318i
+BMW /3TI - BMW 318ti
+BMW /320 - BMW 320i
+BMW/323  - BMW 323i
+BMW /325 - BMW 325
+BMW /32I - BMW 325i
+BMW /28I - BMW 328i
+BMW/330  - BMW 330CI
+BMW/330  - BMW 330I
+BMW /520 - BMW 520
+BMW /524 - BMW 524 Series
+BMW /525 - BMW 525ia
+BMW /528 - BMW 528i
+BMW /530 - BMW 530i
+BMW /533 - BMW 533i
+BMW /535 - BMW 535 Series
+BMW /540 - BMW 540
+BMW /600 - BMW 600
+BMW /630 - BMW 630csi
+BMW /633 - BMW 633csi
+BMW /635 - BMW 635 Series
+BMW /733 - BMW 733 Series
+BMW /735 - BMW 735 Series
+BMW /740 - BMW 740
+BMW /74I - BMW 740i
+BMW /745 - BMW 745i
+BMW /750 - BMW 750
+BMW /75L - BMW 750iL
+BMW /84C - BMW 840Ci
+BMW /85C - BMW 850ci
+BMW /850 - BMW 850i
+BMW /BAV - BMW Bavaria
+BMW /ISE - BMW Isetta
+BMW /L6  - BMW L6
+BMW /L7  - BMW L7
+BMW /M3  - BMW M3
+BMW /M5  - BMW M5
+BMW /M6  - BMW M6
+BMW /TI  - BMW TI
+BMW/X5   - BMW X5
+BMW/Z8   - BMW Z8
+BORG/BEL - Borgward Bel Air
+BORG/BER - Borgward Beretta
+BORG/BIS - Borgward Biscayne
+BORG/HAN - Borgward Hansa
+BORG/ISA - Borgward Isabella
+BREM/CRE - Bremen  Creighton
+BREM/LAU - Bremen  Laufer
+BREM/MAX - Bremen  Maxi-Taxi
+BREM/MIN - Bremen  Mini-Mark
+BREM/SEB - Bremen  Sebring
+BRSH/ROD - Brush (antique vehcles)
+BUGA/E10 - Bugatti EB110
+BUIC/APO - Buick Apollo
+BUIC/CAL - Buick California
+BUIC/CNT - Buick Centurion
+BUIC/CEN - Buick Century
+BUIC/ELE - Buick Electra
+BUIC/EST - Buick Estate Wagon
+BUIC/GS  - Buick Grand Sports (GS)
+BUIC/G35 - Buick GS350
+BUIC/G40 - Buick GS400
+BUIC/G45 - Buick GS455
+BUIC/INV - Buick Invicta
+BUIC/LES - Buick Le Sabre
+BUIC/LIM - Buick Limited
+OPEL/--- - Buick Opel (Imports)
+BUIC/PRK - Buick Park Avenue
+BUIC/ELE - Buick Park Avenue   (See Electra)
+BUIC/REA - Buick Reatta
+BUIC/REG - Buick Regal
+BUIC/RIV - Buick Riviera
+BUIC/ROA - Buick Roadmaster
+BUIC/SKH - Buick Skyhawk
+BUIC/SKY - Buick Skylark
+BUIC/SOM - Buick Somerset
+BUIC/SPE - Buick Special
+BUIC/SPO - Buick Sportswagon
+BUIC/SUP - Buick Super
+BUIC/WIL - Buick Wildcat
+CADI/60  - Cadillac 60 Series
+CADI/61  - Cadillac 61 Series
+CADI/62  - Cadillac 62 Series
+CADI/75  - Cadillac 75 Series
+CADI/ALL - Cadillac Allante
+CADI/BRO - Cadillac Brougham
+CADI/CAL - Cadillac Calais
+CADI/CIM - Cadillac Cimarron
+CADI/DEV - Cadillac DeVille
+CADI/ELD - Cadillac Eldorado
+CADI/ESC - Cadillac Escalade
+CADI/FLE - Cadillac Fleetwood
+CADI/SEV - Cadillac Seville
+CADI/TRS - Cadillac Touring Sedan
+CHEC/AER - Checker Aerobus
+CHEC/CUS - Checker Custom
+CHEC/MTH - Checker Marathon
+CHEC/SRB - Checker Superba
+CHEV/210 - Chevrolet 210 Series
+CHEV/300 - Chevrolet 300 Deluxe
+CHEV/BEL - Chevrolet Bel Air
+CHEV/BER - Chevrolet Beretta
+CHEV/BIS - Chevrolet Biscayne
+CHEV/BRK - Chevrolet Brookwood
+CHEV/CAM - Chevrolet Camaro
+CHEV/CAP - Chevrolet Caprice
+CHEV/CAV - Chevrolet Cavalier
+CHEV/CEL - Chevrolet Celebrity
+CHEV/ELL - Chevrolet Chevelle
+CHEV/EVE - Chevrolet Chevette
+CHEV/CH2 - Chevrolet ChevyII
+CHEV/CIT - Chevrolet Citation
+CHEV/ELL - Chevrolet Concours (Chevelle only)
+CHEV/CVR - Chevrolet Corsa (Corvair)
+CHEV/CRS - Chevrolet Corsica
+CHEV/CVR - Chevrolet Corvair
+CHEV/CVT - Chevrolet Corvette
+CHEV/DEL - Chevrolet Del Ray
+CHEV/ELL - Chevrolet Deluxe (Chevelle)
+CHEV/ELC - Chevrolet El Camino (Prior to 1981)
+CHEV/EST - Chevrolet Estate Wagon
+CHEV/EXP - Chevrolet Express
+CHEV/FLE - Chevrolet Fleetline
+GEO /GOF - Chevrolet Geo Golf
+GEO /PRI - Chevrolet Geo Prizm
+GEO /SPE - Chevrolet Geo Spectrum
+GEO /SPR - Chevrolet Geo Sprint
+GEO /STO - Chevrolet Geo Storm
+CHEV/ELL - Chevrolet Greenbrier (Chevelle)
+CHEV/IMP - Chevrolet Impala
+CHEV/KIN - Chevrolet Kingswood
+CHEV/LUM - Chevrolet Lumina
+CHEV/MAL - Chevrolet Malibu (Includes Chevelles)
+CHEV/SPR - Chevrolet Metro
+CHEV/MET - Chevrolet Metro
+CHEV/MOC - Chevrolet Monte Carlo
+CHEV/MON - Chevrolet Monza
+CHEV/ELL - Chevrolet Nomad (Chevelle)
+CHEV/NOV - Chevrolet Nova (Chevy II & Concours)
+CHEV/PAR - Chevrolet Parkwood
+CHEV/PRI - Chevrolet Prizm
+CHEV/SPE - Chevrolet Spectrum
+CHEV/SPR - Chevrolet Sprint
+CHEV/STY - Chevrolet Style Line
+CHEV/STM - Chevrolet Style Master
+CHEV/TOW - Chevrolet Townsman
+CHEV/VEG - Chevrolet Vega
+CHRY/TC  - Chrysler
+CHRY/300 - Chrysler 300
+CHRY/CIR - Chrysler Cirrus
+CHRY/COM - Chrysler Commander
+CHRY/CNC - Chrysler Concorde
+CHRY/CON - Chrysler Conquest (Model year 1987)
+CHRY/COR - Chrysler Cordoba
+CHRY/ECL - Chrysler E Class
+CHRY/EXE - Chrysler Executive Sedan
+CHRY/FAV - Chrysler Fifth Avenue
+CHRY/IPR - Chrysler Imperial (1990-1994 only)
+CHRY/LAS - Chrysler Laser
+CHRY/LBN - Chrysler LeBaron (year 1978 or later)
+CHRY/LHS - Chrysler LHS
+CHRY/LID - Chrysler Lido
+CHRY/LIM - Chrysler Limosine
+EGIL/MED - Chrysler Medallion
+CHRY/NY  - Chrysler New Yorker
+CHRY/NEW - Chrysler Newport
+EGIL/PRE - Chrysler Premier
+CHRY/CRU - Chrysler PT Cruiser
+CHRY/ROY - Chrysler Royal
+CHRY/SAL - Chrysler Salon
+CHRY/SAR - Chrysler Saratoga
+CHRY/SEB - Chrysler Sebring
+CHRY/TC  - Chrysler TC
+CHRY/TOW - Chrysler Town & Country
+CHRY/WIN - Chrysler Windsor
+CITR/2CV - Citroen 2CV
+CITR/AM6 - Citroen AM16
+CITR/AX  - Citroen AX
+CITR/D19 - Citroen DS-19
+CITR/D21 - Citroen DS-21 & D21
+CITR/ID9 - Citroen ID-19
+CITR/SM  - Citroen SM
+CLEN/ROA - Clenet Roadster
+COMV/COM - Commuter Comuta-Car
+CONU/GLX - Consulier GCP
+CONU/GTP - Consulier GTP
+CRBN/MRL - Corbin Motors (electric vehicles)
+CRBN/SPW - Corbin Motors (electric vehicles)
+DAEW/KOR - Daewoo Korando
+DAEW/LAN - Daewoo Lanos
+DAEW/LEG - Daewoo Leganza
+DAEW/NUB - Daewoo Nubira
+DAIH/CHA - Daihatsu Charade
+DATS/110 - Datsun 110
+DATS/120 - Datsun 1200
+DATS/2SX - Datsun 200SX
+DATS/210 - Datsun 210 (or B-210)
+DATS/24Z - Datsun 240Z
+DATS/260 - Datsun 260Z
+DATS/280 - Datsun 280Z
+DATS/2ZX - Datsun 280ZX
+DATS/310 - Datsun 310
+DATS/311 - Datsun 311
+DATS/510 - Datsun 510
+DATS/610 - Datsun 610
+DATS/710 - Datsun 710
+DATS/810 - Datsun 810
+DATS/210 - Datsun B-210 (or 210)
+DATS/F10 - Datsun F-10
+DATS/HON - Datsun Honey Bee
+DATS/MAX - Datsun Maxima
+NISS/SEN - Datsun Sentra (see Nissan)
+DAYO/MIG - Daytona Migi
+DAYO/MOY - Daytona Moya
+DECO/ROA - DeCourville Roadster
+DLHY/ROD - Delahaye Roadster
+DESO/ADV - DeSoto Adventurer
+DESO/CUS - DeSoto Custom
+DESO/DEL - DeSoto Deluxe
+DESO/FRD - DeSoto Firedom
+DESO/FRF - DeSoto Firelite
+DESO/FRS - DeSoto Firesweep
+DESO/POW - DeSoto Powermaster
+DETO/DEA - DeTomaso Deauville
+DETO/LON - DeTomaso Longchamp
+DETO/MNA - DeTomaso Mangusta
+DETO/PTA - DeTomaso Pantera
+DKW /AUD - DKW Audi
+DKW /102 - DKW F102
+DKW /VEM - DKW Vemag
+DODG/330 - Dodge 330 Series
+DODG/400 - Dodge 400 Series
+DODG/440 - Dodge 440 Series
+DODG/600 - Dodge 600
+DODG/880 - Dodge 880 Series
+DODG/100 - Dodge A 100 Compact
+DODG/ARI - Dodge Aries
+DODG/ASP - Dodge Aspen
+DODG/AVN - Dodge Avenger
+DODG/CHL - Dodge Challenger
+DODG/CHA - Dodge Charger(and Shelby Challenger)
+DODG/CLT - Dodge Colt (imported)
+DODG/COM - Dodge Compact Sportsman
+DODG/CON - Dodge Conquest (Model year 1986 only)
+DODG/COR - Dodge Coronet
+DODG/DAR - Dodge Dart
+DODG/DAY - Dodge Daytona
+DODG/DEL - Dodge Deluxe
+DODG/DEM - Dodge Demon (Dart)
+DODG/DIP - Dodge Diplomat
+DODG/DYN - Dodge Dynasty
+DODG/FLS - Dodge Fleet Special
+DODG/INT - Dodge Intrepid
+DODG/LAN - Dodge Lancer
+DODG/MAG - Dodge Magnum
+DODG/MEA - Dodge Meadowbrook
+DODG/MIR - Dodge Mirada
+DODG/MON - Dodge Monaco
+DODG/NEO - Dodge Neon
+DODG/OMI - Dodge Omni (also 024)
+DODG/PHO - Dodge Phoenix
+DODG/PIO - Dodge Pioneer
+DODG/POL - Dodge Polara
+DODG/ROY - Dodge Royal
+DODG/SEN - Dodge Seneca
+DODG/SHA - Dodge Shadow
+DODG/SPI - Dodge Spirit
+DODG/STR - Dodge St. Regis
+DODG/STE - Dodge Stealth
+DODG/STA - Dodge Stratus
+DODG/SWI - Dodge Swinger (Dart)
+DODG/VIP - Dodge Viper
+DODG/WAY - Dodge Wayfarer
+DORT/--- - Dort (antique vehicles)
+EGIL/MED - Eagle Medallion (model year 1988)
+EGIL/PRE - Eagle Premier
+EGIL/SUM - Eagle Summit
+EGIL/TAL - Eagle Talon
+EGIL/VIS - Eagle Vision
+EDSE/CIT - Edsel Citation
+EDSE/COR - Edsel Corsair
+EDSE/PAC - Edsel Pacer
+EDSE/RAN - Edsel Ranger
+EDSE/VIL - Edsel Villager
+ENCR/151 - Encore M 151
+ENCR/SPT - Encore Sport
+ENGF/100 - English Ford 100 E Series
+ENGF/105 - English Ford 105 E Series
+ENGF/ANG - English Ford Anglia
+ENGF/CAP - English Ford Capri
+ENGF/CON - English Ford Consul
+ENGF/COR - English Ford Corsair
+ENGF/CTA - English Ford Cortina
+ENGF/ESC - English Ford Escort
+ENGF/GT  - English Ford GT
+ENGF/LOT - English Ford Lotus
+ENGF/MK2 - English Ford Mark II
+ENGF/PER - English Ford Perfect
+ENGF/SQU - English Ford Squire
+ENGF/THA - English Ford Thames
+ENGF/ZEP - English Ford Zephyr
+ENGF/ZOD - English Ford Zodiac
+ENVY/EPI - Envoy Epic
+EXCL/JAC - Excalibur JAC 427 Cobra
+EXCL/SSP - Excalibur SS Phaeton
+EXCL/SSR - Excalibur SS Roadster
+EXCL/SSK - Excalibur SSK
+FERR/206 - Ferrari 206
+FERR/208 - Ferrari 208
+FERR/308 - Ferrari 308
+FERR/328 - Ferrari 328
+FERR/348 - Ferrari 348
+FERR/360 - Ferrari 360 Modena
+FERR/360 - Ferrari 360 Spider
+FERR/456 - Ferrari 456GT
+FERR/512 - Ferrari 512
+FERR/BAR - Ferrari Barchetta (or F130)
+FERR/DAY - Ferrari Daytona
+FERR/BAR - Ferrari F130 (or Barchetta)
+FERR/F35 - Ferrari F355
+FERR/F40 - Ferrari F40
+FERR/MON - Ferrari Mondial
+FERR/QUA - Ferrari Quattrovalvolve
+FERR/TES - Ferrari Testarossa
+FERR/TIP - Ferrari Tipo
+FIAT/110 - Fiat 1100 - D or R
+FIAT/120 - Fiat 1200
+FIAT/124 - Fiat 124 Series
+FIAT/128 - Fiat 128 Series
+FIAT/131 - Fiat 131 Series
+FIAT/150 - Fiat 1500
+FIAT/600 - Fiat 600D
+FIAT/750 - Fiat 750
+FIAT/85F - Fiat 850 Fastback
+FIAT/BRA - Fiat Brava
+FIAT/PUN - Fiat Punto
+FIAT/RIM - Fiat Rimto
+FIAT/SPI - Fiat Spider Series
+FIAT/STR - Fiat Strada
+FIAT/UNO - Fiat Uno
+FIAT/X19 - Fiat X19
+FORD/300 - Ford 300 Series
+FORD/7LR - Ford 7 Litre
+FORD/ASP - Ford Aspire
+FORD/BRW - Ford Brewster (antique vehicle)
+FORD/COB - Ford Cobra (also see Shelby American)
+FORD/CNT - Ford Contour
+FORD/COY - Ford Country Sedan
+FORD/COQ - Ford Country Squire
+FORD/CRE - Ford Crestline
+FORD/CVC - Ford Crown Victoria
+FORD/CUS - Ford Custom
+FORD/CST - Ford Customline
+FORD/DEL - Ford Deluxe
+FORD/ELI - Ford Elite
+FORD/ESC - Ford Escort
+FORD/EXP - Ford EXP
+FORD/FAI - Ford Fairlane
+FORD/FAR - Ford Fairmont
+FORD/FAL - Ford Falcon
+FORD/FES - Ford Festiva
+FORD/FOC - Ford Focus
+FORD/FRO - Ford Frontenac
+FORD/FUT - Ford Futura
+FORD/GAL - Ford Galaxie
+FORD/GRA - Ford Granada
+FORD/LAS - Ford Laser (foreign/ Puerto Rican)
+FORD/LTD - Ford LTD
+FORD/LT2 - Ford LTD II
+FORD/MAI - Ford Mainline
+FORD/MAV - Ford Maverick
+FORD/MOA - Ford Model A
+FORD/MOT - Ford Model T
+FORD/MUS - Ford Mustang
+FORD/NEV - Ford Nevada
+DETO/PTA - Ford Pantera (See VMA DETO)
+FORD/PIN - Ford Pinto
+FORD/PRO - Ford Probe
+FORD/RAH - Ford Ranch
+FORD/RAW - Ford Ranch Wagon
+FORD/RAN - Ford Ranchero
+FORD/SPE - Ford Special
+FORD/SQU - Ford Squire (Falcon or Fairlane)
+FORD/STA - Ford Starliner
+FORD/SUN - Ford Sunliner
+FORD/SUP - Ford Super
+FORD/TAU - Ford Taurus
+FORD/TEM - Ford Tempo
+FORD/THU - Ford Thunderbird
+FORD/TOR - Ford Torino (Fairlane)
+FORD/VIC - Ford Victoria
+FORD/XL  - Ford XL
+FREF/COM - French Ford Comete
+FREF/VED - French Ford Vedette
+FREF/VEN - French Ford Vendome
+GAZ /CHA - GAZ Chaika
+GAZ /VOL - GAZ Volga
+GMC /CAB - General Motors Cabellero (Prior 1981)
+GM/EV1   - General Motors EV1
+GMC /SPN - General Motors Sprint
+GEO /MET - Geo Metro
+GEO /PRI - Geo Prizm
+GEO /STO - Geo Storm
+GEO /TK  - Geo Tracker (use truck code)
+GLAS/GOG - Glas Goggomobile
+HILL/160 - Hillman 1600 Series
+HILL/DEL - Hillman Deluxe
+HILL/HUS - Hillman Husky
+HILL/IMP - Hillman IMP
+HILL/MIN - Hillman Minx
+HILL/SCP - Hillman Sceptre
+HILL/SNI - Hillman Snipe
+HILL/SUP - Hillman Super Minx
+HOND/ACC - Honda Accord
+HOND/CIV - Honda Civic (and CRX)
+HOND/CIV - Honda Del Sol
+HOND/EVP - Honda EVPLUS
+HOND/INS - Honda Insight
+HOND/PRE - Honda Prelude
+HOND/S20 - Honda S2000
+HUDS/COM - Hudson Commodore
+HUDS/DEL - Hudson Deluxe
+HUDS/HOR - Hudson Hornet
+HUDS/ITA - Hudson Italia
+HUDS/JET - Hudson Jet
+HUDS/PAC - Hudson Pacemaker
+HUDS/RAM - Hudson Rambler
+HUDS/SUP - Hudson Super
+HUDS/WAS - Hudson Wasp
+HUMB/HAW - Humber Hawk
+HUMB/SNI - Humber Snipe
+HYUN/ACC - Hyundai Accent
+HYUN/AVA - Hyundai Avatar
+HYUN/ELN - Hyundai Elantra
+HYUN/EXC - Hyundai Excel
+HYUN/MAR - Hyundai Marcia
+HYUN/PON - Hyundai Pony
+HYUN/SFE - Hyundai Santa Fe
+HYUN/SCP - Hyundai Scoupe
+HYUN/STE - Hyundai Stellar
+HYUN/XG  - Hyundai XG
+IMPE/CRO - Imperial Crown
+IMPE/CUS - Imperial Custom
+IMPE/LEB - Imperial Le Baron (year thru 1975)
+INFI/G20 - Infiniti G20
+INFI/J30 - Infiniti J30
+INFI/M30 - Infiniti M30
+INFI/Q45 - Infiniti Q45
+ISU /IMA - Isuzu I-Mark
+ISU /IMP - Isuzu Impulse
+ISU /STY - Isuzu Stylus
+ISU/VCS  - Isuzu VehiCross
+ITAF/ANG - Italian Ford Anglia
+JAGU/24L - Jaguar 2.4 Litre
+JAGU/34L - Jaguar 3.4 Litre
+JAGU/38L - Jaguar 3.8 Litre
+JAGU/340 - Jaguar 340
+JAGU/42L - Jaguar 4.2 Litre
+JAGU/420 - Jaguar 420
+JAGU/ETY - Jaguar E Type
+JAGU/MTS - Jaguar Mark Ten Salon
+JAGU/MAR - Jaguar Mark V Series
+JAGU/SOV - Jaguar Sovereign
+JAG/STY  - Jaguar S-Type
+JAGU/V12 - Jaguar V12
+JAGU/VAN - Jaguar Vanden Plas
+JAGU/XJ  - Jaguar XJ
+JAGU/J12 - Jaguar XJ12
+JAGU/XJ4 - Jaguar XJ40
+JAGU/XJ6 - Jaguar XJ6
+JAGU/XJ8 - Jaguar XJ8
+JAGU/XJC - Jaguar XJC
+JAGU/XJR - Jaguar XJR
+JAGU/XJS - Jaguar XJS
+JAGU/XK  - Jaguar XK Series
+JAGU/XKE - Jaguar XK-E Series
+JAG/XKR  - Jaguar XKR
+JEEP/TK  - Jeep (Truck, after 1989)
+AMER/TK  - Jeep (Truck, from 1970 - 1988)
+JEP /TK  - Jeep (Truck, prior to 1970)
+JENS/HEA - Jensen Healy
+JENS/INT - Jensen Interceptor
+KAIS/CAR - Kaiser Carolina
+KAIS/DAR - Kaiser Darrin
+KAIS/DEL - Kaiser Deluxe
+KAIS/DRA - Kaiser Dragon
+KAIS/MAN - Kaiser Manhattan
+KIA/CLR  - Kia Clarus
+KIA /SEP - Kia Motors Corp. Sephia
+KIA/RIO  - Kia Rio
+KIA/SPC  - Kia Spectro
+LADA/NIV - Lada Niva
+LAMO/COU - Lamborghini Countach
+LAMO/DIA - Lamborghini Diablo
+LAMO/ESP - Lamborghini Espada
+LAMO/JAL - Lamborghini Jalpa
+LAMO/JAR - Lamborghini Jarma
+LAMO/129 - Lamborghini LM129
+LAMO/MIU - Lamborghini Miura SV
+LAMO/ROD - Lamborghini Roadster
+LNCI/BER - Lancia Berlina
+LNCI/BET - Lancia Beta Series
+LNCI/DED - Lancia Dedra
+LNCI/FLM - Lancia Flaminia
+LNCI/FLA - Lancia Flavia
+LNCI/FUL - Lancia Fulvia
+LNCI/ZAG - Lancia Zagato
+LEXS/250 - Lexus ES250
+LEXS/300 - Lexus ES300
+LEXS/350 - Lexus ES350
+LEXS/GS3 - Lexus GS300
+LEXS/GS4 - Lexus GS400
+LEXS/G43 - Lexus GS430
+LEXS/IS3 - Lexus IS300
+LEXS/400 - Lexus LS400
+LEXS/L43 - Lexus LS430
+LEXS/L45 - Lexus LX450
+LEXS/L47 - Lexus LX470
+LEXS/RX3 - Lexus RX300
+LEXS/S30 - Lexus SC300
+LEXS/S40 - Lexus SC400
+LEXS/S43 - Lexus SC430
+LIN/LS   - Lincoln LS
+LINC/NAV - Lincoln Navigator
+LINC/CON - Lincoln-Continental Continental
+LINC/CUS - Lincoln-Continental Custom
+LINC/LS6 - Lincoln-Continental LS6
+LINC/LS8 - Lincoln-Continental LS8
+LINC/MK2 - Lincoln-Continental Mark II
+LINC/MK3 - Lincoln-Continental Mark III
+LINC/MK4 - Lincoln-Continental Mark IV
+LINC/MK5 - Lincoln-Continental Mark V
+LINC/MK6 - Lincoln-Continental Mark VI
+LINC/MK7 - Lincoln-Continental Mark VII
+LINC/MK8 - Lincoln-Continental Mark VIII
+LINC/PRE - Lincoln-Continental Premiere
+LINC/STA - Lincoln-Continental Standard
+LINC/TOW - Lincoln-Continental Towncar
+LINC/VER - Lincoln-Continental Versailles
+LINC/ZEP - Lincoln-Continental Zephyr
+LOTU/ECL - Lotus Eclat
+LOTU/ELA - Lotus Elan
+LOTU/ELI - Lotus Elite
+LOTU/ESP - Lotus Esprit
+LOTU/EUR - Lotus Europa
+LOTU/PLU - Lotus Plus Two
+LOTU/SUP - Lotus Super 7
+AMER/MAR - Marlin (A.M.C.)
+MASE/200 - Maserati 2000 (series)
+MASE/228 - Maserati 228
+MASE/350 - Maserati 3500 (series)
+MASE/400 - Maserati 4000 (series)
+MASE/420 - Maserati 4200 GT
+MASE/425 - Maserati 425
+MASE/430 - Maserati 430
+MASE/500 - Maserati 5000 (series)
+MASE/BIT - Maserati Biturbo
+MASE/BOR - Maserati Bora
+MASE/GHI - Maserati Ghibli
+MASE/GTI - Maserati GTI Series
+MASE/IND - Maserati Indy
+MASE/KHA - Maserati Khamsin
+MASE/MER - Maserati Merak
+MASE/MEX - Maserati Mexico
+MASE/MIS - Maserati Mistrell
+MASE/QUA - Maserati Quattroporte
+MASE/SEB - Maserati Sebring
+MASE/SHM - Maserati Shamal
+MASE/SPY - Maserati Spyder
+MAZD/323 - Mazda 323
+MAZD/616 - Mazda 616
+MAZD/618 - Mazda 618
+MAZD/626 - Mazda 626
+MAZD/808 - Mazda 808 Series (Piston Engine)
+MAZD/929 - Mazda 929
+MAZD/B20 - Mazda B-2000
+MAZD/CSM - Mazda Cosmo
+MAZD/PRO - Mazda Familia
+MAZD/GLC - Mazda GLC (Great Little Car)
+MAZD/MIA - Mazda Merlot Mica (Miata)
+MAZD/MIA - Mazda Miata
+MAZD/MIL - Mazda Millenia
+MAZD/MIS - Mazda Miser (Piston Engine)
+MAZD/MX3 - Mazda MX-3
+MAZD/MX6 - Mazda MX-6
+MAZD/NAV - Mazda Navajo
+MAZD/PRO - Mazda Protege
+MAZD/RX2 - Mazda RX2 (Rotary Engine)
+MAZD/RX3 - Mazda RX3 (Rotary Engine)
+MAZD/RX4 - Mazda RX4 (Rotary Engine)
+MAZD/RX7 - Mazda RX7
+MERZ/180 - Mercedes-Benz 180 Series
+MERZ/190 - Mercedes-Benz 190 Series
+MERZ/200 - Mercedes-Benz 200 Series
+MERZ/219 - Mercedes-Benz 219 Series
+MERZ/220 - Mercedes-Benz 220 Series
+MERZ/230 - Mercedes-Benz 230 Series
+MERZ/240 - Mercedes-Benz 240 Series
+MERZ/250 - Mercedes-Benz 250 Series
+MERZ/260 - Mercedes-Benz 260 Series
+MERZ/280 - Mercedes-Benz 280 Series
+MERZ/300 - Mercedes-Benz 300 Series
+MERZ/320 - Mercedes-Benz 320 Series
+MERZ/350 - Mercedes-Benz 350 Series
+MERZ/380 - Mercedes-Benz 380 Series
+MERZ/400 - Mercedes-Benz 400 Series
+MERZ/420 - Mercedes-Benz 420 Series
+MERZ/450 - Mercedes-Benz 450 Series
+MERZ/500 - Mercedes-Benz 500 Series
+MERZ/560 - Mercedes-Benz 560 Series
+MERZ/600 - Mercedes-Benz 600 Series
+MERZ/C22 - Mercedes-Benz C220
+MERZ/C24 - Mercedes-Benz C240
+MERZ/C28 - Mercedes-Benz C280
+MERZ/C32 - Mercedes-Benz C320
+MERZ/C36 - Mercedes-Benz C36
+MERZ/C43 - Mercedes-Benz C43
+MERZ/CL5 - Mercedes-Benz CL500
+MERZ/LK3 - Mercedes-Benz CLK320
+MERZ/CL4 - Mercedes-Benz CLK430
+MERZ/LK5 - Mercedes-Benz CLK55
+MERZ/E43 - Mercedes-Benz E430
+MERZ/E55 - Mercedes-Benz E55
+MERZ/ML4 - Mercedes-Benz ML430
+MERZ/S43 - Mercedes-Benz S430V
+MERZ/600 - Mercedes-Benz S600
+MERZ/SL2 - Mercedes-Benz SLK230
+MERZ/SL3 - Mercedes-Benz SLK320 Coupe/Roadster
+MERZ/SMT - Mercedes-Benz Smart City Vehicle
+MERC/BOB - Mercury Bobcat
+MERC/BRE - Mercury Breezeway
+MERC/BRO - Mercury Brougham
+MERC/CLI - Mercury Caliente
+MERC/CAP - Mercury Capri (1979 and later)
+MERC/COL - Mercury Colony Park
+MERC/COM - Mercury Comet
+MERC/CMM - Mercury Commuter
+MERC/COU - Mercury Cougar
+MERC/CCR - Mercury Country Cruiser
+MERC/CUS - Mercury Custom
+MERC/CYC - Mercury Cyclone
+MERC/LN7 - Mercury LN7
+MERC/LYN - Mercury Lynx
+MERC/MAU - Mercury Marauder
+MERC/MAR - Mercury Marquis
+MERC/MED - Mercury Medalist
+MERC/MNH - Mercury Monarch
+MERC/MOT - Mercury Montclair
+MERC/MGO - Mercury Montego
+MERC/MON - Mercury Monterey
+MERC/MYS - Mercury Mystique
+MERC/PAR - Mercury Parklane
+MERC/S22 - Mercury S-22
+MERC/S33 - Mercury S-33
+MERC/S55 - Mercury S-55
+MERC/SAB - Mercury Sable
+MERC/TOP - Mercury Topaz
+MERC/TRA - Mercury Tracer
+MERC/TUR - Mercury Turnpike Cruiser
+MERC/VIL - Mercury Villager
+MERC/VOY - Mercury Voyager
+MERC/ZEP - Mercury Zephyr
+MERK/SCO - Merkur Scorpio
+MERK/XR4 - Merkur XR4Ti
+MESS/KR  - Messerschmitt KR200
+MESS/KR1 - Messerschmitt KR201
+MESS/TIG - Messerschmitt Tiger
+METE/COY - Meteor Country Sedan
+METE/LEM - Meteor Lemoyne
+METE/MON - Meteor Montcalm
+METE/MGO - Meteor Montego
+METE/NIA - Meteor Niagara
+METE/RAW - Meteor Ranch Wagon
+METE/RID - Meteor Rideau
+METE/S33 - Meteor S-33
+MG  /MG1 - MG 1100
+MG  /160 - MG 1600
+MG  /MAG - MG Magnette
+MG  /MAR - MG Marina
+MG  /MKT - MG Mark II
+MG  /MGA - MG MGA
+MG  /MGB - MG MGB
+MG  /MGG - MG MGB/GT
+MG  /MGC - MG MGC
+MG  /MGT - MG MGC/GT
+MG  /MID - MG Midget
+MG  /4R  - MG Princess 4-R
+MG  /SPS - MG Sports Sedan
+MG  /SPR - MG Sprite
+MG  /TF  - MG TF Series
+MICC/MC1 - Micro Concept Cars
+MITS/30G - Mitsubishi 300 GT
+MITS/3GT - Mitsubishi 3000 GT
+MITS/CHA - Mitsubishi Chariot
+MITS/COR - Mitsubishi Cordia
+MITS/DIA - Mitsubishi Diamante
+MITS/ECL - Mitsubishi Eclipse
+MITS/EXP - Mitsubishi Expo
+MITS/GAL - Mitsubishi Galant
+MITS/LAN - Mitsubishi Lancer
+MITS/MIN - Mitsubishi Minica
+MITS/MIR - Mitsubishi Mirage
+MITS/PRE - Mitsubishi Precis
+MITS/SIG - Mitsubishi Sigma
+MITS/STA - Mitsubishi Starion
+MITS/TRE - Mitsubishi Tredia
+MODE/THU - Model A/T Repro Corp 1955 T-bird
+MODE/MOD - Model A/T Repro Corp Model A & T
+MDNA/250 - Modena GT250
+MONA/LUC - Monarch Lucerne
+MONA/RIC - Monarch Richelieu
+MONA/SCP - Monarch Sceptre
+MORG/MK5 - Morgan 4/4 Mark 5
+MORG/PL4 - Morgan Plus 4 Series
+MORR/110 - Morris 1100
+MORR/850 - Morris 850 Series
+MORR/DEL - Morris Deluxe
+MORR/MII - Morris Mini Series
+MORR/MIN - Morris Minor
+MORR/OXF - Morris Oxford
+MORR/TRV - Morris Traveller
+MUNT/JET - Muntz Jet
+NASH/AMB - Nash Ambassador
+NASH/LAF - Nash Lafayette
+NASH/MET - Nash Metropolitan
+NASH/RAM - Nash Rambler
+NASH/STA - Nash Statesman
+NISS/200 - Nissan 200SX
+NISS/240 - Nissan 240SX
+NISS/300 - Nissan 300ZX
+NISS/ALT - Nissan Altima
+NISS/ATR - Nissan ALTRA-EV
+NISS/AXX - Nissan Axxess
+NISS/MAX - Nissan Maxima
+NISS/NX  - Nissan NX
+NISS/PUL - Nissan Pulsar
+NISS/SEN - Nissan Sentra
+NISS/STA - Nissan Stanza
+NSU /100 - Nsu Prinz 1000
+NSU /110 - Nsu Prinz 110 Type
+NSU /AVA - Nsu Prinz Auto Nova
+NSU /PRI - Nsu Prinz Prinz
+NSU /SPI - Nsu Prinz Spider (Warkel)
+OLDS/442 - Oldsmobile 4-4-2
+OLDS/88  - Oldsmobile 88
+OLDS/98  - Oldsmobile 98
+OLDS/ACV - Oldsmobile Achiever
+OLDS/ALO - Oldsmobile Alero
+OLDS/AUR - Oldsmobile Aurora
+OLDS/CAL - Oldsmobile Calais
+OLDS/CRV - Oldsmobile Caravan
+OLDS/CUS - Oldsmobile Custom
+OLDS/CCR - Oldsmobile Custom Cruiser
+OLDS/CUT - Oldsmobile Cutlass/Ciera
+OLDS/DLM - Oldsmobile Delmont 88
+OLDS/DLT - Oldsmobile Delta 88
+OLDS/DEL - Oldsmobile Deluxe
+OLDS/DYN - Oldsmobile Dynamic 88
+OLDS/F85 - Oldsmobile F-85
+OLDS/FZA - Oldsmobile Firenza
+OLDS/HOL - Oldsmobile Holiday
+OLDS/JTF - Oldsmobile Jetfire
+OLDS/JTS - Oldsmobile Jetstar
+OLDS/OME - Oldsmobile Omega
+OLDS/REG - Oldsmobile Regency (98 series)
+OLDS/DLT - Oldsmobile Royale
+OLDS/STD - Oldsmobile Standard
+OLDS/STA - Oldsmobile Starfire
+OLDS/SUP - Oldsmobile Super 88
+OLDS/CUT - Oldsmobile Supreme
+OLDS/TOR - Oldsmobile Toronado
+OLDS/TRO - Oldsmobile Trofeo
+OLDS/VIS - Oldsmobile Vista Cruiser
+OPEL/190 - Opel 1900
+OPEL/AST - Opel Astra
+OPEL/CAR - Opel Caravan
+OPEL/DP  - Opel Diplomat
+OPEL/GT  - Opel GT
+OPEL/KAD - Opel Kadette
+OPEL/KAP - Opel Kapitan
+OPEL/LUX - Opel Luxus
+OPEL/MAN - Opel Manta
+OPEL/OLY - Opel Olympia
+OPEL/RAL - Opel Rallye
+OPEL/REK - Opel Rekord
+PACK/BAL - Packard Balboa
+PACK/CAR - Packard Caribbean
+PACK/CAV - Packard Cavalier
+PACK/CLI - Packard Clipper
+PACK/PAT - Packard Patrician
+PACK/PRD - Packard Predictor
+PACK/REQ - Packard Request
+PANZ/ROD - Panoz Auto Dev. Roadster
+PANE/DEV - Panther Westwinds DeVille
+PANE/J72 - Panther Westwinds J72
+PANE/KAL - Panther Westwinds Killesta
+PANE/LIM - Panther Westwinds Lima
+PASS/OPT - Passport Optima
+PEUG/203 - Peugeot 203
+PEUG/304 - Peugeot 304
+PEUG/403 - Peugeot 403
+PEUG/404 - Peugeot 404
+PEUG/405 - Peugeot 405
+PEUG/504 - Peugeot 504 Series
+PEUG/505 - Peugeot 505 Series
+PEUG/604 - Peugeot 604
+PINI/SPI - Pinifarina Spidereuropa
+PLYM/ACC - Plymouth Acclaim
+PLYM/AOW - Plymouth Arrow (imported)
+PLYM/BAR - Plymouth Barracuda
+PLYM/BEL - Plymouth Belvedere
+PLYM/BRZ - Plymouth Breeze
+PLYM/CAM - Plymouth Cambridge
+PLYM/CRL - Plymouth Caravelle
+PLYM/CHA - Plymouth Champ (imported)
+PLYM/CLT - Plymouth Colt (Canadian)
+PLYM/COQ - Plymouth Conquest (years 1984-1986)
+PLYM/CRA - Plymouth Cranbrook
+PLYM/CRK - Plymouth Cricket (imported)
+PLYM/DUS - Plymouth Duster
+PLYM/FUR - Plymouth Fury (also Gran Fury)
+PLYM/GTX - Plymouth GTX
+PLYM/HOR - Plymouth Horizon (also TC3)
+PLYM/LAS - Plymouth Laser
+PLYM/NEO - Plymouth Neon
+PLYM/PLA - Plymouth Plaza
+PLYM/PRW - Plymouth Prowler
+PLYM/REL - Plymouth Reliant
+PLYM/RRU - Plymouth Road Runner
+PLYM/SAP - Plymouth Sapporo (imported)
+PLYM/SAT - Plymouth Satellite
+PLYM/SAV - Plymouth Savoy
+PLYM/SCA - Plymouth Scamp (Valiant)
+PLYM/SIG - Plymouth Signet (Valiant)
+PLYM/SUB - Plymouth Suburban
+PLYM/SUN - Plymouth Sundance
+PLYM/TUR - Plymouth Turismo
+PLYM/VAL - Plymouth Valiant
+PLYM/VIP - Plymouth Vip
+PLYM/VOL - Plymouth Volare
+PONT/2P2 - Pontiac 2+2
+PONT/200 - Pontiac 2000
+PONT/600 - Pontiac 6000
+PONT/AST - Pontiac Astre
+PONT/BON - Pontiac Bonneville
+PONT/CAT - Pontiac Catalina
+PONT/CHI - Pontiac Chieftain
+PONT/CUS - Pontiac Custom
+PONT/DEL - Pontiac Deluxe
+PONT/EXE - Pontiac Executive
+PONT/FIE - Pontiac Fiero
+PONT/FBD - Pontiac Firebird Trans AM
+PONT/FRY - Pontiac Firefly
+PONT/FBD - Pontiac Firehawk
+PONT/GRM - Pontiac Grand AM
+PONT/GRA - Pontiac Grand Prix
+PONT/GRD - Pontiac Grand Ville
+PONT/GTO - Pontiac GTO
+PONT/J20 - Pontiac J2000
+PONT/LEM - Pontiac LeMans
+PONT/PAR - Pontiac Parisienne
+PONT/PHO - Pontiac Phoenix
+PONT/SKY - Pontiac Sky Chief
+PONT/SSE - Pontiac SSE
+PONT/STA - Pontiac Star Chief
+PONT/STR - Pontiac Streamliner
+PONT/SUN - Pontiac Sunbird
+PONT/SNF - Pontiac Sunfire
+PONT/SUP - Pontiac Super Chief
+PONT/T10 - Pontiac T-1000
+PONT/TEM - Pontiac Tempest
+PONT/TGO - Pontiac Tempest GTO
+PONT/FBD - Pontiac Trans Am (See Firebird)
+PONT/VEN - Pontiac Ventura
+PONI/GPA - Pontiac-Canadian Grand Parisienne
+PONI/LAU - Pontiac-Canadian Laurentian
+PONI/PAR - Pontiac-Canadian Parisienne
+PONI/STR - Pontiac-Canadian Strato Chief
+PORS/130 - Porsche 1300
+PORS/150 - Porsche 1500
+PORS/160 - Porsche 1600
+PORS/356 - Porsche 356
+PORS/911 - Porsche 911
+PORS/912 - Porsche 912
+PORS/914 - Porsche 914
+PORS/924 - Porsche 924
+PORS/928 - Porsche 928
+PORS/930 - Porsche 930
+PORS/944 - Porsche 944
+PORS/968 - Porsche 968
+PORS/BOX - Porsche Boxter 986
+PORS/CAB - Porsche Cabriolet
+PORS/CAR - Porsche Carrera
+PORS/KAR - Porsche Karman
+PORS/STA - Porsche Standard
+PORS/SUP - Porsche Super
+PORS/TGA - Porsche Targa
+RAMB/AMB - Rambler Ambassador     NOTE:
+RAMB/ARN - Rambler American  (USE THESE CODES
+RAMB/CLA - Rambler Classic    FOR ALL RAMBLERS
+RAMB/CUS - Rambler Custom     MADE PRIOR TO 1966)
+RAMB/DEL - Rambler Deluxe     
+RAMB/SUP - Rambler Super      SEE AMERICAN MOTORS
+RAMB/TYP - Rambler Typhoon    FOR ALL AFTER 1965
+RENA/18  - Renault 18i
+RENA/750 - Renault 750
+AMER/ALI - Renault Alliance
+RENA/CRV - Renault Caravelle
+RENA/DAU - Renault Dauphine
+AMER/ENC - Renault Encore
+RENA/EST - Renault Estafette
+RENA/EXP - Renault Export
+RENA/FGO - Renault Fuego
+RENA/GON - Renault Gordini
+RENA/LEC - Renault Le Car
+RENA/LX  - Renault Luxe
+RENA/R10 - Renault R-10
+RENA/R12 - Renault R-12
+RENA/R15 - Renault R-15
+RENA/R16 - Renault R-16
+RENA/R17 - Renault R-17
+RENA/R4  - Renault R-4
+RENA/R5  - Renault R-5
+RENA/R8  - Renault R-8
+ROL /CAM - Rolls-Royce Camargue
+ROL /COR - Rolls-Royce Corniche
+ROL/FPR  - Rolls-Royce Flying Spur
+ROL /MUL - Rolls-Royce Mulsanne
+ROL /PHA - Rolls-Royce Phantom
+ROL /SIC - Rolls-Royce Silver Cloud
+ROL /SID - Rolls-Royce Silver Dawn
+ROL/SER  - Rolls-Royce Silver Seraph
+ROL /SIS - Rolls-Royce Silver Shadow
+ROL /SSP - Rolls-Royce Silver Spirit
+ROL /SPR - Rolls-Royce Silver Spur
+ROL /SIW - Rolls-Royce Silver Wraith
+ROOT/ALP - Rootes Alpine
+ROOT/ARR - Rootes Arrow
+ROOT/IMP - Rootes IMP
+ROOT/TIG - Rootes Tiger
+ROV /200 - Rover 2000
+ROV /3L  - Rover 3 Litre
+ROV /350 - Rover 3500
+ROV /LR  - Rover Land Rover
+ROV /MK4 - Rover Mark IV
+SAA /900 - Saab 900
+SAA /90A - Saab 9000
+SAA /92  - Saab 92
+SAA /93  - Saab 93 & 93B
+SAA /95  - Saab 95
+SAA /96  - Saab 96
+SAA /97  - Saab 97
+SAA /99  - Saab 99
+SAA /G75 - Saab GT 750
+SAA /SON - Saab Sonnet
+SANG/CM6 - Sangyong CM600S
+SANG/JEP - Sangyong Jeep
+STRN/LS  - Saturn LS-Sedan
+STRN/LW  - Saturn LW-Wagon
+STRN/SC  - Saturn SC
+STRN/SL  - Saturn SL
+STRN/SW  - Saturn SW
+SHEB/G35 - Shelby American Cobra GT350
+SHEB/G50 - Shelby American Cobra GT500
+SHEB/CSX - Shelby CSX
+SHEB/ROD - Shelby Roadster
+SIM /100 - Simca 1000 & 1000GL
+SIM /120 - Simca 120
+SIM /ARO - Simca Aronde
+SIM /BER - Simca Bertone
+SIM /ETO - Simca Etoile
+SIM /GLS - Simca GLS
+SIM /VED - Simca Vedette
+SIN /CHA - Singer Chamois
+SIN /VOG - Singer Vogue
+SOLE/FLS - Solectria Flash
+SOLE/FOR - Solectria Force
+SOLE/SUN - Solectria Sunrise
+STLG/825 - Sterling 825
+STLG/827 - Sterling 827
+STU /AVA - Studebaker Avanti
+STU /CHA - Studebaker Challenger
+STU /CHM - Studebaker Champion
+STU /COM - Studebaker Commander
+STU /CRU - Studebaker Cruiser
+STU /DAY - Studebaker Daytona
+STU /GRA - Studebaker Grand Turismo
+STU /HAW - Studebaker Hawk Series
+STU /LAN - Studebaker Landall
+STU /LAR - Studebaker Lark Series
+STU /PRE - Studebaker President
+STU /RGL - Studebaker Regal
+STU /SCO - Studebaker Scotsman
+STU /WAG - Studebaker Wagonaire
+SUBA/100 - Subaru 100 Series
+SUBA/110 - Subaru 1100 Series
+SUBA/130 - Subaru 1300 Series
+SUBA/140 - Subaru 1400 Series
+SUBA/160 - Subaru 1600 Series
+SUBA/360 - Subaru 360 (various styles)
+SUBA/DL  - Subaru DL
+SUBA/FE2 - Subaru Fe
+SUBA/GL  - Subaru GL
+SUBA/GLF - Subaru GLF
+SUBA/IMP - Subaru Impreza
+SUBA/JUS - Subaru Justy
+SUBA/LEG - Subaru Legacy
+SUBA/LEO - Subaru Leone GL Coupe
+SUBA/LOY - Subaru Loyale
+SUBA/STA - Subaru Standar
+SUBA/SVX - Subaru SVX
+SUBA/XTC - Subaru XT Coupe
+SUBA/XT6 - Subaru XT6
+SUBA/FOR - Subura Forrester
+SUNB/ALP - Sunbeam Alpine
+SUNB/ARR - Sunbeam Arrow
+SUNB/DEL - Sunbeam Deluxe
+SUNB/IMP - Sunbeam IMP
+SUNB/MIN - Sunbeam Minx
+SUNB/RAP - Sunbeam Rapier
+SUNB/TIG - Sunbeam Tiger
+SUZI/FOR - Suzuki Forsa
+SUZI/GVT - Suzuki Grand Vitara
+SUZI/SFT - Suzuki Swift
+SUZI/VIT - Suzuki Vitara
+TOYT/AVA - Toyota Avalon
+TOYT/AVE - Toyota Avensis
+TOYT/CAM - Toyota Camry
+TOYT/CAR - Toyota Carina
+TOYT/CST - Toyota Celica
+TOYT/COA - Toyota Corolla
+TOYT/COR - Toyota Corona
+TOYT/CRE - Toyota Cressida
+TOYT/CRO - Toyota Crown
+TOYT/ECO - Toyota Echo
+TOYT/MII - Toyota Mark II
+TOYT/MR2 - Toyota MR2
+TOYT/PAS - Toyota Paseo
+TOYT/PRE - Toyota Pre Runner
+TOYT/PRI - Toyota Prius
+TOYT/SOL - Toyota Solara
+TOYT/STA - Toyota Starlet
+TOYT/SUP - Toyota Supra
+TOYT/TER - Toyota Tercel
+TOYT/TUN - Toyota Tundra
+TRIU/120 - Triumph 1200
+TRIU/125 - Triumph 1250
+TRIU/130 - Triumph 1300
+TRIU/200 - Triumph 2000
+TRIU/250 - Triumph 250
+TRIU/GT  - Triumph GT Series
+TRIU/HER - Triumph Herald
+TRIU/SPI - Triumph Spitfire
+TRIU/SP6 - Triumph Sport 6
+TRIU/STA - Triumph Stag
+TRIU/TR3 - Triumph TR-3 & TR-3A
+TRIU/TR4 - Triumph TR-4 & TR-4A
+TRIU/TR6 - Triumph TR6
+TRIU/TR7 - Triumph TR7
+TRIU/TR8 - Triumph TR8
+TRIU/VIT - Triumph Vitesse
+TVR /TUS - TVR Tuscan
+TVR /VIX - TVR Vixen
+USEL/LTC - U.S. Electricar Lectric Leopard
+VANG/DEL - Vanguard Deluxe
+VANG/ENS - Vanguard Ensign
+VANG/LUX - Vanguard Luxury
+VANG/MK3 - Vanguard Mark III
+VAUX/CRE - Vauxhall Cresta
+VAUX/ENV - Vauxhall Envoy
+VAUX/EPC - Vauxhall Epic
+VAUX/FIR - Vauxhall Firenza
+VAUX/VEL - Vauxhall Velox
+VAUX/VIC - Vauxhall Victor
+VAUX/VIV - Vauxhall Viva
+VACR/VEC - Vector Aeromotive Corporation Vector
+VOLK/113 - Volkswagen 113
+VOLK/120 - Volkswagen 1200
+VOLK/130 - Volkswagen 1300
+VOLK/150 - Volkswagen 1500
+VOLK/412 - Volkswagen 411/412
+VOLK/BUG - Volkswagen Beetle (Super Beetle or Bug)
+VOLK/CAB - Volkswagen Cabriolet
+VOLK/COR - Volkswagen Corrado
+VOLK/DAS - Volkswagen Dasher
+VOLK/FB  - Volkswagen Fastback
+VOLK/FOX - Volkswagen Fox
+VOLK/GOL - Volkswagen Golf
+VOLK/GTI - Volkswagen GTI
+VOLK/JET - Volkswagen Jetta
+VOLK/KAR - Volkswagen Karmann Ghia
+VOLK/PAS - Volkswagen Passat
+VOLK/POL - Volkswagen Polo
+VOLK/QTM - Volkswagen Quantum
+VOLK/RAB - Volkswagen Rabbit
+VOLK/SCI - Volkswagen Scirocco
+VOLK/SB  - Volkswagen Squareback
+VOLK/SUR - Volkswagen Sunroof
+VOLK/THI - Volkswagen The Thing
+VOLK/VAR - Volkswagen Variant
+VOLV/122 - Volvo 122 Series
+VOLV/140 - Volvo 140 Series
+VOLV/164 - Volvo 164 Series
+VOLV/180 - Volvo 1800 Series
+VOLV/200 - Volvo 200 Series
+VOLV/240 - Volvo 240 Series
+VOLV/245 - Volvo 245 Series
+VOLV/260 - Volvo 260 Series
+VOLV/740 - Volvo 740 Series
+VOLV/745 - Volvo 745 Series
+VOLV/760 - Volvo 760
+VOLV/765 - Volvo 765 Series
+VOLV/780 - Volvo 780 Series
+VOLV/850 - Volvo 850GLT Series
+VOLV/940 - Volvo 940
+VOLV/960 - Volvo 960
+VOLV/C70 - Volvo C70
+VOLV/COB - Volvo Combi
+VOLV/DL  - Volvo DL
+VOLV/GL  - Volvo GL
+VOLV/GLE - Volvo GLE
+VOLV/GLT - Volvo GLT
+VOLV/190 - Volvo P1900
+VOLV/444 - Volvo PV444
+VOLV/544 - Volvo PV544
+VOLV/S40 - Volvo S40
+VOLV/S60 - Volvo S60
+VOLV/S70 - Volvo S70
+VOLV/S80 - Volvo S80
+VOLV/S90 - Volvo S90
+VOLV/SPO - Volvo Sport
+VOLV/V40 - Volvo V40
+VOLV/V70 - Volvo V70
+VOLV/V90 - Volvo V90
+ZCZY/YUG - Yugo
+ZCZY/YUG - Zastavia Yugo

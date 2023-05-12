@@ -1,0 +1,2 @@
+~QUERY - Query Person
+ENTER_MISSING - Enter Missing Person

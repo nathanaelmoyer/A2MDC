@@ -1,0 +1,20 @@
+~<BLANK>
+A - Cannon
+B - Submachine Gun
+C - Rifle/Shotgun Combination
+D - Disguised Gun
+E - Electric Shock Gun
+F - Ammunition
+G - Grenade
+H - Bomb
+I - Mine
+J - Missle
+K - Rocket
+M - Machine Gun
+O - Mortar
+P - Pistol
+Q - Shotgun Pistol
+R - Rifle
+S - Shotgun
+V - Silencer
+Z - All Others

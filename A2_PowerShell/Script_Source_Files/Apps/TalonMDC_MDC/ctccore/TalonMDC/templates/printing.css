@@ -1,0 +1,149 @@
+.ctc_link {
+	font-family: Arial;
+	font-size: 10pt;
+}
+
+.ctc_page_title {
+	font-family: Arial;
+	font-size: 12pt;
+	font-weight: bold;
+	font-style: italic;
+	color: #000000;
+	text-align: left;
+}
+
+.ctc_page_subtitle_1 {
+	font-family: Arial;
+	font-size: 10pt;
+	font-weight: bold;
+	color: #000000;
+	text-align: left;
+}
+
+.ctc_page_subtitle_2 {
+	font-family: Arial;
+	font-size: 10pt;
+	font-weight: bold;
+	color: #000000;
+	text-align: left;
+}
+
+.ctc_single_title {
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 10pt;
+	color: #000000;
+}
+
+.ctc_msg_title {
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 10pt;
+	color: #000000;
+	background-color: #FFFFFF;
+}
+
+.ctc_q_title {
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 10pt;
+	color: #000000;
+	background-color: #FFFFFF;
+}
+
+.ctc_msg_data {
+	text-align: left;
+	font-family: Courier New;
+	font-size: 10pt;
+	color: #000000;
+}
+
+.ctc_tbl_headrow {
+	text-align: left;
+	font-family: Arial;
+	font-size: 10pt;
+	color: #000000;
+	background-color: #FFFFFF;
+}
+
+.ctc_tbl_row {
+	text-align: left;
+	font-family: Arial;
+	font-size: 10pt;
+	color: #000000;
+	background-color: #FFFFFF;
+}
+
+.ctc_tbl_data {
+	text-align: left;
+	font-family: Arial;
+	font-size: 10pt;
+	color: #000000;
+	background-color: #FFFFFF;
+}
+
+.ctc_tbl_data_em {
+	text-align: left;
+	font-family: Arial;
+	font-size: 10pt;
+	color: #000000;
+	font-style: italic;
+	
+}
+
+.ctc_tbl_dataleft {
+	text-align: left;
+	font-family: Arial;
+	font-size: 10pt;
+	color: #000000;
+	font-weight: bold;
+}
+
+.ctc_tbl_data2 {
+	text-align: left;
+	font-family: Arial;
+	font-size: 10pt;
+	color: #000000;
+	background-color: #FFFFFF;
+}
+
+.ctc_tbl_left_hdr {
+	text-align: left;
+	font-family: Arial;
+	font-size: 10pt;
+	font-weight: bold;
+	color: #000000;
+	background-color: #FFFFFF;
+}
+
+.ctc_tbl_center_hdr {
+	text-align: left;
+	font-family: Arial;
+	font-size: 10pt;
+	font-weight: bold;
+	color: #000000;
+	background-color: #FFFFFF;
+}
+
+.ctc_tbl_right_hdr {
+	text-align: right;
+	font-family: Arial;
+	font-size: 10pt;
+	font-weight: bold;
+	color: #000000;
+	background-color: #FFFFFF;
+}
+
+.ctc_warning_text {
+	color: #ff0000;
+	font-weight: bold;
+	font-size: 10pt;
+}
+
+body {
+	color: #000000;
+	background-color: #FFFFFF;
+}
+a {
+	color: #0000FF;
+}

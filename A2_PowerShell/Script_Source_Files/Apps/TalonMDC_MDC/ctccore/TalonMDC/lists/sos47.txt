@@ -1,0 +1,31 @@
+19  - Partial License Plate 
+21  - Watercraft Title/Registration
+25  - Snowmobile Registration
+53  - Vehicle Title/Registration
+53C - Certified Vehicle Title/Registration
+78  - Handicapper Parking Permit
+15 - Alpha Vehicle Search
+16 - Alpha Watercraft Search
+17 - Alpha Snowmobile Search
+27  - Water/Snow Oper Status
+28  - Water/Snow Compl Oper Hist
+35  - Current Driver Status
+35/42  - Current Driver Status AND Unedited Record
+35/42C  - Current Driver Status AND Certified Record
+35/43  - Current Driver Status AND Driver Conviction
+35/66  - Current Driver Status AND PID
+35/PRIOR - Prior Actions on Repeat Offenders
+36  - Edited Record
+42  - Complete Driving History
+42B - MIP Deferment
+42C - Certified Complete Driving History
+39  - License Information
+39/42  - Alias Name/Driving Record
+40  - Current Address
+43  - All Convictions
+49  - Partial Name Search
+66  - PID Record Name
+69  - PID Name Search
+EC  - Emergency Contact Information
+SC  - Sobriety Court Eligibility
+

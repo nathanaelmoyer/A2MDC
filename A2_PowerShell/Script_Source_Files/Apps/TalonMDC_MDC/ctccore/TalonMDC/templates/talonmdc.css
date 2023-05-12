@@ -1,0 +1,164 @@
+.ctc_tbl_data_cad {
+	text-align: left;
+	font-family: Courier;
+	font-size: $(tfs_css_FontSize)pt;
+	color: #000000;
+}
+
+.ctc_tbl_headrow_cad {
+	text-align: left;
+	font-family: Arial;
+	font-size: $(tfs_css_FontSize)pt;
+	color: #000000;
+	background: #999999;
+}
+
+.ctc_link {
+	font-family: Arial;
+	font-size: $(tfs_css_FontSize)pt;
+}
+
+.ctc_page_title {
+	font-family: Arial;
+	font-size: $(tfs_css_FontSize)pt;
+	font-weight: bold;
+	font-style: italic;
+	color: #000099;
+	text-align: left;
+}
+
+.ctc_page_subtitle_1 {
+	font-family: Arial;
+	font-size: $(tfs_css_FontSize)pt;
+	font-weight: bold;
+	color: #000099;
+	text-align: left;
+}
+
+.ctc_page_subtitle_2 {
+	font-family: Arial;
+	font-size: $(tfs_css_FontSize)pt;
+	font-weight: bold;
+	color: #333333;
+	text-align: left;
+}
+
+.ctc_single_title {
+	font-family: Arial;
+	font-weight: bold;
+	font-size: $(tfs_css_FontSize)pt;
+	color: #000066;
+}
+
+.ctc_msg_title {
+	font-family: Arial;
+	font-weight: bold;
+	font-size: $(tfs_css_FontSize)pt;
+	color: #000066;
+	background-color: #99C5FF;
+}
+
+.ctc_q_title {
+	font-family: Arial;
+	font-weight: bold;
+	font-size: $(tfs_css_FontSize)pt;
+	color: #FFFFFF;
+	background-color: #000099;
+}
+
+.ctc_msg_data {
+	text-align: left;
+	font-family: Courier New;
+	font-size: $(tfs_css_FontSize)pt;
+	color: #000000;
+}
+
+.ctc_tbl_headrow {
+	text-align: left;
+	font-family: Arial;
+	font-size: $(tfs_css_FontSize)pt;
+	color: #000000;
+	background: #999999;
+}
+
+.ctc_tbl_row {
+	text-align: left;
+	font-family: Arial;
+	font-size: $(tfs_css_FontSize)pt;
+	color: #000000;
+	background: #DFDFDF;
+}
+
+.ctc_tbl_data {
+	text-align: left;
+	font-family: Arial;
+	font-size: $(tfs_css_FontSize)pt;
+	color: #000000;
+}
+
+.ctc_tbl_data_em {
+	text-align: left;
+	font-family: Arial;
+	font-size: $(tfs_css_FontSize)pt;
+	color: #000000;
+	font-style: italic;
+	
+}
+
+.ctc_tbl_dataleft {
+	text-align: left;
+	font-family: Arial;
+	font-size: $(tfs_css_FontSize)pt;
+	color: #000099;
+	font-weight: bold;
+	border: thin solid #000066;
+}
+
+.ctc_tbl_data2 {
+	text-align: left;
+	font-family: Arial;
+	font-size: $(tfs_css_FontSize)pt;
+	color: #000099;
+	background: #BBECFF;
+}
+
+.ctc_tbl_left_hdr {
+	text-align: left;
+	font-family: Arial;
+	font-size: $(tfs_css_FontSize)pt;
+	font-weight: bold;
+	color: white;
+	background: #000099;
+}
+
+.ctc_tbl_center_hdr {
+	text-align: left;
+	font-family: Arial;
+	font-size: $(tfs_css_FontSize)pt;
+	font-weight: bold;
+	color: #000000;
+	background: #999999;
+}
+
+.ctc_tbl_right_hdr {
+	text-align: right;
+	font-family: Arial;
+	font-size: $(tfs_css_FontSize)pt;
+	font-weight: bold;
+	color: white;
+	background: #000099;
+}
+
+.ctc_warning_text {
+	color: #ff0000;
+	font-weight: bold;
+	font-size: $(tfs_css_FontSize)pt;
+}
+
+body {
+	color: #000066;
+	background-color: #FFFFFF;
+}
+a {
+	color: #0000FF;
+}

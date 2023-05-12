@@ -1,0 +1,7 @@
+StreetName
+StreetNumber
+Apartment
+CrossStreetName
+City
+CommonName
+IsPrimary

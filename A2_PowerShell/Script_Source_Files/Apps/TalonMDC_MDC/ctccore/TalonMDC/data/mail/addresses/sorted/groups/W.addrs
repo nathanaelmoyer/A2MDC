@@ -1,0 +1,25 @@
+1
+G	[HH	WashtenawCommCollegeORI	W2 ORI
+G	[HJ	WashtenawCommCollegeWW	Washtenaw CC WW Users
+G	[HK	WashtenawCommCollegeMobile	W2 Mobile ORI
+G	[HL	WashtenawCommCollegeDesktop	W2 Desktop ORI
+G	[HN	WashtenawCommCollegeTAC	TAC Config group
+G	DH[	WarrenCIDCRIMINALORI	CRIMINAL INVEST ORI
+G	DH]	WarrenFIDFAMILYINVESTORI	FAMILY INVEST ORI
+G	DHK	WarrenSIDORI	SID SPECIAL INVEST ORI
+G	DHW	WarrenDISPORI	DISPATCH ORI
+G	DI@	WarrenWARR/REC/ORI	WARRANTS/RECORDS ORI
+G	DIB	WarrenPATROLORI	PATROL Services ORI
+G	DMT	WarrenJAILORI 	JAIL ORI
+G	GXD	WarrenINTERNALAFFAIRSORI	Internal Affairs config ORI
+G	LCQ	WashtenawSheriffORI	Sheriff Dept ORI
+G	MB^	WarrenQuery/CCH	Query/CCH config
+G	MB_	WarrenTAC	TAC Config group
+G	MC@	WarrenEntry	entry config
+G	MCA	WarrenQueryOnly	Warren Query Only config
+G	O\Q	WashtenawSheriffWW	Washtenaw Sheriff WW Users
+G	OZB	WashtenawSheriffTAC	TAC Config
+G	PKP	WarrenWW	Warren WW Users
+G	RZL	WashtenawSheriffDISPORI	Washtenaw Central Dispatchr Dispatch ORI
+G	SBH	WarrenMobile	Warren Metro Mobile ORI
+G	TDU	WashtenawSheriffAdmin	Admin User Group

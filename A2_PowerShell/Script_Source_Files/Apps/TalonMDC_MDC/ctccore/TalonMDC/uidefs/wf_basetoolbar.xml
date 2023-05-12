@@ -1,0 +1,6 @@
+<Controls>
+	<Separator/>
+	<Button ValidState="4" Image="worklist.png" Label="WorkList" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="WorkList"	ExecCode="23356" />
+</Controls>
+<Events>
+</Events>

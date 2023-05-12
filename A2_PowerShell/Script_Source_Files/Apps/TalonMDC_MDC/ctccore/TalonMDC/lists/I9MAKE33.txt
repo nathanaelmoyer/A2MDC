@@ -1,0 +1,584 @@
+~<BLANK>
+SKMD/TK  - Academy Mobile Homes
+ACUR/TK  - Acura MDX
+ADVE/TK  - Adventure Wheels Motor Home
+AIRO/TK  - Air-O-Motor Home
+AIRS/TK  - Airstream
+ALAS/TK  - Alaskan Camper
+ALSE/TK  - All Seasons Motor Home
+ALLE/TK  - Allegro Motor Home
+ALOH/TK  - Aloha-Trailer, Co.
+AMGN/TK  - AM General Corporation (Mfg. of Hummer)
+AMCC/TK  - American Clipper Corp.
+AMCR/TK  - American Cruiser Motor Home
+AMEL/TK  - American Economobile Hilif
+LAFR/TK  - American La France
+AMER/TK  - American Motors General Bus
+AMER/TK  - American Motors Jeep (1970-1988 only)
+AMTC/TK  - AmTran Corporation
+APOL/TK  - Apollo Homes
+ARGS/TK  - Argosy Travel Trailer
+ARIS/TK  - Aristocrat Motor Home
+ARRO/TK  - Arrow
+ATLS/TK  - Atlas Hoist & Body, Inc.
+AUST/TK  - Austin
+AUTO/TK  - Autocar
+AVAL/TK  - Available
+AVCO/TK  - Avco Corp.
+BAIN/TK  - Bainbridge Motor Home
+BALB/TK  - Balboa Motor Home
+BANN/TK  - Banner Industries, Inc.
+BARR/TK  - Barret
+BEAM/TK  - Beach-Craft Motor Homes Corp.
+BEAE/TK  - Beaver Monterey Motor Home
+BEEH/TK  - Beechwood Motor Home
+BEJE/TK  - Bejing Jeep Gang Star
+BLLV/TK  - Bellview Camper
+BEDX/TK  - Bendix Corp.
+RCKL/TK  - Big A
+BIVO/TK  - Bivouac Industries, Inc.
+BLUB/TK  - Blue Bird Body Co.
+BLUG/TK  - Blue Ridge Pre-Built Homes
+BMC /TK  - BMC
+BNDR/TK  - Bounder Motor Home
+BRAL/TK  - Brall Motor Home
+BREE/TK  - Breeze Motor Home
+BRST/TK  - Briggs & Stratton Corp.
+BROC/TK  - Brockway
+BROU/TK  - Brougham Industries, Inc.
+BRWN/TK  - Brown
+BUG /TK  - Bug
+CPPR/TK  - C/P Products Corp.
+CABA/TK  - Cabana Motor Home
+CATL/TK  - Catalina Motor Home
+CAT /TK  - Caterpillar Tractor Co.
+CAVE/TK  - Caveman Industries
+CCC /TK  - CCC
+CHAM/TK  - Champion Home Builders Co.
+CHCI/TK  - Chance Coach Inc
+CHVL/TK  - Chevallero Motor Home
+CHEV/TK  - Chevolet S10
+CHEV/TK  - Chevrolet
+CHEV/TK  - Chevrolet Astro
+CHEV/TK  - Chevrolet Avalanche
+CHEV/TK  - Chevrolet Blazer
+CHEV/TK  - Chevrolet C/K 1500
+CHEV/TK  - Chevrolet C/K 2500
+CHEV/TK  - Chevrolet C/K 3500
+CHEV/TK  - Chevrolet C/K Pickup
+CHEV/TK  - Chevrolet C10
+CHEV/TK  - Chevrolet Lumina APV
+CHEV/TK  - Chevrolet Luv
+CHEV/TK  - Chevrolet Silverado
+CHEV/TK  - Chevrolet Sportvan
+CHEV/TK  - Chevrolet Suburban
+CHEV/TK  - Chevrolet Tahoe
+CHEV/TK  - Chevrolet Tracker (Beg. Mod. Yr 1998)
+CHEV/TK  - Chevrolet Trail Blazer (Formerly Blazer)
+CHEV/TK  - Chevrolet Venture
+CHNO/TK  - Chinook Mobilodge, Inc.
+CHRY/TK  - Chrysler
+CHRY/TK  - Chrysler Town & Country (Minivan)
+CHRY/TK  - Chrysler Voyager
+CLAR/TK  - Clark Equipment Co.
+CLWX/TK  - Clark-Wilcox
+CLYP/TK  - Clypso Motor Home
+COAH/TK  - Coachmen Industries, Inc.
+COCH/TK  - Cochran Western Corp.
+COLT/TK  - Colt
+COMD/TK  - Commander Motor Home
+CONC/TK  - Concord Motor Home
+CONO/TK  - Condor Coach
+COAH/TK  - Consolidated Leisure
+CONT/TK  - Continental Motor Home
+CONY/TK  - Cony Truck (Japan)
+COPA/TK  - Cooper Alpine Motor Home
+CORB/TK  - Corbitt
+CORO/TK  - Coronado Motor Home
+COTZ/TK  - Cortez Motor Home
+CCMH/TK  - Country Coach Motorhome
+FORD/TK  - Courier
+TRVA/TK  - Cozy Craft
+CRAF/TK  - Craftsman
+CCC /TK  - Crane Carrier Company
+CREE/TK  - Cree Coaches, Inc.
+CHAM/TK  - Creger
+CROS/TK  - Crosley
+CRUI/TK  - Cruisaire Motor Corp.
+GEOR/TK  - Cruisemaster Motor Home
+CUSH/TK  - Cushman
+INTL/TK  - Custom Scout I
+DAF /TK  - DAF
+DAIH/TK  - Daihatsi Rocky
+DAIH/TK  - Daihatsu
+KWDT/TK  - Dart, KW
+DATS/TK  - Datsun
+DATS/TK  - Datsun Lil Hustler
+DIAR/TK  - Diamond Reo
+DIAT/TK  - Diamond T
+DIPL/TK  - Diplomat Motor Home
+DISC/TK  - Discover 25 Motor Home
+DIVC/TK  - Divco
+DODG/TK  - Dodge
+DODG/TK  - Dodge Caravan
+DODG/TK  - Dodge Dakota
+DODG/TK  - Dodge Durango
+DODG/TK  - Dodge Power Ram
+DODG/TK  - Dodge Raider
+DODG/TK  - Dodge Ram
+DODG/TK  - Dodge Ram 1500
+DODG/TK  - Dodge Ram 1500 Van
+DODG/TK  - Dodge Ram 2500
+DODG/TK  - Dodge Ram 2500 Van
+DODG/TK  - Dodge Ram 3500
+DODG/TK  - Dodge Ram 3500 Van
+DODG/TK  - Dodge Ramcharger
+DREA/TK  - Dreamer
+DUPL/TK  - Duplex Truck Div.
+DYNA/TK  - Dynahoe Truck
+EAGI/TK  - Eagle International, Inc.
+ECON/TK  - Economy-Wisconsin
+ELDO/TK  - El Dorado International, Inc.
+ELET/TK  - Electra Vacation Home
+ELEC/TK  - Elec-Trac
+ELGN/TK  - Elgin Sweeper Company
+EMON/TK  - Emergency One, Inc.
+ENPR/TK  - Enterprise Motor Home
+ESCP/TK  - Escapade Motor Home
+ESTA/TK  - Establishment
+ESTM/TK  - Estate Mfg., Inc.
+EUCL/TK  - Euclid, Inc.
+EXC /TK  - Excel Motor Home Truck
+EXEC/TK  - Executive Industries, Inc.
+EXPD/TK  - Expedition Motor Homes
+EXPL/TK  - Explorer Motor Home
+FABO/TK  - Fabco
+FAN /TK  - Fanc Motor Home Truck
+FARG/TK  - Fargo
+FEDL/TK  - Federal
+FEST/TK  - Festival Homes of Ohio, Inc.
+FIAT/TK  - Fiat
+FIEL/TK  - Field and Stream
+FIRB/TK  - Fireball Trailer Mfg.
+FTWD/TK  - Fleetwood Enterprises, Inc.
+FLEX/TK  - Flxible (formerly Flexible)
+FMC /TK  - FMC Corp.
+FORD/TK  - Ford
+FORD/TK  - Ford 450
+FORD/TK  - Ford 550
+FORD/TK  - Ford Aerostar
+FORD/TK  - Ford Bronco
+FORD/TK  - Ford Club Wagon
+FORD/TK  - Ford Club Wagon E150
+FORD/TK  - Ford Club Wagon E250
+FORD/TK  - Ford Club Wagon E350
+FORD/TK  - Ford Courier
+FORD/TK  - Ford Econoline
+FORD/TK  - Ford Econoline 100
+FORD/TK  - Ford Econoline E150
+FORD/TK  - Ford Econoline E250
+FORD/TK  - Ford Econoline E350
+FORD/TK  - Ford Escape
+FORD/TK  - Ford Excursion
+FORD/TK  - Ford Expedition
+FORD/TK  - Ford Explorer
+FORD/TK  - Ford Explorer Sport Trac
+FORD/TK  - Ford F100
+FORD/TK  - Ford F150
+FORD/TK  - Ford F250
+FORD/TK  - Ford F250 Supercab
+FORD/TK  - Ford F350
+FORD/TK  - Ford F650 Super Crew
+FORD/TK  - Ford Goldline Camper
+FORD/TK  - Ford Ranger
+FORD/TK  - Ford Windstar
+FRTV/TK  - Foretravel, Inc.
+FRAI/TK  - Franklin Coach Co., Inc.
+FRHT/TK  - Freightliner Corp.
+SUNB/TK  - Funwagon
+FUTR/TK  - Futura Mobile Home
+FWD /TK  - FWD Corp.
+COCH/TK  - Galley Truck
+GARP/TK  - Gardner-Pacific-Sunrader, Inc.
+GZL /TK  - Gazelle Rage
+GMC /TK  - General Motors (Truck & Coach Div.)
+GMC /TK  - General Motors Hummer
+AMTC/TK  - Genesis
+GEO /TK  - Geo Tracker
+GEOR/TK  - Georgie Boy Mfg., Inc.
+GIGI/TK  - GIGI Industries, Inc.
+GMC /TK  - GMC
+GMC /TK  - GMC Cabellero
+GMC /TK  - GMC Denali
+GMC /TK  - GMC Envoy
+GMC /TK  - GMC Jimmy
+GMC /TK  - GMC Rally
+GMC /TK  - GMC Safari
+GMC /TK  - GMC Savanna Van
+GMC /TK  - GMC Sierra
+GMC /TK  - GMC Sonoma
+GMC /TK  - GMC Suburban
+GMC /TK  - GMC Syclone
+GMC /TK  - GMC Typhoon
+GMC /TK  - GMC Vandura
+GMC /TK  - GMC Yukon
+GOLM/TK  - Golden West Mobile Homes, Inc.
+CPPR/TK  - Good Life, The
+GRSP/TK  - Gran Spree Mini Camper
+GRES/TK  - Great Escape
+GREL/TK  - Great Lakes Mobile Home
+GRUM/TK  - Grumman Motor Home
+GWM /TK  - Gulf & Western Mfg. Co., Inc.
+GYPS/TK  - Gypsy Campers, Inc.
+HACK/TK  - Hackney & Sons, Inc.
+HAFL/TK  - Haflinger
+HNMR/TK  - Hahn Motors, Inc.
+HALM/TK  - Hallmark Motor Home
+HAPP/TK  - Happy Wanderer Industry, Inc.
+HARV/TK  - Harvest Motor Home
+HAYS/TK  - Hayes Log Truck
+HEND/TK  - Hendrickson Manufacturing Co.
+HINO/TK  - Hino
+HOLI/TK  - Holiday Industries, Inc.
+HOLR/TK  - Holiday Rambler
+HOLK/TK  - Holmes Wrecker
+HOND/TK  - Honda
+HOND/TK  - Honda CRV
+HOND/TK  - Honda Odyssey
+HOND/TK  - Honda Passport
+BLUG/TK  - Honey Motor Home
+HONO/TK  - Honorbuilt Trailers, Inc.
+HORZ/TK  - Horizon Motor Home
+HORS/TK  - Horseman Camper
+HOUG/TK  - Hough Brothers, Inc.
+HUWA/TK  - Huber-Warco
+HUNT/TK  - Huntsman, Inc.
+INOR/TK  - Idaho Norland Co.
+IDEL/TK  - Ideal Industries
+INDI/TK  - Indiana
+INFI/TK  - Infiniti QX4
+INTL/TK  - International Harvester Co.
+ISLA/TK  - Islander Motor Home
+ISU /TK  - Isuzu
+ISU /TK  - Isuzu Amigo
+ISU /TK  - Isuzu Hombre
+ISU /TK  - Isuzu Oasis
+ISU /TK  - Isuzu Rodeo
+ISU /TK  - Isuzu Trooper
+ITAS/TK  - Itasca Motor Homes
+IVEC/TK  - Iveco Trucks of North American, Inc.
+JAMB/TK  - Jamboree Motor Home Truck
+SKMD/TK  - Jamee Motor Home
+JAY /TK  - Jayco, Inc.
+JEEP/TK  - Jeep (after 1989)
+AMER/TK  - Jeep (from 1970  - 1988)
+JEEP/TK  - Jeep (In general)
+JEEP/TK  - Jeep (prior to 1970)
+JEEP/TK  - Jeep Cherokee
+JEEP/TK  - Jeep CJ-5
+JEEP/TK  - Jeep CJ-6
+JEEP/TK  - Jeep CJ-7
+JEEP/TK  - Jeep CJ-8
+JEEP/TK  - Jeep Comanche
+JEEP/TK  - Jeep Dakar
+JEEP/TK  - Jeep Grand Cherokee
+JEEP/TK  - Jeep J-10
+JEEP/TK  - Jeep J-20
+JEEP/TK  - Jeep Jeepster
+JEEP/TK  - Jeep Traveller
+JEEP/TK  - Jeep Utility Wagon
+JEEP/TK  - Jeep Wagoneer
+JEEP/TK  - Jeep Wrangler
+JOUR/TK  - Journey Motor Homes, Inc.
+KAJU/TK  - Kaj'n Homes, Inc.
+KAKI/TK  - Kamp King Utopian
+KASS/TK  - Kassborth
+KAYO/TK  - Kayot Motor Home Div.
+KENS/TK  - Kensington Motor
+KW  /TK  - Kenworth Motor Truck Co.
+KNNW/TK  - Kenworth Northwest, Inc.
+KIA /TK  - Kia Avella
+KIA /TK  - Kia Motors Corp.
+KIA /TK  - Kia Motors Corp. Sportage
+KIA /TK  - Kia Sephia
+KIA /TK  - Kia Sportage
+KGHY/TK  - Kings Highway
+KITM/TK  - Kit Manufacturing Co.
+KODI/TK  - Kodiak Coach & Mfg. Co.
+KRAE/TK  - Krager Kustom Koach, Inc.
+KWDT/TK  - KW Dart
+LAFY/TK  - Lafayette Motor Home
+LFZA/TK  - Laforza
+LAGU/TK  - Laguna Motro Coach
+LASH/TK  - Lake & Shore Camper
+LNDR/TK  - Land Rover
+LNDR/TK  - Land Rover Defender 110
+LNDR/TK  - Land Rover Defender 90
+LNDR/TK  - Land Rover Discovery
+LNDR/TK  - Land Rover Range Rover
+LANU/TK  - Landau Motor Home
+LDAZ/TK  - Lazy Daze Motor Home
+LEIS/TK  - Leisuretime Motor Home
+LEWI/TK  - Lewis-Shepard
+LEYL/TK  - Leyland
+LIPR/TK  - Little Prospector Motor Home
+LODA/TK  - Lodal, Inc.
+LYNR/TK  - Lynn-Towtruck
+MACK/TK  - Mack Trucks, Inc.
+IVEC/TK  - Magirus
+MAHA/TK  - Marmon Harrington
+MAQI/TK  - Marque, Inc.
+MAVL/TK  - Marvell Mobile Home
+MASS/TK  - Massey-Ferguson, Inc.
+MAXI/TK  - Maxim Ind., Inc.
+MAXO/TK  - Maxon Eagle
+MAXO/TK  - Maxon Industries, Inc.
+MYFA/TK  - Mayfairer Motor Home
+MAYS/TK  - Mays Industries, Inc.
+MAZD/TK  - Mazda
+MAZD/Tk  - Mazda B2200
+MAZD/TK  - Mazda B2300
+MAZD/TK  - Mazda B2500
+MAZD/TK  - Mazda B2600
+MAZD/TK  - Mazda B3000
+MAZD/TK  - Mazda B4000
+MAZD/TK  - Mazda MPV
+MAZD/TK  - Mazda Navajo
+MAZD/TK  - Mazda Sport Truck
+MAZD/TK  - Mazda Tribute
+MCRR/TK  - Mc Kee Roughrider
+MCIN/TK  - MCI (Motor Coach Industries, Inc.)
+MELM/TK  - Melmak Motor Home
+MELA/TK  - Melmar Motor Home
+MLRO/TK  - Melroe Tractor Truck
+MERZ/TK  - Mercedes-Benz
+MERZ/TK  - Mercedes-Benz Gelaendewagen (G-Wagon)
+MERZ/TK  - Mercedes-Benz ML320
+MERZ/TK  - Mercedes-Benz ML55
+MERC/TK  - Mercury
+MERC/TK  - Mercury Mountaineer
+MERC/TK  - Mercury Nautica Villager
+MERC/TK  - Mercury Villager (Minivan)
+MIDS/TK  - Midas International Corp.
+RBRC/TK  - Mini-Cruiser
+MIRA/TK  - Mirage Motorhomes, Inc.
+MITS/TK  - Mitsubishi
+MIFU/TK  - Mitsubishi FUSO Truck of America, Inc
+MITS/TK  - Mitsubishi Mighty Max
+MITS/TK  - Mitsubishi Montero/Montero Sport
+MKMH/TK  - MK 5-1400 Motor Home
+MBTR/TK  - Mobile Traveler
+MLXC/TK  - Mobilux
+MNAC/TK  - Monaco Motor Home
+MONH/TK  - Monarch Motor Home
+HOLR/TK  - Monitor Mini-Motor Home
+MCIN/TK  - Motor Coach Industries, Inc.
+BEAR/TK  - Motor Homes of America, Inc.
+MOTO/TK  - Motoroam Industries, Inc.
+MLTI/TK  - Multition Hydraulic Truck
+MUNT/TK  - Muntz
+NASH/TK  - Nash
+NAVI/TK  - Navistar
+NEOP/TK  - Neoplan USA Corporation
+NEWL/TK  - Newell Coach Corp.
+NWMR/TK  - Newmar Corp.
+NEWP/TK  - Newport Homes, Inc.
+NISS/TK  - Nissan
+NDMC/TK  - Nissan Diesel Motor Co.
+NISS/TK  - Nissan Frontier
+NISS/TK  - Nissan Pathfinder
+NISS/TK  - Nissan Quest
+NISS/TK  - Nissan SE-V6
+NISS/TK  - Nissan Terrano
+NISS/TK  - Nissan Terrano II
+NISS/TK  - Nissan XE
+NISS/TK  - Nissan X-Terra
+NORI/TK  - Norris Homes, Inc.
+OLDS/TK  - Oldsmobile Bravada
+OLDS/TK  - Oldsmobile Silhouette
+OLYM/TK  - Olympia Motor Home
+OPEN/TK  - Open Road Industries
+OSHK/TK  - Oshkosh Motor Truck Co.
+GWM /TK  - Ottawa
+OVEL/TK  - Overland Mfg. Co.
+PARO/TK  - Pace Arrow
+PACS/TK  - Pacesetter
+PACC/TK  - Pacific Coach, Inc.
+PAMA/TK  - Pama Camper
+PADA/TK  - Panda Motor Home
+PETR/TK  - Peter Pirsch & Sons Co.
+PTRB/TK  - Peterbilt Motors Co.
+PETM/TK  - Pettibone Corp.
+PHOE/TK  - Phoenix
+PIRC/TK  - Pierce Mfg., Inc.
+PETR/TK  - Pirsch, Peter & Sons, Co.
+PLYM/TK  - Plymouth
+PLYM/TK  - Plymouth Trail Duster
+PLYM/TK  - Plymouth Voyager
+PONT/TK  - Pontiac
+PONT/TK  - Pontiac Aztek
+PONT/TK  - Pontiac Montana
+PONT/TK  - Pontiac Safari
+PONT/TK  - Pontiac Trans Sport
+PREO/TK  - Prevost Car, Inc.
+PRIJ/TK  - Pride & Joy Mini Motor Home
+PRIN/TK  - Princess Homes
+RBRC/TK  - R.B.R. Corp.
+RANL/TK  - R-Anell Homes, Inc.
+RCMH/TK  - RC Motor Home
+RCON/TK  - Reconstructed Motor Home
+REDI/TK  - Redi-Go Traveler
+REDM/TK  - Redman Homes, Inc.
+REO /TK  - Reo
+REVN/TK  - Revcon
+RICH/TK  - Richardson Homes Corp.
+RCKL/TK  - Rickel Mfg. Corp.
+ROAD/TK  - Road Motor Home
+ROAE/TK  - Roadliner Mfg. Div.
+ROAB/TK  - Roam-A-Bout Camper
+ROAM/TK  - Roaminghome Co., Inc.
+ROBM/TK  - Robinhood Motor Homes, Inc.
+ROKW/TK  - Rockwood Motor Home
+ROLH/TK  - Roll-A-Long & Sterling Coach Co.
+ROOF/TK  - Roofmaster
+ROV /TK  - Rover
+ROV /TK  - Rover 25
+ROV /TK  - Rover 45
+ROV /TK  - Rover 75
+ROLY/TK  - Royal Land Yacht
+RVII/TK  - RV Industries, Inc.
+SABR/TK  - Sabra
+SFET/TK  - Safet Camper
+SALE/TK  - Salem Mobile Home
+FEST/TK  - Sandpointe
+SANI/TK  - Sani-Cruiser Co.
+FTWD/TK  - Santana Motor Div.
+SAVG/TK  - Savage Manufacturing Corp.
+SCAN/TK  - Scania
+SCOU/TK  - Scout Motor Home
+SEAF/TK  - Seagrave Fire Apparatus
+SETR/TK  - Setra of North America, Inc.
+SHAS/TK  - Shasta Motor Home
+SITE/TK  - Sightseer Motor Home
+SILV/TK  - Silver Streak Trailer Co.
+SKMD/TK  - Skyline Motorized Div.
+SNAP/TK  - Snapper
+SOLE/TK  - Solectria Citi Van
+SOON/TK  - Sooner Mfg.
+SOWI/TK  - Southwind Motor Home
+SPAA/TK  - Space Motor Home
+SPAM/TK  - Spacemaster
+SPTN/TK  - Spartan Motors, Inc.
+SPRT/TK  - Sportcoach Motor Home
+STAO/TK  - Starcraft Corp.
+STRR/TK  - Starcrest Motor Home
+STAT/TK  - Startrek
+STRG/TK  - Sterling Truck
+STDP/TK  - Steyr-Daimler-Puch
+STRM/TK  - Streamline Motor Home
+STU /TK  - Studebaker-Worthington, Inc.
+SUBA/TK  - Subaru
+SUNB/TK  - Sunbeam
+SUND/TK  - Sundial Motor Home
+SUNE/TK  - Sunliner Motor Home
+GARP/TK  - Sunrader
+SUPE/TK  - Superior Motor Home
+SURV/TK  - Surveyor Motor Home
+SUTP/TK  - Sutphen Corp.
+SUZI/TK  - Suzuki Pickup Truck
+SUZI/TK  - Suzuki Samurai
+SUZI/TK  - Suzuki Sidekick
+SUZI/TK  - Suzuki X-90
+SWEE/TK  - Sweetheart Motor Home
+SWIN/TK  - Swinger
+TAHO/TK  - Tahoe Motor Home
+TARA/TK  - Tara Products, Inc.
+TAYD/TK  - Taylor-Dunn Industrial Elec Vehicles
+TERR/TK  - Terravac Corp.
+TEXO/TK  - Texoma, Inc.
+THAM/TK  - Thames
+CPPR/TK  - The Good Life
+THMS/TK  - Thomas Built Bus Co.
+TIOG/TK  - Tioga Motor Home
+TITA/TK  - Titan Trailer Corp.
+TOLO/TK  - Tour-A-Lodge
+TOWN/TK  - Town & Country Mfg.
+TOYT/TK  - Toyota 4Runner
+TOYT/TK  - Toyota Highlander (4Runner)
+TOYT/TK  - Toyota Hi-Lux
+TOYT/TK  - Toyota Landcruiser
+TOYT/TK  - Toyota Motor Co., Ltd.
+TOYT/TK  - Toyota Previa
+TOYT/TK  - Toyota RAV4
+TOYT/TK  - Toyota Sequoia
+TOYT/TK  - Toyota Sienna
+TOYT/TK  - Toyota SR5
+TOYT/TK  - Toyota T-100
+TOYT/TK  - Toyota T-150
+TOYT/TK  - Toyota Tacoma
+TRST/TK  - Trailstar
+CHAM/TK  - Trans Van Motor Homes
+GEOR/TK  - Transmaster
+TMC /TK  - Transportation Manufacturing Corp
+INTL/TK  - Transtar
+TRVC/TK  - Travco Corp.
+TRCR/TK  - Travel Car Motor Home
+TRVL/TK  - Travel Home, Inc.
+TRQN/TK  - Travel Queen Motor Home
+TVLC/TK  - Travelcraft Motor Home
+TRVA/TK  - Travelcraft, Inc.
+TRMI/TK  - Traveler Mfg., Inc.
+TRVE/TK  - Traveleze Industries, Inc.
+TRVM/TK  - Traveliner Motor Home
+TRAV/TK  - Travoy Motor Home
+TREK/TK  - Trek, Inc.
+TROJ/TK  - Trojan
+TUFF/TK  - Tuffy
+UAZ /TK  - UAZ (Ulianovsk Automobile Zavod) CCMV
+UD  /TK  - UD Truck (formerly Nissan)
+UDMP/TK  - U-Dump, Inc.
+ULTR/TK  - Ultra Inc.
+UNGE/TK  - Unger Motor Home
+TRUK/TK  - Unpublished Truck Mfg.
+UTAH/TK  - Utah King Motor Home
+UTEL/TK  - Uteliner Motor Home
+UTIM/TK  - Utilimaster
+UTIM/TK  - Util-I-Van
+UTOP/TK  - Utopia Coach Corp.
+VACE/TK  - Vacationar Motor Home Truck
+VANM/TK  - Van American, Inc.
+VNHL/TK  - Van Hool Buses & Motor Coaches
+VANT/TK  - Vanette
+VESE/TK  - Vesely Co.
+VIVA/TK  - Viva Motor Home
+VOGU/TK  - Vogue Motor Home
+VOLK/TK  - Volkswagen
+VOLK/TK  - Volkswagen Eurovan
+VOLK/TK  - Volkswagen Kombi
+VOLK/TK  - Volkswagen Microbus
+VOLK/TK  - Volkswagen Transporter
+VOLK/TK  - Volkswagon Vanagon
+VOLV/TK  - Volvo
+WAGN/TK  - Wagner
+WALT/TK  - Walter Motor Truck Co.
+WALA/TK  - Ward LaFrance International Inc.
+WASW/TK  - Warner & Swasey Co.
+WAYF/TK  - Wayfarer Coach Mfg.
+WAYC/TK  - Wayne Corp.
+WCTR/TK  - West Coaster Mailster
+WSTR/TK  - Western Star
+WHGM/TK  - White GMC
+WHIT/TK  - White Motor Corp.(for models thru 1987)
+WHTP/TK  - White Pine Campers, Inc.
+HOLR/TK  - Wide World
+WIGW/TK  - Wigwam Motor Home
+WICT/TK  - Williams Craft, Inc.
+WILW/TK  - Williamsen Truck Equipment Corp.
+WILL/TK  - Willys-Overland
+WINL/TK  - Winder Liberator Camper
+WIND/TK  - Windjammer Motorcoach
+WINN/TK  - Winnebago Industries, Inc.
+WRKH/TK  - Workhors Custom Chasis
+WYNO/TK  - Wynona Corp.
+YALE/TK  - Yale, Material Handling Div.
+ZIMM/TK  - Zimmer Motor Coach Corp.

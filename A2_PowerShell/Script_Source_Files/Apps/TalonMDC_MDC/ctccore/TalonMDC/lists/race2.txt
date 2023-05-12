@@ -1,0 +1,7 @@
+~<BLANK>
+I - American Indian
+I - Alaskan Native
+A - Asian
+B - Black
+W - White
+U - Unknown

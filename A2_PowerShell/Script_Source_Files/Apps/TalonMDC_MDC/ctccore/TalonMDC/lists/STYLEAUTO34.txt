@@ -1,0 +1,20 @@
+~<BLANK>
+2D - Two Door
+2H - 2-Door Hatchback
+2T - 2-Door Hardtop
+4D - Four Door
+4H - 4-Door Hatchback
+4T - 4-Door Hardtop
+AM - Ambulance
+CH - Coach
+CP - Coupe
+CV - Convertible
+HB - Hatchback (3-Door)
+HR - Hearse
+HT - Hardtop
+LM - Limousine
+RD - Roadster
+RH - Retractable HT
+SD - Sedan
+SW - Station Wagon
+TO - Touring Car

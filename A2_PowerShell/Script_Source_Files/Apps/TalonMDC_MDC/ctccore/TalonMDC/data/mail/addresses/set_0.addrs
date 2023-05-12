@@ -1,0 +1,12 @@
+22
+U	A	admin	Built-in Administrator	
+G	AF	TrainingRoom114 	CLEMIS Training	
+G	C	Administrators	Talon Administrators	
+U	J	tac	TAC Officer	
+G	K	LEINUSERS	CLEMIS Team	
+U	Q	XXbutlerg	George Butler CLEMIS	
+G	Z	QueryOnly	config group	
+G	[	Query/CCH	config group	
+G	\	ENTRY	query/CCH/entry dispatch timeout	
+G	]	TAC	config group	
+G	^	TACAdmin	config group	

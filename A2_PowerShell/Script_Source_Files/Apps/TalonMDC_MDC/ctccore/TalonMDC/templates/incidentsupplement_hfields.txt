@@ -1,0 +1,8 @@
+SupplementNumber
+Description
+SupplementDate
+ReportingOfficer
+EnteredBy
+ReviewStatus
+ReviewedBy
+ReviewedDate

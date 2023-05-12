@@ -1,0 +1,19 @@
+1
+G	GPM	RosevilleDISPORI	DIspatch ORI
+G	GPN	RosevilleTRAFFICORI	Traffic ORI
+G	GPO	RosevilleDBORI	DB ORI
+G	GPP	RosevilleRECORDSORI	Records ORI
+G	GPQ	RosevilleSIUORI	SIU ORI
+G	MA[	RosevilleProsEdit	pros/mparr group
+G	MAW	RosevilleEntry	entry config
+G	MAX	RosevilleQuery/CCH	Query/CCH config
+G	MAY	RosevilleQueryOnly	Roseville Query Only config
+G	MAZ	RosevilleTAC	TAC Config group
+G	PKM	RosevilleWW	Roseville WW Users
+G	RHC	RosevilleMobile	Roseville Mobile ORI
+G	XJ[	RAISINTWPDESKTOP	RAISIN TWP Desktop
+G	XJ\	RAISINTWPMOBILE	RAISIN TWP Mobile ORI
+G	XJ]	RAISINTWPORI	RAISIN TWP ORI
+G	XJ^	RAISINTWPTAC	TAC Config group
+G	XLZ	RaisinTwpEntry	entry config
+G	XRJ	RaisinTwpWW	Raisin TWP WW Users

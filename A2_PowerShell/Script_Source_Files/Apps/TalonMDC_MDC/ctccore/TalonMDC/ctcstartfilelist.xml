@@ -1,0 +1,14 @@
+<MBUpdates>
+	TrackHistory="False" 
+	<Directory MBDir="CTCApps/CTCStart/talonmdc" LocalSubDir=".">
+		<File Name="ctcstart.exe"/>
+		<File Name="ctcstart.ico"/>
+		<File Name="ctcstart.ini"/>
+		<File Name="ctcstart.lax"/>
+		<File Name="coresplash.png"/>
+	</Directory>
+
+	<Directory MBDir="CTCApps/CTCStart/CTCStartLib" LocalSubDir="ctcstartlib">
+		<File Name="ALL_SERVER_FILES" ListFilter ="*.jar"/>
+	</Directory>
+</MBUpdates>

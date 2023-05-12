@@ -1,0 +1,7 @@
+SituationNumber
+Description
+ExceptionalClearanceCode
+ExceptionalClearanceDate
+NIBREditCode
+NIBRStatusCode
+Unfounded

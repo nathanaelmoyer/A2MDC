@@ -1,0 +1,23 @@
+~<BLANK>
+A - Automatic
+B - Bolt Action
+C - Carbine
+D - Derringer
+E - Double-Barrel (Side by Side)
+F - Flare Gun
+G - Gas or Air
+H - Flintlock
+I - Semi-automatic
+J - Jet Propelled Gun
+K - Blank
+L - Lever Action
+N - Launcher
+O - Over-Under
+P - Pump/Slide Action
+R - Revolver
+S - Single Shot
+T - Recoilless
+U - Percussion
+V - Tear Gas
+W - Three Barrels
+X - Four or more Barrels

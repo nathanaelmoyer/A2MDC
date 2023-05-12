@@ -1,0 +1,14 @@
+~<BLANK>
+ALB - Albino
+BLK - Black
+DRK - Dark
+DBR - Dark Brown
+FAR - Fair
+LGT - Light
+LBR - Light Brown
+MED - Medium
+MBR - Medium Brown
+OLV - Olive
+RUD - Ruddy
+SAL - Sallow
+YEL - Yellow

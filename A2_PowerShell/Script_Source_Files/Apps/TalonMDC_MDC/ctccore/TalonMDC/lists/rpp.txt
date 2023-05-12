@@ -1,0 +1,12 @@
+~<BLANK>
+HIT LOCAL YYYYMMDD - YYYYMMDD represents the year, month, and day of the hit.
+HIT STATE YYYYMMDD - YYYYMMDD represents the year, month, and day of the hit.
+HIT NCIC YYYYMMDD - YYYYMMDD represents the year, month, and day of the hit.
+OTHER MEANS - OTHER MEANS
+PREVIOUS RECOVERY - PREVIOUS RECOVERY
+;CASE DROPPED - Use in cancel transaction only  4/24/07 removed per MSP
+;NOT STOLEN - Use in cancel transaction only  4/24/07 removed per MSP
+NOT LOST - It was determined that property identified in NCIC had not been lost.
+;ADMIN CLOSING - Investigative case was administratively closed.
+
+

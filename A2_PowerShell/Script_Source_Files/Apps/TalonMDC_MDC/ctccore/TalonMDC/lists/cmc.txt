@@ -1,0 +1,18 @@
+~<BLANK>
+00 - Caution, Armed and dangerous
+01 - Caution, (Other)
+05 - Caution, Violent tendencies
+10 - Caution, Martial arts expert
+15 - Caution, Explosive expertise
+20 - Caution, Known to abuse drugs
+25 - Caution, Escape risk
+30 - Caution, Sexually violent predator -contact ORI for info.
+40 - International Flight Risk
+50 - Caution, Heart condition
+55 - Caution, Alcoholic
+60 - Caution, Allergies
+65 - Caution, Epilepsy
+70 - Caution, Suicidal
+80 - Caution, Medication required
+85 - Caution, Hemophiliac
+90 - Caution, Diabetic

@@ -1,0 +1,10 @@
+~<BLANK>
+QBADGE - Badge
+QSMARTC - Card, Smart
+QCREDEN - Credentials, Police/Federal Identification
+QCREDEN - Critical Infrastructure Identification
+QDOGTAG - Dog Tag
+QCREDEN - Identification (pass or card)
+QCREDEN - Homeland Security Identification Card
+QCREDEN - Public Safety Identification Card
+QBADGE - Shield

@@ -1,0 +1,15 @@
+1
+G	MEF	UticaTAC	TAC Config group
+G	MEG	UticaEntry	entry config
+G	MEH	UticaQuery/CCH	Query/CCH config
+G	MEI	UticaQueryOnly	Query Only config
+G	PID	Users	All Regular User Accts
+G	PLS	UticaWW	Utica WW Users
+G	SA_	UticaMobile	Utica Mobile ORI
+G	ST	UticaPDORI 	Utica Dispatch ORI
+G	SX[	UofMDesktop	University of Michigan Desktop
+G	SX\	UofMEntry	entry config
+G	SX]	UofMQueryOnly	U of M Query Only config
+G	SXX	UofMMobile	U of M Mobile ORI
+G	SXY	UofMTAC	TAC Config group
+G	SXZ	UofMWW	UofM WW Users

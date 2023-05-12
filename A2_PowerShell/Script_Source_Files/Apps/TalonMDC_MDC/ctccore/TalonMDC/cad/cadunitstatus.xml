@@ -1,0 +1,27 @@
+<CADNewIncident ClassName="com.ctccore.talon.cad.EvtStatusChange" GlobalFormatTextField="4">
+	<Title>CAD Status Change</Title>  
+	<FormDefinition>
+		<XMLItem Label="Change Code" Type="Combo" Required="True" ScrollWidth="200" Editable="false" SCFormat="0">
+			<Values LoadExternally="true" Filename="statuscodes.xml" />
+			<Field>StatusCode</Field>
+		</XMLItem>
+		<XMLItem Type="Line" PreceedingNextLinePixels="20" />
+		<XMLItem Label="Location" Type="Text" PreceedingNextLinePixels="20" JContFormat="0" Columns="20" MaxLength="20" SCFormat="64">
+			<Field>Location</Field>
+		</XMLItem>
+		<XMLItem Type="Line" PreceedingNextLinePixels="20" />
+		<XMLItem Label="Odometer" Type="Text" PreceedingNextLinePixels="20" JContFormat="0" Columns="4" MaxLength="4" SCFormat="2, 64" JContNextLine="false">
+			<Field>Odometer</Field>
+		</XMLItem>
+		<XMLItem Label="" Type="Text" JContFormat="0x4000" Columns="1" MaxLength="1" SCFormat="2, 64">
+			<Field>Odometer2</Field>
+		</XMLItem>
+		<XMLItem Type="Line" PreceedingNextLinePixels="20" />
+		<XMLItem Label="Comments" Type="Text" PreceedingNextLinePixels="20" JContFormat="0" Enabled="true" Columns="20" MaxLength="20" SCFormat="64">
+			<Field>Comments</Field>
+		</XMLItem>    
+	</FormDefinition>
+	<Button Label="Submit" Action="Submit;Close" Key="VK_ENTER"/>
+	<Button Label="Clear Form" Action="Clear"/>
+	<Button Label="Cancel" Action="Close" Key="VK_ESCAPE"/>
+</CADNewIncident>

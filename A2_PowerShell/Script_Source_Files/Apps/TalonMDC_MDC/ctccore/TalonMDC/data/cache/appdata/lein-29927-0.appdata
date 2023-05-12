@@ -1,0 +1,58 @@
+[Global]
+AllowWordSearch =false
+OrisAllowed=MICLEMIS1
+AuthenticationTimeout=60
+SiteInfo=Clemis Help Desk-\n248-858-8812
+NCIC2000=T
+mdcFButton7=Traffic Form<%>Traffic Stop
+mdcFButton8=Person<%>Person Inquiry_Query Person
+mdcFButton9=OLN<%>Person Inquiry_Query Op License By License Number
+mdcFButton10=Plate<%>Vehicles_Query Plate Only
+TPDestinations=MIDRS
+mdcClearTalonPoints=false
+mdcButtonHeight=1
+mdcCascadeWindow=false
+LEINLogAgeLimit=30
+LEINShowLicense=false
+InActTimeout=120
+PrintMarginSize=50
+LEINRestrictORILists=true
+Allow_ViewCrimeLabTP=T 
+LNTRAFF__47:1=53
+LNMULTIUSE__47:1=53
+SiteInfo=CLEMIS MB 2
+MAPAllowedDestinations=MI63 CLEMIS RMS,MI63 CLEMIS JMS,Michigan State Police AICS,MIDRS,Judicial Data Warehouse,SNAP,TRACView,PACCPAAM,BWIPawn,Lansing PD RMS,DDP Data Warehouse,Little River Band of Ottawa Indians,Little Traverse Bay Band of Odawa Indians,MI82 34DC Romulus RMS,MI82 Redford RMS,MI82 Southgate RMS,MI82 Taylor RMS,MI82 Wayne Co 3CC CRIM,MI82 Wayne Co Jail,MI82 Wayne Co Mugshots,MI82 Detroit CaseTrax,MI82 Detroit NetRMS,MI81 Washtenaw CO Sheriff RMS/JMS,MI81 Ann Arbor PD RMS,MI81 Univ of Michigan DPS RMS,MI81 Eastern Michigan Univ DPS RMS,Monroe Sheriff RMS,Monroe County JMS,Kent County Sheriff RMS,Kent County Sheriff JMS,Kentwood PD RMS,MI41 Grand Rapids PD RMS,MI41 Walker PD RMS,Wyoming PD RMS,MI59 Montcalm Co Sheriff RMS,MI15 MI16 MI24 CCE RMS,OH NORIS,OH NORIS Mugshots
+MAPAllowedGroups=CLEMIS,AICS,Kent Sheriff Systems,Kent County Region,OUT COUNTY,CJIS Pilot,Wayne County Region,Wayne County Cities
+
+[Group_AnnArborQueryOnly]
+config=Southfieldqueryonly
+IsUserMessageRoutingGroup=False
+[Group_AnnArborWW]
+
+[Group_AnnArborDesktop]
+AgenciesAllowed=MI8121800
+ORIsAllowed=MI8121800
+
+[Computer_172.18.183.99]
+RoutingID=8183124
+AlternateMessageDelivery=4
+
+[User_AABOUGHERJ]
+ONAME=AABOUGHERJ
+RNAME=AABOUGHERJ
+ANAME=AAPD
+ViewMode=2
+UseBold=true
+LEINMessageSeparator=Dashes
+FontSize=13
+DoSendToHost=true
+TransmitLoc=TOP
+SoundFile=
+LEINAutoPrint=false
+DisplayWhileAutoPrint=true
+AutoPrintTimeout=5
+DoSendToAPRS=false
+mdcButtonHeight=2
+mdcClearTalonPoints=false
+mdcClearFormAfterTransmit=false
+LastFormButton=2

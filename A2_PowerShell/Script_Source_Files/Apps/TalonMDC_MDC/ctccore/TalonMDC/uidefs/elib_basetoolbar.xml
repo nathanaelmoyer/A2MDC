@@ -1,0 +1,19 @@
+<Controls>
+    <Separator/>
+    <Button ProgramID="eLibrary"
+      ValidState="4" 
+      Image="elibrary.png" 
+      Label="eLibrary" LabelVAlignment="Bottom" LabelHAlignment="Center" 
+      ToolTip="e-Learning Library">
+			<Script>
+				MC.Trace( "eLibrary button pressed" );
+				var sessionToken = MB.GetSessionToken();
+				MC.Trace( "sessionToken:" + sessionToken );
+				var url = "http://csb.ctc-core.com/eLearningLibrary/eLearning%20Library.htm";
+				//Use the following line to use the PC's default browser.
+				BASUTIL.StartFile( url, "", MC );
+				//Use the following line to use the Talon built-in browser.
+				//Helper.StartDlgBrowser( url, false, false, true );
+			</Script>
+    </Button>    		
+</Controls>

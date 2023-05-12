@@ -1,0 +1,11 @@
+LastName
+FirstName
+MiddleName
+Suffix
+RoleDesc
+NameType
+Sex
+Race
+DOB
+Location
+ContactMethod

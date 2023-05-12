@@ -1,0 +1,476 @@
+~<BLANK>
+FLAN/CYL - A.Claeys Flandria (Belgium)
+HODA/CYL - Ace (model of Hodaka)
+AJS /CYL - AJS (United Kingdom)
+AJW /CYL - AJW
+ALEX/CYL - Alexander-Reynolds Corp.
+ATV /TRW - All Terrain Vehicle (Tracks & Wheels)
+ATV /TRA - All Terrain Vehicle (Tracks only)
+ATV /WHE - All Terrain Vehicle (Wheels only)
+ALED/CYL - Allied
+ALLL/CYL - Allied Leisure, Inc.
+SEAR/CYL - Allstate (see  Sears, Roebuck & Co.)
+ALOU/CYL - Aloutte
+ALPH/CYL - Alpha
+ALSP/CYL - Alsport/Steen (see Tri-Sport/Steen)
+AMBA/CYL - Ambassador
+AMEN/CYL - Amen
+AEAG/CYL - American Eagle (also see make Eagle)
+AIH /CYL - American Ironhorse LP
+AMI /CYL - American Microcar, Inc.
+AMF /CYL - AMF
+AMME/CYL - Ammex
+AMPT/CYL - Amphicat
+ANGL/CYL - Angel
+APRI/CYL - Aprilia Motorcycles
+ALEX/CYL - Arco (mfd. by Alexander-Reynolds)
+ARCA/CYL - Arctic Cat
+AGYL/CYL - Argyle
+ARIE/CYL - Ariel (British)
+ARTI/CYL - Artie
+ASPS/CYL - Aspes
+ATK /CYL - ATK America Inc
+ATAS/CYL - Atlas
+ATEX/CYL - Attex
+AUG /CYL - Augustana
+AURA/CYL - Auranthetic Charger
+JAWA/CYL - Babetta (mfd. by Jawa)
+BALK/CYL - Balkan
+BANM/CYL - Bantam
+BRTT/CYL - Baretta
+BTVS/CYL - Batavus Mo-ped
+BEBE/CYL - Bebe
+BDFL/CYL - Bender-Florin
+BENE/CYL - Benelli (Italy)
+FLAN/CYL - Bermuda Bikes (A. Claeys Flandria)
+BETA/CYL - Beta
+BIAN/CYL - Bianchi
+FLEO/CYL - Big Bear (mfd. by Flexo Products Co.)
+BGDG/CYL - Big Dog Custom Motorcycles, Inc.
+BIMO/CYL - Bi-Motor Stallion
+BGHM/CYL - Bingham
+BIRD/CYL - Bird
+VINC/CYL - Black Knight (model of Vincent)
+INGL/CYL - Blanco (Model of Intramotor)
+BLAE/CYL - Blazer
+BMW /CYL - BMW (Germany)
+BOMB/CYL - Bombardier (Canada--see Can-Am & Puch)
+BNZA/CYL - Bonanza
+BOND/CYL - Bond
+BRLL/CYL - Borella
+BBW/CYL  - Bourget's Bike Works
+VESP/CYL - Bravo (model of Vespa)
+BREK/CYL - Break
+BRID/CYL - Bridgestone
+BRST/CYL - Briggs & Stratton Corp.
+BRON/CYL - Broncco (Italy)
+BRUT/CYL - Brutt
+BSA /CYL - BSA (United Kingdom)
+BUEL/CYL - Buell Motor Co.
+BUG /CYL - Bug
+BULT/CYL - Bultaco (Spain)
+BURO/CYL - Burrito (also see make J.C.Penney)
+SWIT/CYL - C.M.Cub (mfd. by SWI Tong Corp.)
+CAGI/CYL - Cagiva
+CAFF/CYL - Califfo
+CABK/CYL - Campus Bike
+CANA/CYL - Can-Am
+CANN/CYL - Cannondale Corporation
+CACY/CYL - Caper Cycle
+CAPR/CYL - Capri
+CALO/CYL - Capriolo
+CAAR/CYL - Carabela (Mexico)
+CASL/CYL - Casal
+CATM/CYL - Cat
+CMCW/CYL - CCM/Clews
+CENT/CYL - Centaur
+CEZE/CYL - Cezetta
+CHAP/CYL - Chaparral
+YAMA/CYL - Chappy (mfd. by Yamaha Motor Corp.)
+CRGR/CYL - Charger
+CHTH/CYL - Cheetah
+CHIB/CYL - Chibi
+VESP/CYL - Ciao (model of Vespa)
+CIMA/CYL - Cimatti
+CIMA/CYL - City Bike (model of Cimatti)
+MOTN/CYL - Classic (model of Motron)
+CLIT/CYL - Clinton Engines Corp.
+CLMN/CYL - Coleman
+SUZI/CYL - Colt (Mfgd by Suzuki)
+ARIE/CYL - Colt (model of Ariel)
+COLB/CYL - Columbia Mfg. Co.
+COMU/CYL - Commuter Industries, Inc.
+COCO/CYL - Concord
+COND/CYL - Condor
+CONF/CYL - Confederate Motor Works, Inc.
+CONT/CYL - Continental
+COOP/CYL - Cooper (Mexico)
+CREL/CYL - Corbin Electric
+COSM/CYL - Cosmo
+COTN/CYL - Cotton
+CRAF/CYL - Craftsman (also see Sears, Roebuck)
+CUSH/CYL - Cushman
+CUYL/CYL - Cuyler Corp.
+CYSC/CYL - Cyclescoot
+CZ  /CYL - CZ (Czechoslavakia-- see Jawa/CZ)
+DALE/CYL - Dalesman (United Kingdom)
+DANU/CYL - Danuvia
+DARW/CYL - Darwin
+DERB/CYL - Derbi Motor Corp.
+DKR /CYL - DKR
+DKW /CYL - DKW
+DMP /CYL - DMP
+DOT /CYL - Dot
+DOUM/CYL - Douglas
+DUCA/CYL - Ducati
+DYCY/CYL - Dynacycle
+EGLE/CYL - Eagle (also see make American Eagle)
+ECOB/CYL - Eco-Bike Elec Motorcycle
+EDWN/CYL - Edwins
+ELCY/CYL - Electric Cycle
+EMML/CYL - EML
+ESIX/CYL - Essix
+ETON/CYL - E-TON DyLtd.
+EXCR/CYL - Excelsior
+EXHE/CYL - Excelsior-Henderson Motorcycles
+EXPL/CYL - Explorer
+ALEX/CYL - E-Z Rider (Alexander-Reynolds
+MOTN/CYL - Fairway (model of Motron)
+FNTM/CYL - Fantic
+FHL /CYL - FHL
+JUIL/CYL - Five-Star St. LTD Edition. or C2
+FLAN/CYL - Flandria, A. Claeys
+FLEO/CYL - Flexo Products Co.
+FLYI/CYL - Flying Dutchman
+FN  /CYL - FN
+FOMO/CYL - Foremost (also see make J.C.Penney)
+FOX /CYL - Fox
+FOXI/CYL - Foxi
+FRBA/CYL - Francis-Barnett
+SEAR/CYL - Free-Spirit (Sears brand)
+HMVE/CYL - Free-Way II, (Mfd. by H-M Veh Inc.)
+FRUN/CYL - Fruin
+FUJI/CYL - Fuji Robbt Jr (Mfd. by H-M Veh Inc.)
+GABB/CYL - Gabbianno
+GADB/CYL - Gadabout
+GARE/CYL - Garelli
+GEMI/CYL - Gemini
+JUIL/CYL - General 5-Star
+GENR/CYL - General Moped Co. (New York, New York)
+GILE/CYL - Gilera
+GILL/CYL - Gill Mfg. Co.
+GISN/CYL - Gilson
+GITA/CYL - Gitane
+GLBE/CYL - Globe
+INGL/CYL - Gloria (model of Intramotor)
+GOKT/CYL - Go Kart
+GOGO/CYL - Gogomobile
+GLMB/CYL - Golfmobile
+VESP/CYL - Grande (model of Vespa)
+GREV/CYL - Greeves
+GRRM/CYL - GRM
+GROV/CYL - Grove
+GRYE/CYL - Grycner
+GUZO/CYL - Guazzoni
+GUIZ/CYL - Guizzo
+HGON/CYL - Hagon
+HANS/CYL - Hansa
+HD  /CYL - Harley-Davidson
+NEGR/CYL - Harvard (model of Negrini)
+HAWT/CYL - Hawthorne
+HEAL/CYL - Heald, Inc.
+HEAT/CYL - Heathkit
+HEIN/CYL - Heinkel
+HERC/CYL - Hercules
+HRTR/CYL - Herter
+HIAW/CYL - Hiawatha
+HODA/CYL - Hodaka (Japan)
+HOF /CYL - Hoffman
+HLDH/CYL - Holandia Holder
+HOMD/CYL - Homemade motorcycles
+HOND/CYL - Honda (Japan)
+HORX/CYL - Horex
+HUFY/CYL - Huffy Corp. (Dayton, Ohio)
+HUML/CYL - Hummel
+HUSK/CYL - Husky
+HUSQ/CYL - Husqvarna
+COLB/CYL - Imperial (mfd. by Columbia)
+IND /CYL - Indian (Taiwan)
+INDI/CYL - Indian Motorcycle Company
+INGL/CYL - Intramotor Mopeds (Verona, Italy)
+ITAL/CYL - Italjet
+ITAT/CYL - Italtelai Mfg. Co. (Italy)
+ITAV/CYL - Italvelo
+ITOM/CYL - Itom
+PENN/CYL - J. C. Penney (see Burrito and Foremost)
+JMS /CYL - James
+JAMM/CYL - Jammer Cycle Products, Inc.
+JAWA/CYL - Jawa/CZ (Czechoslovakia--see make CZ)
+JB  /CYL - JB
+JMCY/CYL - Jet
+JOLI/CYL - Johnny Lightning
+JUIL/CYL - Juili Enterprises Co., Ltd.
+JUIL/CYL - Juili Honey 50
+JPTR/CYL - Jupiter
+KAM /CYL - Kama
+KMSR/CYL - Kamasura (USA)
+KAMI/CYL - Kami
+KSEA/CYL - Kasea Motorsports
+KAWK/CYL - Kawasaki (Japan)
+MOTS/CYL - King Scorpion
+KITK/CYL - Kitty Cat (Kit Kat)
+KOMR/CYL - Komar
+KRDL/CYL - Kreidler
+KROM/CYL - Kromag (Subs. of Puch)
+KTM /CYL - KTM
+LAMB/CYL - Lambretta
+LANR/CYL - Lancer
+LAVE/CYL - Laverda
+LAZE/CYL - Lazer
+LECT/CYL - Lectracan
+LEKT/CYL - Lektracycle
+LEM /CYL - Lem
+MTBE/CYL - Lemoped (model of Motobecane)
+LILN/CYL - Lil Indian
+LILA/CYL - Lilac
+LINH/CYL - Linhai
+LOM /CYL - Lombard
+LUKY/CYL - Lucky
+LYMA/CYL - Lyman Metal Products Corp.
+MVAU/CYL - M.V. Agusta
+PUCH/CYL - Magnum MK II (model of Puch)
+MAIC/CYL - Maico (West Germany)
+MALA/CYL - Malaguti
+MALN/CYL - Malanca
+MALY/CYL - Malyette
+MANE/CYL - Manet
+MRCO/CYL - Marco
+MARU/CYL - Marusho
+MASY/CYL - Massey
+MTCH/CYL - Matchless
+MATR/CYL - Matrette
+MAV /CYL - Maverick
+PUCH/CYL - Maxi (mfd. by Puch)
+PUCH/CYL - Maxi Luxe (model of Puch)
+MDS /CYL - MDS
+MOTN/CYL - Medalist (model of Motron)
+MINN/CYL - Minelli
+HEAL/CYL - Mini Bronc (mfd. by Heald, Inc.)
+MMCL/CYL - Mini-Marcellino
+MINI/CYL - Miniscooter
+MTBE/CYL - Mobylette (model of Motobecane)
+MTD /CYL - Modern Tool & Die (MTD)
+MOJA/CYL - Mojave
+MNAR/CYL - Monarch (Sweden)
+MNRK/CYL - Monark
+MOND/CYL - Mondial
+MONT/CYL - Monte
+MOTS/CYL - Montesa (Spain)
+RIVS/CYL - Montgomery Ward (see Riverside)
+LEM /CYL - Morini Mini
+MOBE/CYL - Moto Beta
+MOGU/CYL - Moto Guzzi (Italy)
+MOMO/CYL - Moto Morini
+MORU/CYL - Moto Rumi
+MTBE/CYL - Motobecane Moped
+MBEE/CYL - Motobee
+MOBI/CYL - Motobic
+MOTM/CYL - Motom
+HOMD/CYL - Motorcycle (Homemade)
+RECO/CYL - Motorcycle (Reconstructed)
+CYCL/CYL - Motorcycle (Unpublished)
+MRTE/CYL - Motorette
+COLB/CYL - Motrek (mfd. by Columbia Mfg. Co.)
+MOTN/CYL - Motron Corp. (Italy)
+MTD /CYL - MTD (Modern Tool & Die)
+MUHL/CYL - Muhlberg
+MURR/CYL - Murray (Murray, Ohio Mfg. Co.)
+MUST/CYL - Mustang
+MZ  /CYL - MZ
+NEGR/CYL - Negrini
+NEVM/CYL - Neval Motorcycles Ltd.
+PUCH/CYL - Newport (model of Puch)
+NORM/CYL - Norman
+NORT/CYL - Norton (England)
+NSU /CYL - NSU
+NUON/CYL - Number One
+NVTA/CYL - NVT America (moped)
+ODSS/CYL - Odyssey
+OMEG/CYL - Omega
+OPL /CYL - Opel
+OSSA/CYL - Ossa (Spain)
+PACE/CYL - Pacemaker
+ITAT/CYL - Pacer Moped
+PACS/CYL - Pacesetter
+PAND/CYL - Panda Motor Sports North America, Inc.
+PANN/CYL - Pannonia
+PANT/CYL - Panther
+PARI/CYL - Parilla
+PAIS/CYL - Paris
+PDV /CYL - PDV
+PEDA/CYL - Pedalpower Electroped
+PEDD/CYL - Peddlers Choice
+PDRS/CYL - Pederson
+PEGA/CYL - Pegaso
+PENN/CYL - Penney, J. C. (see Burrito & Foremost)
+PENT/CYL - Penton (KTM--Austria)
+PEUG/CYL - Peugeot
+PHOE/CYL - Phoenix
+VESP/CYL - Piaggio (model of Vespa)
+PIAZ/CYL - Piazio
+PINT/CYL - Pinto
+POIN/CYL - Pointer
+PONY/CYL - Ponycycle
+POWL/CYL - Powell
+PWDY/CYL - Power Dyne
+PREM/CYL - Premier
+PROG/CYL - Progress
+PROM/CYL - Promark Products Corp.
+HUFY/CYL - Prothunder (mfd. by Huffy Corp.)
+PRYE/CYL - Pryer Industries (Ada, Ohio)
+PUCH/CYL - Puch
+RABB/CYL - Rabbit
+RABJ/CYL - Rabbit, Jr.
+RDER/CYL - Raider
+RECO/CYL - Reconstructed motorcycle
+RECR/CYL - Recreative Industries, Inc.
+BTVS/CYL - Regency (model of Batavus)
+REVN/CYL - Revcon
+REX /CYL - Rex
+RICK/CYL - Rickman
+RIVS/CYL - Riverside (Montgomery Ward)
+RIVI/CYL - Riviera
+RORU/CYL - Road Runner
+AMF /CYL - Roadmaster
+ROCK/CYL - Rockford
+RKWL/CYL - Rockwell
+ROKN/CYL - Rokon
+ROLL/CYL - Rollfast
+ROEN/CYL - Royal Enfield
+RUMI/CYL - Rumi
+RUPP/CYL - Rupp
+RUTT/CYL - Rutt
+RUTM/CYL - Ruttman
+SACH/CYL - Sachs
+SAFA/CYL - Safari
+SAFT/CYL - Safti
+SALB/CYL - Salsbury
+SANT/CYL - Santo
+SARA/CYL - Saracen
+SCAM/CYL - Scamp
+SCOA/CYL - Scootalong
+SCOR/CYL - Scorpion
+SCOT/CYL - Scott
+INGL/CYL - Scout (model of Intramotor)
+FLEO/CYL - Scrambler (Flexo Products Co.,)
+SEAG/CYL - Seagull
+SEAR/CYL - Sears, Roebuck & Co. (Allstate/Crafts)
+MTBE/CYL - Sebring (model of Motobecane)
+SNSA/CYL - Sensation
+SECY/CYL - Servicycle
+SFM /CYL - SFM
+SHL /CYL - SHL
+TOMO/CYL - Silver Bullet (model of Tomos)
+SILP/CYL - Silver Pigeon
+SMLX/CYL - Simplex
+SIMS/CYL - Simson
+SCAT/CYL - Skat (or Skat-Kitty)
+SMBT/CYL - SMB Teleiamotre (Bologna, Italy)
+SMIL/CYL - Smily
+BIAN/CYL - Snark (mfd. by Banchi Co., Italy)
+SNOC/CYL - Snow Tri Scat
+MTBE/CYL - Solex (model of Motobecane)
+SLEL/CYL - Solo Electra
+SOLO/CYL - Solo Motors, Inc.
+SONI/CYL - Soni II
+SPAR/CYL - Sparta
+SPEC/CYL - Special (Go-Cart, Golf Cart etc)
+SPED/CYL - Speed
+SPBD/CYL - Speed Bird
+SPWY/CYL - Speedway
+SPRD/CYL - Sperry Rand
+SPEG/CYL - Spirit Eagle
+SPOR/CYL - Sportsman
+SPCY/CYL - Springcycle
+SPNT/CYL - Sprinter
+SPRE/CYL - Sprite
+SUN /CYL - Sun
+SUNB/CYL - Sunbeam
+HEAL/CYL - Super Bronc (mfd. by Helad, Inc.)
+SUFL/CYL - Super Flea
+HD  /CYL - Super Glide (mfd. by Harley-Davidson)
+HEAL/CYL - Super-Tryke (mfd. by Heald, Inc.)
+SUVE/CYL - Suvega Tiger
+SUZI/CYL - Suzuki
+SWIT/CYL - SWI Tong Corp. (Taiwan)
+SWM /CYL - SWM
+TACQ/CYL - Tacquito
+TALG/CYL - Tailgater
+TAKA/CYL - Taka (Imported by Rockford)
+TECU/CYL - Tecumseth
+TEMP/CYL - Tempo
+TSSY/CYL - Tessy
+TESI/CYL - Testi
+THPN/CYL - Thompson
+TITN/CYL - Titan Custom Motorcycles
+TOHA/CYL - Tohatsu
+TOMO/CYL - Tomos (Yugoslavia)
+TORA/CYL - Tora (Imported by Rockford)
+TORR/CYL - Torrot
+TG  /CYL - Tote Gote
+TYCO/CYL - Toyoco
+TRDD/CYL - Trac
+TRBZ/CYL - Trail Blazer
+TRBO/CYL - Trail Boss
+TRBR/CYL - Trail Breaker
+HEAL/CYL - Trail Bronco (mfd. by Heald, Inc.)
+TRFL/CYL - Trail Flight
+TRHK/CYL - Trail Hawk
+TRHO/CYL - Trail Horse
+TRTR/CYL - Trail Tramp
+TRSP/CYL - Trans-Sport
+MTBE/CYL - Traveler (model of Motobecane)
+TRVS/CYL - Travis
+TRIH/CYL - Trihawk, Inc.
+TRIK/CYL - Trike
+AMI /CYL - Tri-Ped (mfd. by Amer Microcar, Inc.)
+TRRD/CYL - Tri-Rod
+TRPT/CYL - Tri-Sport/Steen (was Alsport/Steen)
+TRUM/CYL - Triumph (mfd. by Merdian, was TRIU)
+TUTR/CYL - Tule Trooper
+TWST/CYL - Twister
+TWN /CYL - TWN
+TYAN/CYL - Tyran
+ULTM/CYL - Ultima Motorcycles
+CYCL/CYL - Unpublished Motorcycle Mfg.
+URAL/CYL - Ural
+VALI/CYL - Valiant
+VATC/CYL - Van Tech
+VANV/CYL - Van Veen
+VEGL/CYL - Veglia
+VLCT/CYL - Velocette
+MTBE/CYL - Velosolex Moped (model of Motobecane)
+VENU/CYL - Venus
+VESP/CYL - Vespa
+VICT/CYL - Victoria
+VILL/CYL - Villiers
+VINC/CYL - Vincent
+RIVS/CYL - Wards (see Riverside)
+WASP/CYL - Wasp
+WTSN/CYL - Watsonian
+WAYN/CYL - Wayne
+COLB/CYL - Western Flyer (mfd. by Columbia)
+WHIT/CYL - White Motor Corp.
+WHZR/CYL - Whizzer
+WILD/CYL - Wildcat
+WILG/CYL - Wildgoose
+WILS/CYL - Wilson
+WSK /CYL - WSK
+YAMA/CYL - Yamaha (Japan)
+YANK/CYL - Yankee
+SMBT/CYL - Yankee Peddler
+COLB/CYL - Yard-Man
+YENC/CYL - Yenco
+ZNEL/CYL - Zanella
+ZOBO/CYL - Zoboda
+ZUND/CYL - Zundapp

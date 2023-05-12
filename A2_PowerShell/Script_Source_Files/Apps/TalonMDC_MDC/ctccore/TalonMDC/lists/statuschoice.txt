@@ -1,0 +1,8 @@
+0 - Open
+1 - Open, No Kindergarten
+2 - Open, No Elementary
+3 - Open, No Special Ed. Busses
+4 - Open, Buses Main Roads Only
+5 - Open, No Busses
+6 - Closed
+7 - Open, Buses Delayed 2 Hours

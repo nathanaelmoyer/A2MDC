@@ -1,0 +1,3 @@
+~<BLANK>
+H - Hispanic or Latino
+N - Not Hispanic or Not Latino

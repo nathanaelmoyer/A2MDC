@@ -1,0 +1,57 @@
+1
+G	AEG	ShelbyTwpDISPORI	Shebly Twp DispORI
+G	AI\	ShelbyTwpRECORDSORI	Shelby Twp RecordsORI
+G	DWJ	SouthfieldDISPORI	Dispatch ORI - hosts lathrup village
+G	I_F	SalinePDORI	All ORI
+G	IYN	StClairShoresORI 	St Clair Shores ORI
+G	KDB	SouthfieldRECORDS	RECORDS ORI
+G	KDC	SouthfieldTAC	TAC Config group
+G	KDD	SouthfieldEntry	entry config
+G	KDL	SouthfieldQueryOnly	Southfield Query Only config
+G	KDM	SouthfieldQuery/CCH	Query/CCH config
+G	KDN	SouthfieldPatrolAdmin	Patrol Admin ORI
+G	KDX	SouthfieldPatrol	Patrol  ORI(Not Admin)
+G	KHA	SouthfieldDTSMALL	DTS ORI
+G	KHP	SouthfieldINVESTIGATIONSORI	INVESTIGATIONS ORI
+G	MD[	StClairShoresTAC	TAC Config group
+G	MD\	StClairShoresQuery/CCH	Query/CCH config
+G	MD]	StClairShoresEntry	entry config
+G	MD^	StClairShoresQueryOnly	Query Only config
+G	MHX	ShelbyTwpEntry	entry config
+G	MHY	ShelbyTwpTAC	TAC Config group
+G	MHZ	ShelbyTwpQuery/CCH	Query/CCH config
+G	MQI	SouthfieldJAILORI	Jail/Wachenhut ORI
+G	MYV	SalineEntry	entry config
+G	MYW	SalineTAC	TAC Config group
+G	MYX	SalineQuery/CCH	QueryCCH config
+G	O]E	SalineWW	Saline WW Users
+G	O^K	SouthfieldWW	Southfield WW Users
+G	OQE	SERESADISPORI	SERESA
+G	PIJ	SampleUsers	Test Users
+G	PKO	StClairShoresWW	St Clair Shores WW Users
+G	PRE	ShelbyTwpWW	Shelby Township WW Users
+G	Q^@	SERESAWW	Seresa WW Users
+G	RJD	SERESATAC	TAC Config group
+G	S_J	SalineDispatch	Saline Dispatch PCs
+G	SA[	StClairShoresMobile	St Clair Shores Mobile ORI
+G	SAD	SUBADMIN	Subadmin users
+G	SAX	SalineMobile	Saline Mobile ORI
+G	SAZ	SouthfieldMobile	Southfield Mobile ORI
+G	T_J	StClairCountySheriffWW	St Clair County Sheriff WW Users
+G	T_K	StClairCountySheriffQueryCCH	St Clair County Sheriff Query CCH
+G	T_L	StClairCountySheriffQueryOnly	Query Only config
+G	T_M	StClairCountySheriffEntry	entry config
+G	UTA	StClairCityMobile	St. Clair City Mobile ORI
+G	UTB	StClairCityPDORI	St Clair City ORI
+G	UTC	StClairCityWW	St. Clair City WW Users
+G	UUU	StClairCityDesktop	St. Clair City Desktop
+G	UV@	StClairCityTAC	TAC Config group
+G	VIV	StClairCountySheriffDesktops	St Clair County Sheriff Desktops
+G	VIW	StClairCountySheriffMobiles	St Clair County Sheriff Mobiles
+G	VIX	StClairSheriffINTERCENT	St Clair County Sheriff Desktops
+G	WGS	StClairCountySheriffTAC	TAC Config group
+G	WMD	StClairCoCentralDispatchWW	St. Clair Central Dispatch WW
+G	WME	StClairCoCentralDispatchDesktop	St. Clair Co Central Dispatch Desktops
+G	WMF	StClairCoCentralDispatch	CD 911
+G	X@Z	StClairCountyPROSECUTOR	PROSECUTORS OFFICE
+G	ZV\	ShelbyTwpqueryONLY	Query ONLY Config group

@@ -1,0 +1,14 @@
+~<BLANK>
+A1 - Felony Conviction
+G - Citizenship Renunciant
+I - MCDV Conviction
+J - Under 18
+E - Not either a U.S. Citizen or legal resident alien
+D - Adjudicated mentally incompetent, or was involuntarily committed to a mental hospital
+J - Other state disqualifiers, or probable cause
+C - Misd. drug conviction in the previous year, or multiple arrests for drugs in the previous 5 years, or a known drug user.
+F - Dishonorable military discharge
+D - Found not guilty of a crime, due to insanity
+A2 - Under indictment, pending felony charge
+B - Fugitive from justice (outstanding warrant)
+H - Subject to conditional or personal bond release, or personal protection order, or other court order prohibiting purchase or possession of a firearm.

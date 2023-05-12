@@ -1,0 +1,15 @@
+~<BLANK>
+AB - Alberta
+BC - British Columbia
+CN - All Canada
+MB - Manitoba
+NK - New Brunswick
+NF - Newfoundland (includes Labrador)
+NT - Northwest Territories
+NS - Nova Scotia
+XN - Nunavut
+ON - Ontario
+PE - Prince Edward Island
+PQ - Quebec
+SN - Saskatchewan
+YT - Yukon (Territory)

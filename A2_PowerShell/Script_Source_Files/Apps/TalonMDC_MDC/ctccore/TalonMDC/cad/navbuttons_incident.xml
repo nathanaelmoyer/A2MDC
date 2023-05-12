@@ -1,0 +1,29 @@
+<NavButtons>
+<!--
+Defines the buttons which appear in the left hand panel
+on the 'CAD messages' view.
+
+Currently, these buttons all launch forms.
+-->
+	<Label Label="CAD Tasks" 		PreceedingNextLinePixels="0"/>
+    <!-- 
+	<Button Label="F5 T Stop"  	Form="cadnewtstop.xml"/>
+    -->
+	<Button Label="F6 Status Chg" 		Form="cadunitstatus.xml"/>
+	<Button Label="F7 New Inc"  	Form="cadnewincident.xml"/>
+	<Button Label="F8 Update Inc" 	Form="cadupdateincident.xml"/>
+	<Button Label="Clear Inc"  	Form="cadclearincident.xml"/>
+	<Button Label="Refresh Inc">
+		<Script>
+			var cadClient = ClientController.GetCADClient();
+			cadClient.RequestReport("Incident Refresh");
+		</Script>
+	</Button>
+	
+	<!-- LEIN Form Buttons -->
+	<Label Label="LEIN Tasks" 			PreceedingNextLinePixels="15"/>
+	<Button Label="SF7 Traffic Form" 			LEForm="Traffic Stop" JContFormat="FULL_WIDTH"/>
+	<Button Label="SF8 Person" 			LEForm="Person Inquiry_Query Person" JContFormat="FULL_WIDTH"/>
+	<Button Label="SF9 OLN" 		LEForm="Person Inquiry_Query Op License By License Number" JContFormat="FULL_WIDTH"/>
+	<Button Label="SF10 Plate" 		LEForm="Vehicles_Query Plate Only" JContFormat="FULL_WIDTH"/>
+</NavButtons>

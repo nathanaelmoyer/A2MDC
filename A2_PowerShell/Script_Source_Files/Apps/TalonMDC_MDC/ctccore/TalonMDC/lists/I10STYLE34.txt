@@ -1,0 +1,12 @@
+~<BLANK>
+AP - Air Propeller
+CF - Certificate of Origin
+CT - Certificate of Title
+EN - Inboard Engine
+MA - Mast
+OB - Outboard Motor
+OD - Outdrive (includes jet pumps)
+PO - Propeller
+SL - Sail
+SN - Spinnaker
+BX - Unpublished Boat Part

@@ -1,0 +1,250 @@
+<?ctcDefine Attribute="activityViewButton"  		Value="Activity View"?>
+<?ctcDefine Attribute="messageListViewButton" 		Value="Message List View"?>
+<?ctcDefine Attribute="timsViewButton" 	 	Value="TIMS"?>
+<ToolBar Alignment="Horizontal">
+   <!--
+		--Desktop ToolBar--
+    
+	Change log
+	==========
+	8/28/07:	Adapted MDC's toolbar for use with Desktop
+  -->
+	<Controls>
+		<Button ValidState="7" Image="daynight.png" Label="Day/Night" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="Day/Night Mode" ExecCode="23051" />
+		<Separator/>
+		<Button ValidState="1" Image="printer.png" Label="Print" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="Quick Print" ExecCode="23008" />
+		<Button ValidState="6" Image="copy.png" Label="Copy" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="Copy" ExecCode="4023" />
+		<Separator/>
+		<Button ProgAttrs="ppn" ProgID="PauseBtn" ValidState="8" Image="pause.png" Label="Pause  " LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="Pause/Resume" ExecCode="23047" InitiallyEnabled="False"/>
+		<Button ProgAttrs="ppn" ValidState="8" Image="prev.png" Label="Previous" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="Previous Page of Activity" ExecCode="23048" InitiallyEnabled="False"/>
+		<Button ProgAttrs="ppn"	ValidState="8" Image="next.png" Label="Next" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="Next Page of Activity" ExecCode="23049" InitiallyEnabled="False"/>
+		<Separator/>
+		<Button ValidState="6" Image="messagelist.png" Label="LEIN" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="LEIN View" PeerGroup="View Buttons Group" ProgID="${messageListViewButton}">
+			<Script>
+			    Helper.ActivateView( TViewNames.ManagedMessagesView );
+			</Script>
+		</Button>
+		<Button ProgID="TIMSSearchBtn"
+			InitiallyEnabled="False"
+			ValidState="8" 
+			Image="reportwriting.png" 
+			Label="TIMS" 
+			LabelVAlignment="Bottom" 
+			LabelHAlignment="Center" 
+			ToolTip="Search TIMS View">
+			<Script>
+				var viewToActivate = TViewNames.TIMS_Search;
+				var currentViewName = HooksVAPI.GetCurrentViewName();
+				var lastTIMSView = HooksAPI.GetSavedScriptData("LastTIMSView");
+				
+				if ( ! HooksVAPI.IsTIMSView(currentViewName) && lastTIMSView != null )
+				{
+					viewToActivate = lastTIMSView;
+				}
+			
+				HooksVAPI.ActivateView(viewToActivate);
+			</Script>
+		</Button>
+		<Button ValidState="6" Image="reportwriting.png" Label="Reports" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="TIMS Reports" PeerGroup="View Buttons Group" ProgID="${timsViewButton}">
+			<Script>
+			    Helper.ActivateView( TViewNames.TIMS_Reports );
+			</Script>
+		</Button>
+	    <Button ValidState="4" Image="daily.png" Label="Daily" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="Officer Daily"	ExecCode="23355" />
+		<!--Button ProgID="MailBtn" ValidState="8" Image="mail.png" Label="Mail" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="Talon Mail View" ExecCode="23108">
+
+		  <RequireAppData 
+		      ParamName="Mail_Enabled" 
+		      ExpectedParamValue="T" 
+		      DefaultValue="T"/>
+		  <Script>
+		    HooksVAPI.ActivateView("Mail");
+		  </Script>
+		</Button-->		
+		<Button ProgID="WWBtn" ValidState="8" Image="talk.png" Label="WW" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="Who's Where Messaging" ExecCode="23041" InitiallyEnabled="False"/>
+		<Separator/>
+		<Button ValidState="4" Image="detail.png" Label="Open" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="Expand selected item into its own window"	ExecCode="23050" />    		
+		<Button ValidState="4" Image="lastform.png" Label="Last Form" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="Last Form"	ExecCode="23036" />    		
+		<Button ValidState="1" Image="exit.png"  Label="Exit" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="Exit Talon"> 
+			<Script>
+				ClientController.ExitProgram( true, "Exit via ToolBar", false );
+			</Script>
+		</Button>
+    
+    
+	</Controls>
+	<Events>
+		<Event ID="Activity Paused">
+			<Script>
+				var showPause = "true".equalsIgnoreCase(paused);				
+				var filename;
+				var text;
+				
+				if ( showPause )
+				{
+					filename = "pause.png";
+					text = "Pause";
+				}
+				else
+				{
+					filename = "play.png";
+					text = "Play";
+				}
+				
+				var pauseButton = ToolBar.GetComponentByProgID("PauseBtn");
+				
+				pauseButton.SetImageFilename( filename );
+				pauseButton.setText(text);
+				pauseButton.ResetImage();				
+			</Script>
+		</Event>
+		<Event ID="NightMode">
+			<Script>
+				//Arg: boolean isNightMode
+			
+				//Loop through all buttons and set their image prefix
+				//to either night mode (n) or nothing				
+				
+				var prefix = ( "true".equalsIgnoreCase( isNightMode ) ? TalonConstants.File_Prefix_NightModeImage : "" );        
+				var buttons = ToolBar.GetButtons();
+				
+				for( var i=0; i &lt; buttons.length; i++ )
+				{
+				  buttons[i].SetImagePrefix(prefix);
+				} 
+			</Script>
+		</Event> 
+		<Event ID="Toolbar Loaded">
+			<Script>
+				var ppnButtons = ToolBar.GetComponentsByProgAttr("ppn");
+				if ( ppnButtons != null )
+				{
+					var activityView = ClientController.GetViewController().GetView( TViewNames.ActivityView );
+					if ( activityView != null )
+					{
+						activityView.SetPPNButtons(ppnButtons);	
+						MC.Trace( "PPN buttons set" );
+					}
+					else
+					{
+						MC.TraceError( "Toolbar error: Could not retrieve Activity View" );
+					}
+				}
+				else
+				{
+					MC.TraceError( "Toolbar misconfigured: Can't find 'ppn' buttons." );
+				}
+			</Script>
+		</Event>
+		<Event ID="WW Available">
+			<Script>
+				var wwButton = ToolBar.GetComponentByProgID("WWBtn");
+				if ( wwButton != null )
+				{
+					wwButton.setEnabled(true);
+				}
+			</Script>
+		</Event>
+		<Event ID="TIMS Loaded">
+			<Script>
+				var tims = ClientController.GetTIMSController();
+				var operator = tims.GetOperator();
+				var settings = operator.GetUserSettings();
+				
+				if ( settings.Permit("ViewSearch") )
+				{
+					var timsViewButton = ToolBar.GetComponentByProgID("TIMSSearchBtn");
+					timsViewButton.setEnabled(true);
+				}
+			</Script>
+		</Event>
+		<Event ID="View Activated">
+			<Script>
+				//Given: var viewName
+				if ( HooksVAPI.IsTIMSView(viewName) && ! TViewNames.TIMS_Reports.equals(viewName) )
+				{
+					HooksAPI.SaveScriptData("LastTIMSView", viewName );
+				}	
+			</Script>
+		</Event>
+	</Events>
+  <!-- 
+  Help:
+  
+  Overview:
+  =========
+  This file defines a toolbar which is currently(02/02/06) used in Talon MDC.
+  It attempts to be more flexible than our standard toolbars by allowing the
+  use of ExecCodes (language strings) but also Javascript.
+  
+  The most basic functionality can be used by simply defining a button and
+  setting its ExecCode attribute.
+  
+  To use scripting, a button may embed a javascript.  Also, the file may
+  contain an 'Events' tag which when used in concert with the program
+  allows the program to callback to the tool bar.  For example, in Talon all
+  standard engine events are fired into the toolbar.  It defines and catches 
+  the 'Talon Ready' event to set buttons to their initial state.  These events
+  are completely program-driven and will very by application.
+  
+  
+  Scripting:
+  ==========
+  Registered Beans:
+	CAD (CADClientHandler)
+	CADConstants (CADConstants)
+	ClientController (TalonClientController)
+	Helper (TalonToolBarHelper) TODO: Create
+	MC (MCLANG)
+	TalonConstants (TalonConstants)
+	ToolBar (TOOLBARSCRIPTMGR)	
+    TViewNames (TViewNames)
+    ViewController (TViewController)
+    
+  
+  Valid States:
+  =============
+	  1 - Startup
+	  2 - Case Closed
+	  4 - Case Open
+	  8 - Manual/Programmer controls
+	  
+	  Combos:
+	  7 - All
+	  6 - After Startup
+	  
+	  
+  XML Elements:
+  =============
+  Button Attributes:
+	
+	ExecCode:
+		The code to fire into the program.  Note that if the ToolTip attribute is
+		not set, this will try to be used as a langauge string to set the ToolTip.
+	Image:
+		Image filename in the image directory to use as the button.
+    PeerGroup:
+		Instructs the manager to treat this button like a radio button with other
+		buttons in 
+	ToolTip:
+		The text to display on a hover-over
+	ValidState: 
+		Bit flags indicating which states the toolbar's buttons should be enabled.
+		
+  Button Properties:
+	Script:
+		Embed a script to execute when pressed.  If both this and ExecCode are
+		present, this takes precedent and the ExecCode is ignored.
+		
+  Container Attributes:
+	ID:
+		Used by scripts to activate a layer.
+	Layered:
+		When set to true, the SetLayered() method is called after this container
+		is added.
+		
+  Script Attributes:
+	(Future)Filename: The file of the javascript to execute.  Note that this will
+	be added the first time we need to write a long script.
+  -->
+</ToolBar>

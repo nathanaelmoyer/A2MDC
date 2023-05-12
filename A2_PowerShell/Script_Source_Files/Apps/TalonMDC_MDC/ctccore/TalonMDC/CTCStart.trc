@@ -1,0 +1,1064 @@
+01/22 14:16:51.77 Started Application CTCStart
+SSL version: Domestic SSL
+Screen Size: 1920 x 1080
+JVM Memory: 5MB used/16MB total (743MB JVM max) (4 processors)
+Network interfaces:
+  127.0.0.1=lo (Software Loopback Interface 1)
+  0:0:0:0:0:0:0:1=lo (Software Loopback Interface 1)
+  172.31.11.238=eth1 (Intel(R) Ethernet Connection I219-LM)
+  fe80:0:0:0:e1a8:1924:b713:4cd1%eth1=eth1 (Intel(R) Ethernet Connection I219-LM)
+  fe80:0:0:0:21b5:4ae4:3290:a85e%wlan0=wlan0 (Intel(R) Dual Band Wireless-AC 7265)
+  fe80:0:0:0:f073:55c5:843f:f588%wlan1=wlan1 (Microsoft Wi-Fi Direct Virtual Adapter #2)
+  fe80:0:0:0:3db3:7445:99b9:5ff7%eth6=eth6 (NetMotion Virtual Network Adapter (NMVNIC))
+
+Java vendor: Azul Systems, Inc., version: 1.8.0_181
+User name: JBougher
+CTCCore dir: C:\ctccore\TalonMDC
+Current working dir: C:\ctccore\TalonMDC
+User home dir: C:\Users\JBougher
+
+*** All system properties:
+lax.nl.env.onedrivecommercial=C:\Users\JBougher\OneDrive - City of Ann Arbor
+file.encoding.pkg=sun.io
+lax.user.dir=.
+lax.nl.env.HOMEPATH=\Users\JBougher
+lax.application.name=ctcstart.exe
+lax.nl.env.TEMP=C:\Users\JBougher\AppData\Local\Temp
+lax.dir=./
+java.home=C:\ctccore\jre
+lax.nl.env.USERDOMAIN_ROAMINGPROFILE=CITY
+lax.nl.env.programfiles=C:\Program Files (x86)
+lax.nl.env.PROCESSOR_REVISION=4e03
+lax.nl.env.exact_case.Path=C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Nmap;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\WindowsPowerShell\Scripts\HP.ClientScriptLibrary;C:\Program Files\PuTTY\;C:\Users\JBougher\AppData\Local\Microsoft\WindowsApps;C:\Users\JBougher\AppData\Local\hyper\app-3.0.2\resources\bin;C:\Users\JBougher\AppData\Local\Microsoft\WindowsApps;C:\Users\JBougher\AppData\Local\Programs\Microsoft VS Code\bin
+lax.nl.env.prompt=$P$G
+lax.nl.env.HOMEDRIVE=C:
+lax.nl.win32.microsoftvm.min.version=2750
+lax.nl.env.exact_case.PROCESSOR_ARCHITECTURE=x86
+lax.nl.env.OS=Windows_NT
+lax.main.class=com.ctccore.start.CTCSTARTAPP
+java.endorsed.dirs=C:\ctccore\jre\lib\endorsed
+lax.nl.env.exact_case.SMS_ADMIN_UI_PATH=C:\Program Files (x86)\ConfigMgr\bin\i386
+lax.nl.env.systemroot=C:\Windows
+lax.nl.env.exact_case.SESSIONNAME=Console
+lax.nl.java.option.java.heap.size.max=768m
+lax.nl.env.SYSTEMDRIVE=C:
+lax.nl.env.exact_case.ProgramFiles=C:\Program Files (x86)
+lax.nl.env.PROGRAMFILES=C:\Program Files (x86)
+sun.os.patch.level=
+java.vendor.url=http://www.azulsystems.com/
+java.version=1.8.0_181
+lax.nl.env.WINDIR=C:\Windows
+lax.nl.env.programfiles(x86)=C:\Program Files (x86)
+lax.nl.env.exact_case.USERNAME=JBougher
+lax.nl.env.exact_case.FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+lax.nl.env.userdomain_roamingprofile=CITY
+lax.nl.env.logonserver=\\DCJCV1
+java.vendor.url.bug=http://www.azulsystems.com/support/
+lax.nl.env.homepath=\Users\JBougher
+lax.nl.env.exact_case.windir=C:\Windows
+lax.nl.env.COMSPEC=C:\Windows\system32\cmd.exe
+user.name=JBougher
+lax.nl.env.processor_architecture=x86
+sun.io.unicode.encoding=UnicodeLittle
+lax.nl.env.ALLUSERSPROFILE=C:\ProgramData
+sun.jnu.encoding=Cp1252
+lax.nl.env.exact_case.asl.log=Destination=file
+java.runtime.name=OpenJDK Runtime Environment
+lax.nl.env.exact_case.=ExitCode=00000000
+lax.nl.env.USERDOMAIN=CITY
+lax.nl.env.exact_case.PUBLIC=C:\Users\Public
+java.specification.name=Java Platform API Specification
+user.timezone=
+user.script=
+path.separator=;
+file.encoding=Cp1252
+lax.nl.env.systemdrive=C:
+lax.nl.env.USERNAME=JBougher
+lax.nl.env.ONEDRIVECOMMERCIAL=C:\Users\JBougher\OneDrive - City of Ann Arbor
+lax.nl.env.PROGRAMDATA=C:\ProgramData
+lax.nl.env.allusersprofile=C:\ProgramData
+lax.nl.env.processor_revision=4e03
+sun.java.command=com.zerog.lax.LAX C:/ctccore/TalonMDC/CTCStart.lax C:/Users/JBougher/AppData/Local/Temp/lax4E0C.tmp
+lax.nl.env.exact_case.SystemRoot=C:\Windows
+lax.nl.env.exact_case.PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+lax.nl.env.exact_case.PROCESSOR_ARCHITEW6432=AMD64
+lax.nl.env.commonprogramw6432=C:\Program Files\Common Files
+lax.nl.env.PUBLIC=C:\Users\Public
+lax.version=8.0
+lax.nl.env.USERDNSDOMAIN=CITY.A2
+java.io.tmpdir=C:\Users\JBougher\AppData\Local\Temp\
+lax.nl.env.username=JBougher
+lax.nl.env.exact_case.COMPUTERNAME=IT0975L
+user.language=en
+lax.nl.env.asl.log=Destination=file
+line.separator=
+
+lax.nl.java.launcher.main.class=com.zerog.lax.LAX
+lax.nl.env.appdata=C:\Users\JBougher\AppData\Roaming
+lax.nl.env.exact_case.UATDATA=C:\WINDOWS\CCM\UATData\D9F8C395-CAB8-491d-B8AC-179A1FE1BE77
+lax.nl.env.commonprogramfiles(x86)=C:\Program Files (x86)\Common Files
+lax.nl.env.windir=C:\Windows
+lax.command.line.args=$CMD_LINE_ARGUMENTS$
+java.vm.info=mixed mode
+lax.nl.env.exact_case.TMP=C:\Users\JBougher\AppData\Local\Temp
+lax.nl.env.exact_case.USERPROFILE=C:\Users\JBougher
+lax.nl.java.launcher.main.method=main
+sun.desktop=windows
+java.vm.specification.name=Java Virtual Machine Specification
+lax.nl.env.UATDATA=C:\WINDOWS\CCM\UATData\D9F8C395-CAB8-491d-B8AC-179A1FE1BE77
+lax.nl.current.vm=C:\ctccore\TalonMDC\..\jre\bin\javaw.exe
+lax.nl.env.exact_case.TEMP=C:\Users\JBougher\AppData\Local\Temp
+lax.nl.env.os=Windows_NT
+lax.nl.env.PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 78 Stepping 3, GenuineIntel
+lax.nl.env.exact_case.ComSpec=C:\Windows\system32\cmd.exe
+lax.nl.env.commonprogramfiles=C:\Program Files (x86)\Common Files
+lax.nl.env.SESSIONNAME=Console
+lax.nl.env.exact_case.LOCALAPPDATA=C:\Users\JBougher\AppData\Local
+lax.nl.env.processor_identifier=Intel64 Family 6 Model 78 Stepping 3, GenuineIntel
+lax.nl.env.SYSTEMROOT=C:\Windows
+lax.nl.env.programdata=C:\ProgramData
+lax.nl.env.processor_architew6432=AMD64
+lax.nl.env.NUMBER_OF_PROCESSORS=4
+lax.nl.env.fps_browser_app_profile_string=Internet Explorer
+lax.nl.env.computername=IT0975L
+java.awt.printerjob=sun.awt.windows.WPrinterJob
+lax.root.install.dir=C:/ctcccore
+lax.nl.env.=ExitCode=00000000
+lax.nl.env.pathext=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+lax.nl.env.exact_case.CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+lax.nl.env.exact_case.USERDOMAIN=CITY
+lax.nl.env.public=C:\Users\Public
+lax.nl.env.exact_case.HOMEDRIVE=C:
+os.name=Windows 10
+java.specification.vendor=Oracle Corporation
+lax.nl.env.exact_case.USERDOMAIN_ROAMINGPROFILE=CITY
+lax.nl.env.sms_admin_ui_path=C:\Program Files (x86)\ConfigMgr\bin\i386
+java.vm.name=OpenJDK Client VM
+lax.nl.env.localappdata=C:\Users\JBougher\AppData\Local
+lax.nl.env.exact_case.PROCESSOR_REVISION=4e03
+lax.nl.env.homedrive=C:
+sun.awt.enableExtraMouseButtons=true
+java.library.path=C:\ctccore\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Nmap;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\WindowsPowerShell\Scripts\HP.ClientScriptLibrary;C:\Program Files\PuTTY\;C:\Users\JBougher\AppData\Local\Microsoft\WindowsApps;C:\Users\JBougher\AppData\Local\hyper\app-3.0.2\resources\bin;C:\Users\JBougher\AppData\Local\Microsoft\WindowsApps;C:\Users\JBougher\AppData\Local\Programs\Microsoft VS Code\bin;.
+lax.nl.env.exact_case.SystemDrive=C:
+lax.nl.env.sessionname=Console
+java.class.version=52.0
+lax.nl.env.COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files
+lax.nl.env.exact_case.PROG52877FCC057=1
+lax.nl.env.fps_browser_user_profile_string=Default
+lax.nl.env.ONEDRIVE=C:\Users\JBougher\OneDrive - City of Ann Arbor
+lax.nl.env.COMPUTERNAME=IT0975L
+lax.nl.env.driverdata=C:\Windows\System32\Drivers\DriverData
+lax.nl.env.exact_case.PROCESSOR_LEVEL=6
+lax.nl.env.COMMONPROGRAMW6432=C:\Program Files\Common Files
+lax.nl.env.path=C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Nmap;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\WindowsPowerShell\Scripts\HP.ClientScriptLibrary;C:\Program Files\PuTTY\;C:\Users\JBougher\AppData\Local\Microsoft\WindowsApps;C:\Users\JBougher\AppData\Local\hyper\app-3.0.2\resources\bin;C:\Users\JBougher\AppData\Local\Microsoft\WindowsApps;C:\Users\JBougher\AppData\Local\Programs\Microsoft VS Code\bin
+sun.boot.library.path=C:\ctccore\jre\bin
+lax.nl.env.number_of_processors=4
+lax.nl.env.onedrive=C:\Users\JBougher\OneDrive - City of Ann Arbor
+sun.management.compiler=HotSpot Client Compiler
+lax.nl.env.PATH=C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Nmap;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\WindowsPowerShell\Scripts\HP.ClientScriptLibrary;C:\Program Files\PuTTY\;C:\Users\JBougher\AppData\Local\Microsoft\WindowsApps;C:\Users\JBougher\AppData\Local\hyper\app-3.0.2\resources\bin;C:\Users\JBougher\AppData\Local\Microsoft\WindowsApps;C:\Users\JBougher\AppData\Local\Programs\Microsoft VS Code\bin
+java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment
+user.variant=
+lax.nl.env.exact_case.CommonProgramW6432=C:\Program Files\Common Files
+lax.nl.env.PROCESSOR_ARCHITECTURE=x86
+lax.nl.env.SMS_ADMIN_UI_PATH=C:\Program Files (x86)\ConfigMgr\bin\i386
+lax.nl.env.exact_case.LOGONSERVER=\\DCJCV1
+lax.nl.env.TMP=C:\Users\JBougher\AppData\Local\Temp
+lax.nl.env.processor_level=6
+lax.class.path=ctcstartlib/ctcstart.2.00.05.jar;ctcstartlib/lax.jar;ctcstartlib/mslinks.jar;ctcstartlib/bc-fips-1.0.0.signedbyctc.jar;ctcstartlib/ssl-jsse-3.0.2.jar;ctcstartlib/log4j-1.2.15.jar
+lax.nl.env.LOCALAPPDATA=C:\Users\JBougher\AppData\Local
+lax.nl.env.comspec=C:\Windows\system32\cmd.exe
+lax.nl.env.USERPROFILE=C:\Users\JBougher
+lax.nl.env.tmp=C:\Users\JBougher\AppData\Local\Temp
+java.vm.specification.version=1.8
+lax.main.method=main
+awt.toolkit=sun.awt.windows.WToolkit
+sun.cpu.isalist=pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86
+java.ext.dirs=C:\ctccore\jre\lib\ext;C:\Windows\Sun\Java\lib\ext
+os.version=10.0
+lax.nl.env.exact_case.OS=Windows_NT
+lax.nl.env.ASL.LOG=Destination=file
+user.home=C:\Users\JBougher
+lax.nl.env.exact_case.PROMPT=$P$G
+java.vm.vendor=Azul Systems, Inc.
+lax.nl.env.COMMONPROGRAMFILES=C:\Program Files (x86)\Common Files
+lax.nl.env.exact_case.ProgramData=C:\ProgramData
+lax.nl.env.exact_case.APPDATA=C:\Users\JBougher\AppData\Roaming
+lax.nl.env.exact_case.CommonProgramFiles=C:\Program Files (x86)\Common Files
+lax.nl.env.exact_case.FPS_BROWSER_USER_PROFILE_STRING=Default
+lax.nl.env.exact_case.DriverData=C:\Windows\System32\Drivers\DriverData
+lax.nl.env.psmodulepath=C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+user.dir=C:\ctccore\TalonMDC
+lax.nl.valid.vm.list=J2
+sun.cpu.endian=little
+ctccore.dir=C:\ctccore\TalonMDC
+lax.nl.env.APPDATA=C:\Users\JBougher\AppData\Roaming
+lax.nl.env.exact_case.USERDNSDOMAIN=CITY.A2
+lax.nl.env.PROMPT=$P$G
+java.vm.version=25.181-b02
+java.class.path=C:\ctccore\TalonMDC\ctcstartlib\ctcstart.2.00.05.jar;C:\ctccore\TalonMDC\ctcstartlib\lax.jar;C:\ctccore\TalonMDC\ctcstartlib\mslinks.jar;C:\ctccore\TalonMDC\ctcstartlib\bc-fips-1.0.0.signedbyctc.jar;C:\ctccore\TalonMDC\ctcstartlib\ssl-jsse-3.0.2.jar;C:\ctccore\TalonMDC\ctcstartlib\log4j-1.2.15.jar;
+os.arch=x86
+lax.nl.env.PROG52877FCC057=1
+lax.nl.env.userprofile=C:\Users\JBougher
+lax.nl.env.userdomain=CITY
+lax.nl.env.userdnsdomain=CITY.A2
+lax.nl.env.PROCESSOR_LEVEL=6
+sun.java.launcher=SUN_STANDARD
+lax.nl.env.PROCESSOR_ARCHITEW6432=AMD64
+lax.nl.env.exact_case.HOMEPATH=\Users\JBougher
+java.vm.specification.vendor=Oracle Corporation
+lax.nl.env.FPS_BROWSER_USER_PROFILE_STRING=Default
+file.separator=\
+lax.nl.env.exact_case.PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+lax.nl.env.uatdata=C:\WINDOWS\CCM\UATData\D9F8C395-CAB8-491d-B8AC-179A1FE1BE77
+lax.nl.env.exact_case.OneDrive=C:\Users\JBougher\OneDrive - City of Ann Arbor
+java.runtime.version=1.8.0_181-b02
+sun.boot.class.path=C:\ctccore\jre\lib\resources.jar;C:\ctccore\jre\lib\rt.jar;C:\ctccore\jre\lib\sunrsasign.jar;C:\ctccore\jre\lib\jsse.jar;C:\ctccore\jre\lib\jce.jar;C:\ctccore\jre\lib\charsets.jar;C:\ctccore\jre\lib\jfr.jar;C:\ctccore\jre\classes
+lax.nl.env.exact_case.ALLUSERSPROFILE=C:\ProgramData
+lax.nl.env.FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+lax.nl.env.programw6432=C:\Program Files
+lax.nl.env.PSMODULEPATH=C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+lax.nl.env.DRIVERDATA=C:\Windows\System32\Drivers\DriverData
+lax.nl.env.exact_case.PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 78 Stepping 3, GenuineIntel
+user.country=US
+lax.nl.env.PROGRAMFILES(X86)=C:\Program Files (x86)
+lax.nl.env.PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+lax.nl.env.PROGRAMW6432=C:\Program Files
+lax.nl.env.prog52877fcc057=1
+lax.nl.env.exact_case.NUMBER_OF_PROCESSORS=4
+lax.nl.env.exact_case.OneDriveCommercial=C:\Users\JBougher\OneDrive - City of Ann Arbor
+lax.nl.env.exact_case.ProgramFiles(x86)=C:\Program Files (x86)
+java.vendor=Azul Systems, Inc.
+lax.nl.env.exact_case.ProgramW6432=C:\Program Files
+lax.nl.env.LOGONSERVER=\\DCJCV1
+lax.nl.env.temp=C:\Users\JBougher\AppData\Local\Temp
+java.specification.version=1.8
+sun.arch.data.model=32
+*** End system properties.
+==================================================
+
+01/22 14:16:51.78 Using files from directory: C:\ctccore\TalonMDC
+01/22 14:16:51.78 Running CTCStart Application.
+01/22 14:16:51.78  num args: 0
+01/22 14:16:51.78 App command line switches:
+[CommandLine]
+
+
+01/22 14:16:51.78 App ini file:
+[General]
+CreateShortcut=TalonMDC
+;
+TRACE=T
+MBIP=MB2.CLEMIS.ORG
+MBPORT=2030
+SSL=T
+ServType=Talon
+Splash=coresplash.png
+TraceArgs=T
+;
+MBDir=CTCApps/talonjars
+UpdateJarFile=talonjarlist.xml
+;
+MBDirCTCStart=CTCApps/CTCStart/talonmdc
+UpdateCTCStartFile=ctcstartfilelist.xml
+;
+RunInDir=.
+;
+;options to launch app
+;
+ARG1=../jre/bin/java.exe
+ARG2=-Xmx1024m
+ARG3=-Dsun.java2d.d3d=false
+ARG4=-cp
+ARG5=lib/talon.jar;lib/3rdPartyJars/*;lib/ServicesClientJars/*;lib/TalonAuthenticationMatrixJars/*;
+ARG6=com.ctccore.talon.TALONAPP
+ARG7=-D
+ARG8=${RunInDir}
+ARG9=-MBIP
+ARG10=${MBIP}
+ARG11=-MBPORT
+ARG12=${MBPORT}
+ARG13=-SSL
+ARG14=${SSL}
+ARG15=-HELPURL
+ARG16=http://${MBIP}/talon/help/
+ARG17=-TestNewFeatures
+ARG18=T
+ARG19=-CompressSockets
+ARG20=T
+ARG21=-INTRO1
+ARG22=NOTICE: You are accessing a restricted information system. Unauthorized use of the system is
+ARG23=-INTRO2
+ARG24=prohibited and may subject you to criminal and/or civil penalties. System usage may be monitored,
+ARG25=-INTRO3
+ARG26=recorded, and subject to audit. By clicking OK, you are acknowledging you understand the terms
+ARG27=-INTRO4
+ARG28=of system use, and that your use of the system may be monitored and recorded.
+ARG29=-INTRO5
+ARG30=.
+ARG31=-AuthModeXXXXX
+ARG32=Alt
+ARG33=-TalonMainForm
+ARG34=com.ctccore.talon.mdc.FRMTalonMDC
+ARG35=-DayCSS
+ARG36=talonmdc.css
+ARG37=-NightCSS
+ARG38=nightmdc.css
+ARG39=-JTableDef
+ARG40=defjtablemdc.xml
+ARG41=-Dir_imgs
+ARG42=imgs_mdc
+
+
+==================================================
+
+01/22 14:16:51.80 Starting CTCStart 2.00.05
+01/22 14:16:51.96 Call: WINMGR.Display() CTCStart 2.00.05 Splash
+01/22 14:16:52.04 Resize Actual Window to 456x329
+
+01/22 14:16:52.05 Resize Actual Window to 456x329
+
+01/22 14:16:52.05 Call: InstallIfUpdate()
+01/22 14:16:52.05 No InstallInfo.ini file.  No update to install.
+01/22 14:16:52.05 LAWDBG InstallIfUpdate Complete.  Was Update Installed: false
+
+01/22 14:16:52.18 Call: CreateObject: ( com.ctccore.mbridge.mbworks.client.MBWTUNNELSOCKFACTORY ) INI key ( null ) Default Class ( com.ctccore.mbridge.mbworks.client.MBWTUNNELSOCKFACTORY )
+01/22 14:16:52.18 REFLECTOOLS.CreateObject() Exception encountered.  Class loader: null java.lang.ClassNotFoundException: com.ctccore.mbridge.mbworks.client.MBWTUNNELSOCKFACTORY
+01/22 14:16:52.19 Failed to load TunnelPipeSock factory.  Most likely, MBWTUNNELSOCKFACTORY could not be loaded.
+01/22 14:16:52.19 LAWCUR Start Opening MB Connection.
+01/22 14:16:52.19 Constuctor 1  ip:MB2.CLEMIS.ORG port: 2030 ssl? true dbgID: MB
+01/22 14:16:52.19 MB SOCK: Starting socket
+01/22 14:16:52.20 Trying to create sock class=com.ctccore.util.net.ssl.JsseSslSock.
+01/22 14:16:54.33 MB MB2.CLEMIS.ORG:2030 -- Attempting to open Bouncy Castle FIPS JSSE SSL connection.
+01/22 14:16:55.16 MB MB2.CLEMIS.ORG:2030 -- connected JSSE; performing ssl handshake (60 second inactivity timeout) using 8 enabled ciphersuites=[TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_EMPTY_RENEGOTIATION_INFO_SCSV].
+01/22 14:16:55.83 MB MB2.CLEMIS.ORG:2030 -- Server identity=CN=localhost,OU=TEST,O=Core Technology Corporation,L=Lansing,ST=MI,C=US.
+01/22 14:16:55.83 MB SOCK: connected (TLS_RSA_WITH_AES_128_CBC_SHA), time=3639 ms, local addr=172.31.11.238:7499.
+01/22 14:16:55.84 MB SetConnectionStatus(0)
+01/22 14:16:55.84 Call: RequestService 0x19
+01/22 14:16:55.85 MB SetDelayRecvBlockCheck(true)
+01/22 14:16:55.86 to MB: D2 (request Service)
+01/22 14:16:55.86 send MB: 53, 0x35 (dR=-1; dS=-1)
+   0000:  FF D2 19 42 11 40 44 44 2D 41 5F 54 2D 41 73 73   ...B.@DD-A_T-Ass
+   0010:  62 6E 62 62 62 5E 09 DD 43 54 43 53 74 61 72 74   bnbbb^..CTCStart
+   0020:  08 DD 32 2E 30 30 2E 30 35 01 54 01 AA 01 46 01   ..2.00.05.T...F.
+   0030:  46 01 46 FF EF                                    F.F..           
+01/22 14:16:55.86 SOCK.TrySend success:true
+01/22 14:16:55.93 recv MB: 65, 0x41 (dS=73; dR=-1)
+   0000:  FF CB 01 42 0E 40 44 44 2D 41 5F 54 2D 41 73 73   ...B.@DD-A_T-Ass
+   0010:  73 73 5E 15 DD 4D 75 6C 74 69 42 72 69 64 67 65   ss^..MultiBridge
+   0020:  20 76 33 2E 30 31 2E 33 32 04 DD 55 2C 50 0E DD    v3.01.32..U,P..
+   0030:  31 36 31 31 33 34 33 30 31 35 39 30 39 01 DD FF   1611343015909...
+   0040:  EF                                                .               
+01/22 14:16:55.93 SOCK.ProcessRcvdData Dest:com.ctccore.util.TELNETPROTOCOL@1e569a4
+01/22 14:16:55.93 from MB: CB  (yes)
+01/22 14:16:55.93   Time was 76 ms
+01/22 14:16:55.93 MB SOCK: SetMicroBlocking(false, 150, 0, false, 30000)
+01/22 14:16:55.93 MB Server Time is: 01/22 14:16:55.90 
+01/22 14:16:55.93 Time Diff is: 29 ms.
+01/22 14:16:55.93 MB: Converted to length byte protocol.
+01/22 14:16:55.93 MB SetDelayRecvBlockCheck(false)
+01/22 14:16:55.93 LAWCUR Done Opening MB Connection.
+01/22 14:16:55.94 UpdateListFile:talonjarlist.xml
+01/22 14:16:55.94 mbdir:CTCApps/talonjars
+01/22 14:16:55.94 CurDir:TalonMDC
+01/22 14:16:55.95 Call: DSCLIENT.CheckForNeededDownloads: (1) files to download.
+01/22 14:16:55.96   Trying local path: ( . )
+01/22 14:16:55.96     Trying file: ( talonjarlist.xml )
+01/22 14:16:55.96 Call: DSCLIENT.DownloadFileIfChanged MB path( CTCApps/talonjars ) Server filename( talonjarlist.xml ) Local filename ( talonjarlist.xml )  Priority (5)
+01/22 14:16:55.96 Call: DownloadFileIfChangedUsingFileList(CTCApps/talonjars, talonjarlist.xml, C:\ctccore\TalonMDC)
+01/22 14:16:55.96 File already exists.  Check if changed. len=876
+01/22 14:16:55.96 Call: DSCLIENT.DownloadFileListFiles(CTCApps/talonjars, numFiles=1)  Pri=5
+01/22 14:16:55.96 to MB: DC (Directory Service: Send FileList Files)
+01/22 14:16:55.96 to MB: C1 (Vdir Cmd)
+01/22 14:16:55.96 MBCLIENT.ExpandAndSend using LENGTHBYTEPROTOCOL SendLBP:
+01/22 14:16:55.96 MB RawSendPackets: Num packets=1.
+01/22 14:16:55.97 send MB: 130, 0x82 (dR=37; dS=110)
+   0000:  01 00 82 C1 DC 42 0F 40 44 44 2D 41 5F 54 2D 41   .....B.@DD-A_T-A
+   0010:  73 6E 6E 6E 73 5E 12 DD 43 54 43 41 70 70 73 2F   snnns^..CTCApps/
+   0020:  74 61 6C 6F 6E 6A 61 72 73 01 05 01 00 01 00 52   talonjars......R
+   0030:  DD 42 0B 40 44 44 2D 41 5F 54 2D 41 73 5E 43 DD   .B.@DD-A_T-As^C.
+   0040:  42 10 40 44 44 2D 41 5F 54 2D 41 6E 62 73 73 73   B.@DD-A_T-Anbsss
+   0050:  73 5E 01 04 01 54 02 DD 2E 11 DD 74 61 6C 6F 6E   s^...T.....talon
+   0060:  6A 61 72 6C 69 73 74 2E 78 6D 6C 04 DD 38 37 36   jarlist.xml..876
+   0070:  11 DD A0 DE 81 A5 6A 73 89 41 B3 7B 7E 8C D4 3B   ......js.A.{~..;
+   0080:  7A 6A                                             zj              
+01/22 14:16:55.97 SOCK.TrySend success:true
+01/22 14:16:56.01 recv MB: 1, 0x01 (dS=47; dR=84)
+   0000:  01                                                .               
+01/22 14:16:56.01 SOCK.ProcessRcvdData Dest:com.ctccore.util.LENGTHBYTEPROTOCOL@15b87b5
+01/22 14:16:56.01 LENGTHBYTEPROTOCOL MB: received a Partial Message: 1/0x01.  In BUFFEREDPROTOCOL
+01/22 14:16:56.01 recv MB: 32, 0x20 (dS=48; dR=1)
+   0000:  00 21 CB 42 0D 40 44 44 2D 41 5F 54 2D 41 6E 73   .!.B.@DD-A_T-Ans
+   0010:  73 5E 01 81 09 DD 51 69 64 31 36 34 34 36 01 DD   s^....Qid16446..
+01/22 14:16:56.01 SOCK.ProcessRcvdData Dest:com.ctccore.util.LENGTHBYTEPROTOCOL@15b87b5
+01/22 14:16:56.01 LENGTHBYTEPROTOCOL MB: received final part of partial message; full length=33/0x21.
+01/22 14:16:56.01 from MB: CB  (yes)
+01/22 14:16:56.01   Time was 51 ms
+01/22 14:16:56.02 Call: SetQueueID(Qid16446)
+01/22 14:16:56.02 FileList Download started. QID: Qid16446  Files: 1 Total Bytes: 0  Dest Root Dir: C:\ctccore\TalonMDC
+01/22 14:16:56.10 recv MB: 1, 0x01 (dS=135; dR=87)
+   0000:  01                                                .               
+01/22 14:16:56.10 SOCK.ProcessRcvdData Dest:com.ctccore.util.LENGTHBYTEPROTOCOL@15b87b5
+01/22 14:16:56.10 LENGTHBYTEPROTOCOL MB: received a Partial Message: 1/0x01.  In BUFFEREDPROTOCOL
+01/22 14:16:56.10 recv MB: 35, 0x23 (dS=136; dR=1)
+   0000:  00 24 EB C1 DC 42 0D 40 44 44 2D 41 5F 54 2D 41   .$...B.@DD-A_T-A
+   0010:  73 6E 73 5E 09 DD 51 69 64 31 36 34 34 36 01 01   sns^..Qid16446..
+   0020:  02 DD 2E                                          ...             
+01/22 14:16:56.10 SOCK.ProcessRcvdData Dest:com.ctccore.util.LENGTHBYTEPROTOCOL@15b87b5
+01/22 14:16:56.10 LENGTHBYTEPROTOCOL MB: received final part of partial message; full length=36/0x24.
+01/22 14:16:56.10 from MB: EB  (unsolicited)
+01/22 14:16:56.10 Call: MBRecv.ProcessRcvdData()
+01/22 14:16:56.10 Start Download in Dir: .  DIRCMD: C:\ctccore\TalonMDC
+01/22 14:16:56.10 recv MB: 1, 0x01 (dS=138; dR=2)
+   0000:  01                                                .               
+01/22 14:16:56.10 SOCK.ProcessRcvdData Dest:com.ctccore.util.LENGTHBYTEPROTOCOL@15b87b5
+01/22 14:16:56.10 LENGTHBYTEPROTOCOL MB: received a Partial Message: 1/0x01.  In BUFFEREDPROTOCOL
+01/22 14:16:56.10 recv MB: 793, 0x0319 (Summarized) (dS=139; dR=1)
+   0000:  03 1A EB C1 DC 42 0C 40 44 44 2D 41 5F 54 2D 41   .....B.@DD-A_T-A
+   0010:  73 73 5E 09 DD 51 69 64 31 36 34 34 36 FF 02 F9   ss^..Qid16446...
+   0020:  DD 41 31 37 3A 40 44 44 2D 41 5F 54 2D 41 73 73   .A17:@DD-A_T-Ass
+   0030:  73 62 6E 73 73 5E 31 37 3A DD 74 61 6C 6F 6E 6A   sbnss^17:.talonj
+   0040:  61 72 6C 69 73 74 2E 78 6D 6C 33 3A DD 54 5C 31   arlist.xml3:.T\1
+   0050:  30 3A DD 41 4C 5D 4F 54 55 42 57 40 31 3A 46 31   0:.AL]OTUBW@1:F1
+   0060:  3A 30 36 36 39 3A DD 3C 4D 42 55 70 64 61 74 65   :0669:.<MBUpdate
+   0070:  73 3E 0D 0A 09 54 72 61 63 6B 48 69 73 74 6F 72   s>...TrackHistor
+   0080:  79 3D 22 46 61 6C 73 65 22 20 0D 0A 0D 0A 09 3C   y="False" .....<
+   0090:  44 69 72 65 63 74 6F 72 79 20 4D 42 44 69 72 3D   Directory MBDir=
+   00A0:  22 43 54 43 41 70 70 73 2F 54 61 6C 6F 6E 6A 61   "CTCApps/Talonja
+   00B0:  72 73 22 20 4C 6F 63 61 6C 53 75 62 44 69 72 3D   rs" LocalSubDir=
+   00C0:  22 6C 69 62 22 3E 0D 0A 09 09 3C 46 69 6C 65 20   "lib">....<File 
+   00D0:  4E 61 6D 65 3D 22 74 61 6C 6F 6E 2E 6A 61 72 22   Name="talon.jar"
+   00E0:  2F 3E 0D 0A 09 3C 2F 44 69 72 65 63 74 6F 72 79   />...</Directory
+   00F0:  3E 0D 0A 0D 0A 09 3C 44 69 72 65 63 74 6F 72 79   >.....<Directory
+   0100:  20 4D 42 44 69 72 3D 22 43 54 43 41 70 70 73 2F    MBDir="CTCApps/
+   0110:  54 61 6C 6F 6E 6A 61 72 73 2F 33 72 64 50 61 72   Talonjars/3rdPar
+   0120:  74 79 4A 61 72 73 22 20 4C 6F 63 61 6C 53 75 62   tyJars" LocalSub
+   0130:  44 69 72 3D 22 6C 69 62 2F 33 72 64 50 61 72 74   Dir="lib/3rdPart
+   0140:  79 4A 61 72 73 22 3E 0D 0A 09 09 3C 46 69 6C 65   yJars">....<File
+   0150:  20 4E 61 6D 65 3D 22 41 4C 4C 5F 53 45 52 56 45    Name="ALL_SERVE
+   0160:  52 5F 46 49 4C 45 53 22 20 4C 69 73 74 46 69 6C   R_FILES" ListFil
+   0170:  74 65 72 20 3D 22 2A 2E 6A 61 72 22 2F 3E 0D 0A   ter ="*.jar"/>..
+   0180:  09 3C 2F 44 69 72 65 63 74 6F 72 79 3E 0D 0A 0D   .</Directory>...
+   0190:  0A 09 3C 44 69 72 65 63 74 6F 72 79 20 4D 42 44   ..<Directory MBD
+   01A0:  69 72 3D 22 43 54 43 41 70 70 73 2F 54 61 6C 6F   ir="CTCApps/Talo
+   01B0:  6E 6A 61 72 73 2F 53 65 72 76 69 63 65 73 43 6C   njars/ServicesCl
+   01C0:  69 65 6E 74 4A 61 72 73 22 20 4C 6F 63 61 6C 53   ientJars" LocalS
+   01D0:  75 62 44 69 72 3D 22 6C 69 62 2F 53 65 72 76 69   ubDir="lib/Servi
+   01E0:  63 65 73 43 6C 69 65 6E 74 4A 61 72 73 22 3E 0D   cesClientJars">.
+   01F0:  0A 09 09 3C 46 69 6C 65 20 4E 61 6D 65 3D 22 41   ...<File Name="A
+01/22 14:16:56.10 SOCK.ProcessRcvdData Dest:com.ctccore.util.LENGTHBYTEPROTOCOL@15b87b5
+01/22 14:16:56.10 LENGTHBYTEPROTOCOL MB: received final part of partial message; full length=794/0x031A.
+01/22 14:16:56.11 from MB: EB  (unsolicited)
+01/22 14:16:56.11 Call: MBRecv.ProcessRcvdData()
+01/22 14:16:56.11 File being downloaded: Qid16446 - DSFILEINFO: ( talonjarlist.xml ) (T\) (11/29/2018 6:46 AM) Has contents? true Interrupted? (false)
+01/22 14:16:56.11   File Size: 668 Block Size: 668 Next offset: 0
+01/22 14:16:56.11 Creating data file.  Adding file info.
+01/22 14:16:56.11 DSCLIENT.HandleFileChunk DIRCMDS.WriteFile( C:\ctccore\TalonMDC\talonjarlist.xml.dsclient )
+01/22 14:16:56.11 Status:  Downloading talonjarlist.xml 668 of 668
+01/22 14:16:56.11   File download complete.
+01/22 14:16:56.11   Set size & last modified time: (668) & (1543491980000)
+01/22 14:16:56.11 Using output directory to complete file read...
+01/22 14:16:56.11 File contents read from temp file.  Renaming temp & deleting data file...
+01/22 14:16:56.11 DIRCMDS.Remove(Overwrite if exists.): C:\ctccore\TalonMDC\talonjarlist.xml: true
+01/22 14:16:56.11 Resize Actual Window to 456x329
+
+01/22 14:16:56.11 DIRCMDS.RenameFile(): DSCLIENT.HandleReadCompleteUsingDirectory C:\ctccore\TalonMDC\talonjarlist.xml.ds_part --> C:\ctccore\TalonMDC\talonjarlist.xml: true
+01/22 14:16:56.12 DIRCMDS.Remove(DSCLIENT.ClearTempFiles): C:\ctccore\TalonMDC\talonjarlist.xml.ds_part not found.
+01/22 14:16:56.12 DIRCMDS.Remove(DSCLIENT.ClearTempFiles): C:\ctccore\TalonMDC\talonjarlist.xml.dsclient: true
+01/22 14:16:56.12 Not using the FileVersionTable (.dsv) in C:\ctccore\TalonMDC
+01/22 14:16:56.12 recv MB: 1, 0x01 (dS=152; dR=13)
+   0000:  01                                                .               
+01/22 14:16:56.12 SOCK.ProcessRcvdData Dest:com.ctccore.util.LENGTHBYTEPROTOCOL@15b87b5
+01/22 14:16:56.12 LENGTHBYTEPROTOCOL MB: received a Partial Message: 1/0x01.  In BUFFEREDPROTOCOL
+01/22 14:16:56.12 recv MB: 31, 0x1F (dS=153; dR=1)
+   0000:  00 20 EB C1 DC 42 0C 40 44 44 2D 41 5F 54 2D 41   . ...B.@DD-A_T-A
+   0010:  73 73 5E 09 DD 51 69 64 31 36 34 34 36 01 DD      ss^..Qid16446.. 
+01/22 14:16:56.12 SOCK.ProcessRcvdData Dest:com.ctccore.util.LENGTHBYTEPROTOCOL@15b87b5
+01/22 14:16:56.12 LENGTHBYTEPROTOCOL MB: received final part of partial message; full length=32/0x20.
+01/22 14:16:56.12 from MB: EB  (unsolicited)
+01/22 14:16:56.12 Call: MBRecv.ProcessRcvdData()
+01/22 14:16:56.12 Download Qid16446 done.
+01/22 14:16:56.12 FileList Download complete.  QID: Qid16446
+01/22 14:16:56.12   Returning path used: ( . )
+01/22 14:16:56.14 XMLBLDR.HandleProcessingInstructions: Warning: class 'com.ctccore.xml.CTCPIPROC' was not found.  XML will not support CTC Processing Instructions.
+01/22 14:16:56.16 NumDirs=4 CurDirNum=1 TotalBytesInDir=-1
+01/22 14:16:56.16 CompletedFilesBytesInDir=0 CurFileBytes=0
+01/22 14:16:56.16 PrevDirsTotalPercent=100  CurDirTotalPercent=25
+01/22 14:16:56.16 PercentComplete 100%
+01/22 14:16:56.16 MBUpdateManager.SendUpdateStatus() Checking for updates to CTCApps/Talonjars 100%
+01/22 14:16:56.16 Status:  Checking for updates to CTCApps/Talonjars
+01/22 14:16:56.16 Resize Actual Window to 456x329
+
+01/22 14:16:56.16 dontErrorIfFileMissingfalse
+01/22 14:16:56.16 Call: DSCLIENT.DownloadFileIfChanged MB path( CTCApps/Talonjars ) Server filename( talon.jar ) Local filename ( talon.jar )  Priority (5)
+01/22 14:16:56.16 Call: DownloadFileIfChangedUsingFileList(CTCApps/Talonjars, talon.jar, C:\ctccore\TalonMDC\lib)
+01/22 14:16:56.23 File already exists.  Check if changed. len=9518532
+01/22 14:16:56.23 Call: DSCLIENT.DownloadFileListFiles(CTCApps/Talonjars, numFiles=1)  Pri=5
+01/22 14:16:56.23 to MB: DC (Directory Service: Send FileList Files)
+01/22 14:16:56.23 to MB: C1 (Vdir Cmd)
+01/22 14:16:56.23 MBCLIENT.ExpandAndSend using LENGTHBYTEPROTOCOL SendLBP:
+01/22 14:16:56.23 MB RawSendPackets: Num packets=1.
+01/22 14:16:56.23 send MB: 127, 0x7F (dR=116; dS=269)
+   0000:  01 00 7F C1 DC 42 0F 40 44 44 2D 41 5F 54 2D 41   .....B.@DD-A_T-A
+   0010:  73 6E 6E 6E 73 5E 12 DD 43 54 43 41 70 70 73 2F   snnns^..CTCApps/
+   0020:  54 61 6C 6F 6E 6A 61 72 73 01 05 01 00 01 00 4F   Talonjars......O
+   0030:  DD 42 0B 40 44 44 2D 41 5F 54 2D 41 73 5E 40 DD   .B.@DD-A_T-As^@.
+   0040:  42 10 40 44 44 2D 41 5F 54 2D 41 6E 62 73 73 73   B.@DD-A_T-Anbsss
+   0050:  73 5E 01 04 01 54 02 DD 2E 0A DD 74 61 6C 6F 6E   s^...T.....talon
+   0060:  2E 6A 61 72 08 DD 39 35 31 38 35 33 32 11 DD 21   .jar..9518532..!
+   0070:  17 AF 27 DD A4 03 C6 18 B0 B2 F4 03 86 79 B6      ..'..........y. 
+01/22 14:16:56.24 SOCK.TrySend success:true
+01/22 14:16:56.37 recv MB: 1, 0x01 (dS=133; dR=249)
+   0000:  01                                                .               
+01/22 14:16:56.37 SOCK.ProcessRcvdData Dest:com.ctccore.util.LENGTHBYTEPROTOCOL@15b87b5
+01/22 14:16:56.37 LENGTHBYTEPROTOCOL MB: received a Partial Message: 1/0x01.  In BUFFEREDPROTOCOL
+01/22 14:16:56.37 recv MB: 21, 0x15 (dS=134; dR=1)
+   0000:  00 16 CB 42 0C 40 44 44 2D 41 5F 54 2D 41 6E 73   ...B.@DD-A_T-Ans
+   0010:  5E 01 82 01 DD                                    ^....           
+01/22 14:16:56.37 SOCK.ProcessRcvdData Dest:com.ctccore.util.LENGTHBYTEPROTOCOL@15b87b5
+01/22 14:16:56.37 LENGTHBYTEPROTOCOL MB: received final part of partial message; full length=22/0x16.
+01/22 14:16:56.37 from MB: CB  (yes)
+01/22 14:16:56.37   Time was 136 ms
+01/22 14:16:56.37 FileList is up to date.
+01/22 14:16:56.37 NumDirs=4 CurDirNum=2 TotalBytesInDir=-1
+01/22 14:16:56.37 CompletedFilesBytesInDir=0 CurFileBytes=0
+01/22 14:16:56.37 PrevDirsTotalPercent=125  CurDirTotalPercent=25
+01/22 14:16:56.37 PercentComplete 125%
+01/22 14:16:56.37 MBUpdateManager.SendUpdateStatus() Checking for updates to CTCApps/Talonjars/3rdPartyJars 125%
+01/22 14:16:56.37 Status:  Checking for updates to CTCApps/Talonjars/3rdPartyJars
+01/22 14:16:56.37 Resize Actual Window to 456x329
+
+01/22 14:16:56.37 DIRCMDS.Remove(): C:\ctccore\TalonMDC\lib\updatemanager.txt not found.
+01/22 14:16:56.37 Call: DSCLIENT.DownloadDirectory(CTCApps/Talonjars/3rdPartyJars, *.jar, C:\ctccore\TalonMDC\lib\3rdPartyJars )
+01/22 14:16:56.65 to MB: DD (Directory Service: Send Directories Files)
+01/22 14:16:56.65 to MB: C1 (Vdir Cmd)
+01/22 14:16:56.65 MBCLIENT.ExpandAndSend using LENGTHBYTEPROTOCOL SendLBP:
+01/22 14:16:56.65 MB RawSendPackets: Num packets=1.
+01/22 14:16:56.65 Send MB: 1392, 0x0570 (Summarized) (dR=285; dS=419)
+   0000:  01 05 70 C1 DD 42 10 40 44 44 2D 41 5F 54 2D 41   ..p..B.@DD-A_T-A
+   0010:  73 73 6E 6E 6E 73 5E 1F DD 43 54 43 41 70 70 73   ssnnns^..CTCApps
+   0020:  2F 54 61 6C 6F 6E 6A 61 72 73 2F 33 72 64 50 61   /Talonjars/3rdPa
+   0030:  72 74 79 4A 61 72 73 06 DD 2A 2E 6A 61 72 01 05   rtyJars..*.jar..
+   0040:  01 00 01 00 FF 05 29 CC AB AD AF 20 20 20 20 AB   ......)....    .
+   0050:  42 0B 40 44 44 2D 41 5F 54 2D 41 73 5E FF 05 10   B.@DD-A_T-As^...
+   0060:  CC AB AD AF 20 20 20 20 AB 42 61 40 44 44 2D 41   ....    .Ba@DD-A
+   0070:  5F 54 2D 41 6E 62 73 73 73 73 73 73 73 73 73 73   _T-Anbssssssssss
+   0080:  73 73 73 73 73 73 73 73 73 73 73 73 73 73 73 73   ssssssssssssssss
+   0090:  73 73 73 73 73 73 73 73 73 73 73 73 73 73 73 73   ssssssssssssssss
+   00A0:  73 73 73 73 73 73 73 73 73 73 73 73 73 73 73 73   ssssssssssssssss
+   00B0:  73 73 73 73 73 73 73 73 73 73 73 73 73 73 73 73   ssssssssssssssss
+   00C0:  73 73 73 73 73 73 73 73 73 73 73 5E 01 04 01 54   sssssssssss^...T
+   00D0:  02 DD 2E 13 DD 41 62 73 6F 6C 75 74 65 4C 61 79   .....AbsoluteLay
+   00E0:  6F 75 74 2E 6A 61 72 05 DD 38 33 32 37 11 DD C5   out.jar..8327...
+   00F0:  5F 5D BE D7 07 73 8A B5 5F 75 FB D0 ED 14 AB 12   _]...s.._u......
+   0100:  DD 41 73 70 72 69 73 65 4A 54 77 61 69 6E 2E 6A   .AspriseJTwain.j
+   0110:  61 72 07 DD 31 37 30 34 35 33 11 DD 22 CB E7 2C   ar..170453.."..,
+   0120:  CD 39 1B 07 7D 37 C5 18 F1 E8 C2 E3 12 DD 4A 54   .9..}7........JT
+   0130:  77 61 69 6E 4C 69 63 65 6E 73 65 2E 6A 61 72 05   wainLicense.jar.
+   0140:  DD 36 30 37 34 11 DD C1 AC D5 FC 46 89 97 2C DE   .6074......F..,.
+   0150:  9D 1A F3 69 7E 49 BD 11 DD 61 70 70 66 72 61 6D   ...i~I...appfram
+   0160:  65 77 6F 72 6B 2E 6A 61 72 07 DD 32 38 32 32 35   ework.jar..28225
+   0170:  32 11 DD 80 DA 07 27 1C 1F 4E 42 17 2A 8D 62 08   2.....'..NB.*.b.
+   0180:  59 B8 93 11 DD 61 73 70 72 69 73 65 5F 73 63 61   Y....asprise_sca
+   0190:  6E 2E 6A 61 72 08 DD 38 30 35 30 30 32 38 11 DD   n.jar..8050028..
+   01A0:  37 D3 E5 AB 6A 79 A3 EB 44 32 CF 01 BE 38 8A E4   7...jy..D2...8..
+   01B0:  0D DD 62 61 72 62 65 63 75 65 2E 6A 61 72 07 DD   ..barbecue.jar..
+   01C0:  31 30 33 39 34 31 11 DD 77 21 D9 45 41 10 34 9E   103941..w!.EA.4.
+   01D0:  BA 51 CB D5 B4 06 AF DF 09 DD 62 73 66 73 2E 6A   .Q........bsfs.j
+   01E0:  61 72 07 DD 31 31 39 32 32 31 11 DD 10 B0 64 1F   ar..119221....d.
+   01F0:  71 89 28 89 C7 F7 31 46 34 70 2C B4 18 DD 63 6F   q.(...1F4p,...co
+01/22 14:16:56.65 SOCK.TrySend success:true
+01/22 14:16:57.08 recv MB: 1, 0x01 (dS=421; dR=706)
+   0000:  01                                                .               
+01/22 14:16:57.08 SOCK.ProcessRcvdData Dest:com.ctccore.util.LENGTHBYTEPROTOCOL@15b87b5
+01/22 14:16:57.08 LENGTHBYTEPROTOCOL MB: received a Partial Message: 1/0x01.  In BUFFEREDPROTOCOL
+01/22 14:16:57.08 recv MB: 18, 0x12 (dS=423; dR=2)
+   0000:  00 13 CB 42 0B 40 44 44 2D 41 5F 54 2D 41 6E 5E   ...B.@DD-A_T-An^
+   0010:  01 82                                             ..              
+01/22 14:16:57.08 SOCK.ProcessRcvdData Dest:com.ctccore.util.LENGTHBYTEPROTOCOL@15b87b5
+01/22 14:16:57.08 LENGTHBYTEPROTOCOL MB: received final part of partial message; full length=19/0x13.
+01/22 14:16:57.08 from MB: CB  (yes)
+01/22 14:16:57.08   Time was 425 ms
+01/22 14:16:57.08 Directory is up to date.
+01/22 14:16:57.08 Call: DSCLIENT.DownloadDirectory(CTCApps/Talonjars/3rdPartyJars, *.jar, C:\ctccore\TalonMDC\lib\3rdPartyJars ) complete.
+01/22 14:16:57.08 NumDirs=4 CurDirNum=3 TotalBytesInDir=-1
+01/22 14:16:57.08 CompletedFilesBytesInDir=0 CurFileBytes=0
+01/22 14:16:57.08 PrevDirsTotalPercent=150  CurDirTotalPercent=25
+01/22 14:16:57.08 PercentComplete 150%
+01/22 14:16:57.08 MBUpdateManager.SendUpdateStatus() Checking for updates to CTCApps/Talonjars/ServicesClientJars 150%
+01/22 14:16:57.08 Status:  Checking for updates to CTCApps/Talonjars/ServicesClientJars
+01/22 14:16:57.08 Resize Actual Window to 456x329
+
+01/22 14:16:57.08 DIRCMDS.Remove(): C:\ctccore\TalonMDC\lib\3rdPartyJars\updatemanager.txt not found.
+01/22 14:16:57.08 Call: DSCLIENT.DownloadDirectory(CTCApps/Talonjars/ServicesClientJars, *.jar, C:\ctccore\TalonMDC\lib\ServicesClientJars )
+01/22 14:16:57.16 to MB: DD (Directory Service: Send Directories Files)
+01/22 14:16:57.16 to MB: C1 (Vdir Cmd)
+01/22 14:16:57.16 MBCLIENT.ExpandAndSend using LENGTHBYTEPROTOCOL SendLBP:
+01/22 14:16:57.16 MB RawSendPackets: Num packets=1.
+01/22 14:16:57.16 Send MB: 1450, 0x05AA (Summarized) (dR=83; dS=506)
+   0000:  01 05 AA C1 DD 42 10 40 44 44 2D 41 5F 54 2D 41   .....B.@DD-A_T-A
+   0010:  73 73 6E 6E 6E 73 5E 25 DD 43 54 43 41 70 70 73   ssnnns^%.CTCApps
+   0020:  2F 54 61 6C 6F 6E 6A 61 72 73 2F 53 65 72 76 69   /Talonjars/Servi
+   0030:  63 65 73 43 6C 69 65 6E 74 4A 61 72 73 06 DD 2A   cesClientJars..*
+   0040:  2E 6A 61 72 01 05 01 00 01 00 FF 05 5D CC AB AD   .jar........]...
+   0050:  AF 20 20 20 20 AB 42 0B 40 44 44 2D 41 5F 54 2D   .    .B.@DD-A_T-
+   0060:  41 73 5E FF 05 44 CC AB AD AF 20 20 20 20 AB 42   As^..D....    .B
+   0070:  5E 40 44 44 2D 41 5F 54 2D 41 6E 62 73 73 73 73   ^@DD-A_T-Anbssss
+   0080:  73 73 73 73 73 73 73 73 73 73 73 73 73 73 73 73   ssssssssssssssss
+   0090:  73 73 73 73 73 73 73 73 73 73 73 73 73 73 73 73   ssssssssssssssss
+   00A0:  73 73 73 73 73 73 73 73 73 73 73 73 73 73 73 73   ssssssssssssssss
+   00B0:  73 73 73 73 73 73 73 73 73 73 73 73 73 73 73 73   ssssssssssssssss
+   00C0:  73 73 73 73 73 73 73 73 73 73 73 73 73 73 5E 01   ssssssssssssss^.
+   00D0:  04 01 54 02 DD 2E 14 DD 41 70 70 43 6F 6E 66 69   ..T.....AppConfi
+   00E0:  67 44 6F 6D 61 69 6E 2E 6A 61 72 06 DD 32 35 33   gDomain.jar..253
+   00F0:  33 31 11 DD 95 7F 40 2D 7F 0B C0 3F B8 31 F6 C2   31....@-...?.1..
+   0100:  41 36 32 3F 1B DD 42 75 73 69 6E 65 73 73 41 63   A62?..BusinessAc
+   0110:  74 69 76 69 74 79 44 6F 6D 61 69 6E 2E 6A 61 72   tivityDomain.jar
+   0120:  06 DD 33 36 34 33 32 11 DD 0C D9 84 56 61 19 3A   ..36432.....Va.:
+   0130:  D1 47 E3 8E E2 C1 4D EA A9 16 DD 43 41 44 49 6E   .G....M....CADIn
+   0140:  63 69 64 65 6E 74 44 6F 6D 61 69 6E 2E 6A 61 72   cidentDomain.jar
+   0150:  06 DD 35 31 33 33 31 11 DD 48 2F 41 F3 88 14 29   ..51331..H/A...)
+   0160:  57 4E B3 E5 FC 7F 15 40 5D 14 DD 43 6F 72 65 53   WN.....@]..CoreS
+   0170:  69 67 6E 65 64 43 47 4C 49 42 2E 6A 61 72 07 DD   ignedCGLIB.jar..
+   0180:  33 31 35 36 37 37 11 DD 0D 48 88 F0 9E 39 07 09   315677...H...9..
+   0190:  0B 7E 14 A7 29 5F 52 2B 0D DD 43 6F 72 65 55 74   .~..)_R+..CoreUt
+   01A0:  69 6C 2E 6A 61 72 07 DD 31 33 38 38 38 37 11 DD   il.jar..138887..
+   01B0:  E8 C8 56 96 C6 C6 1F CC 17 45 CE F1 49 37 A2 92   ..V......E..I7..
+   01C0:  14 DD 45 71 75 69 70 6D 65 6E 74 44 6F 6D 61 69   ..EquipmentDomai
+   01D0:  6E 2E 6A 61 72 06 DD 32 36 30 36 37 11 DD 2C 00   n.jar..26067..,.
+   01E0:  A6 F3 EA D8 FE 50 BE 23 03 DD 44 64 34 A8 0F DD   .....P.#..Dd4...
+   01F0:  46 49 50 53 43 6C 69 65 6E 74 2E 6A 61 72 06 DD   FIPSClient.jar..
+01/22 14:16:57.16 SOCK.TrySend success:true
+01/22 14:16:57.34 recv MB: 1, 0x01 (dS=178; dR=261)
+   0000:  01                                                .               
+01/22 14:16:57.34 SOCK.ProcessRcvdData Dest:com.ctccore.util.LENGTHBYTEPROTOCOL@15b87b5
+01/22 14:16:57.34 LENGTHBYTEPROTOCOL MB: received a Partial Message: 1/0x01.  In BUFFEREDPROTOCOL
+01/22 14:16:57.34 recv MB: 18, 0x12 (dS=179; dR=1)
+   0000:  00 13 CB 42 0B 40 44 44 2D 41 5F 54 2D 41 6E 5E   ...B.@DD-A_T-An^
+   0010:  01 82                                             ..              
+01/22 14:16:57.34 SOCK.ProcessRcvdData Dest:com.ctccore.util.LENGTHBYTEPROTOCOL@15b87b5
+01/22 14:16:57.34 LENGTHBYTEPROTOCOL MB: received final part of partial message; full length=19/0x13.
+01/22 14:16:57.34 from MB: CB  (yes)
+01/22 14:16:57.34   Time was 181 ms
+01/22 14:16:57.34 Directory is up to date.
+01/22 14:16:57.34 Call: DSCLIENT.DownloadDirectory(CTCApps/Talonjars/ServicesClientJars, *.jar, C:\ctccore\TalonMDC\lib\ServicesClientJars ) complete.
+01/22 14:16:57.34 NumDirs=4 CurDirNum=4 TotalBytesInDir=-1
+01/22 14:16:57.34 CompletedFilesBytesInDir=0 CurFileBytes=0
+01/22 14:16:57.34 PrevDirsTotalPercent=175  CurDirTotalPercent=25
+01/22 14:16:57.34 PercentComplete 175%
+01/22 14:16:57.34 MBUpdateManager.SendUpdateStatus() Checking for updates to CTCApps/Talonjars/TalonAuthenticationMatrixJars 175%
+01/22 14:16:57.34 Status:  Checking for updates to CTCApps/Talonjars/TalonAuthenticationMatrixJars
+01/22 14:16:57.34 Resize Actual Window to 456x329
+
+01/22 14:16:57.34 DIRCMDS.Remove(): C:\ctccore\TalonMDC\lib\ServicesClientJars\updatemanager.txt not found.
+01/22 14:16:57.34 Call: DSCLIENT.DownloadDirectory(CTCApps/Talonjars/TalonAuthenticationMatrixJars, *.jar, C:\ctccore\TalonMDC\lib\TalonAuthenticationMatrixJars )
+01/22 14:16:57.35 to MB: DD (Directory Service: Send Directories Files)
+01/22 14:16:57.35 to MB: C1 (Vdir Cmd)
+01/22 14:16:57.35 MBCLIENT.ExpandAndSend using LENGTHBYTEPROTOCOL SendLBP:
+01/22 14:16:57.35 MB RawSendPackets: Num packets=1.
+01/22 14:16:57.35 send MB: 309, 0x0135 (dR=9; dS=188)
+   0000:  01 01 35 C1 DD 42 10 40 44 44 2D 41 5F 54 2D 41   ..5..B.@DD-A_T-A
+   0010:  73 73 6E 6E 6E 73 5E 30 DD 43 54 43 41 70 70 73   ssnnns^0.CTCApps
+   0020:  2F 54 61 6C 6F 6E 6A 61 72 73 2F 54 61 6C 6F 6E   /Talonjars/Talon
+   0030:  41 75 74 68 65 6E 74 69 63 61 74 69 6F 6E 4D 61   AuthenticationMa
+   0040:  74 72 69 78 4A 61 72 73 06 DD 2A 2E 6A 61 72 01   trixJars..*.jar.
+   0050:  05 01 00 01 00 DF DD 42 0B 40 44 44 2D 41 5F 54   .......B.@DD-A_T
+   0060:  2D 41 73 5E D0 DD 42 19 40 44 44 2D 41 5F 54 2D   -As^..B.@DD-A_T-
+   0070:  41 6E 62 73 73 73 73 73 73 73 73 73 73 73 73 73   Anbsssssssssssss
+   0080:  5E 01 04 01 54 02 DD 2E 11 DD 4D 61 74 72 69 78   ^...T.....Matrix
+   0090:  43 6C 69 65 6E 74 2E 6A 61 72 06 DD 32 35 34 36   Client.jar..2546
+   00A0:  39 11 DD 8D A4 0D 44 34 AA 8E 30 F2 7A E2 D7 B8   9.....D4..0.z...
+   00B0:  49 17 6D 11 DD 4D 61 74 72 69 78 44 6F 6D 61 69   I.m..MatrixDomai
+   00C0:  6E 2E 6A 61 72 06 DD 31 30 37 37 38 11 DD D2 5F   n.jar..10778..._
+   00D0:  09 3C 4D 63 29 31 1D 5C 34 88 A0 E2 7B 83 11 DD   .<Mc)1.\4...{...
+   00E0:  4D 61 74 72 69 78 53 65 72 76 65 72 2E 6A 61 72   MatrixServer.jar
+   00F0:  06 DD 31 30 39 37 37 11 DD AC 57 E0 95 0C A0 DA   ..10977...W.....
+   0100:  AF 05 4B 9B 67 54 9A 93 F0 11 DD 6C 6F 67 34 6A   ..K.gT.....log4j
+   0110:  2D 31 2E 32 2E 31 35 2E 6A 61 72 07 DD 34 33 31   -1.2.15.jar..431
+   0120:  32 31 39 11 DD AA FD EB EE D6 35 E6 1E 8A F5 5A   219.......5....Z
+   0130:  72 2F 7C C4 26                                    r/|.&           
+01/22 14:16:57.35 SOCK.TrySend success:true
+01/22 14:16:57.43 recv MB: 1, 0x01 (dS=85; dR=94)
+   0000:  01                                                .               
+01/22 14:16:57.43 SOCK.ProcessRcvdData Dest:com.ctccore.util.LENGTHBYTEPROTOCOL@15b87b5
+01/22 14:16:57.43 LENGTHBYTEPROTOCOL MB: received a Partial Message: 1/0x01.  In BUFFEREDPROTOCOL
+01/22 14:16:57.43 recv MB: 18, 0x12 (dS=86; dR=1)
+   0000:  00 13 CB 42 0B 40 44 44 2D 41 5F 54 2D 41 6E 5E   ...B.@DD-A_T-An^
+   0010:  01 82                                             ..              
+01/22 14:16:57.43 SOCK.ProcessRcvdData Dest:com.ctccore.util.LENGTHBYTEPROTOCOL@15b87b5
+01/22 14:16:57.43 LENGTHBYTEPROTOCOL MB: received final part of partial message; full length=19/0x13.
+01/22 14:16:57.43 from MB: CB  (yes)
+01/22 14:16:57.44   Time was 90 ms
+01/22 14:16:57.44 Directory is up to date.
+01/22 14:16:57.44 Call: DSCLIENT.DownloadDirectory(CTCApps/Talonjars/TalonAuthenticationMatrixJars, *.jar, C:\ctccore\TalonMDC\lib\TalonAuthenticationMatrixJars ) complete.
+01/22 14:16:57.44 DIRCMDS.Remove(): C:\ctccore\TalonMDC\lib\TalonAuthenticationMatrixJars\updatemanager.txt not found.
+01/22 14:16:57.44 Status:  Update Completed.
+01/22 14:16:57.44 UpdateCTCStartFile:ctcstartfilelist.xml
+01/22 14:16:57.44 Call: DSCLIENT.CheckForNeededDownloads: (1) files to download.
+01/22 14:16:57.44 Resize Actual Window to 456x329
+
+01/22 14:16:57.44   Trying local path: ( . )
+01/22 14:16:57.44     Trying file: ( ctcstartfilelist.xml )
+01/22 14:16:57.44 Call: DSCLIENT.DownloadFileIfChanged MB path( CTCApps/CTCStart/talonmdc ) Server filename( ctcstartfilelist.xml ) Local filename ( ctcstartfilelist.xml )  Priority (5)
+01/22 14:16:57.44 Call: DownloadFileIfChangedUsingFileList(CTCApps/CTCStart/talonmdc, ctcstartfilelist.xml, C:\ctccore\TalonMDC)
+01/22 14:16:57.44 File already exists.  Check if changed. len=434
+01/22 14:16:57.44 Call: DSCLIENT.DownloadFileListFiles(CTCApps/CTCStart/talonmdc, numFiles=1)  Pri=5
+01/22 14:16:57.44 to MB: DC (Directory Service: Send FileList Files)
+01/22 14:16:57.44 to MB: C1 (Vdir Cmd)
+01/22 14:16:57.44 MBCLIENT.ExpandAndSend using LENGTHBYTEPROTOCOL SendLBP:
+01/22 14:16:57.44 MB RawSendPackets: Num packets=1.
+01/22 14:16:57.44 send MB: 142, 0x8E (dR=10; dS=96)
+   0000:  01 00 8E C1 DC 42 0F 40 44 44 2D 41 5F 54 2D 41   .....B.@DD-A_T-A
+   0010:  73 6E 6E 6E 73 5E 1A DD 43 54 43 41 70 70 73 2F   snnns^..CTCApps/
+   0020:  43 54 43 53 74 61 72 74 2F 74 61 6C 6F 6E 6D 64   CTCStart/talonmd
+   0030:  63 01 05 01 00 01 00 56 DD 42 0B 40 44 44 2D 41   c......V.B.@DD-A
+   0040:  5F 54 2D 41 73 5E 47 DD 42 10 40 44 44 2D 41 5F   _T-As^G.B.@DD-A_
+   0050:  54 2D 41 6E 62 73 73 73 73 5E 01 04 01 54 02 DD   T-Anbssss^...T..
+   0060:  2E 15 DD 63 74 63 73 74 61 72 74 66 69 6C 65 6C   ...ctcstartfilel
+   0070:  69 73 74 2E 78 6D 6C 04 DD 34 33 34 11 DD C2 90   ist.xml..434....
+   0080:  65 A3 FD 15 D9 2D 42 03 D2 38 CE 4B E2 FB         e....-B..8.K..  
+01/22 14:16:57.44 SOCK.TrySend success:true
+01/22 14:16:57.51 recv MB: 1, 0x01 (dS=68; dR=78)
+   0000:  01                                                .               
+01/22 14:16:57.51 SOCK.ProcessRcvdData Dest:com.ctccore.util.LENGTHBYTEPROTOCOL@15b87b5
+01/22 14:16:57.51 LENGTHBYTEPROTOCOL MB: received a Partial Message: 1/0x01.  In BUFFEREDPROTOCOL
+01/22 14:16:57.51 recv MB: 21, 0x15 (dS=69; dR=1)
+   0000:  00 16 CB 42 0C 40 44 44 2D 41 5F 54 2D 41 6E 73   ...B.@DD-A_T-Ans
+   0010:  5E 01 82 01 DD                                    ^....           
+01/22 14:16:57.51 SOCK.ProcessRcvdData Dest:com.ctccore.util.LENGTHBYTEPROTOCOL@15b87b5
+01/22 14:16:57.51 LENGTHBYTEPROTOCOL MB: received final part of partial message; full length=22/0x16.
+01/22 14:16:57.51 from MB: CB  (yes)
+01/22 14:16:57.51   Time was 70 ms
+01/22 14:16:57.51 FileList is up to date.
+01/22 14:16:57.51   Returning path used: ( . )
+01/22 14:16:57.52 XMLBLDR.HandleProcessingInstructions: Warning: class 'com.ctccore.xml.CTCPIPROC' was not found.  XML will not support CTC Processing Instructions.
+01/22 14:16:57.52 NumDirs=2 CurDirNum=1 TotalBytesInDir=-1
+01/22 14:16:57.52 CompletedFilesBytesInDir=0 CurFileBytes=0
+01/22 14:16:57.52 PrevDirsTotalPercent=100  CurDirTotalPercent=50
+01/22 14:16:57.52 PercentComplete 100%
+01/22 14:16:57.52 MBUpdateManager.SendUpdateStatus() Checking for updates to CTCApps/CTCStart/talonmdc 100%
+01/22 14:16:57.52 Status:  Checking for updates to CTCApps/CTCStart/talonmdc
+01/22 14:16:57.52 Resize Actual Window to 456x329
+
+01/22 14:16:57.52 dontErrorIfFileMissingfalse
+01/22 14:16:57.52 Call: DSCLIENT.DownloadFileIfChanged MB path( CTCApps/CTCStart/talonmdc ) Server filename( ctcstart.exe ) Local filename ( ctcstart.exe )  Priority (5)
+01/22 14:16:57.53 Call: DownloadFileIfChangedUsingFileList(CTCApps/CTCStart/talonmdc, ctcstart.exe, C:\ctccore\TalonMDC)
+01/22 14:16:57.53 File already exists.  Check if changed. len=114688
+01/22 14:16:57.53 Call: DSCLIENT.DownloadFileListFiles(CTCApps/CTCStart/talonmdc, numFiles=1)  Pri=5
+01/22 14:16:57.53 to MB: DC (Directory Service: Send FileList Files)
+01/22 14:16:57.53 to MB: C1 (Vdir Cmd)
+01/22 14:16:57.53 MBCLIENT.ExpandAndSend using LENGTHBYTEPROTOCOL SendLBP:
+01/22 14:16:57.53 MB RawSendPackets: Num packets=1.
+01/22 14:16:57.53 send MB: 137, 0x89 (dR=19; dS=88)
+   0000:  01 00 89 C1 DC 42 0F 40 44 44 2D 41 5F 54 2D 41   .....B.@DD-A_T-A
+   0010:  73 6E 6E 6E 73 5E 1A DD 43 54 43 41 70 70 73 2F   snnns^..CTCApps/
+   0020:  43 54 43 53 74 61 72 74 2F 74 61 6C 6F 6E 6D 64   CTCStart/talonmd
+   0030:  63 01 05 01 00 01 00 51 DD 42 0B 40 44 44 2D 41   c......Q.B.@DD-A
+   0040:  5F 54 2D 41 73 5E 42 DD 42 10 40 44 44 2D 41 5F   _T-As^B.B.@DD-A_
+   0050:  54 2D 41 6E 62 73 73 73 73 5E 01 04 01 54 02 DD   T-Anbssss^...T..
+   0060:  2E 0D DD 63 74 63 73 74 61 72 74 2E 65 78 65 07   ...ctcstart.exe.
+   0070:  DD 31 31 34 36 38 38 11 DD 0A 15 E9 29 75 6A B5   .114688.....)uj.
+   0080:  9E EE 61 15 99 6B F0 93 13                        ..a..k...       
+01/22 14:16:57.53 SOCK.TrySend success:true
+01/22 14:16:57.57 recv MB: 1, 0x01 (dS=34; dR=53)
+   0000:  01                                                .               
+01/22 14:16:57.57 SOCK.ProcessRcvdData Dest:com.ctccore.util.LENGTHBYTEPROTOCOL@15b87b5
+01/22 14:16:57.57 LENGTHBYTEPROTOCOL MB: received a Partial Message: 1/0x01.  In BUFFEREDPROTOCOL
+01/22 14:16:57.57 recv MB: 21, 0x15 (dS=35; dR=1)
+   0000:  00 16 CB 42 0C 40 44 44 2D 41 5F 54 2D 41 6E 73   ...B.@DD-A_T-Ans
+   0010:  5E 01 82 01 DD                                    ^....           
+01/22 14:16:57.57 SOCK.ProcessRcvdData Dest:com.ctccore.util.LENGTHBYTEPROTOCOL@15b87b5
+01/22 14:16:57.57 LENGTHBYTEPROTOCOL MB: received final part of partial message; full length=22/0x16.
+01/22 14:16:57.57 from MB: CB  (yes)
+01/22 14:16:57.57   Time was 36 ms
+01/22 14:16:57.57 FileList is up to date.
+01/22 14:16:57.57 dontErrorIfFileMissingfalse
+01/22 14:16:57.57 Call: DSCLIENT.DownloadFileIfChanged MB path( CTCApps/CTCStart/talonmdc ) Server filename( ctcstart.ico ) Local filename ( ctcstart.ico )  Priority (5)
+01/22 14:16:57.57 Call: DownloadFileIfChangedUsingFileList(CTCApps/CTCStart/talonmdc, ctcstart.ico, C:\ctccore\TalonMDC)
+01/22 14:16:57.57 File already exists.  Check if changed. len=4286
+01/22 14:16:57.57 Call: DSCLIENT.DownloadFileListFiles(CTCApps/CTCStart/talonmdc, numFiles=1)  Pri=5
+01/22 14:16:57.57 to MB: DC (Directory Service: Send FileList Files)
+01/22 14:16:57.57 to MB: C1 (Vdir Cmd)
+01/22 14:16:57.57 MBCLIENT.ExpandAndSend using LENGTHBYTEPROTOCOL SendLBP:
+01/22 14:16:57.57 MB RawSendPackets: Num packets=1.
+01/22 14:16:57.57 send MB: 135, 0x87 (dR=4; dS=39)
+   0000:  01 00 87 C1 DC 42 0F 40 44 44 2D 41 5F 54 2D 41   .....B.@DD-A_T-A
+   0010:  73 6E 6E 6E 73 5E 1A DD 43 54 43 41 70 70 73 2F   snnns^..CTCApps/
+   0020:  43 54 43 53 74 61 72 74 2F 74 61 6C 6F 6E 6D 64   CTCStart/talonmd
+   0030:  63 01 05 01 00 01 00 4F DD 42 0B 40 44 44 2D 41   c......O.B.@DD-A
+   0040:  5F 54 2D 41 73 5E 40 DD 42 10 40 44 44 2D 41 5F   _T-As^@.B.@DD-A_
+   0050:  54 2D 41 6E 62 73 73 73 73 5E 01 04 01 54 02 DD   T-Anbssss^...T..
+   0060:  2E 0D DD 63 74 63 73 74 61 72 74 2E 69 63 6F 05   ...ctcstart.ico.
+   0070:  DD 34 32 38 36 11 DD 49 10 EE 09 E0 D9 2F 55 51   .4286..I...../UQ
+   0080:  B1 DE BD 03 A5 34 69                              .....4i         
+01/22 14:16:57.57 SOCK.TrySend success:true
+01/22 14:16:57.64 recv MB: 1, 0x01 (dS=65; dR=69)
+   0000:  01                                                .               
+01/22 14:16:57.64 SOCK.ProcessRcvdData Dest:com.ctccore.util.LENGTHBYTEPROTOCOL@15b87b5
+01/22 14:16:57.64 LENGTHBYTEPROTOCOL MB: received a Partial Message: 1/0x01.  In BUFFEREDPROTOCOL
+01/22 14:16:57.64 recv MB: 21, 0x15 (dS=66; dR=1)
+   0000:  00 16 CB 42 0C 40 44 44 2D 41 5F 54 2D 41 6E 73   ...B.@DD-A_T-Ans
+   0010:  5E 01 82 01 DD                                    ^....           
+01/22 14:16:57.64 SOCK.ProcessRcvdData Dest:com.ctccore.util.LENGTHBYTEPROTOCOL@15b87b5
+01/22 14:16:57.64 LENGTHBYTEPROTOCOL MB: received final part of partial message; full length=22/0x16.
+01/22 14:16:57.64 from MB: CB  (yes)
+01/22 14:16:57.64   Time was 68 ms
+01/22 14:16:57.64 FileList is up to date.
+01/22 14:16:57.64 dontErrorIfFileMissingfalse
+01/22 14:16:57.64 Call: DSCLIENT.DownloadFileIfChanged MB path( CTCApps/CTCStart/talonmdc ) Server filename( ctcstart.ini ) Local filename ( ctcstart.ini )  Priority (5)
+01/22 14:16:57.64 Call: DownloadFileIfChangedUsingFileList(CTCApps/CTCStart/talonmdc, ctcstart.ini, C:\ctccore\TalonMDC)
+01/22 14:16:57.64 File already exists.  Check if changed. len=1516
+01/22 14:16:57.64 Call: DSCLIENT.DownloadFileListFiles(CTCApps/CTCStart/talonmdc, numFiles=1)  Pri=5
+01/22 14:16:57.64 to MB: DC (Directory Service: Send FileList Files)
+01/22 14:16:57.64 to MB: C1 (Vdir Cmd)
+01/22 14:16:57.64 MBCLIENT.ExpandAndSend using LENGTHBYTEPROTOCOL SendLBP:
+01/22 14:16:57.64 MB RawSendPackets: Num packets=1.
+01/22 14:16:57.64 send MB: 135, 0x87 (dR=4; dS=70)
+   0000:  01 00 87 C1 DC 42 0F 40 44 44 2D 41 5F 54 2D 41   .....B.@DD-A_T-A
+   0010:  73 6E 6E 6E 73 5E 1A DD 43 54 43 41 70 70 73 2F   snnns^..CTCApps/
+   0020:  43 54 43 53 74 61 72 74 2F 74 61 6C 6F 6E 6D 64   CTCStart/talonmd
+   0030:  63 01 05 01 00 01 00 4F DD 42 0B 40 44 44 2D 41   c......O.B.@DD-A
+   0040:  5F 54 2D 41 73 5E 40 DD 42 10 40 44 44 2D 41 5F   _T-As^@.B.@DD-A_
+   0050:  54 2D 41 6E 62 73 73 73 73 5E 01 04 01 54 02 DD   T-Anbssss^...T..
+   0060:  2E 0D DD 63 74 63 73 74 61 72 74 2E 69 6E 69 05   ...ctcstart.ini.
+   0070:  DD 31 35 31 36 11 DD 51 BE F8 87 7E 4A 75 B4 A2   .1516..Q...~Ju..
+   0080:  62 0E 8E 64 2D 8D 9B                              b..d-..         
+01/22 14:16:57.64 SOCK.TrySend success:true
+01/22 14:16:57.70 recv MB: 1, 0x01 (dS=61; dR=65)
+   0000:  01                                                .               
+01/22 14:16:57.70 SOCK.ProcessRcvdData Dest:com.ctccore.util.LENGTHBYTEPROTOCOL@15b87b5
+01/22 14:16:57.70 LENGTHBYTEPROTOCOL MB: received a Partial Message: 1/0x01.  In BUFFEREDPROTOCOL
+01/22 14:16:57.70 recv MB: 21, 0x15 (dS=62; dR=1)
+   0000:  00 16 CB 42 0C 40 44 44 2D 41 5F 54 2D 41 6E 73   ...B.@DD-A_T-Ans
+   0010:  5E 01 82 01 DD                                    ^....           
+01/22 14:16:57.70 SOCK.ProcessRcvdData Dest:com.ctccore.util.LENGTHBYTEPROTOCOL@15b87b5
+01/22 14:16:57.70 LENGTHBYTEPROTOCOL MB: received final part of partial message; full length=22/0x16.
+01/22 14:16:57.70 from MB: CB  (yes)
+01/22 14:16:57.70   Time was 64 ms
+01/22 14:16:57.70 FileList is up to date.
+01/22 14:16:57.70 dontErrorIfFileMissingfalse
+01/22 14:16:57.70 Call: DSCLIENT.DownloadFileIfChanged MB path( CTCApps/CTCStart/talonmdc ) Server filename( ctcstart.lax ) Local filename ( ctcstart.lax )  Priority (5)
+01/22 14:16:57.70 Call: DownloadFileIfChangedUsingFileList(CTCApps/CTCStart/talonmdc, ctcstart.lax, C:\ctccore\TalonMDC)
+01/22 14:16:57.71 File already exists.  Check if changed. len=3704
+01/22 14:16:57.71 Call: DSCLIENT.DownloadFileListFiles(CTCApps/CTCStart/talonmdc, numFiles=1)  Pri=5
+01/22 14:16:57.71 to MB: DC (Directory Service: Send FileList Files)
+01/22 14:16:57.71 to MB: C1 (Vdir Cmd)
+01/22 14:16:57.71 MBCLIENT.ExpandAndSend using LENGTHBYTEPROTOCOL SendLBP:
+01/22 14:16:57.71 MB RawSendPackets: Num packets=1.
+01/22 14:16:57.71 send MB: 135, 0x87 (dR=4; dS=66)
+   0000:  01 00 87 C1 DC 42 0F 40 44 44 2D 41 5F 54 2D 41   .....B.@DD-A_T-A
+   0010:  73 6E 6E 6E 73 5E 1A DD 43 54 43 41 70 70 73 2F   snnns^..CTCApps/
+   0020:  43 54 43 53 74 61 72 74 2F 74 61 6C 6F 6E 6D 64   CTCStart/talonmd
+   0030:  63 01 05 01 00 01 00 4F DD 42 0B 40 44 44 2D 41   c......O.B.@DD-A
+   0040:  5F 54 2D 41 73 5E 40 DD 42 10 40 44 44 2D 41 5F   _T-As^@.B.@DD-A_
+   0050:  54 2D 41 6E 62 73 73 73 73 5E 01 04 01 54 02 DD   T-Anbssss^...T..
+   0060:  2E 0D DD 63 74 63 73 74 61 72 74 2E 6C 61 78 05   ...ctcstart.lax.
+   0070:  DD 33 37 30 34 11 DD 1D FB F3 F2 54 17 AE 05 CF   .3704......T....
+   0080:  9D E7 31 C0 8B 05 82                              ..1....         
+01/22 14:16:57.71 SOCK.TrySend success:true
+01/22 14:16:57.80 recv MB: 1, 0x01 (dS=93; dR=97)
+   0000:  01                                                .               
+01/22 14:16:57.80 SOCK.ProcessRcvdData Dest:com.ctccore.util.LENGTHBYTEPROTOCOL@15b87b5
+01/22 14:16:57.80 LENGTHBYTEPROTOCOL MB: received a Partial Message: 1/0x01.  In BUFFEREDPROTOCOL
+01/22 14:16:57.80 recv MB: 21, 0x15 (dS=94; dR=1)
+   0000:  00 16 CB 42 0C 40 44 44 2D 41 5F 54 2D 41 6E 73   ...B.@DD-A_T-Ans
+   0010:  5E 01 82 01 DD                                    ^....           
+01/22 14:16:57.80 SOCK.ProcessRcvdData Dest:com.ctccore.util.LENGTHBYTEPROTOCOL@15b87b5
+01/22 14:16:57.80 LENGTHBYTEPROTOCOL MB: received final part of partial message; full length=22/0x16.
+01/22 14:16:57.80 from MB: CB  (yes)
+01/22 14:16:57.80   Time was 95 ms
+01/22 14:16:57.80 FileList is up to date.
+01/22 14:16:57.80 dontErrorIfFileMissingfalse
+01/22 14:16:57.80 Call: DSCLIENT.DownloadFileIfChanged MB path( CTCApps/CTCStart/talonmdc ) Server filename( coresplash.png ) Local filename ( coresplash.png )  Priority (5)
+01/22 14:16:57.80 Call: DownloadFileIfChangedUsingFileList(CTCApps/CTCStart/talonmdc, coresplash.png, C:\ctccore\TalonMDC)
+01/22 14:16:57.80 File already exists.  Check if changed. len=35388
+01/22 14:16:57.80 Call: DSCLIENT.DownloadFileListFiles(CTCApps/CTCStart/talonmdc, numFiles=1)  Pri=5
+01/22 14:16:57.80 to MB: DC (Directory Service: Send FileList Files)
+01/22 14:16:57.80 to MB: C1 (Vdir Cmd)
+01/22 14:16:57.80 MBCLIENT.ExpandAndSend using LENGTHBYTEPROTOCOL SendLBP:
+01/22 14:16:57.80 MB RawSendPackets: Num packets=1.
+01/22 14:16:57.81 send MB: 138, 0x8A (dR=5; dS=99)
+   0000:  01 00 8A C1 DC 42 0F 40 44 44 2D 41 5F 54 2D 41   .....B.@DD-A_T-A
+   0010:  73 6E 6E 6E 73 5E 1A DD 43 54 43 41 70 70 73 2F   snnns^..CTCApps/
+   0020:  43 54 43 53 74 61 72 74 2F 74 61 6C 6F 6E 6D 64   CTCStart/talonmd
+   0030:  63 01 05 01 00 01 00 52 DD 42 0B 40 44 44 2D 41   c......R.B.@DD-A
+   0040:  5F 54 2D 41 73 5E 43 DD 42 10 40 44 44 2D 41 5F   _T-As^C.B.@DD-A_
+   0050:  54 2D 41 6E 62 73 73 73 73 5E 01 04 01 54 02 DD   T-Anbssss^...T..
+   0060:  2E 0F DD 63 6F 72 65 73 70 6C 61 73 68 2E 70 6E   ...coresplash.pn
+   0070:  67 06 DD 33 35 33 38 38 11 DD B1 26 FE 60 1C C8   g..35388...&.`..
+   0080:  72 64 22 86 2A F5 0C 92 2B 9F                     rd".*...+.      
+01/22 14:16:57.81 SOCK.TrySend success:true
+01/22 14:16:57.88 recv MB: 1, 0x01 (dS=73; dR=78)
+   0000:  01                                                .               
+01/22 14:16:57.88 SOCK.ProcessRcvdData Dest:com.ctccore.util.LENGTHBYTEPROTOCOL@15b87b5
+01/22 14:16:57.88 LENGTHBYTEPROTOCOL MB: received a Partial Message: 1/0x01.  In BUFFEREDPROTOCOL
+01/22 14:16:57.88 recv MB: 21, 0x15 (dS=73; dR=0)
+   0000:  00 16 CB 42 0C 40 44 44 2D 41 5F 54 2D 41 6E 73   ...B.@DD-A_T-Ans
+   0010:  5E 01 82 01 DD                                    ^....           
+01/22 14:16:57.88 SOCK.ProcessRcvdData Dest:com.ctccore.util.LENGTHBYTEPROTOCOL@15b87b5
+01/22 14:16:57.88 LENGTHBYTEPROTOCOL MB: received final part of partial message; full length=22/0x16.
+01/22 14:16:57.88 from MB: CB  (yes)
+01/22 14:16:57.88   Time was 76 ms
+01/22 14:16:57.88 FileList is up to date.
+01/22 14:16:57.88 NumDirs=2 CurDirNum=2 TotalBytesInDir=-1
+01/22 14:16:57.88 CompletedFilesBytesInDir=0 CurFileBytes=0
+01/22 14:16:57.88 PrevDirsTotalPercent=150  CurDirTotalPercent=50
+01/22 14:16:57.88 PercentComplete 150%
+01/22 14:16:57.88 MBUpdateManager.SendUpdateStatus() Checking for updates to CTCApps/CTCStart/CTCStartLib 150%
+01/22 14:16:57.88 Status:  Checking for updates to CTCApps/CTCStart/CTCStartLib
+01/22 14:16:57.88 Resize Actual Window to 456x329
+
+01/22 14:16:57.88 DIRCMDS.Remove(): C:\ctccore\TalonMDC\updatemanager.txt not found.
+01/22 14:16:57.88 Call: DSCLIENT.DownloadDirectory(CTCApps/CTCStart/CTCStartLib, *.jar, C:\ctccore\TalonMDC\ctcstartlib )
+01/22 14:16:57.92 to MB: DD (Directory Service: Send Directories Files)
+01/22 14:16:57.92 to MB: C1 (Vdir Cmd)
+01/22 14:16:57.92 MBCLIENT.ExpandAndSend using LENGTHBYTEPROTOCOL SendLBP:
+01/22 14:16:57.92 MB RawSendPackets: Num packets=1.
+01/22 14:16:57.93 send MB: 439, 0x01B7 (dR=46; dS=119)
+   0000:  01 01 B7 C1 DD 42 10 40 44 44 2D 41 5F 54 2D 41   .....B.@DD-A_T-A
+   0010:  73 73 6E 6E 6E 73 5E 1D DD 43 54 43 41 70 70 73   ssnnns^..CTCApps
+   0020:  2F 43 54 43 53 74 61 72 74 2F 43 54 43 53 74 61   /CTCStart/CTCSta
+   0030:  72 74 4C 69 62 06 DD 2A 2E 6A 61 72 01 05 01 00   rtLib..*.jar....
+   0040:  01 00 FF 01 72 DD 42 0B 40 44 44 2D 41 5F 54 2D   ....r.B.@DD-A_T-
+   0050:  41 73 5E FF 01 61 DD 42 22 40 44 44 2D 41 5F 54   As^..a.B"@DD-A_T
+   0060:  2D 41 6E 62 73 73 73 73 73 73 73 73 73 73 73 73   -Anbssssssssssss
+   0070:  73 73 73 73 73 73 73 73 73 73 5E 01 04 01 54 02   ssssssssss^...T.
+   0080:  DD 2E 1E DD 62 63 2D 66 69 70 73 2D 31 2E 30 2E   ....bc-fips-1.0.
+   0090:  30 2E 73 69 67 6E 65 64 62 79 63 74 63 2E 6A 61   0.signedbyctc.ja
+   00A0:  72 08 DD 33 33 33 39 32 32 39 11 DD CD BD 42 80   r..3339229....B.
+   00B0:  BF 40 A5 FC D8 7F 87 64 6C 3A D9 EB 15 DD 63 74   .@.....dl:....ct
+   00C0:  63 73 74 61 72 74 2E 32 2E 30 30 2E 30 35 2E 6A   cstart.2.00.05.j
+   00D0:  61 72 08 DD 31 33 38 38 32 33 33 11 DD 52 04 0F   ar..1388233..R..
+   00E0:  04 05 E2 B6 81 AA E7 FB 08 16 59 6C A1 0D DD 63   ..........Yl...c
+   00F0:  74 63 73 74 61 72 74 2E 6A 61 72 08 DD 31 33 31   tcstart.jar..131
+   0100:  30 33 33 38 11 DD AF 28 B3 48 A5 66 FC 31 1F 7C   0338...(.H.f.1.|
+   0110:  0E F9 D2 AC 1B 85 08 DD 6C 61 78 2E 6A 61 72 06   ........lax.jar.
+   0120:  DD 34 31 38 30 33 11 DD 64 48 65 75 AE BA F3 DA   .41803..dHeu....
+   0130:  CE 3E CB 73 A5 89 98 48 11 DD 6C 6F 67 34 6A 2D   .>.s...H..log4j-
+   0140:  31 2E 32 2E 31 35 2E 6A 61 72 07 DD 34 33 31 30   1.2.15.jar..4310
+   0150:  34 37 11 DD 24 45 D7 60 65 90 E6 58 59 33 2A 38   47..$E.`e..XY3*8
+   0160:  AF 32 F9 D9 0C DD 6D 73 6C 69 6E 6B 73 2E 6A 61   .2....mslinks.ja
+   0170:  72 06 DD 36 38 39 30 35 11 DD C0 D1 CE 3F 59 65   r..68905.....?Ye
+   0180:  04 C6 D6 2B 2D C5 C9 9E 28 0B 13 DD 73 73 6C 2D   ...+-...(...ssl-
+   0190:  6A 73 73 65 2D 33 2E 30 2E 32 2E 6A 61 72 06 DD   jsse-3.0.2.jar..
+   01A0:  34 30 35 36 31 11 DD 94 B3 07 86 EB 50 B9 9B 06   40561.......P...
+   01B0:  0F DA 16 DB 90 D9 87                              .......         
+01/22 14:16:57.93 SOCK.TrySend success:true
+01/22 14:16:58.07 recv MB: 1, 0x01 (dS=144; dR=190)
+   0000:  01                                                .               
+01/22 14:16:58.07 SOCK.ProcessRcvdData Dest:com.ctccore.util.LENGTHBYTEPROTOCOL@15b87b5
+01/22 14:16:58.07 LENGTHBYTEPROTOCOL MB: received a Partial Message: 1/0x01.  In BUFFEREDPROTOCOL
+01/22 14:16:58.07 recv MB: 18, 0x12 (dS=144; dR=0)
+   0000:  00 13 CB 42 0B 40 44 44 2D 41 5F 54 2D 41 6E 5E   ...B.@DD-A_T-An^
+   0010:  01 82                                             ..              
+01/22 14:16:58.07 SOCK.ProcessRcvdData Dest:com.ctccore.util.LENGTHBYTEPROTOCOL@15b87b5
+01/22 14:16:58.07 LENGTHBYTEPROTOCOL MB: received final part of partial message; full length=19/0x13.
+01/22 14:16:58.07 from MB: CB  (yes)
+01/22 14:16:58.07   Time was 145 ms
+01/22 14:16:58.07 Directory is up to date.
+01/22 14:16:58.07 Call: DSCLIENT.DownloadDirectory(CTCApps/CTCStart/CTCStartLib, *.jar, C:\ctccore\TalonMDC\ctcstartlib ) complete.
+01/22 14:16:58.07 DIRCMDS.Remove(): C:\ctccore\TalonMDC\ctcstartlib\updatemanager.txt not found.
+01/22 14:16:58.07 Status:  Update Completed.
+01/22 14:16:58.07 Processed Directories are [C:\ctccore\TalonMDC, C:\ctccore\TalonMDC\ctcstartlib]
+01/22 14:16:58.07 Resize Actual Window to 456x329
+
+01/22 14:16:58.07 Closing connection to MB.
+01/22 14:16:58.07 MB SOCK: Close called under program control.
+01/22 14:16:58.07 BaseSock.CloseSocket() MB; duration=0:00:02.
+01/22 14:16:58.08 MB SOCK: Receiver Thread done.
+01/22 14:16:58.08 shortcutTitle:TalonMDC
+01/22 14:16:58.08 CreateShortcut. title:TalonMDC
+01/22 14:16:58.08 Shortcut file already exists
+01/22 14:16:58.08 Status:  Starting program.
+01/22 14:16:58.08 Arg 1: ../jre/bin/java.exe
+01/22 14:16:58.08 Resize Actual Window to 456x329
+
+01/22 14:16:58.08 Arg 2: -Xmx1024m
+01/22 14:16:58.08 Arg 3: -Dsun.java2d.d3d=false
+01/22 14:16:58.08 Arg 4: -cp
+01/22 14:16:58.08 Arg 5: lib/talon.jar;lib/3rdPartyJars/*;lib/ServicesClientJars/*;lib/TalonAuthenticationMatrixJars/*;
+01/22 14:16:58.08 Arg 6: com.ctccore.talon.TALONAPP
+01/22 14:16:58.08 Arg 7: -D
+01/22 14:16:58.08 Arg 8: .
+01/22 14:16:58.08 Arg 9: -MBIP
+01/22 14:16:58.08 Arg 10: MB2.CLEMIS.ORG
+01/22 14:16:58.08 Arg 11: -MBPORT
+01/22 14:16:58.08 Arg 12: 2030
+01/22 14:16:58.08 Arg 13: -SSL
+01/22 14:16:58.08 Arg 14: T
+01/22 14:16:58.08 Arg 15: -HELPURL
+01/22 14:16:58.08 Arg 16: http://MB2.CLEMIS.ORG/talon/help/
+01/22 14:16:58.08 Arg 17: -TestNewFeatures
+01/22 14:16:58.08 Arg 18: T
+01/22 14:16:58.08 Arg 19: -CompressSockets
+01/22 14:16:58.08 Arg 20: T
+01/22 14:16:58.08 Arg 21: -INTRO1
+01/22 14:16:58.08 Arg 22: NOTICE: You are accessing a restricted information system. Unauthorized use of the system is
+01/22 14:16:58.08 Arg 23: -INTRO2
+01/22 14:16:58.08 Arg 24: prohibited and may subject you to criminal and/or civil penalties. System usage may be monitored,
+01/22 14:16:58.08 Arg 25: -INTRO3
+01/22 14:16:58.08 Arg 26: recorded, and subject to audit. By clicking OK, you are acknowledging you understand the terms
+01/22 14:16:58.08 Arg 27: -INTRO4
+01/22 14:16:58.09 Arg 28: of system use, and that your use of the system may be monitored and recorded.
+01/22 14:16:58.09 Arg 29: -INTRO5
+01/22 14:16:58.09 Arg 30: .
+01/22 14:16:58.09 Arg 31: -AuthModeXXXXX
+01/22 14:16:58.09 Arg 32: Alt
+01/22 14:16:58.09 Arg 33: -TalonMainForm
+01/22 14:16:58.09 Arg 34: com.ctccore.talon.mdc.FRMTalonMDC
+01/22 14:16:58.09 Arg 35: -DayCSS
+01/22 14:16:58.09 Arg 36: talonmdc.css
+01/22 14:16:58.09 Arg 37: -NightCSS
+01/22 14:16:58.09 Arg 38: nightmdc.css
+01/22 14:16:58.09 Arg 39: -JTableDef
+01/22 14:16:58.09 Arg 40: defjtablemdc.xml
+01/22 14:16:58.09 Arg 41: -Dir_imgs
+01/22 14:16:58.09 Arg 42: imgs_mdc
+01/22 14:16:58.09 Run program in directory: .
+01/22 14:16:58.09 RunProc(../jre/bin/java.exe)
+01/22 14:16:58.09   arg 0: ../jre/bin/java.exe
+01/22 14:16:58.09   arg 1: -Xmx1024m
+01/22 14:16:58.09   arg 2: -Dsun.java2d.d3d=false
+01/22 14:16:58.09   arg 3: -cp
+01/22 14:16:58.09   arg 4: lib/talon.jar;lib/3rdPartyJars/*;lib/ServicesClientJars/*;lib/TalonAuthenticationMatrixJars/*;
+01/22 14:16:58.09   arg 5: com.ctccore.talon.TALONAPP
+01/22 14:16:58.09   arg 6: -D
+01/22 14:16:58.09   arg 7: .
+01/22 14:16:58.09   arg 8: -MBIP
+01/22 14:16:58.09   arg 9: MB2.CLEMIS.ORG
+01/22 14:16:58.09   arg 10: -MBPORT
+01/22 14:16:58.09   arg 11: 2030
+01/22 14:16:58.09   arg 12: -SSL
+01/22 14:16:58.09   arg 13: T
+01/22 14:16:58.09   arg 14: -HELPURL
+01/22 14:16:58.09   arg 15: http://MB2.CLEMIS.ORG/talon/help/
+01/22 14:16:58.09   arg 16: -TestNewFeatures
+01/22 14:16:58.09   arg 17: T
+01/22 14:16:58.09   arg 18: -CompressSockets
+01/22 14:16:58.09   arg 19: T
+01/22 14:16:58.09   arg 20: -INTRO1
+01/22 14:16:58.09   arg 21: NOTICE: You are accessing a restricted information system. Unauthorized use of the system is
+01/22 14:16:58.10   arg 22: -INTRO2
+01/22 14:16:58.10   arg 23: prohibited and may subject you to criminal and/or civil penalties. System usage may be monitored,
+01/22 14:16:58.10   arg 24: -INTRO3
+01/22 14:16:58.10   arg 25: recorded, and subject to audit. By clicking OK, you are acknowledging you understand the terms
+01/22 14:16:58.10   arg 26: -INTRO4
+01/22 14:16:58.10   arg 27: of system use, and that your use of the system may be monitored and recorded.
+01/22 14:16:58.10   arg 28: -INTRO5
+01/22 14:16:58.10   arg 29: .
+01/22 14:16:58.10   arg 30: -AuthModeXXXXX
+01/22 14:16:58.10   arg 31: Alt
+01/22 14:16:58.10   arg 32: -TalonMainForm
+01/22 14:16:58.10   arg 33: com.ctccore.talon.mdc.FRMTalonMDC
+01/22 14:16:58.10   arg 34: -DayCSS
+01/22 14:16:58.10   arg 35: talonmdc.css
+01/22 14:16:58.10   arg 36: -NightCSS
+01/22 14:16:58.10   arg 37: nightmdc.css
+01/22 14:16:58.10   arg 38: -JTableDef
+01/22 14:16:58.10   arg 39: defjtablemdc.xml
+01/22 14:16:58.10   arg 40: -Dir_imgs
+01/22 14:16:58.10   arg 41: imgs_mdc
+01/22 14:16:58.11 Status:  Started program.
+01/22 14:16:58.11 Resize Actual Window to 456x329
+
+01/22 14:17:01.11 Call: WINMGR.CloseWindow() CTCStart 2.00.05 Splash
+01/22 14:17:01.12 Program terminated normally.

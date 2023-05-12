@@ -1,0 +1,7 @@
+~<BLANK>
+A - Valid Hunting License/Permit
+B - Official Representative of a Foreign Government
+C - Foreign Government Official/Distinguished Visitor
+D - Foreign Law Enforcement Officer
+E - Waiver from Prohibition
+F - Other

@@ -1,0 +1,249 @@
+<?ctcDefine Attribute="activityViewButton"  		Value="Activity View"?>
+<?ctcDefine Attribute="messageListViewButton" 		Value="Message List View"?>
+<!--  the ones below are from the toolbar.xml used for the mdc and other views...
+-->
+<?ctcDefine Attribute="cadLayer"    			Value="CAD Buttons"?>
+<?ctcDefine Attribute="cadLayerButton"    		Value="Select CAD Button Layer"?>
+<?ctcDefine Attribute="cadIncidentsButton" 		Value="CAD Incidents"?>
+<?ctcDefine Attribute="cadReportsButton" 	 	Value="CAD Reports"?>
+<?ctcDefine Attribute="cadNavPanel" 		    Value="cadNavePanelID"?>
+<?ctcDefine Attribute="cadStatusButton" 	 	Value="CAD Status"?>
+<?ctcDefine Attribute="cadCallsButton"	 	 	Value="CAD Calls"?>
+<?ctcDefine Attribute="reqCAD"		 	    	Value="RequiresCAD"?>
+<?ctcDefine Attribute="stateLayer"    			Value="State Buttons"?>
+<?ctcDefine Attribute="stateLayerButton"    	Value="Select State Button Layer"?>
+<?ctcDefine Attribute="activityViewButton"  	Value="Activity View"?>
+<?ctcDefine Attribute="messageListViewButton" 	Value="Message List View"?>
+
+
+<?ctcDefine Attribute="timsViewButton" 	 	Value="TIMS"?>
+
+<?ctcDefine Attribute="bulletinsViewButton" 		Value="Bulletins View"?>
+<?ctcDefine Attribute="emailViewButton" 		Value="Email View"?>
+<ToolBar Alignment="Horizontal">
+   <!--
+		Base ToolBar--
+    
+	Change log
+	==========
+	5/18/2011:	Original Version allowing partial toolbars to be added to basetoolbar
+  -->
+	<Controls>
+		<Button ValidState="7" Image="daynight.png" Label="Day/Night" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="Day/Night Mode" ExecCode="23051" />
+	</Controls>
+	<Events>
+		<Event ID="NightMode">
+			<Script>
+				//Arg: boolean isNightMode
+			
+				//Loop through all buttons and set their image prefix
+				//to either night mode (n) or nothing				
+				
+				var prefix = ( "true".equalsIgnoreCase( isNightMode ) ? TalonConstants.File_Prefix_NightModeImage : "" );        
+				var buttons = ToolBar.GetButtons();
+				
+				for( var i=0; i &lt; buttons.length; i++ )
+				{
+				  buttons[i].SetImagePrefix(prefix);
+				} 
+			</Script>
+		</Event> 
+		<Event ID="Toolbar Loaded">
+			<Script>
+				var ppnButtons = ToolBar.GetComponentsByProgAttr("ppn");
+				if ( ppnButtons != null )
+				{
+					var activityView = ClientController.GetViewController().GetView( TViewNames.ActivityView );
+					if ( activityView != null )
+					{
+						activityView.SetPPNButtons(ppnButtons);	
+						MC.Trace( "PPN buttons set" );
+					}
+					else
+					{
+						MC.TraceError( "Toolbar error: Could not retrieve Activity View" );
+					}
+				}
+				else
+				{
+					MC.TraceError( "Toolbar misconfigured: Can't find 'ppn' buttons." );
+				}
+			</Script>
+		</Event>
+		
+		<Event ID="View Activated">
+		<Script>
+			//Arg: String viewName
+			
+			//CAD.DebugTrace("Toolbar received 'View Activated' for viewname: ( " + viewName + " )" );
+			
+			var activateDefaultNav = false;
+			var navLayer;
+			
+			//Select the appropriate view button
+			var viewBtnName;       
+			
+			if ( viewName != null )
+			{
+				Helper.SetActiveView( viewName );
+				
+				if ( viewName.equalsIgnoreCase(TViewNames.ActivityView) )
+				{
+					//viewBtnName = "${activityViewButton}";
+					viewBtnName = ToolBar.GetComponentByProgID("${activityViewButton}");
+					activateDefaultNav=true;
+				}
+				else if ( viewName.equalsIgnoreCase(TViewNames.MDC_MessageList) )        
+				{
+					//viewBtnName = "${messageListViewButton}";
+					viewBtnName = ToolBar.GetComponentByProgID("${messageListViewButton}");
+					activateDefaultNav = true;
+				}
+				else if ( HooksVAPI.IsTIMSView(viewName) && ! TViewNames.TIMS_Reports.equals(viewName) )
+				{
+					HooksAPI.SaveScriptData("LastTIMSView", viewName );
+				}
+				else if ( viewName.equalsIgnoreCase(TViewNames.MBMail) )        
+				{
+					viewBtnName = "${emailViewButton}";
+					activateDefaultNav = true;
+				}
+				else if ( viewName.equalsIgnoreCase(TViewNames.CABulletins) )        
+				{
+					viewBtnName = "${bulletinsViewButton}";
+					activateDefaultNav = true;
+				}
+				else if ( viewName.equalsIgnoreCase(TViewNames.LocalLogs) )
+				{
+					activateDefaultNav = true;
+				}
+				else if ( viewName.equalsIgnoreCase(TViewNames.CAD_Reports) )
+				{
+					navLayer = TalonConstants.Layer_CADReportsNav;				
+					viewBtnName = "${cadReportsButton}"; 					
+				}
+				else if ( viewName.equalsIgnoreCase(TViewNames.CAD_Incidents) )
+				{
+					navLayer = TalonConstants.Layer_CADMessagesNav;
+					viewBtnName = "${cadIncidentsButton}";
+					
+					ToolBar.StopBlinkingIfNeeded( "${cadIncidentsButton}" );
+				}
+				else if ( viewName.equalsIgnoreCase(TViewNames.CAD_UnitStatus) )
+				{
+					navLayer = TalonConstants.Layer_CADUnitStatusNav;
+					viewBtnName = "${cadStatusButton}";
+				}
+				else if ( viewName.equalsIgnoreCase(TViewNames.CAD_Calls) )
+				{
+					navLayer = TalonConstants.Layer_CADCallsNav;
+					viewBtnName = "${cadCallsButton}";
+				}
+				
+			}
+        
+			if ( ! (typeof ViewController === 'undefined' || ViewController === null ) )
+			{
+				if (activateDefaultNav)
+				{
+					ViewController.GetLayeredContManager().ActivateDefaultLayerByID(TalonConstants.Layer_CADMessagesNav);
+				}	
+				else if (navLayer != null)
+				{
+					ViewController.GetLayeredContManager().ActivateLayer( navLayer );
+				}
+			}
+	
+			//Toggle that button down
+			if ( viewBtnName != null )
+			{
+				var viewBtn = ToolBar.GetComponentByProgID(viewBtnName);
+				viewBtn.SetToggledDown(true);
+				    
+				//Tell the toolbar to toggle any other 'on' view buttons to 'off'
+				ToolBar.HandlePeerGroupExclusions(ToolBar.GetDefinitionForItem(viewBtn) );
+			}
+		</Script>
+		</Event>
+		
+	</Events>
+  <!-- 
+  Help:
+  
+  Overview:
+  =========
+  This file defines a toolbar which is currently(02/02/06) used in Talon MDC.
+  It attempts to be more flexible than our standard toolbars by allowing the
+  use of ExecCodes (language strings) but also Javascript.
+  
+  The most basic functionality can be used by simply defining a button and
+  setting its ExecCode attribute.
+  
+  To use scripting, a button may embed a javascript.  Also, the file may
+  contain an 'Events' tag which when used in concert with the program
+  allows the program to callback to the tool bar.  For example, in Talon all
+  standard engine events are fired into the toolbar.  It defines and catches 
+  the 'Talon Ready' event to set buttons to their initial state.  These events
+  are completely program-driven and will very by application.
+  
+  
+  Scripting:
+  ==========
+  Registered Beans:
+	CAD (CADClientHandler)
+	CADConstants (CADConstants)
+	ClientController (TalonClientController)
+	Helper (TalonToolBarHelper) TODO: Create
+	MC (MCLANG)
+	TalonConstants (TalonConstants)
+	ToolBar (TOOLBARSCRIPTMGR)	
+    TViewNames (TViewNames)
+    ViewController (TViewController)
+    
+  
+  Valid States:
+  =============
+	  1 - Startup
+	  2 - Case Closed
+	  4 - Case Open
+	  8 - Manual/Programmer controls
+	  
+	  Combos:
+	  7 - All
+	  6 - After Startup
+	  
+	  
+  XML Elements:
+  =============
+  Button Attributes:
+	
+	ExecCode:
+		The code to fire into the program.  Note that if the ToolTip attribute is
+		not set, this will try to be used as a langauge string to set the ToolTip.
+	Image:
+		Image filename in the image directory to use as the button.
+    PeerGroup:
+		Instructs the manager to treat this button like a radio button with other
+		buttons in 
+	ToolTip:
+		The text to display on a hover-over
+	ValidState: 
+		Bit flags indicating which states the toolbar's buttons should be enabled.
+		
+  Button Properties:
+	Script:
+		Embed a script to execute when pressed.  If both this and ExecCode are
+		present, this takes precedent and the ExecCode is ignored.
+		
+  Container Attributes:
+	ID:
+		Used by scripts to activate a layer.
+	Layered:
+		When set to true, the SetLayered() method is called after this container
+		is added.
+		
+  Script Attributes:
+	(Future)Filename: The file of the javascript to execute.  Note that this will
+	be added the first time we need to write a long script.
+  -->
+</ToolBar>

@@ -1,0 +1,7 @@
+~<BLANK>
+1 - The individual poses a threat to himself, herself, or others, including a peace officer.
+2 - The individual has committed an unlawful offense with a pistol.
+3 - The pistol may have been used during the commission of an unlawful offense.
+4 - To ensure the safety of a peace officer.
+5 - For purposes of the Firearms Act.
+6 - Reason to believe firearms record is necessary within the commission of his or her lawful duties.

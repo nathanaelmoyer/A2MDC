@@ -1,0 +1,46 @@
+<CADNewIncident ClassName="com.ctccore.talon.cad.EvtClearIncident">
+  <Title>CAD Clear Incident</Title>  
+  <FormDefinition>
+	<XMLItem Label="Incident #" 
+			Type="Text"
+			JContFormat="0"
+			Enabled="true" 
+			Editable="true"
+			ReadCachedCADValue="IncidentNumber"
+			Columns="15"
+			>
+		<Field>IncidentNumber</Field>
+    </XMLItem>
+    <XMLItem Type="Line" PreceedingNextLinePixels="20" />
+    <XMLItem Label="Disposition" Type="Combo" PreceedingNextLinePixels="20" JContFormat="0" Enabled="true" Editable="false" Columns="15" >
+		<Values LoadExternally="true" Filename="dispositiontypes.xml" />
+		<Field>DispositionCode</Field>
+    </XMLItem>
+    <XMLItem Label="Code" Type="Combo" JContFormat="0" Enabled="true" Editable="false" Columns="20">
+      <Values LoadExternally="true" Filename="dispositioncodes.xml" />
+		<Field>DispositionCode2</Field>
+    </XMLItem>
+    <XMLItem Type="Line" PreceedingNextLinePixels="20" />
+    <XMLItem Label="Citation Code" Type="Text" PreceedingNextLinePixels="20" JContFormat="0" Enabled="true" Columns="15" JContNextLine="false">
+      <Field>Comment1</Field>
+    </XMLItem>   
+    <XMLItem Label="" Type="Text" JContFormat="0x4000" Enabled="true" Columns="15">
+      <Field>Comment2</Field>
+    </XMLItem>   
+    <XMLItem Label="" Type="Label" JContFormat="0" JContNextLine="false" />
+    <XMLItem Label="" Type="Text" JContFormat="0" Enabled="true" Columns="15" JContNextLine="false">
+      <Field>Comment3</Field>
+    </XMLItem>   
+    <XMLItem Label="" Type="Text" JContFormat="0x4000" Enabled="true" Columns="15">
+      <Field>Comment4</Field>
+    </XMLItem>
+    <XMLItem Type="Line" PreceedingNextLinePixels="20" />
+    <XMLItem Label="Comments" Type="TextArea" PreceedingNextLinePixels="20" JContFormat="0" Enabled="true" Columns="30">
+      <Field>Comments</Field>
+    </XMLItem>    
+  </FormDefinition>
+  <Button Label="Submit" Action="Submit;Close"/>
+  <Button Label="Clear Form" Action="Clear"/>
+  <Button Label="Cancel" Action="Close"/>
+  <Button Label="Help"/>
+</CADNewIncident>

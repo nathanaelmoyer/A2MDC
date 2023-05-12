@@ -1,0 +1,6 @@
+<Controls>
+	<Separator/>
+	<Button ValidState="1" Image="printer.png" Label="Print To..." LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="Select Print" ExecCode="23001" />
+</Controls>
+<Events>
+</Events>

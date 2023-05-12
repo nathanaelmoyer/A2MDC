@@ -1,0 +1,9 @@
+|<BLANK>
+19  - Partial License Plate 
+21  - Watercraft Title/Registration
+25  - Snowmobile Registration
+~53  - Vehicle Title/Registration
+53C - Certified Vehicle Title/Registration
+78  - Handicapper Parking Permit
+
+

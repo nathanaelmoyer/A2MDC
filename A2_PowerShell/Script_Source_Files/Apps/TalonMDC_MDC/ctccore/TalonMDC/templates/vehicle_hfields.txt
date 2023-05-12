@@ -1,0 +1,8 @@
+PlateTag
+StateCode
+VIN
+VehicleYear
+Make
+Model
+BodyStyle
+Color1

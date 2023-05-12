@@ -1,0 +1,25 @@
+~<BLANK>
+BLK - BLACK
+BLU - BLUE
+BRO - BROWN
+GRN - GREEN
+GRY - GRAY
+HAZ - HAZEL
+MAR - MAROON
+MUL - MULTICOLOR
+PNK - PINK
+XXX - UNKNOWN
+
+
+
+
+
+
+
+
+
+
+
+
+
+

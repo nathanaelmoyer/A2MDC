@@ -1,0 +1,10 @@
+~<BLANK>
+CM - Catamaran
+DV - Deep-V
+FB - Flat Bottom
+PT - Pontoon
+RB - Round Bottom
+SV - Semi-V
+TH - Tri-Hull
+TU - Tunnel
+OT - Other

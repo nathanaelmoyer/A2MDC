@@ -1,0 +1,18 @@
+<Controls>
+	<Separator/>
+    <Button ProgramID="GPSGate"
+      ValidState="4" 
+      Image="gps.png" 
+      Label="GPSGate" LabelVAlignment="Bottom" LabelHAlignment="Center" 
+      ToolTip="GPSGate">
+			<Script>
+				MC.Trace( "Talon GPSGate button pressed" );
+				var url = MC.GetSys().GetParameter( "GPSGateURL", "http://coretechcorp.com" );
+
+								
+				MC.Trace( "url:" + url );
+				var encodedURI = url; 
+				BASUTIL.StartFile( encodedURI, "", MC );
+			</Script>
+    </Button>
+</Controls>

@@ -1,0 +1,32 @@
+<CADNewIncident ClassName="com.ctccore.talon.cad.EvtReportRequest" GlobalFormatTextField="4">
+	<Fields>
+		<ReportType>Current Incident</ReportType>
+	</Fields>
+	<Title>CAD Current Incident</Title>  
+	<FormDefinition>
+		<XMLItem Label="Agency ID" Type="Text" JContFormat="0" Columns="11" MaxLength="2" SCFormat="64" PreceedingNextLinePixels="20" >
+			<Field>Agency</Field>
+		</XMLItem>
+		<XMLItem Label="" Type="Label" PreceedingNextLinePixels="20" JContNextLine="False"/>
+		<XMLItem Label="AND/OR" Type="Label"/>
+		<XMLItem Label="Area" Type="Text" PreceedingNextLinePixels="20" JContFormat="0" Columns="11" MaxLength="3" SCFormat="64" >
+			<Field>Area</Field>
+		</XMLItem>
+		<XMLItem Label="" Type="Label" PreceedingNextLinePixels="20" JContNextLine="False"/>
+		<XMLItem Label="AND/OR" Type="Label"/>
+		<XMLItem Label="Incident Type" Type="Label" PreceedingNextLinePixels="20" JContNextLine="False"/>
+		<XMLItem Label="Pending" Type="CheckBox" JContNextLine="False">
+			<Field>IsPending</Field>
+		</XMLItem>
+		<XMLItem Label="Stacked" Type="CheckBox" JContFormat="0x4000" JContNextLine="False">
+			<Field>Stacked</Field>
+		</XMLItem>
+		<XMLItem Label="Active" Type="CheckBox" JContFormat="0x4000" >
+			<Field>IsActive</Field>
+		</XMLItem>
+		<XMLItem Label="" Type="Label" JContNextLine="False"/>
+		<XMLItem Label="(Check all that apply - if nothing checked all three are assumed)" Type="Label" JContNextLine="False"/>
+	</FormDefinition>
+	  <Button Label="Submit" Action="Submit;Close" Key="VK_ENTER"/>
+	  <Button Label="Cancel" Action="Close" Key="VK_ESCAPE"/>
+</CADNewIncident>

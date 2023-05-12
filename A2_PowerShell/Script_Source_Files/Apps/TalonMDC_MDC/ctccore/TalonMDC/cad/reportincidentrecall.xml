@@ -1,0 +1,48 @@
+<CADNewIncident ClassName="com.ctccore.talon.cad.EvtReportRequest" GlobalFormatTextField="4">
+	<Fields>
+		<ReportType>Incident Recall</ReportType>
+	</Fields>
+	<Title>CAD Incident Recall</Title>  
+	<FormDefinition>
+		<XMLItem Label="Incident Type" Type="Label" JContNextLine="False" PreceedingNextLinePixels="20"/>
+		<XMLItem Label="Active" Type="CheckBox" JContNextLine="False">
+			<Field>IsActive</Field>
+		</XMLItem>
+		<XMLItem Label="Stacked" Type="CheckBox" JContFormat="0x4000" JContNextLine="False">
+			<Field>Stacked</Field>
+		</XMLItem>
+		<XMLItem Label="Pending" Type="CheckBox" JContFormat="0x4000" JContNextLine="False">
+			<Field>IsPending</Field>
+		</XMLItem>
+		<XMLItem Label="Search" Type="CheckBox" JContFormat="0x4000">
+			<Field>IsSearch</Field>
+		</XMLItem>
+		<XMLItem Label="" Type="Label" JContNextLine="False"/>
+		<XMLItem Label="(Enter only one)" Type="Label"/>
+		<XMLItem Label="" Type="Line" PreceedingNextLinePixels="20" />
+		<XMLItem Label="Area" Type="Text" JContFormat="0" Columns="3" MaxLength="3" SCFormat="64" PreceedingNextLinePixels="20">
+			<Field>Area</Field>
+		</XMLItem>
+		<XMLItem Label="" Type="Line" PreceedingNextLinePixels="20" />
+		<XMLItem Label="Time" Type="Label" PreceedingNextLinePixels="20" JContNextLine="False"/>
+		<XMLItem Label="From - Date" Type="Label" JContNextLine="False"/>
+		<XMLItem Label="" Type="Text" JContFormat="0x4000" Columns="6" MaxLength="6" SCFormat="0x02, 0x64" JContNextLine="false">
+			<Field>FromDate</Field>
+		</XMLItem>
+		<XMLItem Label="Time" Type="Label" JContFormat="0x4000" JContNextLine="False"/>
+		<XMLItem Label="" Type="Text" JContFormat="0x4000" Columns="4" MaxLength="4" SCFormat="0x02, 0x64">
+			<Field>FromTime</Field>
+		</XMLItem>
+		<XMLItem Label="" Type="Label" JContNextLine="false" />
+		<XMLItem Label="To - Date  " Type="Label" JContNextLine="False"/>
+		<XMLItem Label="" Type="Text" JContFormat="0x4000" Columns="6" MaxLength="6" SCFormat="0x02, 0x64" JContNextLine="false">
+			<Field>ToDate</Field>
+		</XMLItem>
+		<XMLItem Label="Time" Type="Label" JContFormat="0x4000" JContNextLine="False"/>
+		<XMLItem Label="" Type="Text" JContFormat="0x4000" Columns="4" MaxLength="4" SCFormat="0x02, 0x64">
+			<Field>ToTime</Field>
+		</XMLItem>
+	</FormDefinition>
+	  <Button Label="Submit" Action="Submit;Close" Key="VK_ENTER"/>
+	  <Button Label="Cancel" Action="Close" Key="VK_ESCAPE"/>
+</CADNewIncident>

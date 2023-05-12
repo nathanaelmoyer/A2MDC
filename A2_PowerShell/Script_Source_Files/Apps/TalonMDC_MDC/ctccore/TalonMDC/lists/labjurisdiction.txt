@@ -1,0 +1,97 @@
+~<BLANK>
+01 - 1 -Alcona County
+02 - 2 -Alger County
+03 - 3 -Allegan County
+04 - 4 -Alpena County
+05 - 5 -Antrim County
+06 - 6 -Arenac County
+07 - 7 -Baraga County
+08 - 8 -Barry County
+09 - 9 -Bay County
+10 - 10 -Benzie County
+11 - 11 -Berrien County
+12 - 12 -Branch County
+13 - 13 -Calhoun County
+14 - 14 -Cass County
+15 - 15 -Charlevoix County
+16 - 16 -Cheboygan County
+17 - 17 -Chippewa County
+18 - 18 -Clare County
+19 - 19 -Clinton County
+20 - 20 -Crawford County
+21 - 21 -Delta County
+22 - 22 -Dickinson County
+23 - 23 -Eaton County
+24 - 24 -Emmet County
+25 - 25 -Genesee County
+26 - 26 -Gladwin County
+27 - 27 -Gogebic County
+28 - 28 -Grand Traverse County
+29 - 29 -Gratiot County
+30 - 30 -Hillsdale County
+300 - HQ Location
+31 - 31 -Houghton County
+32 - 32 -Huron County
+33 - 33 -Ingham County
+34 - 34 -Ionia County
+35 - 35 -Iosco County
+36 - 36 -Iron County
+37 - 37 -Isabella County
+38 - 38 -Jackson County
+39 - 39 -Kalamazoo County
+40 - 40 -Kalkaska County
+41 - 41 -Kent County
+42 - 42 -Keweenaw County
+43 - 43 -Lake County
+44 - 44 -Lapeer County
+45 - 45 -Leelanau County
+46 - 46 -Lenawee County
+47 - 47 -Livingston County
+48 - 48 -Luce County
+49 - 49 -Mackinac County
+50 - 50 -Macomb County
+51 - 51 -Manistee County
+52 - 52 -Marquette County
+53 - 53 -Mason County
+54 - 54 -Mecosta County
+55 - 55 -Menominee County
+56 - 56 -Midland County
+57 - 57 -Missaukee County
+58 - 58 -Monroe County
+59 - 59 -Montcalm County
+60 - 60 -Montmorency County
+61 - 61 -Muskegon County
+62 - 62 -Newaygo County
+63 - 63 -Oakland County
+64 - 64 -Oceana County
+65 - 65 -Ogemaw County
+66 - 66 -Ontonagon County
+67 - 67 -Osceola County
+68 - 68 -Oscoda County
+69 - 69 -Otsego County
+70 - 70 -Ottawa County
+71 - 71 -Presque Isle County
+72 - 72 -Roscommon County
+73 - 73 -Saginaw County
+74 - 74 -St. Clair County
+75 - 75 -St. Joseph County
+76 - 76 -Sanilac County
+77 - 77 -Schoolcraft County
+78 - 78 -Shiawassee County
+79 - 79 -Tuscola County
+80 - 80 -Van Buren County
+81 - 81 -Washtenaw County
+82 - 82 -Wayne County
+83 - 83 -Wexford County
+84 - U.S. Western District
+85 - U.S. Eastern District
+86 - Ontario, Canada
+87 - Chicago, IL
+88 - Marion, IN
+89 - State of Michigan
+90 - State of Missouri
+91 - 91 -State of New Jersey
+92 - State of Utah
+93 - Boise, Idaho
+94 - West Virginia
+95 - North Carolina

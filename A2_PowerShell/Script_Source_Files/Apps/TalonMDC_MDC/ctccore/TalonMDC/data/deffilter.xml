@@ -1,0 +1,84 @@
+<FilterDef>
+  <FilterDialog>
+    <XMLItem Label="Start Date" Type="Text" JContFormat="16" Enabled="true" Columns="20">
+      <Validator Type="Date"/>
+      <XQuery>
+        <XElement Level="Child">
+          <XTest Type="Attr" SubjectName="DateCreated" Search="After">${value}</XTest>
+        </XElement>
+      </XQuery>
+    </XMLItem>
+    <XMLItem Label="End Date" Type="Text" JContFormat="16" Enabled="true">      
+      <Validator Type="Date"/>
+      <XQuery>
+        <XElement Level="Child">
+          <XTest Type="Attr" SubjectName="DateCreated" Search="Before">${value}</XTest>
+        </XElement>
+      </XQuery>
+    </XMLItem>
+    <XMLItem Label="Start Time" Type="Text" JContFormat="16" Enabled="true" Columns="20">
+      <Validator Type="Time"/>
+      <XQuery>
+        <XElement Level="Child">
+          <XTest Type="Attr" SubjectName="TimeCreated" Search="After">${value}</XTest>
+        </XElement>
+      </XQuery>
+    </XMLItem>
+    <XMLItem Label="End Time" Type="Text" JContFormat="16" Enabled="true">
+      <Validator Type="Time"/>
+      <XQuery>
+        <XElement Level="Child">
+          <XTest Type="Attr" SubjectName="TimeCreated" Search="Before">${value}</XTest>
+        </XElement>
+      </XQuery>
+    </XMLItem>
+    <XMLItem Label="Requester" Type="Combo" JContFormat="16" Enabled="true" Editable="true">
+      <Values>
+        <Value Display="ALL" Value="${dont_include}" Default="true"/>
+        <Value Value="${known_requesters}"/>
+      </Values>
+      <XQuery>
+        <XElement Level="Child">
+          <XTest Type="Attr" SubjectName="Requester" Search="Match">${value}</XTest>
+        </XElement>
+      </XQuery>
+    </XMLItem>
+    <XMLItem Label="Source" Type="Combo" JContFormat="16" Enabled="true" Editable="true">
+      <Values>
+        <Value Display="ALL" Value="${dont_include}" Default="true"/>
+        <Value Display="LEIN" Value="LEIN"/>
+        <Value Display="SOS" Value="SOS"/>
+        <Value Display="NCIC" Value="NCIC"/>
+        <Value Value="${known_sources}"/>
+      </Values>
+      <XQuery>
+        <XElement Level="Child">
+          <XTest Type="Attr" SubjectName="Source" Search="Match">${value}</XTest>
+        </XElement>
+      </XQuery>    
+    </XMLItem>
+    <XMLItem Label="Status" Type="Combo" JContFormat="16" Enabled="true" Editable="False">
+      <Values>
+        <Value Display="ALL" Value="${dont_include}" Default="true"/>
+        <Value Display="Unread" Value="true"/>
+        <Value Display="Read" Value="false"/>      
+      </Values>
+      <XQuery>
+        <XElement Level="Child">
+          <XTest Type="Attr" SubjectName="Unread" Search="Match">${value}</XTest>
+        </XElement>
+      </XQuery>
+    </XMLItem>
+    <XMLItem Label="Type" Type="Combo" JContFormat="16" Enabled="true" Editable="False">
+      <Values>
+        <Value Display="ALL" Value="${dont_include}" Default="true"/>
+        <Value Display="Broadcast" Value="true"/>  
+      </Values>    
+      <XQuery>
+        <XElement Level="Child">
+          <XTest Type="Attr" SubjectName="Broadcast" Search="Match">${value}</XTest>
+        </XElement>
+      </XQuery>
+    </XMLItem>
+  </FilterDialog>
+</FilterDef>

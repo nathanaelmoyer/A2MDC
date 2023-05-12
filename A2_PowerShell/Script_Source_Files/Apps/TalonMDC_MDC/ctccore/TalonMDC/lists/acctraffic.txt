@@ -1,0 +1,6 @@
+~<BLANK>
+Signal
+Stop Sign
+Stop Sign with Flashing Beacon
+Yield Sign
+None

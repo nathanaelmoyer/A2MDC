@@ -1,0 +1,82 @@
+~<BLANK>
+AT - All-Terrain Vehicle
+PP - Aircraft (Passenger)
+NP - Aircraft (Non-Pass.)
+AR - Amateur Radio (HAM)
+AM - Ambulance
+AQ - Antique (Historic)
+AP - Apportioned Truck
+MR - Armed Forces Reservist
+BU - Bus
+TX - Cab
+CI - City Owned
+ZZ - Civic Event
+ZZ - Civil Air Patrol
+CL - Collegiate
+VF - Combat Wounded Vet
+CO - Commercial/Truck
+CM - Commemorative
+VF - Congressional Medal
+CN - Conservation
+CC - Consular Corp
+CU - County/Twp. Owned
+DL - Dealer (Auto)
+MP - Dealer (MOPED)
+MD - Dealer (Motorcycle)
+DD - Dentist
+DP - Diplomatic (DPL)
+DV - Disabled Veteran
+PH - Doctor/Physician/Vet
+DA - Drive Away
+DU - Duplicate/Reissue/Replacement
+EX - Exempt
+FD - Fire Fighters
+FG - Foreign Government
+DX - Handicapper
+HI - Hearing Impared
+IP - International Plate
+TM - In-Transit
+IT - In-Transit Repair
+JJ - Judge/Justice
+LF - Law Enforcement (PD/SP/SO)
+LS - Legislative (SEN/REP)
+MF - Manufacturer
+ML - Military Vehicle Canadian
+MV - Military Vehicle US
+LS - Mi State Govt (MSG)
+MP - Moped
+SC - Motor Carrier MSP
+MC - Motorcycle
+NG - National Guard
+ZZ - Non-Profit Org.
+OB - Omnibus
+OR - Organization
+ZZ - Other
+PC - Passenger Car
+VF - Pearl Harbor Survivor
+PE - Personalized
+PX - Pharmacist
+PR - Press
+VF - Prisoner of War
+PS - Professional Sports Team
+PF - Professions
+RE - Reciprocal
+RV - Rented Vehicle/Recreational Vehicle
+ZZ - Repossession
+SV - School Vehicle/Bus
+TR - Semi-Tractor
+ZZ - Senior Citizen Ctr
+CU - Sheriff Patrol Car
+SN - Snowmobile
+SC - Special Equipment
+FM - Special Farm
+ST - State-Owned
+ST - State Police
+TM - Temporary Plate
+TL - Trailer
+TL - Trailer (Non-Expiring)
+TP - Transporter
+TK - Truck/Commercial
+US - United States
+VF - Veteran (non-disabled)
+WC - Watercraft

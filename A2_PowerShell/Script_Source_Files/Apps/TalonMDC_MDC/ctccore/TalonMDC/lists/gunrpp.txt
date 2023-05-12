@@ -1,0 +1,5 @@
+~<BLANK>
+R - Gun Recovered
+V - Unable to Validate
+X - Unfounded Report
+A - Administrative/Test

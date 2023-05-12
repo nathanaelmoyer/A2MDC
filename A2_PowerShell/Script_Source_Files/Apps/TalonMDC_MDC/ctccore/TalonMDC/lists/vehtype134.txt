@@ -1,0 +1,32 @@
+~<BLANK>
+CY - Motorcycle
+GC - Go cart
+MD - Med. truck over 10,000 pounds
+MO - Moped
+OR - Off road vehicle (ATV type)
+PA - Passenger car/station wagon
+PU - Pickup Truck 
+SM - Snowmobile 
+ST - Small truck under 10,000 pounds
+VA - Van/motor home
+WC - Watercraft
+AA - Group A commercial
+AH - Group A hazardous
+AN - Group A tank
+AP - Group A passenger
+AT - Group A double/triple
+AX - Group A tank and hazardous
+AY - Group A tank and double and triple
+AZ - Group A hazardous and double/triple
+AL - Group A hazardous tank and double/triple
+BB - Group B commercial
+BH - Group B hazardous
+BN - Group B tank
+PB - Group B passenger
+BX - Group B tank and hazardous
+CH - Group C hazardous
+CP - Group C passenger
+CX - Group C tank and hazardous
+OO - Other
+
+

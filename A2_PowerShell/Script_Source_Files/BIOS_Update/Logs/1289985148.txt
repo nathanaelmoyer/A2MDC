@@ -1,0 +1,28 @@
+***BIOS flash started on 1/31/2022 at 12:48:16***
+Command: D:\A2_PowerShell\Script_Source_Files\BIOS_Update\Latitude_7414_7214_5414_Rugged_1.28.0.exe /s /bls /l="D:\A2_PowerShell\Script_Source_Files\BIOS_Update\Logs\1289985148.txt" 
+
+WSMT Supported: using WMI commands
+1.15.0 INSTALLED (Dell System Latitude 5424 Rugged)
+- Gigabit Ethernet : X00
+- System BIOS with BIOS Guard : 1.15.0
+- Embedded Controller : 1.0.23
+- Backup Embedded Controller : 1.0.23
+- Intel Management Engine (VPro LP) Update : 11.8.86.3877
+- Main System TI Port Controller 0  : 30.0.37.17
+
+
+1.28.0 UPDATE (Model_File Latitude E7XXX)
+- System BIOS with BIOS Guard : 1.28.0
+- Embedded Controller : A06
+- Gigabit Ethernet : X07
+- Intel Management Engine (VPro) Update : 11.8.83.3874
+- Rugged2 Board Map : 1.0.1
+- PCR0 XML : 0.0.0.1
+
+Error: Unsupported System ID Found.
+
+Cannot update a 'Latitude 5424 Rugged' with a BIOS for 'Latitude E7XXX'.
+
+Exit Code = 5 (Hard Qualification Error)
+***BIOS flash finished at 1/31/2022 at 12:48:18***
+

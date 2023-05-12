@@ -1,0 +1,6 @@
+[talontemplates]
+Section=MBRIDGE
+KeyName=instlocation
+ProductDir=mbridge
+NumFiles=*.*
+SubDir=talonfiles\templates

@@ -1,0 +1,8 @@
+~<BLANK>
+MK - Mini Bike
+MY - Minicycle
+MD - Moped
+MB - Motorbike
+MC - Motorcycle
+MS - Motorscooter
+MV - Multi-Wheel

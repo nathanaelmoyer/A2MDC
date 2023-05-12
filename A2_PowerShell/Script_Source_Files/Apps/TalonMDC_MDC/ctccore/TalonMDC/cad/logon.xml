@@ -1,0 +1,83 @@
+<CADNewIncident Dialog="True" ClassName="com.ctccore.talon.cad.EvtLogon">
+  <Title>CAD Logon</Title>
+<!--
+TODO: If an 'agency' is always the same at a given site,
+you could hard code the agency value here, and not have
+a text field for it
+  <Fields>
+    <Agency>Some Agency</Agency>
+  </Fields>
+-->  
+  <FormDefinition>    
+    <XMLItem Label="AG" Type="Text" JContFormat="0" Enabled="true" Columns="10" MaxLength="2" SCFormat="64" JContNextLine="False">
+      <Field>Agency</Field>
+    </XMLItem>
+    <XMLItem Label="Unit" Type="Text" JContFormat="0" Enabled="true" Columns="10" MaxLength="5" SCFormat="64">
+      <Field>Unit</Field>
+    </XMLItem>
+    <XMLItem Label="Area" Type="Text" JContFormat="0" Enabled="true" Columns="10" MaxLength="3" SCFormat="64" JContNextLine="False">
+      <Field>Area</Field>
+    </XMLItem>
+    <XMLItem Label="Password" Type="Text" Enabled="false" Columns="10" />
+    <XMLItem Label="AG" Type="Text" JContFormat="0" Enabled="true" Columns="10" MaxLength="2" SCFormat="64" JContNextLine="False">
+      <Field>Agency2</Field>
+    </XMLItem>
+    <XMLItem Label="Officer 1" Type="Text" JContFormat="0" Enabled="false" Columns="10" MaxLength="6" SCFormat="64">
+    	<Field>UserCode</Field>
+    </XMLItem>
+    <XMLItem Label="AG" Type="Text" JContFormat="0" Enabled="true" Columns="10" MaxLength="2" SCFormat="64" JContNextLine="False">
+      <Field>Agency3</Field>
+    </XMLItem>
+    <XMLItem Label="Officer 2" Type="Text" JContFormat="0" Enabled="true" Columns="10" MaxLength="6" SCFormat="64">
+      <Field>User2Code</Field>
+    </XMLItem>
+    <XMLItem Label="Vehicle" Type="Text" JContFormat="0" Enabled="true" Columns="10" SCFormat="64" JContNextLine="False">
+      <Field>Vehicle</Field>
+    </XMLItem>
+    <XMLItem Label="Rider" Type="Text" JContFormat="0" Enabled="true" Columns="10" SCFormat="64" MaxLength="20">
+      <Field>Rider</Field>
+    </XMLItem>
+    <XMLItem Label="Beat" Type="Text" JContFormat="4, 0x800" Enabled="true" Columns="5" MaxLength="4" SCFormat="64" JContNextLine="False">
+      <Field>Beat</Field>
+    </XMLItem>
+    <XMLItem Label="" Type="Label" JContFormat="0" JContNextLine="False"/>
+    <XMLItem Label="" Type="Text" JContFormat="0" Enabled="true" Columns="5" MaxLength="4" SCFormat="64" JContNextLine="False">
+      <Field>Beat2</Field>
+    </XMLItem>
+    <XMLItem Label="" Type="Label" JContFormat="0" JContNextLine="False"/>
+    <XMLItem Label="" Type="Text" JContFormat="0" Enabled="true" Columns="5" MaxLength="4" SCFormat="64" JContNextLine="False">
+      <Field>Beat3</Field>
+    </XMLItem>
+    <XMLItem Label="" Type="Label" JContFormat="0" JContNextLine="False"/>
+    <XMLItem Label="" Type="Text" JContFormat="0" Enabled="true" Columns="5" MaxLength="4" SCFormat="64">
+      <Field>Beat4</Field>
+    </XMLItem>
+    <XMLItem Label="Team" Type="Text" JContFormat="4, 0x800" Enabled="true" Columns="5" MaxLength="2" SCFormat="64" JContNextLine="False">
+      <Field>Team</Field>
+    </XMLItem>
+    <XMLItem Label="" Type="Label" JContFormat="0" JContNextLine="False"/>
+    <XMLItem Label="" Type="Text" JContFormat="0" Enabled="true" Columns="5" MaxLength="2" SCFormat="64">
+      <Field>Team2</Field>
+    </XMLItem>
+    <XMLItem Label="Remember these settings in my application data" Type="CheckBox" JContFormat="1040" Enabled="true">
+      <!--JContFormat is full width and columns off -->
+      <Field>RememberSettingsInAppData</Field>
+    </XMLItem>    
+  </FormDefinition>
+  <Button Label="Logon" Key="VK_ENTER" Action="Submit;Close"/>
+  <Button Label="Clear Form" Action="Clear"/>
+  <Button Label="Cancel" Key="VK_ESCAPE" Action="Close"/>
+	<Events>	
+		<Event ID="Submitting Event To CAD">
+			<Script>
+				//This event is called both when we are in the MB auth dialog,
+				//and later if that CAD info is rejected, and we have to recreate the form.
+				
+				//var userInfo = ClientController.GetUserInfo();
+				//var userCode = userInfo.GetUserCode();
+				
+				//Evt.UserCode = userCode;
+			</Script>
+		</Event>
+	</Events>
+</CADNewIncident>

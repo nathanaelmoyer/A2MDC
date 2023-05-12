@@ -1,0 +1,27 @@
+<TalonPointList>
+	<TalonPoints>
+		<TalonPoint Name="NONE">
+			<Access>
+				<Allow>none</Allow>
+			</Access>
+			<Description>empty</Description>
+			<Properties>
+				<SiteInfo>
+					<AgencyName>none</AgencyName>
+					<ContactName>none Help Desk</ContactName>
+					<ContactPhone>none</ContactPhone>
+					<ContactEmail>N/A</ContactEmail>
+					<Location>
+						<State>MI</State>
+					</Location>
+				</SiteInfo>
+				<Tags>
+					<Tag>RMS</Tag>
+				</Tags>
+			</Properties>
+			<SupportedQueries>
+				<SupportedQuery>Person</SupportedQuery>
+			</SupportedQueries>
+		</TalonPoint>
+	</TalonPoints>
+</TalonPointList>

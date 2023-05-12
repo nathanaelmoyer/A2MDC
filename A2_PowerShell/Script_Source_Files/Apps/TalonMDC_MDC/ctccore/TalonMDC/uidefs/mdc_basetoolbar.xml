@@ -1,0 +1,19 @@
+<Controls>
+	<Separator/>
+	<Button ValidState="7" Image="activityview.png" Label="Activity" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="Activity View" PeerGroup="View Buttons Group" ProgID="${activityViewButton}">
+		<Script>
+			Helper.ActivateView( TViewNames.ActivityView );
+		</Script>
+	</Button>
+	<Button ValidState="6" Image="messageview.png" Label="Msg List" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="Message List" PeerGroup="View Buttons Group" ProgID="${messageListViewButton}">
+		<Script>
+		    Helper.ActivateView( TViewNames.MDC_MessageList );
+		</Script>
+	</Button>
+	
+	<Separator/>
+	<Button ValidState="4" Image="detail.png" Label="Open" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="Expand selected item into its own window"	ExecCode="23050" />    		
+	<Button ValidState="4" Image="lastform.png" Label="Last Form" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="Last Form"	ExecCode="23036" />    		
+</Controls>
+<Events>
+</Events>

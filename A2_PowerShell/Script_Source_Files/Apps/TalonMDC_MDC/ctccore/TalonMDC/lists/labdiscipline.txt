@@ -1,0 +1,56 @@
+~<BLANK>
+VA - Audio/Video Analysis
+AP - Automated Print Identification
+5 - Biology Unit
+CD - CODIS Section
+1 - Controlled Substances Unit
+20 - Crime Scene
+DI - Digital Image Analysis
+ER - Evidence Receiving
+3 - Firearms/Toolmarks Unit
+FA - Forensic Artists
+2 - Latent Print Unit
+PL - Photo Lab
+8 - Polygraph Section
+QABPBIO - QA Lab Bridgeport Biology Unit
+QABPCS - QA Lab Bridgeport Controlled Substances Unit
+QABPFA - QA Lab Bridgeport Firearms Unit
+QABPLP - QA Lab Bridgeport Latent Print Unit
+QABPQD - QA Lab Bridgeport Questioned Documents Unit
+QABPTR - QA Lab Bridgeport Trace Unit
+QAGRBIO - QA Lab Grand Rapids Biology/DNA Unit
+QAGRCS - QA Lab Grand Rapids Controlled Substances Unit
+QAGRFA - QA Lab Grand Rapids Firearms Unit
+QAGRLP - QA Lab Grand Rapids Latent Prints Unit
+QAGRTR - QA Lab Grand Rapids Trace Unit
+QAGYBIO - QA Lab Grayling Biology Unit
+QAGYCSU - QA Lab Grayling Controlled Substances Unit
+QAGYFA - QA Lab Grayling Firearms Unit
+QAGYLPU - QA Lab Grayling Latent Print Unit
+QAGYTR - QA Lab Grayling Trace Unit
+QALSBIO - QA Lab Lansing Biology/DNA Unit
+QALSCS - QA Lab Lansing Controlled Substances Unit
+QALSFA - QA Lab Lansing Firearms Unit
+QALSLP - QA Lab Lansing Latent Print Unit
+QALSQD - QA Lab Lansing Questioned Documents Unit
+QALSTX - QA Lab Lansing Toxicology Unit
+QALSTR - QA Lab Lansing Trace Unit
+QAMQBIO - QA Lab Marquette Biology Unit
+QAMQCS - QA Lab Marquette Controlled Substances Unit
+QAMQFA - QA Lab Marquette Firearms Unit
+QAMQLP - QA Lab Marquette Latent Print Unit
+QAMQTX - QA Lab Marquette Toxicology Unit
+QAMQTR - QA Lab Marquette Trace Unit
+QANVBIO - QA Lab Northville Biology/DNA Unit
+QANVCS - QA Lab Northville Controlled Substances Unit
+QANVLPU - QA Lab Northville Latent Print Unit
+QANVTR - QA Lab Northville Trace Unit
+QASHBIO - QA Lab Sterling Hts Biology Unit
+QASHSC - QA Lab Sterling Hts Controlled Substances Unit
+QASHLP - QA Lab Sterling Hts Latent Print Unit
+QASHTR - QA Lab Sterling Hts Trace Unit
+6 - Questioned Document Unit
+SN - SNAP
+9 - Toxicology Unit
+4 - Trace Evidence Unit
+X - Training Unit

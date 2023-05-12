@@ -1,0 +1,4 @@
+~<BLANK>
+F - X-Rays Available entire body
+P - X-Rays available some body
+N - No X-Rays available

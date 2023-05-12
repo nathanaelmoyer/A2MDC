@@ -1,0 +1,8 @@
+~<BLANK>
+ALD - All body parts recovered - Decomposed
+ALF - All body parts recovered - Fresh
+F - Fresh
+D - Decomposed
+S - Skeletal
+SKL - Skeleton recovered
+N - Not Recovered

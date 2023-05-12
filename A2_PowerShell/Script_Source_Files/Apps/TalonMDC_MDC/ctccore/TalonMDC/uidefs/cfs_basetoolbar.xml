@@ -1,0 +1,7 @@
+<Controls>
+	<Separator/>
+	<Button ValidState="4" Image="phone.png" Label="CFS" LabelVAlignment="Bottom" LabelHAlignment="Center" 
+	        ToolTip="Call for Service"	ExecCode="23357" />
+</Controls>
+<Events>
+</Events>

@@ -1,0 +1,15 @@
+<TalonEngineOptions AddStandardFoldersOnQuery="true" EncryptSavedCases="true" SaveCaseBindersInOwnFile="false" MaxEmpyFolderAgeDays="1">
+<!--
+Talon Engine properties file.
+
+See dqclient.xml for client-related settings.
+-->
+  <TalonEngineID>SELS</TalonEngineID>
+  <IDCounter>1</IDCounter>
+  <ClientVersionHistory>
+    <EntryList>
+      <VersionEntry FirstRunDate="20200831" LastRunDate="20210122" VersionString="3.02.01" VersionNumber="30201005"/>
+      <VersionEntry FirstRunDate="20210122" LastRunDate="20210122" VersionString="3.05.07" VersionNumber="30507005"/>
+    </EntryList>
+  </ClientVersionHistory>
+</TalonEngineOptions>

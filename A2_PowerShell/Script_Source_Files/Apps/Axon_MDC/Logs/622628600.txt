@@ -1,0 +1,84 @@
+[1760:2228][2022-02-01T11:06:31]i001: Burn v3.10.2.2516, Windows v10.0 (Build 18363: Service Pack 0), path: C:\Users\ADMINI~1\AppData\Local\Temp\{DB8424BE-4CAE-4500-B39A-AB7F5642FE6B}\.cr\axon-fleet-1.15.5.exe
+[1760:2228][2022-02-01T11:06:31]i009: Command Line: '-burn.clean.room=D:\A2_PowerShell\Script_Source_Files\Apps\Axon_MDC\axon-fleet-1.15.5.exe /install /passive /log D:\A2_PowerShell\Script_Source_Files\Apps\Axon_MDC\Logs\622628600.txt'
+[1760:2228][2022-02-01T11:06:31]i000: Setting string variable 'WixBundleOriginalSource' to value 'D:\A2_PowerShell\Script_Source_Files\Apps\Axon_MDC\axon-fleet-1.15.5.exe'
+[1760:2228][2022-02-01T11:06:31]i000: Setting string variable 'WixBundleOriginalSourceFolder' to value 'D:\A2_PowerShell\Script_Source_Files\Apps\Axon_MDC\'
+[1760:2228][2022-02-01T11:06:31]i000: Setting string variable 'WixBundleLog' to value 'D:\A2_PowerShell\Script_Source_Files\Apps\Axon_MDC\Logs\622628600.txt'
+[1760:2228][2022-02-01T11:06:31]i000: Setting string variable 'WixBundleName' to value 'Axon View XL 1.15.5'
+[1760:2228][2022-02-01T11:06:31]i000: Setting string variable 'WixBundleManufacturer' to value 'Axon Enterprise'
+[1760:0368][2022-02-01T11:06:31]i000: Setting numeric variable 'WixStdBALanguageId' to value 1033
+[1760:0368][2022-02-01T11:06:31]i000: Setting version variable 'WixBundleFileVersion' to value '1.15.5.0'
+[1760:2228][2022-02-01T11:06:31]i100: Detect begin, 4 packages
+[1760:2228][2022-02-01T11:06:31]i101: Detected package: Mkdir, state: Absent, cached: None
+[1760:2228][2022-02-01T11:06:31]i101: Detected package: axon_ble_x64.msi, state: Absent, cached: None
+[1760:2228][2022-02-01T11:06:31]i101: Detected package: axon_ble_x86.msi, state: Absent, cached: None
+[1760:2228][2022-02-01T11:06:31]i101: Detected package: axon_fleet.msi, state: Absent, cached: None
+[1760:2228][2022-02-01T11:06:31]i199: Detect complete, result: 0x0
+[1760:2228][2022-02-01T11:06:31]i200: Plan begin, 4 packages, action: Install
+[1760:2228][2022-02-01T11:06:31]i052: Condition 'VersionNT64' evaluates to true.
+[1760:2228][2022-02-01T11:06:31]w321: Skipping dependency registration on package with no dependency providers: Mkdir
+[1760:2228][2022-02-01T11:06:31]i000: Setting string variable 'WixBundleLog_Mkdir' to value 'D:\A2_PowerShell\Script_Source_Files\Apps\Axon_MDC\Logs\622628600_000_Mkdir.txt'
+[1760:2228][2022-02-01T11:06:31]i000: Setting string variable 'WixBundleRollbackLog_Mkdir' to value 'D:\A2_PowerShell\Script_Source_Files\Apps\Axon_MDC\Logs\622628600_000_Mkdir_rollback.txt'
+[1760:2228][2022-02-01T11:06:31]i052: Condition 'VersionNT64' evaluates to true.
+[1760:2228][2022-02-01T11:06:31]i000: Setting string variable 'WixBundleLog_axon_ble_x64.msi' to value 'D:\A2_PowerShell\Script_Source_Files\Apps\Axon_MDC\Logs\622628600_001_axon_ble_x64.msi.txt'
+[1760:2228][2022-02-01T11:06:31]i052: Condition 'NOT VersionNT64' evaluates to false.
+[1760:2228][2022-02-01T11:06:31]i000: Setting string variable 'WixBundleRollbackLog_axon_fleet.msi' to value 'D:\A2_PowerShell\Script_Source_Files\Apps\Axon_MDC\Logs\622628600_002_axon_fleet.msi_rollback.txt'
+[1760:2228][2022-02-01T11:06:31]i000: Setting string variable 'WixBundleLog_axon_fleet.msi' to value 'D:\A2_PowerShell\Script_Source_Files\Apps\Axon_MDC\Logs\622628600_002_axon_fleet.msi.txt'
+[1760:2228][2022-02-01T11:06:31]i201: Planned package: Mkdir, state: Absent, default requested: Present, ba requested: Present, execute: Install, rollback: Uninstall, cache: Yes, uncache: No, dependency: None
+[1760:2228][2022-02-01T11:06:31]i201: Planned package: axon_ble_x64.msi, state: Absent, default requested: Present, ba requested: Present, execute: Install, rollback: None, cache: Yes, uncache: No, dependency: Register
+[1760:2228][2022-02-01T11:06:31]i201: Planned package: axon_ble_x86.msi, state: Absent, default requested: Absent, ba requested: Absent, execute: None, rollback: None, cache: No, uncache: No, dependency: None
+[1760:2228][2022-02-01T11:06:31]i201: Planned package: axon_fleet.msi, state: Absent, default requested: Present, ba requested: Present, execute: Install, rollback: Uninstall, cache: Yes, uncache: No, dependency: Register
+[1760:2228][2022-02-01T11:06:31]i299: Plan complete, result: 0x0
+[1760:2228][2022-02-01T11:06:31]i300: Apply begin
+[1760:2228][2022-02-01T11:06:31]i010: Launching elevated engine process.
+[1760:2228][2022-02-01T11:06:31]i011: Launched elevated engine process.
+[1760:2228][2022-02-01T11:06:31]i012: Connected to elevated engine.
+[0608:13F8][2022-02-01T11:06:31]i358: Pausing automatic updates.
+[0608:13F8][2022-02-01T11:06:31]i359: Paused automatic updates.
+[0608:13F8][2022-02-01T11:06:31]i360: Creating a system restore point.
+[0608:13F8][2022-02-01T11:06:31]i361: Created a system restore point.
+[0608:13F8][2022-02-01T11:06:31]i370: Session begin, registration key: SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{0959b9b9-2a8d-4d29-baf1-0a6c8834f7ff}, options: 0x7, disable resume: No
+[0608:13F8][2022-02-01T11:06:31]i000: Caching bundle from: 'C:\Users\ADMINI~1\AppData\Local\Temp\{23CF2032-5788-4E8B-AC14-5E0DE555A6FE}\.be\axon-fleet.exe' to: 'C:\ProgramData\Package Cache\{0959b9b9-2a8d-4d29-baf1-0a6c8834f7ff}\axon-fleet.exe'
+[0608:13F8][2022-02-01T11:06:31]i320: Registering bundle dependency provider: {0959b9b9-2a8d-4d29-baf1-0a6c8834f7ff}, version: 1.15.5.0
+[0608:13F8][2022-02-01T11:06:31]i371: Updating session, registration key: SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{0959b9b9-2a8d-4d29-baf1-0a6c8834f7ff}, resume: Active, restart initiated: No, disable resume: No
+[1760:0F50][2022-02-01T11:06:31]i336: Acquiring container: WixAttachedContainer, copy from: D:\A2_PowerShell\Script_Source_Files\Apps\Axon_MDC\axon-fleet-1.15.5.exe
+[1760:0F50][2022-02-01T11:06:34]i000: Setting string variable 'WixBundleLastUsedSource' to value 'D:\A2_PowerShell\Script_Source_Files\Apps\Axon_MDC\'
+[0608:0F6C][2022-02-01T11:06:34]i305: Verified acquired payload: Mkdir at path: C:\ProgramData\Package Cache\.unverified\Mkdir, moving to: C:\ProgramData\Package Cache\46B34B18BDD927F22F9367FE80149509CF10A4C1\mkdir.bat.
+[0608:0F6C][2022-02-01T11:06:34]i305: Verified acquired payload: axon_ble_x64.msi at path: C:\ProgramData\Package Cache\.unverified\axon_ble_x64.msi, moving to: C:\ProgramData\Package Cache\{5EB4529D-3A35-4C60-A8B4-3CAA078F472A}v1.0.0\axon-ble-x64.msi.
+[0608:0F6C][2022-02-01T11:06:35]i305: Verified acquired payload: axon_fleet.msi at path: C:\ProgramData\Package Cache\.unverified\axon_fleet.msi, moving to: C:\ProgramData\Package Cache\{5DFA975E-1F25-4889-B5D3-85EFB3E6595D}v1.15.5\axon-fleet.msi.
+[0608:13F8][2022-02-01T11:06:35]i301: Applying execute package: Mkdir, action: Install, path: C:\ProgramData\Package Cache\46B34B18BDD927F22F9367FE80149509CF10A4C1\mkdir.bat, arguments: '"C:\ProgramData\Package Cache\46B34B18BDD927F22F9367FE80149509CF10A4C1\mkdir.bat"'
+[1760:2228][2022-02-01T11:06:35]i319: Applied execute package: Mkdir, result: 0x0, restart: None
+[0608:13F8][2022-02-01T11:06:35]i323: Registering package dependency provider: {5EB4529D-3A35-4C60-A8B4-3CAA078F472A}, version: 1.0.0, package: axon_ble_x64.msi
+[0608:13F8][2022-02-01T11:06:35]i301: Applying execute package: axon_ble_x64.msi, action: Install, path: C:\ProgramData\Package Cache\{5EB4529D-3A35-4C60-A8B4-3CAA078F472A}v1.0.0\axon-ble-x64.msi, arguments: ' MSIFASTINSTALL="7"'
+[1760:2228][2022-02-01T11:06:56]i319: Applied execute package: axon_ble_x64.msi, result: 0x0, restart: None
+[0608:13F8][2022-02-01T11:06:56]i325: Registering dependency: {0959b9b9-2a8d-4d29-baf1-0a6c8834f7ff} on package provider: {5EB4529D-3A35-4C60-A8B4-3CAA078F472A}, package: axon_ble_x64.msi
+[0608:13F8][2022-02-01T11:06:56]i323: Registering package dependency provider: {5DFA975E-1F25-4889-B5D3-85EFB3E6595D}, version: 1.15.5, package: axon_fleet.msi
+[0608:13F8][2022-02-01T11:06:56]i301: Applying execute package: axon_fleet.msi, action: Install, path: C:\ProgramData\Package Cache\{5DFA975E-1F25-4889-B5D3-85EFB3E6595D}v1.15.5\axon-fleet.msi, arguments: ' ARPSYSTEMCOMPONENT="1" MSIFASTINSTALL="7"'
+[1760:2228][2022-02-01T11:07:15]i319: Applied execute package: axon_fleet.msi, result: 0x0, restart: None
+[0608:13F8][2022-02-01T11:07:15]i325: Registering dependency: {0959b9b9-2a8d-4d29-baf1-0a6c8834f7ff} on package provider: {5DFA975E-1F25-4889-B5D3-85EFB3E6595D}, package: axon_fleet.msi
+[0608:13F8][2022-02-01T11:07:15]i372: Session end, registration key: SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{0959b9b9-2a8d-4d29-baf1-0a6c8834f7ff}, resume: ARP, restart: None, disable resume: No
+[0608:13F8][2022-02-01T11:07:15]i371: Updating session, registration key: SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{0959b9b9-2a8d-4d29-baf1-0a6c8834f7ff}, resume: ARP, restart initiated: No, disable resume: No
+[1760:2228][2022-02-01T11:07:16]i399: Apply complete, result: 0x0, restart: None, ba requested restart:  No
+[1760:2228][2022-02-01T11:07:16]i500: Shutting down, exit code: 0x0
+[1760:2228][2022-02-01T11:07:16]i410: Variable: VersionNT64 = 10.0.0.0
+[1760:2228][2022-02-01T11:07:16]i410: Variable: WixBundleAction = 5
+[1760:2228][2022-02-01T11:07:16]i410: Variable: WixBundleElevated = 1
+[1760:2228][2022-02-01T11:07:16]i410: Variable: WixBundleFileVersion = 1.15.5.0
+[1760:2228][2022-02-01T11:07:16]i410: Variable: WixBundleInstalled = 0
+[1760:2228][2022-02-01T11:07:16]i410: Variable: WixBundleLastUsedSource = D:\A2_PowerShell\Script_Source_Files\Apps\Axon_MDC\
+[1760:2228][2022-02-01T11:07:16]i410: Variable: WixBundleLog = D:\A2_PowerShell\Script_Source_Files\Apps\Axon_MDC\Logs\622628600.txt
+[1760:2228][2022-02-01T11:07:16]i410: Variable: WixBundleLog_axon_ble_x64.msi = D:\A2_PowerShell\Script_Source_Files\Apps\Axon_MDC\Logs\622628600_001_axon_ble_x64.msi.txt
+[1760:2228][2022-02-01T11:07:16]i410: Variable: WixBundleLog_axon_fleet.msi = D:\A2_PowerShell\Script_Source_Files\Apps\Axon_MDC\Logs\622628600_002_axon_fleet.msi.txt
+[1760:2228][2022-02-01T11:07:16]i410: Variable: WixBundleLog_Mkdir = D:\A2_PowerShell\Script_Source_Files\Apps\Axon_MDC\Logs\622628600_000_Mkdir.txt
+[1760:2228][2022-02-01T11:07:16]i410: Variable: WixBundleManufacturer = Axon Enterprise
+[1760:2228][2022-02-01T11:07:16]i410: Variable: WixBundleName = Axon View XL 1.15.5
+[1760:2228][2022-02-01T11:07:16]i410: Variable: WixBundleOriginalSource = D:\A2_PowerShell\Script_Source_Files\Apps\Axon_MDC\axon-fleet-1.15.5.exe
+[1760:2228][2022-02-01T11:07:16]i410: Variable: WixBundleOriginalSourceFolder = D:\A2_PowerShell\Script_Source_Files\Apps\Axon_MDC\
+[1760:2228][2022-02-01T11:07:16]i410: Variable: WixBundleProviderKey = {0959b9b9-2a8d-4d29-baf1-0a6c8834f7ff}
+[1760:2228][2022-02-01T11:07:16]i410: Variable: WixBundleRollbackLog_axon_fleet.msi = D:\A2_PowerShell\Script_Source_Files\Apps\Axon_MDC\Logs\622628600_002_axon_fleet.msi_rollback.txt
+[1760:2228][2022-02-01T11:07:16]i410: Variable: WixBundleRollbackLog_Mkdir = D:\A2_PowerShell\Script_Source_Files\Apps\Axon_MDC\Logs\622628600_000_Mkdir_rollback.txt
+[1760:2228][2022-02-01T11:07:16]i410: Variable: WixBundleSourceProcessFolder = D:\A2_PowerShell\Script_Source_Files\Apps\Axon_MDC\
+[1760:2228][2022-02-01T11:07:16]i410: Variable: WixBundleSourceProcessPath = D:\A2_PowerShell\Script_Source_Files\Apps\Axon_MDC\axon-fleet-1.15.5.exe
+[1760:2228][2022-02-01T11:07:16]i410: Variable: WixBundleTag = 
+[1760:2228][2022-02-01T11:07:16]i410: Variable: WixBundleVersion = 1.15.5.0
+[1760:2228][2022-02-01T11:07:16]i410: Variable: WixStdBALanguageId = 1033
+[1760:2228][2022-02-01T11:07:16]i007: Exit code: 0x0, restarting: No

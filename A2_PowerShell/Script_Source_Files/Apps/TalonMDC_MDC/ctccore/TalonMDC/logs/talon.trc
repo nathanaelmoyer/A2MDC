@@ -1,0 +1,917 @@
+2020-08-31 09:34:47,103 BC Fips Provider is available.
+2020-08-31 09:34:47,103 Create a Bouncy Castle FIPS provider
+2020-08-31 09:34:47,104 Cryptography restrictions removal not needed
+2020-08-31 09:34:48,938 MB MB2.CLEMIS.ORG:2030 -- Using keystore=null, password=null.  Using truststore=null, password=null.
+2020-08-31 09:34:48,938 MB MB2.CLEMIS.ORG:2030 -- Using embedded trust store for FIPS because none is specified.
+2020-08-31 09:34:48,939 Parsed original location=classpath:/localhost_unsigned.keystore.bcfks to resource name=/localhost_unsigned.keystore.bcfks.
+2020-08-31 09:34:48,944 Loaded stream=sun.net.www.protocol.jar.JarURLConnection$JarURLInputStream@19ab969.
+2020-08-31 09:34:48,944 MB MB2.CLEMIS.ORG:2030 truststore -- Using type "BCFKS".
+2020-08-31 09:34:49,024 MB MB2.CLEMIS.ORG:2030 truststore Loaded aliases: [localhost_test]
+2020-08-31 09:34:49,040 MB MB2.CLEMIS.ORG:2030 -- Using SSL context protocol="TLSv1".
+2020-08-31 09:34:49,735 MB MB2.CLEMIS.ORG:2030 -- Got SSL context. Provider SunJSSE Protocol TLSv1
+2020-08-31 09:34:50,487 MBUpdateManager.Call: MBUpdateManager.UpdateRequiredFiles
+2020-08-31 09:34:50,487 MBUpdateManager.Call: MBUpdateManager.CreateUpdateProcessor
+2020-08-31 09:34:50,487 MBUpdateManager.Call: MBUpdateManager.ReadUpdateDefinitionFile: Definition: ( C:\ctccore\TalonMDC/talonjarlist.xml )  App Data: present
+2020-08-31 09:34:50,490 ReadUpdateDefinitionFile: using given app data to support variable substitution in XML...
+2020-08-31 09:34:50,518 ProcessXML: Root dir: C:\ctccore\TalonMDC
+<MBUpdates>TrackHistory=&quot;False&quot;
+  <Directory MBDir="CTCApps/talonjars" LocalSubDir="lib">
+    <File Name="talon.jar"/>
+  </Directory>
+  <Directory MBDir="CTCApps/talonjars/3rdPartyJars" LocalSubDir="lib/3rdPartyJars">
+    <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+  </Directory>
+  <Directory MBDir="CTCApps/talonjars/ServicesClientJars" LocalSubDir="lib/ServicesClientJars">
+    <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+  </Directory>
+  <Directory MBDir="CTCApps/talonjars/TalonAuthenticationMatrixJars" LocalSubDir="lib/TalonAuthenticationMatrixJars">
+    <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+  </Directory>
+</MBUpdates>
+2020-08-31 09:34:50,518 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggers
+2020-08-31 09:34:50,519 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/talonjars" LocalSubDir="lib">
+2020-08-31 09:34:50,519 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/talonjars" LocalSubDir="lib">
+2020-08-31 09:34:50,519 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/talonjars/3rdPartyJars" LocalSubDir="lib/3rdPartyJars">
+2020-08-31 09:34:50,519 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/talonjars/3rdPartyJars" LocalSubDir="lib/3rdPartyJars">
+2020-08-31 09:34:50,519 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/talonjars/ServicesClientJars" LocalSubDir="lib/ServicesClientJars">
+2020-08-31 09:34:50,519 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/talonjars/ServicesClientJars" LocalSubDir="lib/ServicesClientJars">
+2020-08-31 09:34:50,519 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/talonjars/TalonAuthenticationMatrixJars" LocalSubDir="lib/TalonAuthenticationMatrixJars">
+2020-08-31 09:34:50,519 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/talonjars/TalonAuthenticationMatrixJars" LocalSubDir="lib/TalonAuthenticationMatrixJars">
+2020-08-31 09:34:50,519 Triggering startup trigger...
+2020-08-31 09:34:50,519 ProcessDirectory CTCApps/talonjars Dir Size: -1
+2020-08-31 09:34:50,538 MBUpdateManager.Call: MBUpdateManager.ProcessDirectory: <Directory MBDir="CTCApps/talonjars" LocalSubDir="lib">
+2020-08-31 09:34:50,542 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="talon.jar"/>
+2020-08-31 09:34:50,542 Downloading single file...
+2020-08-31 09:34:50,542 MBUpdateManager.Call: MBUpdateManager.DownloadFileIfChanged: Server filename ( talon.jar )
+2020-08-31 09:36:02,628 Download Status 'OK'
+2020-08-31 09:36:02,628 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForSingleFile: ( talon.jar ) - <File Name="talon.jar"/>
+2020-08-31 09:36:02,628 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForDirectory: ID ( null )
+2020-08-31 09:36:02,628 ProcessDirectory CTCApps/talonjars/3rdPartyJars Dir Size: -1
+2020-08-31 09:36:02,646 MBUpdateManager.Call: MBUpdateManager.ProcessDirectory: <Directory MBDir="CTCApps/talonjars/3rdPartyJars" LocalSubDir="lib/3rdPartyJars">
+2020-08-31 09:36:02,657 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+2020-08-31 09:36:02,657 Downloading all server files...
+2020-08-31 09:40:03,594 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForDirectory: ID ( null )
+2020-08-31 09:40:03,594 ProcessDirectory CTCApps/talonjars/ServicesClientJars Dir Size: -1
+2020-08-31 09:40:03,611 MBUpdateManager.Call: MBUpdateManager.ProcessDirectory: <Directory MBDir="CTCApps/talonjars/ServicesClientJars" LocalSubDir="lib/ServicesClientJars">
+2020-08-31 09:40:03,624 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+2020-08-31 09:40:03,624 Downloading all server files...
+2020-08-31 09:41:27,912 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForDirectory: ID ( null )
+2020-08-31 09:41:27,912 ProcessDirectory CTCApps/talonjars/TalonAuthenticationMatrixJars Dir Size: -1
+2020-08-31 09:41:27,928 MBUpdateManager.Call: MBUpdateManager.ProcessDirectory: <Directory MBDir="CTCApps/talonjars/TalonAuthenticationMatrixJars" LocalSubDir="lib/TalonAuthenticationMatrixJars">
+2020-08-31 09:41:27,950 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+2020-08-31 09:41:27,950 Downloading all server files...
+2020-08-31 09:41:28,546 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForDirectory: ID ( null )
+2020-08-31 09:41:28,553 MBUpdateManager.Call: MBUpdateManager.UpdateComplete: XML Updated? (true)
+2020-08-31 09:41:28,554 XML was updated.  Adding to history element...
+<Entry Date="08/31/20" Time="09:34:50">
+  <Directory MBDir="CTCApps/talonjars" LocalSubDir="lib">
+    <Status>Updated file: talon.jar</Status>
+  </Directory>
+</Entry>
+2020-08-31 09:41:28,554 XML updated, re-writing...
+2020-08-31 09:41:28,651 MBUpdateManager.Call: MBUpdateManager.UpdateRequiredFiles
+2020-08-31 09:41:28,651 MBUpdateManager.Call: MBUpdateManager.CreateUpdateProcessor
+2020-08-31 09:41:28,651 MBUpdateManager.Call: MBUpdateManager.ReadUpdateDefinitionFile: Definition: ( C:\ctccore\TalonMDC/ctcstartfilelist.xml )  App Data: present
+2020-08-31 09:41:28,654 ReadUpdateDefinitionFile: using given app data to support variable substitution in XML...
+2020-08-31 09:41:28,657 ProcessXML: Root dir: C:\ctccore\TalonMDC
+<MBUpdates>TrackHistory=&quot;False&quot;
+  <Directory MBDir="CTCApps/CTCStart/talonmdc" LocalSubDir=".">
+    <File Name="ctcstart.exe"/>
+    <File Name="ctcstart.ico"/>
+    <File Name="ctcstart.ini"/>
+    <File Name="ctcstart.lax"/>
+    <File Name="coresplash.png"/>
+  </Directory>
+  <Directory MBDir="CTCApps/CTCStart/CTCStartLib" LocalSubDir="ctcstartlib">
+    <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+  </Directory>
+</MBUpdates>
+2020-08-31 09:41:28,657 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggers
+2020-08-31 09:41:28,657 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/CTCStart/talonmdc" LocalSubDir=".">
+2020-08-31 09:41:28,657 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/CTCStart/talonmdc" LocalSubDir=".">
+2020-08-31 09:41:28,657 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/CTCStart/CTCStartLib" LocalSubDir="ctcstartlib">
+2020-08-31 09:41:28,657 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/CTCStart/CTCStartLib" LocalSubDir="ctcstartlib">
+2020-08-31 09:41:28,657 Triggering startup trigger...
+2020-08-31 09:41:28,658 ProcessDirectory CTCApps/CTCStart/talonmdc Dir Size: -1
+2020-08-31 09:41:28,673 MBUpdateManager.Call: MBUpdateManager.ProcessDirectory: <Directory MBDir="CTCApps/CTCStart/talonmdc" LocalSubDir=".">
+2020-08-31 09:41:28,673 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ctcstart.exe"/>
+2020-08-31 09:41:28,673 Downloading single file...
+2020-08-31 09:41:28,673 MBUpdateManager.Call: MBUpdateManager.DownloadFileIfChanged: Server filename ( ctcstart.exe )
+2020-08-31 09:41:28,750 No change in file: ( ctcstart.exe )
+2020-08-31 09:41:28,750 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForSingleFile: ( ctcstart.exe ) - <File Name="ctcstart.exe"/>
+2020-08-31 09:41:28,750 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ctcstart.ico"/>
+2020-08-31 09:41:28,750 Downloading single file...
+2020-08-31 09:41:28,750 MBUpdateManager.Call: MBUpdateManager.DownloadFileIfChanged: Server filename ( ctcstart.ico )
+2020-08-31 09:41:28,819 No change in file: ( ctcstart.ico )
+2020-08-31 09:41:28,819 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForSingleFile: ( ctcstart.ico ) - <File Name="ctcstart.ico"/>
+2020-08-31 09:41:28,819 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ctcstart.ini"/>
+2020-08-31 09:41:28,819 Downloading single file...
+2020-08-31 09:41:28,819 MBUpdateManager.Call: MBUpdateManager.DownloadFileIfChanged: Server filename ( ctcstart.ini )
+2020-08-31 09:41:29,089 Download Status 'OK'
+2020-08-31 09:41:29,090 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForSingleFile: ( ctcstart.ini ) - <File Name="ctcstart.ini"/>
+2020-08-31 09:41:29,090 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ctcstart.lax"/>
+2020-08-31 09:41:29,090 Downloading single file...
+2020-08-31 09:41:29,090 MBUpdateManager.Call: MBUpdateManager.DownloadFileIfChanged: Server filename ( ctcstart.lax )
+2020-08-31 09:41:29,154 No change in file: ( ctcstart.lax )
+2020-08-31 09:41:29,154 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForSingleFile: ( ctcstart.lax ) - <File Name="ctcstart.lax"/>
+2020-08-31 09:41:29,154 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="coresplash.png"/>
+2020-08-31 09:41:29,154 Downloading single file...
+2020-08-31 09:41:29,154 MBUpdateManager.Call: MBUpdateManager.DownloadFileIfChanged: Server filename ( coresplash.png )
+2020-08-31 09:41:29,221 No change in file: ( coresplash.png )
+2020-08-31 09:41:29,221 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForSingleFile: ( coresplash.png ) - <File Name="coresplash.png"/>
+2020-08-31 09:41:29,221 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForDirectory: ID ( null )
+2020-08-31 09:41:29,221 ProcessDirectory CTCApps/CTCStart/CTCStartLib Dir Size: -1
+2020-08-31 09:41:29,238 MBUpdateManager.Call: MBUpdateManager.ProcessDirectory: <Directory MBDir="CTCApps/CTCStart/CTCStartLib" LocalSubDir="ctcstartlib">
+2020-08-31 09:41:29,245 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+2020-08-31 09:41:29,245 Downloading all server files...
+2020-08-31 09:41:39,867 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForDirectory: ID ( null )
+2020-08-31 09:41:39,875 MBUpdateManager.Call: MBUpdateManager.UpdateComplete: XML Updated? (true)
+2020-08-31 09:41:39,875 XML was updated.  Adding to history element...
+<Entry Date="08/31/20" Time="09:41:28">
+  <Directory MBDir="CTCApps/CTCStart/talonmdc" LocalSubDir=".">
+    <Status>Updated file: ctcstart.ini</Status>
+  </Directory>
+</Entry>
+2020-08-31 09:41:39,875 XML updated, re-writing...
+2020-08-31 09:42:09,326 BC Fips Provider is available.
+2020-08-31 09:42:09,326 Create a Bouncy Castle FIPS provider
+2020-08-31 09:42:09,327 Cryptography restrictions removal not needed
+2020-08-31 09:42:11,089 MB MB2.CLEMIS.ORG:2030 -- Using keystore=null, password=null.  Using truststore=null, password=null.
+2020-08-31 09:42:11,089 MB MB2.CLEMIS.ORG:2030 -- Using embedded trust store for FIPS because none is specified.
+2020-08-31 09:42:11,090 Parsed original location=classpath:/localhost_unsigned.keystore.bcfks to resource name=/localhost_unsigned.keystore.bcfks.
+2020-08-31 09:42:11,094 Loaded stream=sun.net.www.protocol.jar.JarURLConnection$JarURLInputStream@19ab969.
+2020-08-31 09:42:11,094 MB MB2.CLEMIS.ORG:2030 truststore -- Using type "BCFKS".
+2020-08-31 09:42:11,170 MB MB2.CLEMIS.ORG:2030 truststore Loaded aliases: [localhost_test]
+2020-08-31 09:42:11,180 MB MB2.CLEMIS.ORG:2030 -- Using SSL context protocol="TLSv1".
+2020-08-31 09:42:11,837 MB MB2.CLEMIS.ORG:2030 -- Got SSL context. Provider SunJSSE Protocol TLSv1
+2020-08-31 09:42:12,834 MBUpdateManager.Call: MBUpdateManager.UpdateRequiredFiles
+2020-08-31 09:42:12,834 MBUpdateManager.Call: MBUpdateManager.CreateUpdateProcessor
+2020-08-31 09:42:12,836 MBUpdateManager.Call: MBUpdateManager.ReadUpdateDefinitionFile: Definition: ( C:\ctccore\TalonMDC/talonjarlist.xml )  App Data: present
+2020-08-31 09:42:12,839 ReadUpdateDefinitionFile: using given app data to support variable substitution in XML...
+2020-08-31 09:42:12,864 ProcessXML: Root dir: C:\ctccore\TalonMDC
+<MBUpdates>TrackHistory=&quot;False&quot;
+  <Directory MBDir="CTCApps/talonjars" LocalSubDir="lib">
+    <File Name="talon.jar"/>
+  </Directory>
+  <Directory MBDir="CTCApps/talonjars/3rdPartyJars" LocalSubDir="lib/3rdPartyJars">
+    <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+  </Directory>
+  <Directory MBDir="CTCApps/talonjars/ServicesClientJars" LocalSubDir="lib/ServicesClientJars">
+    <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+  </Directory>
+  <Directory MBDir="CTCApps/talonjars/TalonAuthenticationMatrixJars" LocalSubDir="lib/TalonAuthenticationMatrixJars">
+    <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+  </Directory>
+</MBUpdates>
+2020-08-31 09:42:12,865 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggers
+2020-08-31 09:42:12,866 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/talonjars" LocalSubDir="lib">
+2020-08-31 09:42:12,866 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/talonjars" LocalSubDir="lib">
+2020-08-31 09:42:12,866 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/talonjars/3rdPartyJars" LocalSubDir="lib/3rdPartyJars">
+2020-08-31 09:42:12,866 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/talonjars/3rdPartyJars" LocalSubDir="lib/3rdPartyJars">
+2020-08-31 09:42:12,866 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/talonjars/ServicesClientJars" LocalSubDir="lib/ServicesClientJars">
+2020-08-31 09:42:12,866 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/talonjars/ServicesClientJars" LocalSubDir="lib/ServicesClientJars">
+2020-08-31 09:42:12,866 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/talonjars/TalonAuthenticationMatrixJars" LocalSubDir="lib/TalonAuthenticationMatrixJars">
+2020-08-31 09:42:12,866 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/talonjars/TalonAuthenticationMatrixJars" LocalSubDir="lib/TalonAuthenticationMatrixJars">
+2020-08-31 09:42:12,866 Triggering startup trigger...
+2020-08-31 09:42:12,866 ProcessDirectory CTCApps/talonjars Dir Size: -1
+2020-08-31 09:42:12,883 MBUpdateManager.Call: MBUpdateManager.ProcessDirectory: <Directory MBDir="CTCApps/talonjars" LocalSubDir="lib">
+2020-08-31 09:42:12,886 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="talon.jar"/>
+2020-08-31 09:42:12,886 Downloading single file...
+2020-08-31 09:42:12,886 MBUpdateManager.Call: MBUpdateManager.DownloadFileIfChanged: Server filename ( talon.jar )
+2020-08-31 09:42:13,303 No change in file: ( talon.jar )
+2020-08-31 09:42:13,303 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForSingleFile: ( talon.jar ) - <File Name="talon.jar"/>
+2020-08-31 09:42:13,304 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForDirectory: ID ( null )
+2020-08-31 09:42:13,304 ProcessDirectory CTCApps/talonjars/3rdPartyJars Dir Size: -1
+2020-08-31 09:42:13,328 MBUpdateManager.Call: MBUpdateManager.ProcessDirectory: <Directory MBDir="CTCApps/talonjars/3rdPartyJars" LocalSubDir="lib/3rdPartyJars">
+2020-08-31 09:42:13,337 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+2020-08-31 09:42:13,338 Downloading all server files...
+2020-08-31 09:42:14,684 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForDirectory: ID ( null )
+2020-08-31 09:42:14,684 ProcessDirectory CTCApps/talonjars/ServicesClientJars Dir Size: -1
+2020-08-31 09:42:14,702 MBUpdateManager.Call: MBUpdateManager.ProcessDirectory: <Directory MBDir="CTCApps/talonjars/ServicesClientJars" LocalSubDir="lib/ServicesClientJars">
+2020-08-31 09:42:14,710 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+2020-08-31 09:42:14,710 Downloading all server files...
+2020-08-31 09:42:15,281 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForDirectory: ID ( null )
+2020-08-31 09:42:15,281 ProcessDirectory CTCApps/talonjars/TalonAuthenticationMatrixJars Dir Size: -1
+2020-08-31 09:42:15,299 MBUpdateManager.Call: MBUpdateManager.ProcessDirectory: <Directory MBDir="CTCApps/talonjars/TalonAuthenticationMatrixJars" LocalSubDir="lib/TalonAuthenticationMatrixJars">
+2020-08-31 09:42:15,308 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+2020-08-31 09:42:15,308 Downloading all server files...
+2020-08-31 09:42:15,382 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForDirectory: ID ( null )
+2020-08-31 09:42:15,390 MBUpdateManager.Call: MBUpdateManager.UpdateComplete: XML Updated? (false)
+2020-08-31 09:42:15,715 MBUpdateManager.Call: MBUpdateManager.UpdateRequiredFiles
+2020-08-31 09:42:15,715 MBUpdateManager.Call: MBUpdateManager.CreateUpdateProcessor
+2020-08-31 09:42:15,718 MBUpdateManager.Call: MBUpdateManager.ReadUpdateDefinitionFile: Definition: ( C:\ctccore\TalonMDC/ctcstartfilelist.xml )  App Data: present
+2020-08-31 09:42:15,721 ReadUpdateDefinitionFile: using given app data to support variable substitution in XML...
+2020-08-31 09:42:15,725 ProcessXML: Root dir: C:\ctccore\TalonMDC
+<MBUpdates>TrackHistory=&quot;False&quot;
+  <Directory MBDir="CTCApps/CTCStart/talonmdc" LocalSubDir=".">
+    <File Name="ctcstart.exe"/>
+    <File Name="ctcstart.ico"/>
+    <File Name="ctcstart.ini"/>
+    <File Name="ctcstart.lax"/>
+    <File Name="coresplash.png"/>
+  </Directory>
+  <Directory MBDir="CTCApps/CTCStart/CTCStartLib" LocalSubDir="ctcstartlib">
+    <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+  </Directory>
+</MBUpdates>
+2020-08-31 09:42:15,725 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggers
+2020-08-31 09:42:15,725 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/CTCStart/talonmdc" LocalSubDir=".">
+2020-08-31 09:42:15,725 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/CTCStart/talonmdc" LocalSubDir=".">
+2020-08-31 09:42:15,726 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/CTCStart/CTCStartLib" LocalSubDir="ctcstartlib">
+2020-08-31 09:42:15,726 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/CTCStart/CTCStartLib" LocalSubDir="ctcstartlib">
+2020-08-31 09:42:15,726 Triggering startup trigger...
+2020-08-31 09:42:15,726 ProcessDirectory CTCApps/CTCStart/talonmdc Dir Size: -1
+2020-08-31 09:42:15,744 MBUpdateManager.Call: MBUpdateManager.ProcessDirectory: <Directory MBDir="CTCApps/CTCStart/talonmdc" LocalSubDir=".">
+2020-08-31 09:42:15,744 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ctcstart.exe"/>
+2020-08-31 09:42:15,744 Downloading single file...
+2020-08-31 09:42:15,744 MBUpdateManager.Call: MBUpdateManager.DownloadFileIfChanged: Server filename ( ctcstart.exe )
+2020-08-31 09:42:15,822 No change in file: ( ctcstart.exe )
+2020-08-31 09:42:15,822 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForSingleFile: ( ctcstart.exe ) - <File Name="ctcstart.exe"/>
+2020-08-31 09:42:15,822 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ctcstart.ico"/>
+2020-08-31 09:42:15,822 Downloading single file...
+2020-08-31 09:42:15,822 MBUpdateManager.Call: MBUpdateManager.DownloadFileIfChanged: Server filename ( ctcstart.ico )
+2020-08-31 09:42:15,897 No change in file: ( ctcstart.ico )
+2020-08-31 09:42:15,897 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForSingleFile: ( ctcstart.ico ) - <File Name="ctcstart.ico"/>
+2020-08-31 09:42:15,897 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ctcstart.ini"/>
+2020-08-31 09:42:15,897 Downloading single file...
+2020-08-31 09:42:15,897 MBUpdateManager.Call: MBUpdateManager.DownloadFileIfChanged: Server filename ( ctcstart.ini )
+2020-08-31 09:42:15,969 No change in file: ( ctcstart.ini )
+2020-08-31 09:42:15,969 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForSingleFile: ( ctcstart.ini ) - <File Name="ctcstart.ini"/>
+2020-08-31 09:42:15,969 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ctcstart.lax"/>
+2020-08-31 09:42:15,969 Downloading single file...
+2020-08-31 09:42:15,969 MBUpdateManager.Call: MBUpdateManager.DownloadFileIfChanged: Server filename ( ctcstart.lax )
+2020-08-31 09:42:16,039 No change in file: ( ctcstart.lax )
+2020-08-31 09:42:16,039 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForSingleFile: ( ctcstart.lax ) - <File Name="ctcstart.lax"/>
+2020-08-31 09:42:16,039 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="coresplash.png"/>
+2020-08-31 09:42:16,039 Downloading single file...
+2020-08-31 09:42:16,039 MBUpdateManager.Call: MBUpdateManager.DownloadFileIfChanged: Server filename ( coresplash.png )
+2020-08-31 09:42:16,110 No change in file: ( coresplash.png )
+2020-08-31 09:42:16,110 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForSingleFile: ( coresplash.png ) - <File Name="coresplash.png"/>
+2020-08-31 09:42:16,110 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForDirectory: ID ( null )
+2020-08-31 09:42:16,110 ProcessDirectory CTCApps/CTCStart/CTCStartLib Dir Size: -1
+2020-08-31 09:42:16,127 MBUpdateManager.Call: MBUpdateManager.ProcessDirectory: <Directory MBDir="CTCApps/CTCStart/CTCStartLib" LocalSubDir="ctcstartlib">
+2020-08-31 09:42:16,137 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+2020-08-31 09:42:16,137 Downloading all server files...
+2020-08-31 09:42:16,481 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForDirectory: ID ( null )
+2020-08-31 09:42:16,489 MBUpdateManager.Call: MBUpdateManager.UpdateComplete: XML Updated? (false)
+2020-08-31 09:44:36,116 BC Fips Provider is available.
+2020-08-31 09:44:36,116 Create a Bouncy Castle FIPS provider
+2020-08-31 09:44:36,116 Cryptography restrictions removal not needed
+2020-08-31 09:44:37,383 MB MB2.CLEMIS.ORG:2030 -- Using keystore=null, password=null.  Using truststore=null, password=null.
+2020-08-31 09:44:37,383 MB MB2.CLEMIS.ORG:2030 -- Using embedded trust store for FIPS because none is specified.
+2020-08-31 09:44:37,384 Parsed original location=classpath:/localhost_unsigned.keystore.bcfks to resource name=/localhost_unsigned.keystore.bcfks.
+2020-08-31 09:44:37,388 Loaded stream=sun.net.www.protocol.jar.JarURLConnection$JarURLInputStream@19ab969.
+2020-08-31 09:44:37,388 MB MB2.CLEMIS.ORG:2030 truststore -- Using type "BCFKS".
+2020-08-31 09:44:37,461 MB MB2.CLEMIS.ORG:2030 truststore Loaded aliases: [localhost_test]
+2020-08-31 09:44:37,471 MB MB2.CLEMIS.ORG:2030 -- Using SSL context protocol="TLSv1".
+2020-08-31 09:44:38,136 MB MB2.CLEMIS.ORG:2030 -- Got SSL context. Provider SunJSSE Protocol TLSv1
+2020-08-31 09:44:38,875 MBUpdateManager.Call: MBUpdateManager.UpdateRequiredFiles
+2020-08-31 09:44:38,875 MBUpdateManager.Call: MBUpdateManager.CreateUpdateProcessor
+2020-08-31 09:44:38,875 MBUpdateManager.Call: MBUpdateManager.ReadUpdateDefinitionFile: Definition: ( C:\ctccore\TalonMDC/talonjarlist.xml )  App Data: present
+2020-08-31 09:44:38,877 ReadUpdateDefinitionFile: using given app data to support variable substitution in XML...
+2020-08-31 09:44:38,898 ProcessXML: Root dir: C:\ctccore\TalonMDC
+<MBUpdates>TrackHistory=&quot;False&quot;
+  <Directory MBDir="CTCApps/talonjars" LocalSubDir="lib">
+    <File Name="talon.jar"/>
+  </Directory>
+  <Directory MBDir="CTCApps/talonjars/3rdPartyJars" LocalSubDir="lib/3rdPartyJars">
+    <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+  </Directory>
+  <Directory MBDir="CTCApps/talonjars/ServicesClientJars" LocalSubDir="lib/ServicesClientJars">
+    <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+  </Directory>
+  <Directory MBDir="CTCApps/talonjars/TalonAuthenticationMatrixJars" LocalSubDir="lib/TalonAuthenticationMatrixJars">
+    <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+  </Directory>
+</MBUpdates>
+2020-08-31 09:44:38,898 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggers
+2020-08-31 09:44:38,899 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/talonjars" LocalSubDir="lib">
+2020-08-31 09:44:38,899 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/talonjars" LocalSubDir="lib">
+2020-08-31 09:44:38,899 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/talonjars/3rdPartyJars" LocalSubDir="lib/3rdPartyJars">
+2020-08-31 09:44:38,899 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/talonjars/3rdPartyJars" LocalSubDir="lib/3rdPartyJars">
+2020-08-31 09:44:38,899 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/talonjars/ServicesClientJars" LocalSubDir="lib/ServicesClientJars">
+2020-08-31 09:44:38,899 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/talonjars/ServicesClientJars" LocalSubDir="lib/ServicesClientJars">
+2020-08-31 09:44:38,899 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/talonjars/TalonAuthenticationMatrixJars" LocalSubDir="lib/TalonAuthenticationMatrixJars">
+2020-08-31 09:44:38,899 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/talonjars/TalonAuthenticationMatrixJars" LocalSubDir="lib/TalonAuthenticationMatrixJars">
+2020-08-31 09:44:38,899 Triggering startup trigger...
+2020-08-31 09:44:38,899 ProcessDirectory CTCApps/talonjars Dir Size: -1
+2020-08-31 09:44:38,915 MBUpdateManager.Call: MBUpdateManager.ProcessDirectory: <Directory MBDir="CTCApps/talonjars" LocalSubDir="lib">
+2020-08-31 09:44:38,918 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="talon.jar"/>
+2020-08-31 09:44:38,918 Downloading single file...
+2020-08-31 09:44:38,918 MBUpdateManager.Call: MBUpdateManager.DownloadFileIfChanged: Server filename ( talon.jar )
+2020-08-31 09:44:39,351 No change in file: ( talon.jar )
+2020-08-31 09:44:39,352 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForSingleFile: ( talon.jar ) - <File Name="talon.jar"/>
+2020-08-31 09:44:39,352 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForDirectory: ID ( null )
+2020-08-31 09:44:39,352 ProcessDirectory CTCApps/talonjars/3rdPartyJars Dir Size: -1
+2020-08-31 09:44:39,370 MBUpdateManager.Call: MBUpdateManager.ProcessDirectory: <Directory MBDir="CTCApps/talonjars/3rdPartyJars" LocalSubDir="lib/3rdPartyJars">
+2020-08-31 09:44:39,378 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+2020-08-31 09:44:39,378 Downloading all server files...
+2020-08-31 09:44:40,649 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForDirectory: ID ( null )
+2020-08-31 09:44:40,649 ProcessDirectory CTCApps/talonjars/ServicesClientJars Dir Size: -1
+2020-08-31 09:44:40,666 MBUpdateManager.Call: MBUpdateManager.ProcessDirectory: <Directory MBDir="CTCApps/talonjars/ServicesClientJars" LocalSubDir="lib/ServicesClientJars">
+2020-08-31 09:44:40,672 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+2020-08-31 09:44:40,672 Downloading all server files...
+2020-08-31 09:44:41,275 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForDirectory: ID ( null )
+2020-08-31 09:44:41,276 ProcessDirectory CTCApps/talonjars/TalonAuthenticationMatrixJars Dir Size: -1
+2020-08-31 09:44:41,298 MBUpdateManager.Call: MBUpdateManager.ProcessDirectory: <Directory MBDir="CTCApps/talonjars/TalonAuthenticationMatrixJars" LocalSubDir="lib/TalonAuthenticationMatrixJars">
+2020-08-31 09:44:41,306 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+2020-08-31 09:44:41,306 Downloading all server files...
+2020-08-31 09:44:41,381 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForDirectory: ID ( null )
+2020-08-31 09:44:41,388 MBUpdateManager.Call: MBUpdateManager.UpdateComplete: XML Updated? (false)
+2020-08-31 09:44:41,491 MBUpdateManager.Call: MBUpdateManager.UpdateRequiredFiles
+2020-08-31 09:44:41,491 MBUpdateManager.Call: MBUpdateManager.CreateUpdateProcessor
+2020-08-31 09:44:41,491 MBUpdateManager.Call: MBUpdateManager.ReadUpdateDefinitionFile: Definition: ( C:\ctccore\TalonMDC/ctcstartfilelist.xml )  App Data: present
+2020-08-31 09:44:41,494 ReadUpdateDefinitionFile: using given app data to support variable substitution in XML...
+2020-08-31 09:44:41,498 ProcessXML: Root dir: C:\ctccore\TalonMDC
+<MBUpdates>TrackHistory=&quot;False&quot;
+  <Directory MBDir="CTCApps/CTCStart/talonmdc" LocalSubDir=".">
+    <File Name="ctcstart.exe"/>
+    <File Name="ctcstart.ico"/>
+    <File Name="ctcstart.ini"/>
+    <File Name="ctcstart.lax"/>
+    <File Name="coresplash.png"/>
+  </Directory>
+  <Directory MBDir="CTCApps/CTCStart/CTCStartLib" LocalSubDir="ctcstartlib">
+    <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+  </Directory>
+</MBUpdates>
+2020-08-31 09:44:41,499 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggers
+2020-08-31 09:44:41,499 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/CTCStart/talonmdc" LocalSubDir=".">
+2020-08-31 09:44:41,499 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/CTCStart/talonmdc" LocalSubDir=".">
+2020-08-31 09:44:41,499 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/CTCStart/CTCStartLib" LocalSubDir="ctcstartlib">
+2020-08-31 09:44:41,499 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/CTCStart/CTCStartLib" LocalSubDir="ctcstartlib">
+2020-08-31 09:44:41,499 Triggering startup trigger...
+2020-08-31 09:44:41,499 ProcessDirectory CTCApps/CTCStart/talonmdc Dir Size: -1
+2020-08-31 09:44:41,516 MBUpdateManager.Call: MBUpdateManager.ProcessDirectory: <Directory MBDir="CTCApps/CTCStart/talonmdc" LocalSubDir=".">
+2020-08-31 09:44:41,516 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ctcstart.exe"/>
+2020-08-31 09:44:41,516 Downloading single file...
+2020-08-31 09:44:41,516 MBUpdateManager.Call: MBUpdateManager.DownloadFileIfChanged: Server filename ( ctcstart.exe )
+2020-08-31 09:44:41,610 No change in file: ( ctcstart.exe )
+2020-08-31 09:44:41,610 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForSingleFile: ( ctcstart.exe ) - <File Name="ctcstart.exe"/>
+2020-08-31 09:44:41,610 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ctcstart.ico"/>
+2020-08-31 09:44:41,610 Downloading single file...
+2020-08-31 09:44:41,610 MBUpdateManager.Call: MBUpdateManager.DownloadFileIfChanged: Server filename ( ctcstart.ico )
+2020-08-31 09:44:41,677 No change in file: ( ctcstart.ico )
+2020-08-31 09:44:41,677 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForSingleFile: ( ctcstart.ico ) - <File Name="ctcstart.ico"/>
+2020-08-31 09:44:41,677 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ctcstart.ini"/>
+2020-08-31 09:44:41,677 Downloading single file...
+2020-08-31 09:44:41,677 MBUpdateManager.Call: MBUpdateManager.DownloadFileIfChanged: Server filename ( ctcstart.ini )
+2020-08-31 09:44:41,748 No change in file: ( ctcstart.ini )
+2020-08-31 09:44:41,748 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForSingleFile: ( ctcstart.ini ) - <File Name="ctcstart.ini"/>
+2020-08-31 09:44:41,748 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ctcstart.lax"/>
+2020-08-31 09:44:41,748 Downloading single file...
+2020-08-31 09:44:41,748 MBUpdateManager.Call: MBUpdateManager.DownloadFileIfChanged: Server filename ( ctcstart.lax )
+2020-08-31 09:44:41,820 No change in file: ( ctcstart.lax )
+2020-08-31 09:44:41,820 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForSingleFile: ( ctcstart.lax ) - <File Name="ctcstart.lax"/>
+2020-08-31 09:44:41,820 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="coresplash.png"/>
+2020-08-31 09:44:41,820 Downloading single file...
+2020-08-31 09:44:41,820 MBUpdateManager.Call: MBUpdateManager.DownloadFileIfChanged: Server filename ( coresplash.png )
+2020-08-31 09:44:41,897 No change in file: ( coresplash.png )
+2020-08-31 09:44:41,897 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForSingleFile: ( coresplash.png ) - <File Name="coresplash.png"/>
+2020-08-31 09:44:41,897 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForDirectory: ID ( null )
+2020-08-31 09:44:41,897 ProcessDirectory CTCApps/CTCStart/CTCStartLib Dir Size: -1
+2020-08-31 09:44:41,920 MBUpdateManager.Call: MBUpdateManager.ProcessDirectory: <Directory MBDir="CTCApps/CTCStart/CTCStartLib" LocalSubDir="ctcstartlib">
+2020-08-31 09:44:41,929 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+2020-08-31 09:44:41,929 Downloading all server files...
+2020-08-31 09:44:42,310 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForDirectory: ID ( null )
+2020-08-31 09:44:42,319 MBUpdateManager.Call: MBUpdateManager.UpdateComplete: XML Updated? (false)
+2020-08-31 09:44:56,076 BC Fips Provider is available.
+2020-08-31 09:44:56,076 Create a Bouncy Castle FIPS provider
+2020-08-31 09:44:56,077 Cryptography restrictions removal not needed
+2020-08-31 09:44:57,304 MB MB2.CLEMIS.ORG:2030 -- Using keystore=null, password=null.  Using truststore=null, password=null.
+2020-08-31 09:44:57,304 MB MB2.CLEMIS.ORG:2030 -- Using embedded trust store for FIPS because none is specified.
+2020-08-31 09:44:57,305 Parsed original location=classpath:/localhost_unsigned.keystore.bcfks to resource name=/localhost_unsigned.keystore.bcfks.
+2020-08-31 09:44:57,309 Loaded stream=sun.net.www.protocol.jar.JarURLConnection$JarURLInputStream@19ab969.
+2020-08-31 09:44:57,309 MB MB2.CLEMIS.ORG:2030 truststore -- Using type "BCFKS".
+2020-08-31 09:44:57,372 MB MB2.CLEMIS.ORG:2030 truststore Loaded aliases: [localhost_test]
+2020-08-31 09:44:57,382 MB MB2.CLEMIS.ORG:2030 -- Using SSL context protocol="TLSv1".
+2020-08-31 09:44:58,079 MB MB2.CLEMIS.ORG:2030 -- Got SSL context. Provider SunJSSE Protocol TLSv1
+2020-08-31 09:44:58,613 MBUpdateManager.Call: MBUpdateManager.UpdateRequiredFiles
+2020-08-31 09:44:58,613 MBUpdateManager.Call: MBUpdateManager.CreateUpdateProcessor
+2020-08-31 09:44:58,613 MBUpdateManager.Call: MBUpdateManager.ReadUpdateDefinitionFile: Definition: ( C:\ctccore\TalonMDC/talonjarlist.xml )  App Data: present
+2020-08-31 09:44:58,613 ReadUpdateDefinitionFile: using given app data to support variable substitution in XML...
+2020-08-31 09:44:58,631 ProcessXML: Root dir: C:\ctccore\TalonMDC
+<MBUpdates>TrackHistory=&quot;False&quot;
+  <Directory MBDir="CTCApps/talonjars" LocalSubDir="lib">
+    <File Name="talon.jar"/>
+  </Directory>
+  <Directory MBDir="CTCApps/talonjars/3rdPartyJars" LocalSubDir="lib/3rdPartyJars">
+    <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+  </Directory>
+  <Directory MBDir="CTCApps/talonjars/ServicesClientJars" LocalSubDir="lib/ServicesClientJars">
+    <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+  </Directory>
+  <Directory MBDir="CTCApps/talonjars/TalonAuthenticationMatrixJars" LocalSubDir="lib/TalonAuthenticationMatrixJars">
+    <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+  </Directory>
+</MBUpdates>
+2020-08-31 09:44:58,632 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggers
+2020-08-31 09:44:58,632 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/talonjars" LocalSubDir="lib">
+2020-08-31 09:44:58,632 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/talonjars" LocalSubDir="lib">
+2020-08-31 09:44:58,632 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/talonjars/3rdPartyJars" LocalSubDir="lib/3rdPartyJars">
+2020-08-31 09:44:58,632 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/talonjars/3rdPartyJars" LocalSubDir="lib/3rdPartyJars">
+2020-08-31 09:44:58,632 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/talonjars/ServicesClientJars" LocalSubDir="lib/ServicesClientJars">
+2020-08-31 09:44:58,633 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/talonjars/ServicesClientJars" LocalSubDir="lib/ServicesClientJars">
+2020-08-31 09:44:58,633 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/talonjars/TalonAuthenticationMatrixJars" LocalSubDir="lib/TalonAuthenticationMatrixJars">
+2020-08-31 09:44:58,633 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/talonjars/TalonAuthenticationMatrixJars" LocalSubDir="lib/TalonAuthenticationMatrixJars">
+2020-08-31 09:44:58,633 Triggering startup trigger...
+2020-08-31 09:44:58,633 ProcessDirectory CTCApps/talonjars Dir Size: -1
+2020-08-31 09:44:58,635 MBUpdateManager.Call: MBUpdateManager.ProcessDirectory: <Directory MBDir="CTCApps/talonjars" LocalSubDir="lib">
+2020-08-31 09:44:58,635 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="talon.jar"/>
+2020-08-31 09:44:58,635 Downloading single file...
+2020-08-31 09:44:58,635 MBUpdateManager.Call: MBUpdateManager.DownloadFileIfChanged: Server filename ( talon.jar )
+2020-08-31 09:44:58,747 No change in file: ( talon.jar )
+2020-08-31 09:44:58,747 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForSingleFile: ( talon.jar ) - <File Name="talon.jar"/>
+2020-08-31 09:44:58,747 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForDirectory: ID ( null )
+2020-08-31 09:44:58,747 ProcessDirectory CTCApps/talonjars/3rdPartyJars Dir Size: -1
+2020-08-31 09:44:58,749 MBUpdateManager.Call: MBUpdateManager.ProcessDirectory: <Directory MBDir="CTCApps/talonjars/3rdPartyJars" LocalSubDir="lib/3rdPartyJars">
+2020-08-31 09:44:58,750 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+2020-08-31 09:44:58,750 Downloading all server files...
+2020-08-31 09:44:59,068 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForDirectory: ID ( null )
+2020-08-31 09:44:59,068 ProcessDirectory CTCApps/talonjars/ServicesClientJars Dir Size: -1
+2020-08-31 09:44:59,070 MBUpdateManager.Call: MBUpdateManager.ProcessDirectory: <Directory MBDir="CTCApps/talonjars/ServicesClientJars" LocalSubDir="lib/ServicesClientJars">
+2020-08-31 09:44:59,071 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+2020-08-31 09:44:59,071 Downloading all server files...
+2020-08-31 09:44:59,199 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForDirectory: ID ( null )
+2020-08-31 09:44:59,199 ProcessDirectory CTCApps/talonjars/TalonAuthenticationMatrixJars Dir Size: -1
+2020-08-31 09:44:59,202 MBUpdateManager.Call: MBUpdateManager.ProcessDirectory: <Directory MBDir="CTCApps/talonjars/TalonAuthenticationMatrixJars" LocalSubDir="lib/TalonAuthenticationMatrixJars">
+2020-08-31 09:44:59,204 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+2020-08-31 09:44:59,205 Downloading all server files...
+2020-08-31 09:44:59,231 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForDirectory: ID ( null )
+2020-08-31 09:44:59,232 MBUpdateManager.Call: MBUpdateManager.UpdateComplete: XML Updated? (false)
+2020-08-31 09:44:59,248 MBUpdateManager.Call: MBUpdateManager.UpdateRequiredFiles
+2020-08-31 09:44:59,248 MBUpdateManager.Call: MBUpdateManager.CreateUpdateProcessor
+2020-08-31 09:44:59,248 MBUpdateManager.Call: MBUpdateManager.ReadUpdateDefinitionFile: Definition: ( C:\ctccore\TalonMDC/ctcstartfilelist.xml )  App Data: present
+2020-08-31 09:44:59,248 ReadUpdateDefinitionFile: using given app data to support variable substitution in XML...
+2020-08-31 09:44:59,249 ProcessXML: Root dir: C:\ctccore\TalonMDC
+<MBUpdates>TrackHistory=&quot;False&quot;
+  <Directory MBDir="CTCApps/CTCStart/talonmdc" LocalSubDir=".">
+    <File Name="ctcstart.exe"/>
+    <File Name="ctcstart.ico"/>
+    <File Name="ctcstart.ini"/>
+    <File Name="ctcstart.lax"/>
+    <File Name="coresplash.png"/>
+  </Directory>
+  <Directory MBDir="CTCApps/CTCStart/CTCStartLib" LocalSubDir="ctcstartlib">
+    <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+  </Directory>
+</MBUpdates>
+2020-08-31 09:44:59,249 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggers
+2020-08-31 09:44:59,249 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/CTCStart/talonmdc" LocalSubDir=".">
+2020-08-31 09:44:59,250 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/CTCStart/talonmdc" LocalSubDir=".">
+2020-08-31 09:44:59,250 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/CTCStart/CTCStartLib" LocalSubDir="ctcstartlib">
+2020-08-31 09:44:59,250 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/CTCStart/CTCStartLib" LocalSubDir="ctcstartlib">
+2020-08-31 09:44:59,250 Triggering startup trigger...
+2020-08-31 09:44:59,250 ProcessDirectory CTCApps/CTCStart/talonmdc Dir Size: -1
+2020-08-31 09:44:59,251 MBUpdateManager.Call: MBUpdateManager.ProcessDirectory: <Directory MBDir="CTCApps/CTCStart/talonmdc" LocalSubDir=".">
+2020-08-31 09:44:59,251 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ctcstart.exe"/>
+2020-08-31 09:44:59,251 Downloading single file...
+2020-08-31 09:44:59,251 MBUpdateManager.Call: MBUpdateManager.DownloadFileIfChanged: Server filename ( ctcstart.exe )
+2020-08-31 09:44:59,266 No change in file: ( ctcstart.exe )
+2020-08-31 09:44:59,266 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForSingleFile: ( ctcstart.exe ) - <File Name="ctcstart.exe"/>
+2020-08-31 09:44:59,266 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ctcstart.ico"/>
+2020-08-31 09:44:59,266 Downloading single file...
+2020-08-31 09:44:59,266 MBUpdateManager.Call: MBUpdateManager.DownloadFileIfChanged: Server filename ( ctcstart.ico )
+2020-08-31 09:44:59,279 No change in file: ( ctcstart.ico )
+2020-08-31 09:44:59,279 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForSingleFile: ( ctcstart.ico ) - <File Name="ctcstart.ico"/>
+2020-08-31 09:44:59,279 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ctcstart.ini"/>
+2020-08-31 09:44:59,279 Downloading single file...
+2020-08-31 09:44:59,280 MBUpdateManager.Call: MBUpdateManager.DownloadFileIfChanged: Server filename ( ctcstart.ini )
+2020-08-31 09:44:59,292 No change in file: ( ctcstart.ini )
+2020-08-31 09:44:59,292 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForSingleFile: ( ctcstart.ini ) - <File Name="ctcstart.ini"/>
+2020-08-31 09:44:59,292 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ctcstart.lax"/>
+2020-08-31 09:44:59,292 Downloading single file...
+2020-08-31 09:44:59,292 MBUpdateManager.Call: MBUpdateManager.DownloadFileIfChanged: Server filename ( ctcstart.lax )
+2020-08-31 09:44:59,304 No change in file: ( ctcstart.lax )
+2020-08-31 09:44:59,304 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForSingleFile: ( ctcstart.lax ) - <File Name="ctcstart.lax"/>
+2020-08-31 09:44:59,304 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="coresplash.png"/>
+2020-08-31 09:44:59,304 Downloading single file...
+2020-08-31 09:44:59,304 MBUpdateManager.Call: MBUpdateManager.DownloadFileIfChanged: Server filename ( coresplash.png )
+2020-08-31 09:44:59,318 No change in file: ( coresplash.png )
+2020-08-31 09:44:59,318 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForSingleFile: ( coresplash.png ) - <File Name="coresplash.png"/>
+2020-08-31 09:44:59,318 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForDirectory: ID ( null )
+2020-08-31 09:44:59,318 ProcessDirectory CTCApps/CTCStart/CTCStartLib Dir Size: -1
+2020-08-31 09:44:59,319 MBUpdateManager.Call: MBUpdateManager.ProcessDirectory: <Directory MBDir="CTCApps/CTCStart/CTCStartLib" LocalSubDir="ctcstartlib">
+2020-08-31 09:44:59,320 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+2020-08-31 09:44:59,321 Downloading all server files...
+2020-08-31 09:44:59,393 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForDirectory: ID ( null )
+2020-08-31 09:44:59,394 MBUpdateManager.Call: MBUpdateManager.UpdateComplete: XML Updated? (false)
+2020-08-31 09:45:01,395 
+
+-----------------Event log initialized-----------------
+
+2020-08-31 09:45:02,103 WARNING - Trusting server without verification; authType=RSA.
+2020-08-31 09:45:09,936 Call: FlushEvents
+2020-08-31 09:45:09,976 Finished: FlushEvents  Time: 40 ms.
+2020-08-31 09:45:13,153 BC Fips Provider is available.
+2020-08-31 09:45:13,153 Create a Bouncy Castle FIPS provider
+2020-08-31 09:45:13,154 Cryptography restrictions removal not needed
+2020-08-31 09:45:14,360 MB MB2.CLEMIS.ORG:2030 -- Using keystore=null, password=null.  Using truststore=null, password=null.
+2020-08-31 09:45:14,360 MB MB2.CLEMIS.ORG:2030 -- Using embedded trust store for FIPS because none is specified.
+2020-08-31 09:45:14,360 Parsed original location=classpath:/localhost_unsigned.keystore.bcfks to resource name=/localhost_unsigned.keystore.bcfks.
+2020-08-31 09:45:14,364 Loaded stream=sun.net.www.protocol.jar.JarURLConnection$JarURLInputStream@19ab969.
+2020-08-31 09:45:14,364 MB MB2.CLEMIS.ORG:2030 truststore -- Using type "BCFKS".
+2020-08-31 09:45:14,429 MB MB2.CLEMIS.ORG:2030 truststore Loaded aliases: [localhost_test]
+2020-08-31 09:45:14,439 MB MB2.CLEMIS.ORG:2030 -- Using SSL context protocol="TLSv1".
+2020-08-31 09:45:15,025 MB MB2.CLEMIS.ORG:2030 -- Got SSL context. Provider SunJSSE Protocol TLSv1
+2020-08-31 09:45:15,548 MBUpdateManager.Call: MBUpdateManager.UpdateRequiredFiles
+2020-08-31 09:45:15,548 MBUpdateManager.Call: MBUpdateManager.CreateUpdateProcessor
+2020-08-31 09:45:15,548 MBUpdateManager.Call: MBUpdateManager.ReadUpdateDefinitionFile: Definition: ( C:\ctccore\TalonMDC/talonjarlist.xml )  App Data: present
+2020-08-31 09:45:15,548 ReadUpdateDefinitionFile: using given app data to support variable substitution in XML...
+2020-08-31 09:45:15,566 ProcessXML: Root dir: C:\ctccore\TalonMDC
+<MBUpdates>TrackHistory=&quot;False&quot;
+  <Directory MBDir="CTCApps/talonjars" LocalSubDir="lib">
+    <File Name="talon.jar"/>
+  </Directory>
+  <Directory MBDir="CTCApps/talonjars/3rdPartyJars" LocalSubDir="lib/3rdPartyJars">
+    <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+  </Directory>
+  <Directory MBDir="CTCApps/talonjars/ServicesClientJars" LocalSubDir="lib/ServicesClientJars">
+    <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+  </Directory>
+  <Directory MBDir="CTCApps/talonjars/TalonAuthenticationMatrixJars" LocalSubDir="lib/TalonAuthenticationMatrixJars">
+    <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+  </Directory>
+</MBUpdates>
+2020-08-31 09:45:15,566 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggers
+2020-08-31 09:45:15,567 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/talonjars" LocalSubDir="lib">
+2020-08-31 09:45:15,567 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/talonjars" LocalSubDir="lib">
+2020-08-31 09:45:15,567 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/talonjars/3rdPartyJars" LocalSubDir="lib/3rdPartyJars">
+2020-08-31 09:45:15,567 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/talonjars/3rdPartyJars" LocalSubDir="lib/3rdPartyJars">
+2020-08-31 09:45:15,567 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/talonjars/ServicesClientJars" LocalSubDir="lib/ServicesClientJars">
+2020-08-31 09:45:15,567 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/talonjars/ServicesClientJars" LocalSubDir="lib/ServicesClientJars">
+2020-08-31 09:45:15,567 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/talonjars/TalonAuthenticationMatrixJars" LocalSubDir="lib/TalonAuthenticationMatrixJars">
+2020-08-31 09:45:15,567 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/talonjars/TalonAuthenticationMatrixJars" LocalSubDir="lib/TalonAuthenticationMatrixJars">
+2020-08-31 09:45:15,567 Triggering startup trigger...
+2020-08-31 09:45:15,567 ProcessDirectory CTCApps/talonjars Dir Size: -1
+2020-08-31 09:45:15,569 MBUpdateManager.Call: MBUpdateManager.ProcessDirectory: <Directory MBDir="CTCApps/talonjars" LocalSubDir="lib">
+2020-08-31 09:45:15,570 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="talon.jar"/>
+2020-08-31 09:45:15,570 Downloading single file...
+2020-08-31 09:45:15,570 MBUpdateManager.Call: MBUpdateManager.DownloadFileIfChanged: Server filename ( talon.jar )
+2020-08-31 09:45:15,677 No change in file: ( talon.jar )
+2020-08-31 09:45:15,677 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForSingleFile: ( talon.jar ) - <File Name="talon.jar"/>
+2020-08-31 09:45:15,677 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForDirectory: ID ( null )
+2020-08-31 09:45:15,677 ProcessDirectory CTCApps/talonjars/3rdPartyJars Dir Size: -1
+2020-08-31 09:45:15,679 MBUpdateManager.Call: MBUpdateManager.ProcessDirectory: <Directory MBDir="CTCApps/talonjars/3rdPartyJars" LocalSubDir="lib/3rdPartyJars">
+2020-08-31 09:45:15,680 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+2020-08-31 09:45:15,681 Downloading all server files...
+2020-08-31 09:45:16,014 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForDirectory: ID ( null )
+2020-08-31 09:45:16,014 ProcessDirectory CTCApps/talonjars/ServicesClientJars Dir Size: -1
+2020-08-31 09:45:16,015 MBUpdateManager.Call: MBUpdateManager.ProcessDirectory: <Directory MBDir="CTCApps/talonjars/ServicesClientJars" LocalSubDir="lib/ServicesClientJars">
+2020-08-31 09:45:16,016 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+2020-08-31 09:45:16,016 Downloading all server files...
+2020-08-31 09:45:16,142 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForDirectory: ID ( null )
+2020-08-31 09:45:16,142 ProcessDirectory CTCApps/talonjars/TalonAuthenticationMatrixJars Dir Size: -1
+2020-08-31 09:45:16,144 MBUpdateManager.Call: MBUpdateManager.ProcessDirectory: <Directory MBDir="CTCApps/talonjars/TalonAuthenticationMatrixJars" LocalSubDir="lib/TalonAuthenticationMatrixJars">
+2020-08-31 09:45:16,145 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+2020-08-31 09:45:16,145 Downloading all server files...
+2020-08-31 09:45:16,162 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForDirectory: ID ( null )
+2020-08-31 09:45:16,163 MBUpdateManager.Call: MBUpdateManager.UpdateComplete: XML Updated? (false)
+2020-08-31 09:45:16,182 MBUpdateManager.Call: MBUpdateManager.UpdateRequiredFiles
+2020-08-31 09:45:16,182 MBUpdateManager.Call: MBUpdateManager.CreateUpdateProcessor
+2020-08-31 09:45:16,182 MBUpdateManager.Call: MBUpdateManager.ReadUpdateDefinitionFile: Definition: ( C:\ctccore\TalonMDC/ctcstartfilelist.xml )  App Data: present
+2020-08-31 09:45:16,182 ReadUpdateDefinitionFile: using given app data to support variable substitution in XML...
+2020-08-31 09:45:16,183 ProcessXML: Root dir: C:\ctccore\TalonMDC
+<MBUpdates>TrackHistory=&quot;False&quot;
+  <Directory MBDir="CTCApps/CTCStart/talonmdc" LocalSubDir=".">
+    <File Name="ctcstart.exe"/>
+    <File Name="ctcstart.ico"/>
+    <File Name="ctcstart.ini"/>
+    <File Name="ctcstart.lax"/>
+    <File Name="coresplash.png"/>
+  </Directory>
+  <Directory MBDir="CTCApps/CTCStart/CTCStartLib" LocalSubDir="ctcstartlib">
+    <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+  </Directory>
+</MBUpdates>
+2020-08-31 09:45:16,183 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggers
+2020-08-31 09:45:16,183 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/CTCStart/talonmdc" LocalSubDir=".">
+2020-08-31 09:45:16,183 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/CTCStart/talonmdc" LocalSubDir=".">
+2020-08-31 09:45:16,183 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/CTCStart/CTCStartLib" LocalSubDir="ctcstartlib">
+2020-08-31 09:45:16,183 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/CTCStart/CTCStartLib" LocalSubDir="ctcstartlib">
+2020-08-31 09:45:16,183 Triggering startup trigger...
+2020-08-31 09:45:16,183 ProcessDirectory CTCApps/CTCStart/talonmdc Dir Size: -1
+2020-08-31 09:45:16,188 MBUpdateManager.Call: MBUpdateManager.ProcessDirectory: <Directory MBDir="CTCApps/CTCStart/talonmdc" LocalSubDir=".">
+2020-08-31 09:45:16,189 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ctcstart.exe"/>
+2020-08-31 09:45:16,189 Downloading single file...
+2020-08-31 09:45:16,189 MBUpdateManager.Call: MBUpdateManager.DownloadFileIfChanged: Server filename ( ctcstart.exe )
+2020-08-31 09:45:16,205 No change in file: ( ctcstart.exe )
+2020-08-31 09:45:16,205 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForSingleFile: ( ctcstart.exe ) - <File Name="ctcstart.exe"/>
+2020-08-31 09:45:16,205 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ctcstart.ico"/>
+2020-08-31 09:45:16,205 Downloading single file...
+2020-08-31 09:45:16,205 MBUpdateManager.Call: MBUpdateManager.DownloadFileIfChanged: Server filename ( ctcstart.ico )
+2020-08-31 09:45:16,218 No change in file: ( ctcstart.ico )
+2020-08-31 09:45:16,218 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForSingleFile: ( ctcstart.ico ) - <File Name="ctcstart.ico"/>
+2020-08-31 09:45:16,218 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ctcstart.ini"/>
+2020-08-31 09:45:16,218 Downloading single file...
+2020-08-31 09:45:16,218 MBUpdateManager.Call: MBUpdateManager.DownloadFileIfChanged: Server filename ( ctcstart.ini )
+2020-08-31 09:45:16,232 No change in file: ( ctcstart.ini )
+2020-08-31 09:45:16,232 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForSingleFile: ( ctcstart.ini ) - <File Name="ctcstart.ini"/>
+2020-08-31 09:45:16,232 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ctcstart.lax"/>
+2020-08-31 09:45:16,232 Downloading single file...
+2020-08-31 09:45:16,232 MBUpdateManager.Call: MBUpdateManager.DownloadFileIfChanged: Server filename ( ctcstart.lax )
+2020-08-31 09:45:16,245 No change in file: ( ctcstart.lax )
+2020-08-31 09:45:16,245 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForSingleFile: ( ctcstart.lax ) - <File Name="ctcstart.lax"/>
+2020-08-31 09:45:16,245 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="coresplash.png"/>
+2020-08-31 09:45:16,245 Downloading single file...
+2020-08-31 09:45:16,245 MBUpdateManager.Call: MBUpdateManager.DownloadFileIfChanged: Server filename ( coresplash.png )
+2020-08-31 09:45:16,258 No change in file: ( coresplash.png )
+2020-08-31 09:45:16,258 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForSingleFile: ( coresplash.png ) - <File Name="coresplash.png"/>
+2020-08-31 09:45:16,258 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForDirectory: ID ( null )
+2020-08-31 09:45:16,259 ProcessDirectory CTCApps/CTCStart/CTCStartLib Dir Size: -1
+2020-08-31 09:45:16,260 MBUpdateManager.Call: MBUpdateManager.ProcessDirectory: <Directory MBDir="CTCApps/CTCStart/CTCStartLib" LocalSubDir="ctcstartlib">
+2020-08-31 09:45:16,261 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+2020-08-31 09:45:16,261 Downloading all server files...
+2020-08-31 09:45:16,335 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForDirectory: ID ( null )
+2020-08-31 09:45:16,336 MBUpdateManager.Call: MBUpdateManager.UpdateComplete: XML Updated? (false)
+2020-08-31 09:45:18,209 
+
+-----------------Event log initialized-----------------
+
+2020-08-31 09:45:18,901 WARNING - Trusting server without verification; authType=RSA.
+2020-08-31 09:45:22,095 Call: FlushEvents
+2020-08-31 09:45:22,136 Finished: FlushEvents  Time: 41 ms.
+2021-01-22 14:07:40,034 BC Fips Provider is available.
+2021-01-22 14:07:40,035 Create a Bouncy Castle FIPS provider
+2021-01-22 14:07:40,036 Cryptography restrictions removal not needed
+2021-01-22 14:07:41,992 MB MB2.CLEMIS.ORG:2030 -- Using keystore=null, password=null.  Using truststore=null, password=null.
+2021-01-22 14:07:41,992 MB MB2.CLEMIS.ORG:2030 -- Using embedded trust store for FIPS because none is specified.
+2021-01-22 14:07:41,993 Parsed original location=classpath:/localhost_unsigned.keystore.bcfks to resource name=/localhost_unsigned.keystore.bcfks.
+2021-01-22 14:07:41,998 Loaded stream=sun.net.www.protocol.jar.JarURLConnection$JarURLInputStream@f8b1d8.
+2021-01-22 14:07:41,998 MB MB2.CLEMIS.ORG:2030 truststore -- Using type "BCFKS".
+2021-01-22 14:07:42,116 MB MB2.CLEMIS.ORG:2030 truststore Loaded aliases: [localhost_test]
+2021-01-22 14:07:42,142 MB MB2.CLEMIS.ORG:2030 -- Using SSL context protocol="TLSv1".
+2021-01-22 14:07:42,779 MB MB2.CLEMIS.ORG:2030 -- Got SSL context. Provider SunJSSE Protocol TLSv1
+2021-01-22 14:07:53,561 
+
+-----------------Event log initialized-----------------
+
+2021-01-22 14:07:57,693 WARNING - Trusting server without verification; authType=RSA.
+2021-01-22 14:08:58,505 WARNING - Trusting server without verification; authType=RSA.
+2021-01-22 14:09:59,565 Call: FlushEvents
+2021-01-22 14:09:59,744 Finished: FlushEvents  Time: 179 ms.
+2021-01-22 14:10:00,507 Call: FlushEvents
+2021-01-22 14:10:00,618 Finished: FlushEvents  Time: 111 ms.
+2021-01-22 14:10:10,034 Call: FlushEvents
+2021-01-22 14:10:10,135 Finished: FlushEvents  Time: 100 ms.
+2021-01-22 14:10:10,344 Call: FlushEvents
+2021-01-22 14:10:10,614 Finished: FlushEvents  Time: 270 ms.
+2021-01-22 14:10:15,682 BC Fips Provider is available.
+2021-01-22 14:10:15,682 Create a Bouncy Castle FIPS provider
+2021-01-22 14:10:15,683 Cryptography restrictions removal not needed
+2021-01-22 14:10:17,794 MB MB2.CLEMIS.ORG:2030 -- Using keystore=null, password=null.  Using truststore=null, password=null.
+2021-01-22 14:10:17,794 MB MB2.CLEMIS.ORG:2030 -- Using embedded trust store for FIPS because none is specified.
+2021-01-22 14:10:17,795 Parsed original location=classpath:/localhost_unsigned.keystore.bcfks to resource name=/localhost_unsigned.keystore.bcfks.
+2021-01-22 14:10:17,802 Loaded stream=sun.net.www.protocol.jar.JarURLConnection$JarURLInputStream@f8b1d8.
+2021-01-22 14:10:17,802 MB MB2.CLEMIS.ORG:2030 truststore -- Using type "BCFKS".
+2021-01-22 14:10:17,909 MB MB2.CLEMIS.ORG:2030 truststore Loaded aliases: [localhost_test]
+2021-01-22 14:10:17,936 MB MB2.CLEMIS.ORG:2030 -- Using SSL context protocol="TLSv1".
+2021-01-22 14:10:18,825 MB MB2.CLEMIS.ORG:2030 -- Got SSL context. Provider SunJSSE Protocol TLSv1
+2021-01-22 14:10:20,028 MBUpdateManager.Call: MBUpdateManager.UpdateRequiredFiles
+2021-01-22 14:10:20,028 MBUpdateManager.Call: MBUpdateManager.CreateUpdateProcessor
+2021-01-22 14:10:20,029 MBUpdateManager.Call: MBUpdateManager.ReadUpdateDefinitionFile: Definition: ( C:\ctccore\TalonMDC/talonjarlist.xml )  App Data: present
+2021-01-22 14:10:20,029 ReadUpdateDefinitionFile: using given app data to support variable substitution in XML...
+2021-01-22 14:10:20,058 ProcessXML: Root dir: C:\ctccore\TalonMDC
+<MBUpdates>TrackHistory=&quot;False&quot;
+  <Directory MBDir="CTCApps/Talonjars" LocalSubDir="lib">
+    <File Name="talon.jar"/>
+  </Directory>
+  <Directory MBDir="CTCApps/Talonjars/3rdPartyJars" LocalSubDir="lib/3rdPartyJars">
+    <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+  </Directory>
+  <Directory MBDir="CTCApps/Talonjars/ServicesClientJars" LocalSubDir="lib/ServicesClientJars">
+    <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+  </Directory>
+  <Directory MBDir="CTCApps/Talonjars/TalonAuthenticationMatrixJars" LocalSubDir="lib/TalonAuthenticationMatrixJars">
+    <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+  </Directory>
+</MBUpdates>
+2021-01-22 14:10:20,060 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggers
+2021-01-22 14:10:20,060 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/Talonjars" LocalSubDir="lib">
+2021-01-22 14:10:20,061 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/Talonjars" LocalSubDir="lib">
+2021-01-22 14:10:20,061 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/Talonjars/3rdPartyJars" LocalSubDir="lib/3rdPartyJars">
+2021-01-22 14:10:20,061 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/Talonjars/3rdPartyJars" LocalSubDir="lib/3rdPartyJars">
+2021-01-22 14:10:20,061 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/Talonjars/ServicesClientJars" LocalSubDir="lib/ServicesClientJars">
+2021-01-22 14:10:20,061 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/Talonjars/ServicesClientJars" LocalSubDir="lib/ServicesClientJars">
+2021-01-22 14:10:20,061 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/Talonjars/TalonAuthenticationMatrixJars" LocalSubDir="lib/TalonAuthenticationMatrixJars">
+2021-01-22 14:10:20,061 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/Talonjars/TalonAuthenticationMatrixJars" LocalSubDir="lib/TalonAuthenticationMatrixJars">
+2021-01-22 14:10:20,061 Triggering startup trigger...
+2021-01-22 14:10:20,061 ProcessDirectory CTCApps/Talonjars Dir Size: -1
+2021-01-22 14:10:20,063 MBUpdateManager.Call: MBUpdateManager.ProcessDirectory: <Directory MBDir="CTCApps/Talonjars" LocalSubDir="lib">
+2021-01-22 14:10:20,064 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="talon.jar"/>
+2021-01-22 14:10:20,064 Downloading single file...
+2021-01-22 14:10:20,064 MBUpdateManager.Call: MBUpdateManager.DownloadFileIfChanged: Server filename ( talon.jar )
+2021-01-22 14:11:34,822 Download Status 'OK'
+2021-01-22 14:11:34,823 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForSingleFile: ( talon.jar ) - <File Name="talon.jar"/>
+2021-01-22 14:11:34,823 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForDirectory: ID ( null )
+2021-01-22 14:11:34,823 ProcessDirectory CTCApps/Talonjars/3rdPartyJars Dir Size: -1
+2021-01-22 14:11:34,824 MBUpdateManager.Call: MBUpdateManager.ProcessDirectory: <Directory MBDir="CTCApps/Talonjars/3rdPartyJars" LocalSubDir="lib/3rdPartyJars">
+2021-01-22 14:11:34,825 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+2021-01-22 14:11:34,825 Downloading all server files...
+2021-01-22 14:14:33,029 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForDirectory: ID ( null )
+2021-01-22 14:14:33,029 ProcessDirectory CTCApps/Talonjars/ServicesClientJars Dir Size: -1
+2021-01-22 14:14:33,031 MBUpdateManager.Call: MBUpdateManager.ProcessDirectory: <Directory MBDir="CTCApps/Talonjars/ServicesClientJars" LocalSubDir="lib/ServicesClientJars">
+2021-01-22 14:14:33,034 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+2021-01-22 14:14:33,034 Downloading all server files...
+2021-01-22 14:15:54,228 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForDirectory: ID ( null )
+2021-01-22 14:15:54,228 ProcessDirectory CTCApps/Talonjars/TalonAuthenticationMatrixJars Dir Size: -1
+2021-01-22 14:15:54,229 MBUpdateManager.Call: MBUpdateManager.ProcessDirectory: <Directory MBDir="CTCApps/Talonjars/TalonAuthenticationMatrixJars" LocalSubDir="lib/TalonAuthenticationMatrixJars">
+2021-01-22 14:15:54,231 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+2021-01-22 14:15:54,231 Downloading all server files...
+2021-01-22 14:15:57,833 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForDirectory: ID ( null )
+2021-01-22 14:15:57,833 MBUpdateManager.Call: MBUpdateManager.UpdateComplete: XML Updated? (true)
+2021-01-22 14:15:57,834 XML was updated.  Adding to history element...
+<Entry Date="01/22/21" Time="14:10:20">
+  <Directory MBDir="CTCApps/Talonjars" LocalSubDir="lib">
+    <Status>Updated file: talon.jar</Status>
+  </Directory>
+</Entry>
+2021-01-22 14:15:57,834 XML updated, re-writing...
+2021-01-22 14:15:57,891 MBUpdateManager.Call: MBUpdateManager.UpdateRequiredFiles
+2021-01-22 14:15:57,891 MBUpdateManager.Call: MBUpdateManager.CreateUpdateProcessor
+2021-01-22 14:15:57,891 MBUpdateManager.Call: MBUpdateManager.ReadUpdateDefinitionFile: Definition: ( C:\ctccore\TalonMDC/ctcstartfilelist.xml )  App Data: present
+2021-01-22 14:15:57,892 ReadUpdateDefinitionFile: using given app data to support variable substitution in XML...
+2021-01-22 14:15:57,893 ProcessXML: Root dir: C:\ctccore\TalonMDC
+<MBUpdates>TrackHistory=&quot;False&quot;
+  <Directory MBDir="CTCApps/CTCStart/talonmdc" LocalSubDir=".">
+    <File Name="ctcstart.exe"/>
+    <File Name="ctcstart.ico"/>
+    <File Name="ctcstart.ini"/>
+    <File Name="ctcstart.lax"/>
+    <File Name="coresplash.png"/>
+  </Directory>
+  <Directory MBDir="CTCApps/CTCStart/CTCStartLib" LocalSubDir="ctcstartlib">
+    <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+  </Directory>
+</MBUpdates>
+2021-01-22 14:15:57,893 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggers
+2021-01-22 14:15:57,893 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/CTCStart/talonmdc" LocalSubDir=".">
+2021-01-22 14:15:57,893 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/CTCStart/talonmdc" LocalSubDir=".">
+2021-01-22 14:15:57,893 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/CTCStart/CTCStartLib" LocalSubDir="ctcstartlib">
+2021-01-22 14:15:57,893 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/CTCStart/CTCStartLib" LocalSubDir="ctcstartlib">
+2021-01-22 14:15:57,893 Triggering startup trigger...
+2021-01-22 14:15:57,893 ProcessDirectory CTCApps/CTCStart/talonmdc Dir Size: -1
+2021-01-22 14:15:57,895 MBUpdateManager.Call: MBUpdateManager.ProcessDirectory: <Directory MBDir="CTCApps/CTCStart/talonmdc" LocalSubDir=".">
+2021-01-22 14:15:57,895 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ctcstart.exe"/>
+2021-01-22 14:15:57,895 Downloading single file...
+2021-01-22 14:15:57,895 MBUpdateManager.Call: MBUpdateManager.DownloadFileIfChanged: Server filename ( ctcstart.exe )
+2021-01-22 14:15:57,945 No change in file: ( ctcstart.exe )
+2021-01-22 14:15:57,945 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForSingleFile: ( ctcstart.exe ) - <File Name="ctcstart.exe"/>
+2021-01-22 14:15:57,945 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ctcstart.ico"/>
+2021-01-22 14:15:57,945 Downloading single file...
+2021-01-22 14:15:57,945 MBUpdateManager.Call: MBUpdateManager.DownloadFileIfChanged: Server filename ( ctcstart.ico )
+2021-01-22 14:15:57,997 No change in file: ( ctcstart.ico )
+2021-01-22 14:15:57,997 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForSingleFile: ( ctcstart.ico ) - <File Name="ctcstart.ico"/>
+2021-01-22 14:15:57,997 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ctcstart.ini"/>
+2021-01-22 14:15:57,997 Downloading single file...
+2021-01-22 14:15:57,997 MBUpdateManager.Call: MBUpdateManager.DownloadFileIfChanged: Server filename ( ctcstart.ini )
+2021-01-22 14:15:58,041 No change in file: ( ctcstart.ini )
+2021-01-22 14:15:58,041 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForSingleFile: ( ctcstart.ini ) - <File Name="ctcstart.ini"/>
+2021-01-22 14:15:58,041 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ctcstart.lax"/>
+2021-01-22 14:15:58,041 Downloading single file...
+2021-01-22 14:15:58,041 MBUpdateManager.Call: MBUpdateManager.DownloadFileIfChanged: Server filename ( ctcstart.lax )
+2021-01-22 14:15:58,101 No change in file: ( ctcstart.lax )
+2021-01-22 14:15:58,101 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForSingleFile: ( ctcstart.lax ) - <File Name="ctcstart.lax"/>
+2021-01-22 14:15:58,101 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="coresplash.png"/>
+2021-01-22 14:15:58,101 Downloading single file...
+2021-01-22 14:15:58,101 MBUpdateManager.Call: MBUpdateManager.DownloadFileIfChanged: Server filename ( coresplash.png )
+2021-01-22 14:15:58,146 No change in file: ( coresplash.png )
+2021-01-22 14:15:58,146 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForSingleFile: ( coresplash.png ) - <File Name="coresplash.png"/>
+2021-01-22 14:15:58,146 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForDirectory: ID ( null )
+2021-01-22 14:15:58,146 ProcessDirectory CTCApps/CTCStart/CTCStartLib Dir Size: -1
+2021-01-22 14:15:58,147 MBUpdateManager.Call: MBUpdateManager.ProcessDirectory: <Directory MBDir="CTCApps/CTCStart/CTCStartLib" LocalSubDir="ctcstartlib">
+2021-01-22 14:15:58,148 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+2021-01-22 14:15:58,148 Downloading all server files...
+2021-01-22 14:16:39,689 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForDirectory: ID ( null )
+2021-01-22 14:16:39,690 MBUpdateManager.Call: MBUpdateManager.UpdateComplete: XML Updated? (false)
+2021-01-22 14:16:52,496 BC Fips Provider is available.
+2021-01-22 14:16:52,496 Create a Bouncy Castle FIPS provider
+2021-01-22 14:16:52,497 Cryptography restrictions removal not needed
+2021-01-22 14:16:54,341 MB MB2.CLEMIS.ORG:2030 -- Using keystore=null, password=null.  Using truststore=null, password=null.
+2021-01-22 14:16:54,341 MB MB2.CLEMIS.ORG:2030 -- Using embedded trust store for FIPS because none is specified.
+2021-01-22 14:16:54,342 Parsed original location=classpath:/localhost_unsigned.keystore.bcfks to resource name=/localhost_unsigned.keystore.bcfks.
+2021-01-22 14:16:54,347 Loaded stream=sun.net.www.protocol.jar.JarURLConnection$JarURLInputStream@1fd6708.
+2021-01-22 14:16:54,347 MB MB2.CLEMIS.ORG:2030 truststore -- Using type "BCFKS".
+2021-01-22 14:16:54,449 MB MB2.CLEMIS.ORG:2030 truststore Loaded aliases: [localhost_test]
+2021-01-22 14:16:54,465 MB MB2.CLEMIS.ORG:2030 -- Using SSL context protocol="TLSv1".
+2021-01-22 14:16:55,088 MB MB2.CLEMIS.ORG:2030 -- Got SSL context. Provider SunJSSE Protocol TLSv1
+2021-01-22 14:16:56,130 MBUpdateManager.Call: MBUpdateManager.UpdateRequiredFiles
+2021-01-22 14:16:56,130 MBUpdateManager.Call: MBUpdateManager.CreateUpdateProcessor
+2021-01-22 14:16:56,130 MBUpdateManager.Call: MBUpdateManager.ReadUpdateDefinitionFile: Definition: ( C:\ctccore\TalonMDC/talonjarlist.xml )  App Data: present
+2021-01-22 14:16:56,131 ReadUpdateDefinitionFile: using given app data to support variable substitution in XML...
+2021-01-22 14:16:56,163 ProcessXML: Root dir: C:\ctccore\TalonMDC
+<MBUpdates>TrackHistory=&quot;False&quot;
+  <Directory MBDir="CTCApps/Talonjars" LocalSubDir="lib">
+    <File Name="talon.jar"/>
+  </Directory>
+  <Directory MBDir="CTCApps/Talonjars/3rdPartyJars" LocalSubDir="lib/3rdPartyJars">
+    <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+  </Directory>
+  <Directory MBDir="CTCApps/Talonjars/ServicesClientJars" LocalSubDir="lib/ServicesClientJars">
+    <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+  </Directory>
+  <Directory MBDir="CTCApps/Talonjars/TalonAuthenticationMatrixJars" LocalSubDir="lib/TalonAuthenticationMatrixJars">
+    <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+  </Directory>
+</MBUpdates>
+2021-01-22 14:16:56,164 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggers
+2021-01-22 14:16:56,165 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/Talonjars" LocalSubDir="lib">
+2021-01-22 14:16:56,165 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/Talonjars" LocalSubDir="lib">
+2021-01-22 14:16:56,165 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/Talonjars/3rdPartyJars" LocalSubDir="lib/3rdPartyJars">
+2021-01-22 14:16:56,165 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/Talonjars/3rdPartyJars" LocalSubDir="lib/3rdPartyJars">
+2021-01-22 14:16:56,165 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/Talonjars/ServicesClientJars" LocalSubDir="lib/ServicesClientJars">
+2021-01-22 14:16:56,165 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/Talonjars/ServicesClientJars" LocalSubDir="lib/ServicesClientJars">
+2021-01-22 14:16:56,165 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/Talonjars/TalonAuthenticationMatrixJars" LocalSubDir="lib/TalonAuthenticationMatrixJars">
+2021-01-22 14:16:56,165 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/Talonjars/TalonAuthenticationMatrixJars" LocalSubDir="lib/TalonAuthenticationMatrixJars">
+2021-01-22 14:16:56,165 Triggering startup trigger...
+2021-01-22 14:16:56,166 ProcessDirectory CTCApps/Talonjars Dir Size: -1
+2021-01-22 14:16:56,167 MBUpdateManager.Call: MBUpdateManager.ProcessDirectory: <Directory MBDir="CTCApps/Talonjars" LocalSubDir="lib">
+2021-01-22 14:16:56,168 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="talon.jar"/>
+2021-01-22 14:16:56,168 Downloading single file...
+2021-01-22 14:16:56,168 MBUpdateManager.Call: MBUpdateManager.DownloadFileIfChanged: Server filename ( talon.jar )
+2021-01-22 14:16:56,375 No change in file: ( talon.jar )
+2021-01-22 14:16:56,375 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForSingleFile: ( talon.jar ) - <File Name="talon.jar"/>
+2021-01-22 14:16:56,376 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForDirectory: ID ( null )
+2021-01-22 14:16:56,376 ProcessDirectory CTCApps/Talonjars/3rdPartyJars Dir Size: -1
+2021-01-22 14:16:56,377 MBUpdateManager.Call: MBUpdateManager.ProcessDirectory: <Directory MBDir="CTCApps/Talonjars/3rdPartyJars" LocalSubDir="lib/3rdPartyJars">
+2021-01-22 14:16:56,378 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+2021-01-22 14:16:56,378 Downloading all server files...
+2021-01-22 14:16:57,083 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForDirectory: ID ( null )
+2021-01-22 14:16:57,083 ProcessDirectory CTCApps/Talonjars/ServicesClientJars Dir Size: -1
+2021-01-22 14:16:57,084 MBUpdateManager.Call: MBUpdateManager.ProcessDirectory: <Directory MBDir="CTCApps/Talonjars/ServicesClientJars" LocalSubDir="lib/ServicesClientJars">
+2021-01-22 14:16:57,086 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+2021-01-22 14:16:57,086 Downloading all server files...
+2021-01-22 14:16:57,345 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForDirectory: ID ( null )
+2021-01-22 14:16:57,345 ProcessDirectory CTCApps/Talonjars/TalonAuthenticationMatrixJars Dir Size: -1
+2021-01-22 14:16:57,346 MBUpdateManager.Call: MBUpdateManager.ProcessDirectory: <Directory MBDir="CTCApps/Talonjars/TalonAuthenticationMatrixJars" LocalSubDir="lib/TalonAuthenticationMatrixJars">
+2021-01-22 14:16:57,347 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+2021-01-22 14:16:57,347 Downloading all server files...
+2021-01-22 14:16:57,443 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForDirectory: ID ( null )
+2021-01-22 14:16:57,444 MBUpdateManager.Call: MBUpdateManager.UpdateComplete: XML Updated? (false)
+2021-01-22 14:16:57,519 MBUpdateManager.Call: MBUpdateManager.UpdateRequiredFiles
+2021-01-22 14:16:57,519 MBUpdateManager.Call: MBUpdateManager.CreateUpdateProcessor
+2021-01-22 14:16:57,519 MBUpdateManager.Call: MBUpdateManager.ReadUpdateDefinitionFile: Definition: ( C:\ctccore\TalonMDC/ctcstartfilelist.xml )  App Data: present
+2021-01-22 14:16:57,519 ReadUpdateDefinitionFile: using given app data to support variable substitution in XML...
+2021-01-22 14:16:57,521 ProcessXML: Root dir: C:\ctccore\TalonMDC
+<MBUpdates>TrackHistory=&quot;False&quot;
+  <Directory MBDir="CTCApps/CTCStart/talonmdc" LocalSubDir=".">
+    <File Name="ctcstart.exe"/>
+    <File Name="ctcstart.ico"/>
+    <File Name="ctcstart.ini"/>
+    <File Name="ctcstart.lax"/>
+    <File Name="coresplash.png"/>
+  </Directory>
+  <Directory MBDir="CTCApps/CTCStart/CTCStartLib" LocalSubDir="ctcstartlib">
+    <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+  </Directory>
+</MBUpdates>
+2021-01-22 14:16:57,522 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggers
+2021-01-22 14:16:57,522 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/CTCStart/talonmdc" LocalSubDir=".">
+2021-01-22 14:16:57,522 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/CTCStart/talonmdc" LocalSubDir=".">
+2021-01-22 14:16:57,522 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/CTCStart/CTCStartLib" LocalSubDir="ctcstartlib">
+2021-01-22 14:16:57,522 MBUpdateManager.Call: MBUpdateManager.InitializeWaitTriggersForFiles: <Directory MBDir="CTCApps/CTCStart/CTCStartLib" LocalSubDir="ctcstartlib">
+2021-01-22 14:16:57,522 Triggering startup trigger...
+2021-01-22 14:16:57,522 ProcessDirectory CTCApps/CTCStart/talonmdc Dir Size: -1
+2021-01-22 14:16:57,524 MBUpdateManager.Call: MBUpdateManager.ProcessDirectory: <Directory MBDir="CTCApps/CTCStart/talonmdc" LocalSubDir=".">
+2021-01-22 14:16:57,524 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ctcstart.exe"/>
+2021-01-22 14:16:57,524 Downloading single file...
+2021-01-22 14:16:57,525 MBUpdateManager.Call: MBUpdateManager.DownloadFileIfChanged: Server filename ( ctcstart.exe )
+2021-01-22 14:16:57,572 No change in file: ( ctcstart.exe )
+2021-01-22 14:16:57,572 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForSingleFile: ( ctcstart.exe ) - <File Name="ctcstart.exe"/>
+2021-01-22 14:16:57,572 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ctcstart.ico"/>
+2021-01-22 14:16:57,572 Downloading single file...
+2021-01-22 14:16:57,572 MBUpdateManager.Call: MBUpdateManager.DownloadFileIfChanged: Server filename ( ctcstart.ico )
+2021-01-22 14:16:57,642 No change in file: ( ctcstart.ico )
+2021-01-22 14:16:57,642 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForSingleFile: ( ctcstart.ico ) - <File Name="ctcstart.ico"/>
+2021-01-22 14:16:57,642 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ctcstart.ini"/>
+2021-01-22 14:16:57,642 Downloading single file...
+2021-01-22 14:16:57,642 MBUpdateManager.Call: MBUpdateManager.DownloadFileIfChanged: Server filename ( ctcstart.ini )
+2021-01-22 14:16:57,708 No change in file: ( ctcstart.ini )
+2021-01-22 14:16:57,708 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForSingleFile: ( ctcstart.ini ) - <File Name="ctcstart.ini"/>
+2021-01-22 14:16:57,708 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ctcstart.lax"/>
+2021-01-22 14:16:57,708 Downloading single file...
+2021-01-22 14:16:57,708 MBUpdateManager.Call: MBUpdateManager.DownloadFileIfChanged: Server filename ( ctcstart.lax )
+2021-01-22 14:16:57,806 No change in file: ( ctcstart.lax )
+2021-01-22 14:16:57,806 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForSingleFile: ( ctcstart.lax ) - <File Name="ctcstart.lax"/>
+2021-01-22 14:16:57,807 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="coresplash.png"/>
+2021-01-22 14:16:57,807 Downloading single file...
+2021-01-22 14:16:57,807 MBUpdateManager.Call: MBUpdateManager.DownloadFileIfChanged: Server filename ( coresplash.png )
+2021-01-22 14:16:57,885 No change in file: ( coresplash.png )
+2021-01-22 14:16:57,885 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForSingleFile: ( coresplash.png ) - <File Name="coresplash.png"/>
+2021-01-22 14:16:57,885 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForDirectory: ID ( null )
+2021-01-22 14:16:57,885 ProcessDirectory CTCApps/CTCStart/CTCStartLib Dir Size: -1
+2021-01-22 14:16:57,887 MBUpdateManager.Call: MBUpdateManager.ProcessDirectory: <Directory MBDir="CTCApps/CTCStart/CTCStartLib" LocalSubDir="ctcstartlib">
+2021-01-22 14:16:57,887 MBUpdateManager.Call: MBUpdateManager.ProcessFile: <File Name="ALL_SERVER_FILES" ListFilter="*.jar"/>
+2021-01-22 14:16:57,888 Downloading all server files...
+2021-01-22 14:16:58,075 MBUpdateManager.Call: MBUpdateManager.UpdateCompleteForDirectory: ID ( null )
+2021-01-22 14:16:58,076 MBUpdateManager.Call: MBUpdateManager.UpdateComplete: XML Updated? (false)
+2021-01-22 14:17:00,259 
+
+-----------------Event log initialized-----------------
+
+2021-01-22 14:17:01,206 WARNING - Trusting server without verification; authType=RSA.
+2021-01-22 14:17:04,311 Call: FlushEvents
+2021-01-22 14:17:04,371 Finished: FlushEvents  Time: 60 ms.
+2021-01-22 14:17:37,019 BC Fips Provider is available.
+2021-01-22 14:17:37,019 Create a Bouncy Castle FIPS provider
+2021-01-22 14:17:37,020 Cryptography restrictions removal not needed

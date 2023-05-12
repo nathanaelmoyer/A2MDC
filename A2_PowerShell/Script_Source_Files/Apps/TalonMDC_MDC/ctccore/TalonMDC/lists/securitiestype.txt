@@ -1,0 +1,27 @@
+~<BLANK>
+BC - Bank of Canada
+FB - Federal Reserve Bank Note
+FR - Federal Reserve Note (money)
+GC - Gold Certificate
+NB - National Bank Note
+SC - Silver Certificate
+UN - US Note
+BL - Treasury Bill
+TB - Treasury Bond
+TD - Treasury Certificate of Indebtedness
+TN - Treasury Note
+RB - US Individual Retirement Bond
+PM - US Postal Money Order
+RB - US Retirement Plan Bond
+SB - US Savings Bond
+SN - US Savings Note
+GG - Other US Government Issues
+BD - Bond
+DB - Debenture
+MO - Money Order
+NT - Note
+RW - Rights or Warrants
+CS - Common Stock
+PS - Preferred Stock
+TC - Travelers Check
+AO - All Other

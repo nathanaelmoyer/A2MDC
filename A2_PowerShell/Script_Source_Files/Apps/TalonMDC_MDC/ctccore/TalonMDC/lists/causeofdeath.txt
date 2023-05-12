@@ -1,0 +1,6 @@
+~<BLANK>
+A - Accidental
+H - Homicide
+N - Natural Causes
+S - Suicide
+U - Unknown

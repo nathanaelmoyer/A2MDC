@@ -1,0 +1,82 @@
+~<BLANK>
+BCH - Bio- CODIS Hit
+BIOSAK - Bio- SAK
+BCS - Biology
+CODH - Biology/DNA -CODIS Hit
+TXAN - Blood Alcohol 2014
+COD - CODIS
+COHD - CODIS Hit
+DR - Controlled Substances
+DGR - Controlled Substances - Grand Rapids PD
+DRS - Controlled Substances - Steroid
+CS - Crime Scene
+BSP - Crime Scene - Bloodstain Pattern Analysis
+VHP - Crime Scene - Vehicle Processing
+DNA - DNA
+DOC - Documents
+FX - Firearms
+FFE - Firearms - Classification - Fired Evidence
+FDD - Firearms - Distance Determination
+FID - Firearms - Firearm ID (Comparison)
+FFW - Firearms - Function-Weapon
+FIB - Firearms - IBIS
+FNR - Firearms - Serial Number Re-Stamp
+FSN - Firearms - Serial Number Restoration
+TID - Firearms - Toolmark ID (Comparison)
+LP - Latent Prints
+1 - Migration Exam - Drug
+3 - Migration Exam - Firearms/Toolmarks
+2 - Migration Exam - Latent Prints
+4 - Migration Exam - Microchemistry
+8 - Migration Exam - Polygraph
+6 - Migration Exam - Questioned Documents
+20 - Migration Exam - Scene
+5 - Migration Exam - Serology
+9 - Migration Exam - Toxicology
+PG - Polygraph
+TX18 - Tox- Alcohol 
+TX21 - Tox- ANB ME
+TX22 - Tox- ANB ME- Urine
+TX10 - Tox- ANB Tier I
+TX12 - Tox- ANB Tier I- Urine
+TX11 - Tox- ANB Tier II
+TX13 - Tox- ANB Tier II- Urine
+TX3 - Tox- Benzo
+TX14 - Tox- Benzo- Urine
+TX7 - Tox- CO
+TX2 - Tox- FULL screen
+TX20 - Tox- FULL Screen- Urine
+TX5 - Tox- GHB
+tx15 - Tox- GHB- Urine
+TX6 - Tox- Inhalant
+TX8 - Tox- Opiate
+TX16 - Tox- Opiate- Urine
+TX4 - Tox- THC
+TX1 - Tox- THC screen
+TX19 - Tox- THC Screen - Urine
+TX17 - Tox- THC- Urine
+TX23 - Tox-Designer Drug
+TX24 - Tox-Designer Drug- Urine
+TXD - Toxicology Drug
+TRAB - Trace Acid/Base
+TRA - Trace Arson
+TRAE - Trace Arson (Extraction Only)
+TRAL - Trace Auto Lamp
+TRBD - Trace Bank Dye
+TRCH - Trace Chemical Hazard
+TRCU - Trace Chemical Unknown
+TRCD - Trace Collection & Documentation
+TREA - Trace Explosive Analysis
+TRFi - Trace Fiber
+TRFo - Trace Footwear
+TRFT - Trace Footwear/Tire (processing only)
+TRFM - Trace Fracture Match
+TRGl - Trace Glass
+TRLA - Trace Lachrymator
+TRMi - Trace Miscellaneous
+TRPa - Trace Paint
+TRPO - Trace Poison/Adulterant
+TRSE - Trace SEM-EDS
+TRSo - Trace Solvent
+TRTP - Trace Tape
+TRTT - Trace Tire Track

@@ -1,0 +1,105 @@
+2200 - Burglary
+22001 - --Burglary -Forced Entry
+22002 - --Burglary -Entry Without Force
+2300 - Larceny
+23001 - --Larceny -Pocketpicking
+23002 - --Larceny -Purse Snatching
+23003 - --Larceny -Theft from Building
+23004 - --Larceny -Theft from Coin-Op Machine
+23005 - --Larceny -Theft from Vehicle
+23006 - --Larceny -Theft of Vehicle Parts
+23007 - --Larceny -Other
+2400 - Motor Vehicle Crimes
+24001 - --Motor Vehicle Theft
+24002 - --Motor Vehicle as Stolen Property
+24003 - --Motor Vehicle Fraud
+25000 - Forgery/Conterfeiting
+2600 - Fraud
+26001 - --Fraud -False Pretenses/Swindle
+26002 - --Fraud -Credit Card/ATM
+26003 - --Fraud -Impersonation
+26004 - --Fraud -Welfare Fraud
+26005 - --Fraud -Wire Fraud
+26006 - --Fraud -Bad Checks
+27000 - Embezzlement
+1100 - Sexual Assault
+11001 - --Sexual Penetration -CSC 1st
+11002 - --Sexual Penetration -CSC 3rd
+11003 - --Sexual Penetration Oral/Anal -CSC 1st
+11004 - --Sexual Penetration Oral/Anal -CSC 3rd
+11005 - --Sexual Penetration Object -CSC 1st
+11006 - --Sexual Penetration Object -CSC 3rd
+11007 - --Sexual Contact Forcible -2nd Degree
+11008 - --Sexual Contact Forcible -4th Degree
+28000 - Stolen Property
+29000 - Damage to Property
+0900 - Homicide/Manslaughter
+09001 - --Murder/Nonnegligent Manslaughter
+09002 - --Negligent Homicide/Manslaughter
+09003 - --Negligent Homicide -Vehicle/Boat
+09004 - --Justifiable Homicide
+1000 - Kidnapping
+10001 - --Kidnapping/Abduction
+10002 - --Parental Kidnapping
+12000 - Robbery
+1300 - Assault
+13001 - --Nonaggravated Assault
+13002 - --Aggravated/Felonious Assault
+13003 - --Intimidation/Stalking
+20000 - Arson
+3000 - Retail Fraud
+30001 - --Retail Fraud -Misrepresentation
+30002 - --Retail Fraud -Theft
+30003 - --Retail Fraud -Refund/Exchange
+21000 - Extortion
+3500 - Drugs
+35001 - --Violation of Control Substance
+35002 - --Narcotic Equipment Violations
+3600 - Sex Offense Nonforcible
+36001 - --Sex Nonforcible -Blood/Affinity
+36002 - --Sex Nonforcible -Other
+37000 - Obscenity
+38001 - Family -Abuse/Neglect Nonviolent
+3900 - Gambling
+39001 - --Gambling -Betting/Wagering
+39002 - --Gambling -Operating/Promoting
+39003 - --Gambling -Equipment Violations
+39004 - --Gambling -Sports Tampering
+4000 - Commercialized Sex
+40001 - --Prostitution
+40002 - --Assisting/Promoting Prostitution
+51000 - Bribery
+5200 - Weapons Offense
+52001 - --Weapons Offense -Concealed
+52002 - --Weapons Offense -Explosives
+52003 - --Weapons Offense -Other
+01000 - Sovereignty
+02000 - Military
+03000 - Immigration
+4100 - Liquor Law Violation
+41001 - --Liquor License -Establishment
+41002 - --Liquor License -Other
+42000 - Drunkenness
+48000 - Obstructing Police
+49000 - Escape/Flight
+50000 - Obstructing Justice
+5300 - Disorderly Conduct
+5400 - Driving Violations
+54001 - --Hit and Run Motor Vehicle Accident
+54002 - --OUIL or OUID
+54003 - --Driving Law Violations
+55000 - Health and Safety
+56000 - Civil Rights
+5700 - Invasion of Privacy
+57001 - --Trespass
+57002 - --Invasion of Privacy -Other
+58000 - Smuggling
+59000 - Election Laws
+60000 - Antitrust
+61000 - Tax/Revenue
+62000 - Conservation
+63000 - Vagrancy
+70000 - Juvenile Runaway
+73000 - Misc. Criminal Offense
+75000 - Solicitation
+77000 - Conspiracy

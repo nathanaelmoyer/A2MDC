@@ -1,0 +1,52 @@
+<CADNewIncident ClassName="com.ctccore.talon.cad.EvtNewTrafficStopIncident">
+  <Title>CAD Traffic Stop</Title>  
+  <FormDefinition>
+    <XMLItem Label="Plate Number" Type="Text" JContFormat="0" Enabled="true" Columns="20">
+      <Field>Plate</Field>
+    </XMLItem>
+    <XMLItem Label="Plate State" Type="Combo" JContFormat="0" Enabled="true" Editable="false">
+      <Values LoadExternally="true" Filename="licenseplatestates.xml" />
+      <Field>PlateState</Field>
+    </XMLItem>
+    <XMLItem Label="Plate Type" Type="Combo" JContFormat="0" Enabled="true" Editable="false">
+      <Values LoadExternally="true" Filename="licenseplatetypes.xml" />
+      <Field>PlateType</Field>
+    </XMLItem>
+    <XMLItem Label="Plate Year" Type="Text" JContFormat="0" Enabled="true" Columns="5" MaxLength="4" SCFormat="0x40">
+      <Field>PlateYear</Field>
+    </XMLItem>
+    <XMLItem Type="Line" PreceedingNextLinePixels="20" />
+    <XMLItem Label="Vehicle Make" Type="Text" PreceedingNextLinePixels="20" JContFormat="0" Enabled="true" Columns="10">
+      <Field>VehicleMake</Field>
+    </XMLItem>
+    <XMLItem Label="Vehicle Model" Type="Text" JContFormat="0" Enabled="true" Columns="10">
+      <Field>VehicleModel</Field>
+    </XMLItem>
+    <XMLItem Label="Vehicle Year" Type="Text" JContFormat="0" Enabled="true" Columns="10">
+      <Field>VehicleYear</Field>
+    </XMLItem>
+    <XMLItem Label="Incident Type" Type="Combo" JContFormat="0" Enabled="true" Editable="false">
+      <Values LoadExternally="true" Filename="incidenttypes.xml" />
+	  <Field>IncidentType</Field>
+    </XMLItem>
+    <XMLItem Label=" " Type="Text" JContFormat="0" Enabled="true" Columns="10" MaxLength="6" SCFormat="0x40">
+      <Field>IncidentType2</Field>
+    </XMLItem>
+    <XMLItem Type="Line" PreceedingNextLinePixels="20" />
+    <XMLItem Label="Address" Type="Text" PreceedingNextLinePixels="20" JContFormat="0" Enabled="true" Columns="20" MaxLength="30" SCFormat="0x40">
+      <Field>Address</Field>
+    </XMLItem>
+    <XMLItem Type="Line" PreceedingNextLinePixels="20" />
+    <XMLItem Label="Location" Type="Text" PreceedingNextLinePixels="20" JContFormat="0" Enabled="true" Columns="20" MaxLength="30" SCFormat="0x40">
+      <Field>Location</Field>
+    </XMLItem>
+    <XMLItem Type="Line" PreceedingNextLinePixels="20" />
+    <XMLItem Label="Comments" Type="Text" PreceedingNextLinePixels="20"JContFormat="0" Enabled="true" Columns="20" MaxLength="20" SCFormat="0x40">
+      <Field>Comments</Field>
+    </XMLItem>    
+  </FormDefinition>
+  <Button Label="Submit" Action="Submit;Close"/>
+  <Button Label="Clear Form" Action="Clear"/>
+  <Button Label="Cancel" Action="Close"/>
+  <Button Label="Help"/>
+</CADNewIncident>

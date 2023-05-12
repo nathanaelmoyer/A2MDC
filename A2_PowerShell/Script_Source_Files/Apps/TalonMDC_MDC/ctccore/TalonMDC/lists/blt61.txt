@@ -1,0 +1,13 @@
+~<BLANK>
+APOS  - A Positive
+ANEG  - A Negative
+AUNK  - A Unknown
+BPOS  - B Positive
+BNEG  - B Negative
+BUNK  - B Unknown
+ABPOS - AB Positive
+ABNEG - AB Negative
+OPOS  - O Positive
+ONEG  - O Negative
+OUNK  - O Unknown
+UNKWN - Unknown

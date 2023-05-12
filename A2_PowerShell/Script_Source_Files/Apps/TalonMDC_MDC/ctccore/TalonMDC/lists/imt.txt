@@ -1,0 +1,7 @@
+~<BLANK>
+F - Fingerprint
+M - Mugshot
+S - Signature
+I - Identifying
+B - Generic Boat
+V - Generic Vehicle

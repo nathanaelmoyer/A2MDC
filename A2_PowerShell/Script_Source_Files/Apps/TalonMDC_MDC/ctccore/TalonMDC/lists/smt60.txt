@@ -1,0 +1,711 @@
+~<BLANK>				
+101 - Artificial Body Parts and Aids, Arm, left, artificial
+343 - Artificial Body Parts and Aids, Arm, non-specific, artificial
+102 - Artificial Body Parts and Aids, Arm, right, artificial
+119 - Artificial Body Parts and Aids, Brace, back
+345 - Artificial Body Parts and Aids, Brace, both arms
+347 - Artificial Body Parts and Aids, Brace, both legs
+118 - Artificial Body Parts and Aids, Brace, left arm
+120 - Artificial Body Parts and Aids, Brace, left leg
+122 - Artificial Body Parts and Aids, Brace, neck
+344 - Artificial Body Parts and Aids, Brace, one arm, non-specific
+346 - Artificial Body Parts and Aids, Brace, one leg, non-specific
+117 - Artificial Body Parts and Aids, Brace, right arm
+121 - Artificial Body Parts and Aids, Brace, right leg
+123 - Artificial Body Parts and Aids, Brace, teeth
+495 - Artificial Body Parts, Breasts -Non specific
+496 - Artificial Body Parts,  Breast, Left
+497 - Artificial Body Parts, Breast, Right
+348 - Artificial Body Parts and Aids, Cane
+129 - Artificial Body Parts and Aids, Cardiac Pacemaker
+130 - Artificial Body Parts and Aids, Colostomy appliance
+103 - Artificial Body Parts and Aids, Contact lenses
+349 - Artificial Body Parts and Aids, Crutches
+105 - Artificial Body Parts and Aids, Denture, lower
+104 - Artificial Body Parts and Aids, Denture, upper
+106 - Artificial Body Parts and Aids, Denture, upper and lower
+433 - Artificial Body Parts and Aids, Ear tube, left
+434 - Artificial Body Parts and Aids, Ear tube, right
+432 - Artificial Body Parts and Aids, Ear tubes
+142 - Artificial Body Parts and Aids, Ear, left, artificial
+143 - Artificial Body Parts and Aids, Ear, right, artificial
+124 - Artificial Body Parts and Aids, Elbow, joint, artificial
+107 - Artificial Body Parts and Aids, Eye, left, artificial
+108 - Artificial Body Parts and Aids, Eye, right, artificial
+109 - Artificial Body Parts and Aids, Foot, left, artificial
+110 - Artificial Body Parts and Aids, Foot, right, artificial
+111 - Artificial Body Parts and Aids, Glasses, (perscription)
+112 - Artificial Body Parts and Aids, Hand, left, artificial
+113 - Artificial Body Parts and Aids, Hand, right, artificial
+114 - Artificial Body Parts and Aids, Hearing aid
+125 - Artificial Body Parts and Aids, Hip, joint, artificial
+131 - Artificial Body Parts and Aids, Intramedullary rod
+132 - Artificial Body Parts and Aids, Intra-uterine device
+126 - Artificial Body Parts and Aids, Knee joint, artificial
+127 - Artificial Body Parts and Aids, Larynx, artificial
+115 - Artificial Body Parts and Aids, Leg, left, artificial
+116 - Artificial Body Parts and Aids, Leg, right, artificial
+133 - Artificial Body Parts and Aids, Orthopedic nail or pin
+134 - Artificial Body Parts and Aids, Orthopedic plate
+135 - Artificial Body Parts and Aids, Orthopedic screw
+128 - Artificial Body Parts and Aids, Shoulder joint, artificial
+136 - Artificial Body Parts and Aids, Shunt, arterial
+137 - Artificial Body Parts and Aids, Shunt, cerebral ventricle
+138 - Artificial Body Parts and Aids, Skull plate
+139 - Artificial Body Parts and Aids, Staples
+144 - Artificial Body Parts and Aids, Tooth, gold
+145 - Artificial Body Parts and Aids, Tooth, Silver
+140 - Artificial Body Parts and Aids, Vascular prothesis
+297 - Artificial Body Parts and Aids, Wheelchair
+141 - Artificial Body Parts and Aids, Wire sutures
+205 - Broken/Fractured(present or fresh), Ankle, left
+204 - Broken/Fractured(present or fresh), Ankle, non-specific
+206 - Broken/Fractured(present or fresh), Ankle, right
+209 - Broken/Fractured(present or fresh), Arm, lower left
+211 - Broken/Fractured(present or fresh), Arm, lower right
+207 - Broken/Fractured(present or fresh), Arm, non-specific
+208 - Broken/Fractured(present or fresh), Arm, upper left
+210 - Broken/Fractured(present or fresh), Arm, upper right
+212 - Broken/Fractured(present or fresh), Back
+214 - Broken/Fractured(present or fresh), Clavicle, left
+213 - Broken/Fractured(present or fresh), Clavicle, non-specific
+215 - Broken/Fractured(present or fresh), Clavicle, right
+217 - Broken/Fractured(present or fresh), Finger(s), left hand
+216 - Broken/Fractured(present or fresh), Finger(s), non-specific
+218 - Broken/Fractured(present or fresh), Finger(s), right hand
+246 - Broken/Fractured(present or fresh), Foot, left
+245 - Broken/Fractured(present or fresh), Foot, non-specific
+247 - Broken/Fractured(present or fresh), Foot, right
+249 - Broken/Fractured(present or fresh), Hand, left
+248 - Broken/Fractured(present or fresh), Hand, non-specific
+250 - Broken/Fractured(present or fresh), Hand, right
+221 - Broken/Fractured(present or fresh), Jaw, lower left
+223 - Broken/Fractured(present or fresh), Jaw, lower right
+219 - Broken/Fractured(present or fresh), Jaw, non-specific
+220 - Broken/Fractured(present or fresh), Jaw, upper left
+222 - Broken/Fractured(present or fresh), Jaw, upper right
+254 - Broken/Fractured(present or fresh), Knee, left
+253 - Broken/Fractured(present or fresh), Knee, non-specific
+255 - Broken/Fractured(present or fresh), Knee, right
+226 - Broken/Fractured(present or fresh), Leg, lower left
+228 - Broken/Fractured(present or fresh), Leg, lower right
+224 - Broken/Fractured(present or fresh), Leg, non-specific
+225 - Broken/Fractured(present or fresh), Leg, upper left
+227 - Broken/Fractured(present or fresh), Leg, upper right
+229 - Broken/Fractured(present or fresh), Neck
+230 - Broken/Fractured(present or fresh), Nose
+232 - Broken/Fractured(present or fresh), Pelvic bone, left
+233 - Broken/Fractured(present or fresh), Pelvic bone, right
+231 - Broken/Fractured(present or fresh), Pelvis, non-specific
+235 - Broken/Fractured(present or fresh), Rib(s), left
+234 - Broken/Fractured(present or fresh), Rib(s), non-specific
+236 - Broken/Fractured(present or fresh), Rib(s), right
+257 - Broken/Fractured(present or fresh), Shoulder, left
+256 - Broken/Fractured(present or fresh), Shoulder, non-specific
+258 - Broken/Fractured(present or fresh), Shoulder, right
+237 - Broken/Fractured(present or fresh), Skull
+251 - Broken/Fractured(present or fresh), Spine
+238 - Broken/Fractured(present or fresh), Sternum
+240 - Broken/Fractured(present or fresh), Toe(s), left foot
+239 - Broken/Fractured(present or fresh), Toe(s), non-specific
+241 - Broken/Fractured(present or fresh), Toe(s), right foot
+243 - Broken/Fractured(present or fresh), Wrist, left
+242 - Broken/Fractured(present or fresh), Wrist, non-specific
+244 - Broken/Fractured(present or fresh), Wrist, right
+418 - Deafness, Deaf, both ears
+441 - Deafness, Deaf, ear, non-specific
+416 - Deafness, Deaf, left ear
+426 - Deafness, Deaf, mute
+417 - Deafness, Deaf, right ear
+403 - Deformities, Cauliflower ear, left
+404 - Deformities, Cauliflower ear, right
+421 - Deformities, Cleft lip
+430 - Deformities, Cleft palate
+405 - Deformities, Crippled arm, left
+406 - Deformities, Crippled arm, right
+407 - Deformities, Crippled finger(s), left hand
+408 - Deformities, Crippled finger(s), right hand
+409 - Deformities, Crippled foot, left
+410 - Deformities, Crippled foot, right
+411 - Deformities, Crippled hand , left
+412 - Deformities, Crippled hand, right
+413 - Deformities, Crippled leg, left
+414 - Deformities, Crippled leg, right
+439 - Deformities, Crippled toe(s), left foot
+440 - Deformities, Crippled toe(s), right foot
+415 - Deformities, Cross-eyed
+446 - Deformities, Extra-breast, center
+447 - Deformities, Extra-breast, left
+445 - Deformities, Extra-breast, non-specific
+448 - Deformities, Extra-breast, right
+461 - Deformities, Extra-cervicle vertebra(e)
+419 - Deformities, Extra-finger(s), left hand
+420 - Deformities, Extra-finger(s), right hand
+462 - Deformities, Extra-lumbar vertebra(e)
+450 - Deformities, Extra-nipple, center
+451 - Deformities, Extra-nipple, left
+449 - Deformities, Extra-nipple, non-specific
+452 - Deformities, Extra-nipple, right
+453 - Deformities, Extra-toe(s), left foot
+454 - Deformities, Extra-toe(s), right foot
+460 - Deformities, Extra-vertebra(e), non-specific
+421 - Deformities, Harelip
+422 - Deformities, Humpback
+425 - Deformities, Mute (not deaf)
+423 - Deformities, Shorter left leg
+424 - Deformities, Shorter right leg
+958 - Drugs of Abuse, Alcohol
+963 - Drugs of Abuse, Amphetamines (stimulants, speed, ect...)
+964 - Drugs of Abuse, Barbituates
+961 - Drugs of Abuse, Cocaine
+298 - Drugs of Abuse, Glue
+962 - Drugs of Abuse, Hallucinogens
+959 - Drugs of Abuse, Marijuana
+960 - Drugs of Abuse, Narcotics (heroine, morphine,dilaudid, meth, etc...)
+965 - Drugs of Abuse, Other drugs of abuse (identify in remarks)
+299 - Drugs of Abuse, Paint (includes thinner)
+973 - Drugs of Abuse, Ritalin
+974 - Drugs of Abuse, Rohypnol (brand name for Fluitrazepam)
+203 - Eye disorders, Blind
+201 - Eye disorders, Blind, left eye
+252 - Eye disorders, Blind, one eye, non-specific
+202 - Eye disorders, Blind, right eye
+402 - Eye disorders, Cataract, left eye
+438 - Eye disorders, Cataract, non-specific
+401 - Eye disorders, Cataract, right eye
+438 - Eye disorders, Cataracts, non-specific
+151 - Eye disorders, Glaucoma
+618 - Healed broken/fractured bones, Ankle, left
+617 - Healed broken/fractured bones, Ankle, non-specific
+619 - Healed broken/fractured bones, Ankle, right
+622 - Healed broken/fractured bones, Arm, lower left
+624 - Healed broken/fractured bones, Arm, lower right
+620 - Healed broken/fractured bones, Arm, non-specific
+621 - Healed broken/fractured bones, Arm, upper left
+623 - Healed broken/fractured bones, Arm, upper right
+625 - Healed broken/fractured bones, Back
+627 - Healed broken/fractured bones, Clavicle, left
+626 - Healed broken/fractured bones, Clavicle, non-specific
+628 - Healed broken/fractured bones, Clavicle, right
+630 - Healed broken/fractured bones, Finger(s), left hand
+629 - Healed broken/fractured bones, Finger(s), non-specific
+631 - Healed broken/fractured bones, Finger(s), right hand
+633 - Healed broken/fractured bones, Foot, left
+632 - Healed broken/fractured bones, Foot, non-specific
+634 - Healed broken/fractured bones, Foot, right
+636 - Healed broken/fractured bones, Hand, left
+635 - Healed broken/fractured bones, Hand, non-specific
+637 - Healed broken/fractured bones, Hand, right
+640 - Healed broken/fractured bones, Jaw, lower left
+642 - Healed broken/fractured bones, Jaw, lower right
+638 - Healed broken/fractured bones, Jaw, non-specfic
+639 - Healed broken/fractured bones, Jaw, upper left
+641 - Healed broken/fractured bones, Jaw, upper right
+644 - Healed broken/fractured bones, Knee, left
+643 - Healed broken/fractured bones, Knee, non-specific
+645 - Healed broken/fractured bones, Knee, right
+648 - Healed broken/fractured bones, Leg, lower left
+650 - Healed broken/fractured bones, Leg, lower right
+646 - Healed broken/fractured bones, Leg, non-specific
+647 - Healed broken/fractured bones, Leg, upper left
+649 - Healed broken/fractured bones, Leg, upper right
+651 - Healed broken/fractured bones, Neck
+652 - Healed broken/fractured bones, Nose
+654 - Healed broken/fractured bones, Pelvic bone, left
+655 - Healed broken/fractured bones, Pelvic bone, right
+653 - Healed broken/fractured bones, Pelvis, non-specific
+657 - Healed broken/fractured bones, Rib(s), left
+656 - Healed broken/fractured bones, Rib(s), non-specific
+658 - Healed broken/fractured bones, Rib(s), right
+660 - Healed broken/fractured bones, Shoulder, left
+659 - Healed broken/fractured bones, Shoulder, non-specific
+661 - Healed broken/fractured bones, Shoulder, right
+662 - Healed broken/fractured bones, Skull
+663 - Healed broken/fractured bones, Spine
+664 - Healed broken/fractured bones, Sternum
+666 - Healed broken/fractured bones, Toe(s), left foot
+665 - Healed broken/fractured bones, Toe(s), non-specific
+667 - Healed broken/fractured bones, Toe(s), right foot
+669 - Healed broken/fractured bones, Wrist, left
+668 - Healed broken/fractured bones, Wrist, non-specific
+670 - Healed broken/fractured bones, Wrist, right
+146 - Medical Conditions & Diseases, Acne
+350 - Medical Conditions & Diseases, AIDS (Ensure proper documentation exists)
+351 - Medical Conditions & Diseases, Alcoholism
+956 - Medical Conditions & Diseases, Allergies (includes asthma)
+300 - Medical Conditions & Diseases, Alzheimer's disease
+147 - Medical Conditions & Diseases, Arthritis
+352 - Medical Conditions & Diseases, Attention Deficit Disorder
+952 - Medical Conditions & Diseases, Behavior Disorders
+955 - Medical Conditions & Diseases, Cancer
+148 - Medical Conditions & Diseases, Diabetic
+353 - Medical Conditions & Diseases, Down's Syndrome
+953 - Medical Conditions & Diseases, Drug Abuse
+354 - Medical Conditions & Diseases, Eating Disorders (Anorexia and Bulimia)
+949 - Medical Conditions & Diseases, Heart/Circulatory (high BP, heart failure, heart aZ
+342 - Medical Conditions & Diseases, Hematological Diseases (anemia, hemophelia)
+355 - Medical Conditions & Diseases, HIV positive (ensure proper documentaion exists)
+329 - Medical Conditions & Diseases, Kidney Conditions /Diseases
+950 - Medical Conditions & Diseases, Liver Diseases (cirrhosis and hepatitis)
+951 - Medical Conditions & Diseases, Nervous Conditions or Diseases (Seizures, stroke)
+330 - Medical Conditions & Diseases, Neurological Conditions or Diseases
+957 - Medical Conditions & Diseases, Other Medical Disorders/Conditions (identify in Remarks)
+149 - Medical Conditions & Diseases, Paraplegic
+357 - Medical Conditions & Diseases, Pregnancy- past (previous but not current pregnancy)
+356 - Medical Conditions & Diseases, Pregnancy- present (only if pregnant at time of entry)
+331 - Medical Conditions & Diseases, Pulmonary/Lung Disease (cystic fibrosis, emphysema)
+150 - Medical Conditions & Diseases, Quadriplegic
+332 - Medical Conditions & Diseases, Skin Disorders (psoriasis and eczema)
+333 - Medical Conditions & Diseases, Thyroid Conditions/Diseases
+335 - Medical Conditions & Diseases, Tourette's Syndrome
+334 - Medical Conditions & Diseases, Tuberculosis
+498 - Medical Devices and Body Implants, Penis
+524 - Missing Body Parts and Organs, Adenoids
+525 - Missing Body Parts and Organs, Appendix
+501 - Missing Body Parts and Organs, Arm, left
+503 - Missing Body Parts and Organs, Arm, lower left
+504 - Missing Body Parts and Organs, Arm, lower right
+502 - Missing Body Parts and Organs, Arm, right
+527 - Missing Body Parts and Organs, Breast, left
+528 - Missing Body Parts and Organs, Breast, right
+526 - Missing Body Parts and Organs, Breasts
+550 - Missing Body Parts and Organs, Cervical Vertebra(e)
+505 - Missing Body Parts and Organs, Ear, left
+506 - Missing Body Parts and Organs, Ear, right
+507 - Missing Body Parts and Organs, Eye, left
+508 - Missing Body Parts and Organs, Eye, right
+511 - Missing Body Parts and Organs, Finger joint(s), left hand
+512 - Missing Body Parts and Organs, Finger joint(s), right hand
+509 - Missing Body Parts and Organs, Finger(s), left hand
+510 - Missing Body Parts and Organs, Finger(s), right hand
+513 - Missing Body Parts and Organs, Foot, left
+514 - Missing Body Parts and Organs, Foot, right
+529 - Missing Body Parts and Organs, Gallbladder
+515 - Missing Body Parts and Organs, Hand, left
+516 - Missing Body Parts and Organs, Hand, right
+542 - Missing Body Parts and Organs, Intestines
+530 - Missing Body Parts and Organs, Kidney, left
+531 - Missing Body Parts and Organs, Kidney, right
+543 - Missing Body Parts and Organs, Larynx
+517 - Missing Body Parts and Organs, Leg, left
+519 - Missing Body Parts and Organs, Leg, lower left
+520 - Missing Body Parts and Organs, Leg, lower right
+518 - Missing Body Parts and Organs, Leg, right
+551 - Missing Body Parts and Organs, Lumbar Vertebra(e)
+532 - Missing Body Parts and Organs, Lung, left
+533 - Missing Body Parts and Organs, Lung, right
+521 - Missing Body Parts and Organs, Nose
+534 - Missing Body Parts and Organs, Ovaries
+535 - Missing Body Parts and Organs, Ovary, left
+536 - Missing Body Parts and Organs, Ovary, right
+537 - Missing Body Parts and Organs, Pancreas
+336 - Missing Body Parts and Organs, Penis
+547 - Missing Body Parts and Organs, Prostate Gland
+538 - Missing Body Parts and Organs, Spleen
+544 - Missing Body Parts and Organs, Stomach
+545 - Missing Body Parts and Organs, Testis, left
+546 - Missing Body Parts and Organs, Testis, right
+539 - Missing Body Parts and Organs, Thyroid
+522 - Missing Body Parts and Organs, Toe(s), left foot
+523 - Missing Body Parts and Organs, Toe(s), right foot
+548 - Missing Body Parts and Organs, Tongue
+540 - Missing Body Parts and Organs, Tonsils
+541 - Missing Body Parts and Organs, Uterus
+549 - Missing Body Parts and Organs, Vertebra(e), non-specific
+152 - Moles, Abdomen
+154 - Moles, Ankle, left
+153 - Moles, Ankle, non-specific
+155 - Moles, Ankle, right
+301 - Moles, Arm, left
+302 - Moles, Arm, right
+327 - Moles, Back
+325 - Moles, Breast, left
+324 - Moles, Breast, non-specific
+326 - Moles, Breast, right
+322 - Moles, Buttock, left
+323 - Moles, Buttock, right
+321 - Moles, Buttocks, non-specific
+303 - Moles, Cheek (face), left
+156 - Moles, Cheek (face), non-specific
+304 - Moles, Cheek (face), right
+328 - Moles, Chest
+305 - Moles, Chin
+306 - Moles, Ear, left
+157 - Moles, Ear, non-specific
+307 - Moles, Ear, right
+308 - Moles, Eyebrow, left/ left eye area
+309 - Moles, Eyebrow, right/ right eye area
+310 - Moles, Finger(s), left hand
+158 - Moles, Finger(s), non-specific
+311 - Moles, Finger(s), right hand
+160 - Moles, Foot, left
+159 - Moles, Foot, non-specific
+161 - Moles, Foot, right
+312 - Moles, Forehead
+162 - Moles, Groin area
+313 - Moles, Hand, left
+163 - Moles, Hand, non-specific
+314 - Moles, Hand, right
+164 - Moles, Head, non-specific
+166 - Moles, Hip, left
+165 - Moles, Hip, non-specific
+167 - Moles, Hip, right
+169 - Moles, Knee, left
+168 - Moles, Knee, non-specific
+170 - Moles, Knee, right
+172 - Moles, Leg, left
+171 - Moles, Leg, non-specific
+173 - Moles, Leg, right
+315 - Moles, Lip, lower
+174 - Moles, Lip, non-specific
+316 - Moles, Lip, upper
+317 - Moles, Neck
+318 - Moles, Nose
+175 - Moles, Penis
+177 - Moles, Shoulder, left
+176 - Moles, Shoulder, non-specific
+178 - Moles, Shoulder, right
+180 - Moles, Thigh, left
+179 - Moles, Thigh, non-specific
+181 - Moles, Thigh, right
+319 - Moles, Wrist, left
+320 - Moles, Wrist, right
+601 - Needle (Track Marks), Arm, left
+602 - Needle (Track Marks), Arm, right
+611 - Needle (Track Marks), Buttock, left
+612 - Needle (Track Marks), Buttock, right
+603 - Needle (Track Marks), Finger(s), left hand
+604 - Needle (Track Marks), Finger(s), right hand
+613 - Needle (Track Marks), Foot, left
+614 - Needle (Track Marks), Foot, right
+605 - Needle (Track Marks), Hand, left
+606 - Needle (Track Marks), Hand, right
+607 - Needle (Track Marks), Leg, left
+608 - Needle (Track Marks), Leg, right
+615 - Needle (Track Marks), Thigh, left
+616 - Needle (Track Marks), Thigh, right
+609 - Needle (Track Marks), Wrist, left
+610 - Needle (Track Marks), Wrist, right
+429 - Other Physical Characteristics, Bald/balding (in Scan-line 5 use XXX)
+427 - Other Physical Characteristics, Cleft chin
+431 - Other Physical Characteristics, Deviated septum
+442 - Other Physical Characteristics, Dimple chin
+443 - Other Physical Characteristics, Dimple(s), left cheek (face)
+444 - Other Physical Characteristics, Dimple(s), right cheek (face)
+428 - Other Physical Characteristics, Freckles
+435 - Other Physical Characteristics, Hair Implants
+182 - Other Physical Characteristics, Pierced Abdomen
+183 - Other Physical Characteristics, Pierced Back
+942 - Other Physical Characteristics, Pierced ear, left
+455 - Other Physical Characteristics, Pierced Ear, one, non-specific
+943 - Other Physical Characteristics, Pierced ear, right
+941 - Other Physical Characteristics, Pierced Ears
+463 - Other Physical Characteristics, Pierced eyebrow, non-specific
+184 - Other Physical Characteristics, Pierced genitalia
+464 - Other Physical Characteristics, Pierced left eyebrow
+457 - Other Physical Characteristics, Pierced lip, lower
+458 - Other Physical Characteristics, Pierced lip, non-specific
+456 - Other Physical Characteristics, Pierced lip, upper
+186 - Other Physical Characteristics, Pierced nipple, left
+185 - Other Physical Characteristics, Pierced nipple, non-specific
+187 - Other Physical Characteristics, Pierced nipple, right
+944 - Other Physical Characteristics, Pierced nose
+465 - Other Physical Characteristics, Pierced right eyebrow
+466 - Other Physical Characteristics, Pierced tongue
+437 - Other Physical Characteristics, Protruding lower jaw
+436 - Other Physical Characteristics, Protruding upper jaw
+337 - Other Physical Characteristics, Stutters
+975 - Other Physical Characteristics, Transsexual (in remarks birth sex & current sex)
+976 - Other Physical Characteristics, Transvestite
+701 - Scar, Abdomen
+702 - Scar, Ankle, left
+751 - Scar, Ankle, non-specifric
+703 - Scar, Ankle, right
+704 - Scar, Arm, left, non-specific
+706 - Scar, Arm, left, upper
+752 - Scar, Arm, non-specific
+705 - Scar, Arm, right, non-specific
+707 - Scar, Arm, right, upper
+708 - Scar, Back
+753 - Scar, Breast, left
+709 - Scar, Breast, non-specific
+754 - Scar, Breast, right
+749 - Scar, Buttock, left
+750 - Scar, Buttock, right
+710 - Scar, Buttocks, non-specific
+711 - Scar, Calf, left
+755 - Scar, Calf, non-specific
+712 - Scar, Calf, right
+713 - Scar, Cheek (face), left
+756 - Scar, Cheek (face), non-specific
+714 - Scar, Cheek (face), right
+715 - Scar, Chest
+716 - Scar, Chin
+717 - Scar, Ear, left
+757 - Scar, Ear, non-specific
+718 - Scar, Ear, right
+745 - Scar, Elbow, left
+758 - Scar, Elbow, non-specific
+746 - Scar, Elbow, right
+759 - Scar, Eyebrow, eye, non-specific
+719 - Scar, Eyebrow, left eye area
+720 - Scar, Eyebrow, right eye area
+721 - Scar, Face, non-specific
+722 - Scar, Finger(s), left hand
+760 - Scar, Finger(s), non-specific
+723 - Scar, Finger(s), right hand
+747 - Scar, Foot, left
+761 - Scar, Foot, non-specific
+748 - Scar, Foot, right
+724 - Scar, Forearm, left
+762 - Scar, Forearm, non-specific
+725 - Scar, Forearm, right
+726 - Scar, Forehead
+188 - Scar, Groin area
+727 - Scar, Hand, left
+763 - Scar, Hand, non-specific
+728 - Scar, Hand, right
+729 - Scar, Head, non-specific
+190 - Scar, Hip, left
+189 - Scar, Hip, non-specific
+191 - Scar, Hip, right
+730 - Scar, Knee, left
+764 - Scar, Knee, non-specific
+731 - Scar, Knee, right
+732 - Scar, Leg, left, non-specific
+765 - Scar, Leg, non-specific
+733 - Scar, Leg, right, non-specific
+734 - Scar, Lip, lower
+766 - Scar, Lip, non-specific
+735 - Scar, Lip, upper
+736 - Scar, Neck
+737 - Scar, Nose
+192 - Scar, Penis
+738 - Scar, Pockmarks
+739 - Scar, Shoulder, left
+767 - Scar, Shoulder, non-specific
+740 - Scar, Shoulder, right
+741 - Scar, Thigh, left
+768 - Scar, Thigh, non-specific
+742 - Scar, Thigh, right
+743 - Scar, Wrist, left
+769 - Scar, Wrist, non-specific
+744 - Scar, Wrist, right
+829 - Skin Discolorations (Birthmarks), Abdomen
+822 - Skin Discolorations (Birthmarks), Ankle, left
+193 - Skin Discolorations (Birthmarks), Ankle, non-specific
+823 - Skin Discolorations (Birthmarks), Ankle, right
+801 - Skin Discolorations (Birthmarks), Arm, left
+194 - Skin Discolorations (Birthmarks), Arm, non-specific
+802 - Skin Discolorations (Birthmarks), Arm, right
+824 - Skin Discolorations (Birthmarks), Back
+196 - Skin Discolorations (Birthmarks), Breast, left
+195 - Skin Discolorations (Birthmarks), Breast, non-specific
+197 - Skin Discolorations (Birthmarks), Breast, right
+831 - Skin Discolorations (Birthmarks), Buttock, left
+832 - Skin Discolorations (Birthmarks), Buttock, right
+830 - Skin Discolorations (Birthmarks), Buttocks, non-specific
+803 - Skin Discolorations (Birthmarks), Cheek (face), left
+198 - Skin Discolorations (Birthmarks), Cheek (face), non-specific
+804 - Skin Discolorations (Birthmarks), Cheek (face), right
+821 - Skin Discolorations (Birthmarks), Chest
+805 - Skin Discolorations (Birthmarks), Chin
+806 - Skin Discolorations (Birthmarks), Ear, left
+199 - Skin Discolorations (Birthmarks), Ear, non-specific
+807 - Skin Discolorations (Birthmarks), Ear, right
+200 - Skin Discolorations (Birthmarks), Eyebrow, eye, non-specific
+808 - Skin Discolorations (Birthmarks), Eyebrow, left eye area
+809 - Skin Discolorations (Birthmarks), Eyebrow, right eye area
+259 - Skin Discolorations (Birthmarks), Face, non-specific
+810 - Skin Discolorations (Birthmarks), Finger(s), left hand
+260 - Skin Discolorations (Birthmarks), Finger(s), non-specific
+811 - Skin Discolorations (Birthmarks), Finger(s0, right hand
+825 - Skin Discolorations (Birthmarks), Foot, left
+261 - Skin Discolorations (Birthmarks), Foot, non-specific
+826 - Skin Discolorations (Birthmarks), Foot, right
+812 - Skin Discolorations (Birthmarks), Forehead
+428 - Skin Discolorations (Birthmarks), Freckles
+813 - Skin Discolorations (Birthmarks), Hand, left
+814 - Skin Discolorations (Birthmarks), Hand, right
+262 - Skin Discolorations (Birthmarks), Head
+264 - Skin Discolorations (Birthmarks), Hip, left
+263 - Skin Discolorations (Birthmarks), Hip, non-specific
+265 - Skin Discolorations (Birthmarks), Hip, right
+833 - Skin Discolorations (Birthmarks), Knee, left
+266 - Skin Discolorations (Birthmarks), Knee, non-specific
+834 - Skin Discolorations (Birthmarks), Knee, right
+827 - Skin Discolorations (Birthmarks), Leg, left
+267 - Skin Discolorations (Birthmarks), Leg, non-specific
+828 - Skin Discolorations (Birthmarks), Leg, right
+815 - Skin Discolorations (Birthmarks), Lip, lower
+268 - Skin Discolorations (Birthmarks), Lip, non-specific
+816 - Skin Discolorations (Birthmarks), Lip, upper
+817 - Skin Discolorations (Birthmarks), Neck
+818 - Skin Discolorations (Birthmarks), Nose
+837 - Skin Discolorations (Birthmarks), Penis
+835 - Skin Discolorations (Birthmarks), Shoulder, left
+269 - Skin Discolorations (Birthmarks), Shoulder, non-specific
+836 - Skin Discolorations (Birthmarks), Shoulder, right
+271 - Skin Discolorations (Birthmarks), Thigh, left
+270 - Skin Discolorations (Birthmarks), Thigh, non-specific
+272 - Skin Discolorations (Birthmarks), Thigh, right
+819 - Skin Discolorations (Birthmarks), Wrist, left
+273 - Skin Discolorations (Birthmarks), Wrist, non-specific
+820 - Skin Discolorations (Birthmarks), Wrist, right
+901 - Tattoos, Abdomen
+902 - Tattoos, Ankle, left
+274 - Tattoos, Ankle, non-specific
+903 - Tattoos, Ankle, right
+904 - Tattoos, Arm, left, non-specific
+906 - Tattoos, Arm, left, upper
+275 - Tattoos, Arm, non-specific
+905 - Tattoos, Arm, right, non-specific
+907 - Tattoos, Arm, right, upper
+908 - Tattoos, Back
+981 - Tattoos, Body, full(only when entire body covered)
+945 - Tattoos, Breast, left
+909 - Tattoos, Breast, non-specific
+946 - Tattoos, Breast, right
+947 - Tattoos, Buttock, left
+948 - Tattoos, Buttock, right
+910 - Tattoos, Buttocks, non-specific
+911 - Tattoos, Calf, left
+276 - Tattoos, Calf, non-specific
+912 - Tattoos, Calf, right
+913 - Tattoos, Cheek (face), left
+277 - Tattoos, Cheek (face), non-specific
+914 - Tattoos, Cheek (face), right
+915 - Tattoos, Chest
+916 - Tattoos, Chin
+917 - Tattoos, Ear, left
+278 - Tattoos, Ear, non-specific
+918 - Tattoos, Ear, right
+340 - Tattoos, Elbow, left
+339 - Tattoos, Elbow, non-specific
+341 - Tattoos, Elbow, right
+919 - Tattoos, Face, non-specific
+279 - Tattoos, Finger, nonspecific
+921 - Tattoos, Finger(s), right hand
+920 - Tattoos, Finger(s),left hand
+281 - Tattoos, Foot, left
+280 - Tattoos, Foot, non-specific
+282 - Tattoos, Foot, right
+922 - Tattoos, Forearm, left
+283 - Tattoos, Forearm, non-specific
+923 - Tattoos, Forearm, right
+924 - Tattoos, Forehead
+940 - Tattoos, Groin
+925 - Tattoos, Hand, left
+284 - Tattoos, Hand, non-specific
+926 - Tattoos, Hand, right
+927 - Tattoos, Head, non-specific
+286 - Tattoos, Hip, left
+285 - Tattoos, Hip, non-specific
+287 - Tattoos, Hip, right
+928 - Tattoos, Knee, left
+288 - Tattoos, Knee, non-specific
+929 - Tattoos, Knee, right
+930 - Tattoos, Leg, left, non-specific
+289 - Tattoos, Leg, non-specific
+931 - Tattoos, Leg, right, non-specific
+291 - Tattoos, Lip, lower
+290 - Tattoos, Lip, non-specific
+292 - Tattoos, Lip, upper
+932 - Tattoos, Neck
+933 - Tattoos, Nose
+293 - Tattoos, Penis
+934 - Tattoos, Shoulder, left
+294 - Tattoos, Shoulder, non-specific
+935 - Tattoos, Shoulder, right
+936 - Tattoos, Thigh, left
+295 - Tattoos, Thigh, non-specific
+937 - Tattoos, Thigh, right
+938 - Tattoos, Wrist, left
+296 - Tattoos, Wrist, non-specific
+939 - Tattoos, Wrist, right
+358 - Tattoos, Removed, Abdomen
+360 - Tattoos, Removed, Ankle, left
+359 - Tattoos, Removed, Ankle, non-specific
+361 - Tattoos, Removed, Ankle, right
+363 - Tattoos, Removed, Arm, left, non-specific
+365 - Tattoos, Removed, Arm, left, upper
+362 - Tattoos, Removed, Arm, non-specific
+364 - Tattoos, Removed, Arm, right, non-specific
+366 - Tattoos, Removed, Arm, right, upper
+367 - Tattoos, Removed, Back
+369 - Tattoos, Removed, Breast, left
+368 - Tattoos, Removed, Breast, non-specific
+370 - Tattoos, Removed, Breast, right
+371 - Tattoos, Removed, Buttock(s), non-specific
+372 - Tattoos, Removed, Buttock, left
+373 - Tattoos, Removed, Buttock, right
+375 - Tattoos, Removed, Calf, left
+374 - Tattoos, Removed, Calf, non-specific
+376 - Tattoos, Removed, Calf, right
+378 - Tattoos, Removed, Cheek (face), left
+377 - Tattoos, Removed, Cheek (face), non-specific
+379 - Tattoos, Removed, Cheek (face), right
+380 - Tattoos, Removed, Chest
+381 - Tattoos, Removed, Chin
+383 - Tattoos, Removed, Ear, left
+382 - Tattoos, Removed, Ear, non-specific
+384 - Tattoos, Removed, Ear, right
+386 - Tattoos, Removed, Elbow, left
+385 - Tattoos, Removed, Elbow, non-specific
+387 - Tattoos, Removed, Elbow, right
+388 - Tattoos, Removed, Face, nonspecific
+390 - Tattoos, Removed, Finger(s), left hand
+389 - Tattoos, Removed, Finger(s), non-specific
+391 - Tattoos, Removed, Finger(s), right hand
+393 - Tattoos, Removed, Foot, left
+392 - Tattoos, Removed, Foot, non-specific
+394 - Tattoos, Removed, Foot, right
+396 - Tattoos, Removed, Forearm, left
+395 - Tattoos, Removed, Forearm, non-specific
+397 - Tattoos, Removed, Forearm, right
+398 - Tattoos, Removed, Forehead
+399 - Tattoos, Removed, Full body
+400 - Tattoos, Removed, Groin area
+468 - Tattoos, Removed, Hand, left
+467 - Tattoos, Removed, Hand, non-specific
+469 - Tattoos, Removed, Hand, right
+470 - Tattoos, Removed, Head, non-specific
+472 - Tattoos, Removed, Hip, left
+471 - Tattoos, Removed, Hip, non-specific
+473 - Tattoos, Removed, Hip, right
+475 - Tattoos, Removed, Knee, left
+474 - Tattoos, Removed, Knee, non-specific
+476 - Tattoos, Removed, Knee, right
+478 - Tattoos, Removed, Leg, left, non-specific
+477 - Tattoos, Removed, Leg, non-specific
+479 - Tattoos, Removed, Leg, right, non-specific
+481 - Tattoos, Removed, Lip, lower
+480 - Tattoos, Removed, Lip, non-specific
+482 - Tattoos, Removed, Lip, upper
+483 - Tattoos, Removed, Neck
+484 - Tattoos, Removed, Nose
+485 - Tattoos, Removed, Penis
+487 - Tattoos, Removed, Shoulder, left
+486 - Tattoos, Removed, Shoulder, non-specific
+488 - Tattoos, Removed, Shoulder, right
+490 - Tattoos, Removed, Thigh, left
+489 - Tattoos, Removed, Thigh, non-specific
+491 - Tattoos, Removed, Thigh, right
+493 - Tattoos, Removed, Wrist, left
+492 - Tattoos, Removed, Wrist, non-specific
+494 - Tattoos, Removed, Wrist, right
+970 - Therapeutic Drugs, Analgesics
+977 - Therapeutic Drugs, Antibiotics
+966 - Therapeutic Drugs, Anticonvulsants (Seizure meds)
+969 - Therapeutic Drugs, Anti-depressents
+978 - Therapeutic Drugs, Anti-inflammatory medication
+979 - Therapeutic Drugs, Bronchial Dialators (includes inhalers)
+971 - Therapeutic Drugs, Cardiac Medications ( digitallis, digoxin, etc...)
+967 - Therapeutic Drugs, Hypnotics (sleep aids)
+338 - Therapeutic Drugs, Insulin
+972 - Therapeutic Drugs, Other theraputic drugs (identify in "Remarks")
+980 - Therapeutic Drugs, Ritalin
+968 - Therapeutic Drugs, Tranquilizers (Valium, thorazine, stellazine, etc...)
+982 - Tattoos, Eye, left
+983 - Tattoos, Eye, non-specific
+984 - Tattoos, Eye, right

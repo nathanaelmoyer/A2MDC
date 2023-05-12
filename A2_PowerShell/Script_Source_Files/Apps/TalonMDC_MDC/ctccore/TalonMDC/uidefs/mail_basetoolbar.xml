@@ -1,0 +1,11 @@
+<Controls>
+	<Separator/>
+	<Button ValidState="6" Image="mail.png" Label="Mail" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="Email" PeerGroup="View Buttons Group" ProgID="${emailViewButton}">
+		<Script>
+			Helper.ActivateView( TViewNames.MBMail );
+		</Script>
+	</Button>
+	
+</Controls>
+<Events>
+</Events>

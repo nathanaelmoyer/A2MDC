@@ -1,0 +1,33 @@
+~<BLANK>
+AME     - Amethyst
+BGE     - Beige
+BLK     - Black
+BLU     - Blue
+DBL     - Dark Blue
+LBL     - Light Blue
+BRZ     - Bronze
+BRO     - Brown
+CAM     - Camouflage
+COM     - Chrome
+CPR     - Copper
+CRM     - Cream
+GLD     - Gold
+GRY     - Gray
+GRN     - Green
+DGR     - Dark Green
+LGR     - Light Green
+LAV     - Lavender
+MAR     - Maroon
+MVE     - Mauve
+MUL/COL - MultiColor
+ONG     - Orange
+PNK     - Pink
+PLE     - Purple
+RED     - Red
+SIL     - Silver
+TAN     - Tan
+TPE     - Taupe
+TEA     - Teal
+TRQ     - Turquoise
+WHI     - White
+YEL     - Yellow

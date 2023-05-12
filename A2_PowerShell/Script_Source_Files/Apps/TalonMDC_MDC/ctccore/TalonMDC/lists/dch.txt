@@ -1,0 +1,10 @@
+M - Mesial
+O - Occlusal
+D - Distal
+F - Facial
+L - Lingual
+/ -  No available Information
+X - Missing. Tooth extracted during life of individual.
+V - Unrestored virgin tooth. Tooth may have caries but no restoration.
+C - Crown. Any laboratory processed restoration such as a gold crown or porcelain crown.
+R -  Root canal. Any type of endontic procedure that has been performed on the tooth.

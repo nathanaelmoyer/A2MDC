@@ -1,0 +1,24 @@
+<ClientSettings>
+<!--
+Talon Client Settings
+Contains settings for this client and are analogous to machine-specific.
+User-specific settings should be stored at MB.
+
+Note: See engine settings file (talon.xml ) for non-client related settings.
+-->
+  <ClientOptions TrackRecentCases="true">
+<!--Home address for driving directions-->
+    <LocationAddress>
+      <LocationCountryName>US</LocationCountryName>
+    </LocationAddress>
+    <RecentCases HistorySize="5">
+      <CaseInfo>
+        <CaseID>C_DefaultCaseAABOUGHERJ</CaseID>
+        <CaseTitle>Talon</CaseTitle>
+        <DateModified>01/22/21</DateModified>
+        <TimeModified>02:09 PM</TimeModified>
+        <OpenedByID>]GG</OpenedByID>
+      </CaseInfo>
+    </RecentCases>
+  </ClientOptions>
+</ClientSettings>

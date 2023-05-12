@@ -1,0 +1,34 @@
+<Controls>
+    <Separator/>
+    <Button ProgramID="TalonDashboard"
+      ValidState="4" 
+      Image="dashboard.png" 
+      Label="Dashboard" LabelVAlignment="Bottom" LabelHAlignment="Center" 
+      ToolTip="Talon Dashboard">
+			<Script>
+				MC.Trace( "Talon Dashboard button pressed" );
+				var sessionToken = MB.GetSessionToken();
+				var agency       = MC.GetSys().GetParameter( "TIMSReportAgency", "" );
+				var create       = MC.GetSys().GetParameter( "Allow_CreateDashboards", false );
+				var editAll      = MC.GetSys().GetParameter( "Allow_EditAllDashboards", false );
+				var editShared 	 = MC.GetSys().GetParameter( "Allow_EditSharedDashboards", false);
+				var personID     = "-1";
+				if ( ClientController.GetTIMSController() != null ){
+					personID = "" + ClientController.GetTIMSController().GetOperator().PersonnelID;
+				}
+				var url          = MC.GetSys().GetParameter( "DashboardURL", "https://localhost:2243/BirtReports" );
+
+				var parameters   = "token=" + sessionToken + "&reportagency=" + agency + "&personid=" + personID
+									+ "&create=" + create + "&editall=" + editAll + "&editshared=" + editShared;
+									
+				var paramCode = encodeURIComponent(parameters);
+								
+				MC.Trace( "url:" + url + " parameters:" + paramCode );
+				var encodedURI = url + "?" + paramCode;
+				//Use the following line to use the PC's default browser.
+				BASUTIL.StartFile( encodedURI, "", MC );
+				//Use the following line to use the Talon built-in browser.
+				//Helper.StartDlgBrowser( encodedURI, false, false, true );
+			</Script>
+    </Button>
+</Controls>

@@ -1,0 +1,1975 @@
+~<BLANK>
+2801 - Acme Twp
+4101 - Ada Twp
+0601 - Adams Twp
+3001 - Adams Twp
+3101 - Adams Twp
+4629 - Addison
+6301 - Addison Twp
+4666 - Adrian
+4661 - Adrian College
+4623 - Adrian Temp Fac
+4601 - Adrian Twp
+5401 - Aetna Twp
+5701 - Aetna Twp
+4229 - Ahmeek
+7929 - Akron
+7901 - Akron Twp
+3501 - Alabaster Twp
+3301 - Alaiedon Twp
+3901 - Alamo Twp
+2429 - Alanson
+7301 - Albee Twp
+6001 - Albert Twp
+1366 - Albion
+1361 - Albion College
+1301 - Albion Twp
+0101 - Alcona Twp
+1201 - Algansee Twp
+0210 - Alger Co Max Cor Fac
+4102 - Algoma Twp
+7446 - Algonac
+0346 - Allegan 
+0301 - Allegan Twp
+3029 - Allen
+8280 - Allen Park
+3002 - Allen Twp
+7001 - Allendale Twp
+7101 - Allis Twp
+4201 - Allouez Twp
+2960 - Alma
+2961 - Alma College
+8001 - Almena Twp
+7902 - Almer Twp
+1001 - Almira Twp
+4439 - Almont
+4401 - Almont Twp
+1601 - Aloha Twp
+0466 - Alpena
+0461 - Alpena Com College
+0401 - Alpena Twp
+3629 - Alpha
+4103 - Alpine Twp
+5301 - Amber Twp
+3003 - Amboy Twp
+1161 - Andrews University
+8189 - Ann Arbor
+8101 - Ann Arbor Twp
+8301 - Antioch Twp
+7801 - Antrim Twp
+8002 - Antwerp Twp
+7629 - Applegate
+4161 - Aquinas College
+7903 - Arbela Twp
+2901 - Arcada Twp
+4402 - Arcadia Twp
+5101 - Arcadia Twp
+0602 - Arenac Twp
+2501 - Argentine Twp
+7601 - Argyle Twp
+8003 - Arlington Twp
+5039 - Armada
+5001 - Armada Twp
+1801 - Arthur Twp
+0701 - Arvon Twp
+5801 - Ash Twp
+6201 - Ashland Twp
+2929 - Ashley
+0801 - Assyria Twp
+1329 - Athens
+1302 - Athens Twp
+2502 - Atlas Twp
+4403 - Attica Twp
+0629 - Au Gres
+0603 - Au Gres Twp
+3502 - Au Sable Twp
+7201 - Au Sable Twp 
+0201 - Au Train Twp 
+0939 - Auburn
+6393 - Auburn Hills
+3939 - Augusta
+8102 - Augusta Twp
+3302 - Aurelius Twp
+5402 - Austin Twp
+7602 - Austin Twp
+6002 - Avery Twp
+7202 - Backus Twp
+3246 - Bad Axe
+6901 - Bagley Twp
+1101 - Bainbridge Twp
+2564 - Baker College Flint
+6161 - Baker College Muskegon
+7861 - Baker College Owosso
+4329 - Baldwin
+2101 - Baldwin Twp
+3503 - Baldwin Twp
+0802 - Baltimore Twp
+7829 - Bancroft
+8039 - Bangor
+0901 - Bangor Twp
+8004 - Bangor Twp
+0501 - Banks Twp
+0739 - Baraga
+0702 - Baraga Twp
+2102 - Bark River Twp
+1129 - Baroda 
+1102 - Baroda Twp
+0803 - Barry Twp
+5429 - Barryton
+8129 - Barton Hills
+6202 - Barton Twp
+1202 - Batavia Twp
+3601 - Bates Twp
+1901 - Bath Twp
+1380 - Battle Creek
+0980 - Bay City
+2161 - Bay De Noc Com Col
+2103 - Bay De Noc Twp
+1701 - Bay Mills Twp
+1501 - Bay Twp
+2401 - Bear Creek Twp
+5129 - Bear Lake
+4013 - Bear Lake Twp
+5102 - Bear Lake Twp
+7102 - Bearinger Twp
+1602 - Beaugrand Twp
+2001 - Beaver Creek Twp
+0902 - Beaver Twp
+6203 - Beaver Twp
+2629 - Beaverton
+2601 - Beaverton Twp
+1304 - Bedford Twp
+5802 - Bedford Twp
+3460 - Belding
+7103 - Belknap Twp
+0529 - Bellaire
+8239 - Bellville
+2339 - Bellevue
+2301 - Bellevue Twp
+5901 - Belvidere Twp
+1902 - Bengal Twp
+7802 - Bennington Twp
+6401 - Benona Twp
+2602 - Bentley Twp
+1166 - Benton Harbor
+1103 - Benton Twp
+1603 - Benton Twp
+2302 - Benton Twp
+1029 - Benzonia
+1002 - Benzonia Twp
+6601 - Bergland Twp
+6366 - Berkley 
+3401 - Berlin Twp
+5803 - Berlin Twp
+7401 - Berlin Twp
+1139 - Berrien Springs
+1104 - Berrien Twp
+1105 - Bertrand Twp
+2746 - Bessemer
+2701 - Bessemer Twp
+2902 - Bethany Twp
+1203 - Bethel Twp
+1030 - Beulah
+6367 - Beverly Hills
+6801 - Big Creek Twp
+6204 - Big Prairie Twp
+5466 - Big Rapids
+5403 - Big Rapids Twp
+2603 - Billings Twp
+6329 - Bingham Farms
+1903 - Bingham Twp
+3201 - Bingham Twp
+4501 - Bingham Twp
+7329 - Birch Run
+7302 - Birch Run Twp
+6380 - Birmingham
+7104 - Bismarck Twp
+3801 - Blackman Twp
+1003 - Blaine Twp
+2802 - Blair Twp
+7002 - Blendon Twp
+2402 - Bliss Twp
+4646 - Blissfield Twp
+4602 - Blissfield Twp
+5902 - Bloomer Twp
+6346 - Bloomfield Hills
+3202 - Bloomfield Twp
+5702 - Bloomfield Twp
+6303 - Bloomfield Twp
+8029 - Bloomingdale
+8005 - Bloomingdale Twp
+4001 - Blue Lake Twp
+6101 - Blue Lake Twp
+7303 - Blumfield Twp
+4002 - Boardman Twp
+6602 - Bohemia Twp
+4901 - Bois Blanc Twp
+8302 - Boon Twp
+3402 - Boston Twp
+2604 - Bourret Twp
+4104 - Bowne Twp
+1546 - Boyne City
+1529 - Boyne Falls
+1502 - Boyne Valley Twp
+3902 - Brady Twp
+7304 - Brady Twp
+2104 - Brampton Twp
+5302 - Branch Twp
+6304 - Brandon Twp
+7305 - Brant Twp
+2939 - Breckenridge
+8030 - Breedsville
+2201 - Breen Twp
+2202 - Breitung Twp
+4902 - Brevort Twp
+7603 - Bridgehampton Twp
+7306 - Bridgeport Twp
+6205 - Bridgeton Twp
+8103 - Bridgewater Twp
+1140 - Bridgeman 
+4739 - Brighton
+4701 - Brighton Twp
+6003 - Briley Twp
+4630 - Britton
+7402 - Brockway Twp
+1239 - Bronson
+1204 - Bronson Twp
+2303 - Brookfield Twp
+3203 - Brookfield Twp
+3839 - Brooklyn
+6120 - Brooks Regional Fac
+6206 - Brooks Twp
+3701 - Broomfield Twp
+4441 - Brown City
+7639 - Brown City
+5103 - Brown Twp
+8201 - Brownstown Twp
+1702 - Bruce Twp
+5002 - Bruce Twp
+1146 - Buchanan
+1106 - Buchanan Twp
+2605 - Buckeye Twp
+8329 - Buckley
+7604 - Buel Twp
+7307 - Buena Vista Twp
+3303 - Bunker Hill Twp
+6701 - Burdell Twp
+3504 - Burleigh Twp
+1330 - Burlington
+1305 - Burlington Twp
+4404 - Burlington Twp
+7803 - Burns Twp
+4405 - Burnside Twp
+7529 - Burr Oak
+7501 - Burr Oak Twp
+0202 - Burt Twp
+1604 - Burt Twp
+7403 - Burtchville
+2580 - Burton
+5903 - Bushnell Twp
+1205 - Butler Twp
+2606 - Butman Twp
+5703 - Butterfield Twp
+7830 - Byron
+4105 - Byron Twp
+8360 - Cadillac
+5704 - Caldwell Twp
+4129 - Caledonia
+0102 - Caledonia Twp
+4107 - Caledonia Twp
+7804 - Caledonia Twp
+1206 - California Twp
+3139 - Calumet
+3102 - Calumet Twp
+4162 - Calvin College
+4163 - Calvin Theology Sem
+1401 - Calvin Twp
+3004 - Cambria Twp
+4603 - Cambridge Twp
+3030 - Camden
+3005 - Camden Twp
+0706 - Camp Barago
+4717 - Camp Brighton
+1721 - Camp Chippewa
+0209 - Camp Cusino
+6333 - Camp Dearborn
+6326 - Camp Gilman
+2030 - Camp Grayling
+3115 - Camp Kitwen
+1722 - Camp Koehler
+2007 - Camp Lehman
+7709 - Camp Manistique
+2708 - Camp Ojibway
+3608 - Camp Ottawa
+2417 - Camp Pellston
+6327 - Camp Pontiac
+2814 - Camp Pigsley
+5316 - Camp Sauble
+7924 - Camp Tuscola
+3825 - Camp Waterloo
+3403 - Campbell Twp
+4106 - Cannon Twp
+8202 - Canton Twp
+7439 - Capac
+1934 - Capital City Air
+5839 - Carlton
+0804 - Carlton Twp
+2304 - Carmel Twp
+5532 - Carney
+7946 - Caro
+2403 - Carp Lake Twp
+6603 - Carp Lake Twp
+7308 - Carrollton Twp
+5939 - Carson City
+5922 - Carson City Reg Fac
+5921 - Carson City Temp Fac
+7630 - Carsonville
+4108 - Cascade Twp
+0302 - Casco Twp
+7404 - Casco Twp
+7105 - Case Twp
+3229 - Caseville
+3204 - Caseville Twp
+4130 - Casnovia
+6129 - Casnovia
+6102 - Casnovia Twp
+3639 - Caspian
+7936 - Cass City
+8123 - Cassidy Lake Tech School
+1439 - Cassopolis
+0805 - Castleton Twp
+5904 - Cato Twp
+6103 - Cedar Creek Twp
+8303 - Cedar Creek Twp
+4139 - Cedar Springs
+6702 - Cedar Twp
+5501 - Cedarville Twp
+3829 - Cement City
+4631 - Cement City
+3766 - Cent. Mich. Univ.
+5066 - Centerline
+2404 - Center Twp
+4502 - Centerville Twp
+8222 - Central Bible Col
+0530 - Central Lake
+0502 - Central Lake Twp
+7539 - Centreville
+5201 - Champion Twp
+1503 - Chandler Twp
+3205 - Chandler Twp
+7309 - Chapin Twp
+3903 - Charleston Twp
+1547 - Charlevoix
+1504 - Charlevoix Twp
+2360 - Charlotte
+6902 - Charlton Twp
+4301 - Chase Twp
+3103 - Chassell Twp
+0229 - Chatham
+1660 - Cheboygan
+8146 - Chelsea
+8304 - Cherry Grove Twp
+4302 - Cherry Valley Twp
+7346 - Chesaning
+7310 - Chesaning Twp
+0303 - Cheshire Twp
+2305 - Chester Twp
+6903 - Chester Twp
+7003 - Chester Twp
+5003 - Chesterfield Twp
+0503 - Chestonia Twp
+1107 - Chikaming Twp
+7405 - China Twp
+1720 - Chippewa Reg Fac
+1717 - Chippewa Temp Fac
+1703 - Chippewa Twp
+3702 - Chippewa Twp
+5404 - Chippewa Twp
+5202 - Chocolay Twp
+6501 - Churchill Twp
+8305 - Clam Lake Twp
+5705 - Clam Union Twp
+1846 - Clare
+3746 - Clare
+1306 - Clarence Twp
+1307 - Clarendon Twp
+4903 - Clark Twp
+6339 - Clarkston
+3429 - Clarksville
+6368 - Clawson
+6402 - Clay Banks Twp
+7406 - Clay Twp
+4632 - Clayton
+0604 - Clayton Twp
+2504 - Clayton Twp
+4003 - Clearwater Twp
+8161 - Cleary College
+2607 - Clement Twp
+5104 - Cleon Twp
+4503 - Cleveland Twp
+4429 - Clifford
+3929 - Climax
+3904 - Climax Twp
+4639 - Clinton
+4604 - Clinton Twp
+5004 - Clinton Twp
+6802 - Clinton Twp
+2539 - Clio
+0304 - Clyde Twp
+7407 - Clyde Twp
+8220 - Cntr Creative Std Col
+8221 - Cntr Humanistic Std
+3703 - Coe Twp
+4702 - Cohoctah
+4004 - Cold Springs Twp
+1260 - Coldwater
+1207 - Coldwater Twp
+3704 - Coldwater Twp
+5639 - Coleman
+1004 - Colfax Twp
+3206 - Colfax Twp
+5405 - Colfax Twp
+6403 - Colfax Twp
+8306 - Colfax Twp
+1141 - Coloma
+1108 - Coloma Twp
+7540 - Colon
+7502 - Colon Twp
+3802 - Columbia Twp
+7904 - Columbia Twp
+8006 - Columbia Twp
+4430 - Columbiaville
+4801 - Columbus Twp
+7408 - Columbus Twp
+6803 - Comins Twp
+6305 - Commerce Twp
+3905 - Comstock Twp
+3830 - Concord 
+3803 - Concord Twp
+8162 - Concordia College
+7541 - Constantine
+7503 - Constantine Twp
+1308 - Convis Twp
+4703 - Conway Twp
+3906 - Cooper Twp
+7039 - Coopersville
+5130 - Copemish
+3129 - Copper City
+2105 - Cornell Twp
+3821 - Corrections Camp Pig
+7846 - Corruna
+6904 - Corwith Twp
+7409 - Cottrellville
+4109 - Courtland Twp
+8007 - Covert Twp
+0703 - Covington Twp
+6395 - Cranbrook Art Acad
+7004 - Crockery Twp
+2405 - Cross Village Twp
+7640 - Croswell
+6207 - Croton Twp
+3640 - Crystal Falls
+3602 - Crystal Falls Twp
+1005 - Crystal Lake Twp
+5905 - Crystal Twp
+6404 - Crystal Twp
+6502 - Cumming Twp
+0103 - Curtis Twp
+5329 - Custer
+0504 - Custer Twp
+5303 - Custer Twp
+7605 - Custer Twp
+1704 - Dafter Twp
+5529 - Daggett
+5502 - Daggett Twp
+1904 - Dallas Twp
+6104 - Dalton Twp
+3404 - Danby Twp
+3329 - Dansville
+4164 - Davenport Bus Col
+2560 - Davison
+2505 - Davison Twp
+5906 - Day Twp
+6208 - Dayton Twp
+7905 - Dayton Twp
+8295 - Dearborn
+8289 - Dearborn
+8040 - Decatur
+8008 - Decatur Twp
+7631 - Deckerville
+0605 - Deep River Twp
+4633 - Deerfield
+3705 - Deerfield Twp
+4406 - Deerfield Twp
+4605 - Deerfield Twp
+4704 - Deerfield Twp
+5406 - Deerfield Twp
+7606 - Delaware Twp
+3304 - Delhi Twp
+0960 - Delta College
+5660 - Delta College
+7360 - Delta College
+2306 - Delta Twp
+7906 - Denmark Twp
+7203 - Denton Twp
+3706 - Denver Twp
+6209 - Denver Twp
+8224 - Det Bapt Theol Sem
+8225 - Det Col of Business
+8226 - Det Col of Law
+8287 - Det Metro Airpt
+1729 - Detour
+1705 - Detour Twp
+8223 - Detre Univ
+8299 - Detroit
+1939 - Dewitt
+1905 - Dewitt Twp
+8139 - Dexter 
+8104 - Dexter Twp
+5105 - Dickson Twp
+2329 - Dimondale
+0305 - Dorr Twp
+0329 - Douglas
+5907 - Douglass Twp
+4303 - Dover Twp
+4606 - Dover Twp
+6905 - Dover Twp
+1460 - Dowagiac
+7701 - Doyle Twp
+1706 - Drummond Twp
+4431 - Dryden 
+4407 - Dryden Twp
+3827 - Duane Waters Hospital
+3104 - Duncan Twp
+5840 - Dundee 
+5804 - Dundee Twp
+1906 - Duplain Twp
+7847 - Durand
+3207 - Dwight Twp
+4166 - E. Grand Rapids
+8166 - E. Mich. Univ.
+1929 - Eagle
+4202 - Eagle Harbor Twp
+1907 - Eagle Twp
+2803 - East Bay Twp
+7410 - East China Twp
+5080 - East Detroit
+1539 - East Jordan
+5131 - East Lake
+3380 - East Lansing
+3539 - East Tawas
+3405 - Easton Twp
+2346 - Eaton Rapids
+2308 - Eaton Rapids Twp
+2307 - Eaton Twp
+1130 - Eau Claire
+0505 - Echo Twp
+1309 - Eckford Twp
+8266 - Ecorse
+8227 - Ecumenical Theol Col
+4304 - Eden Twp
+5304 - Eden Twp
+5601 - Edenville Twp
+5940 - Edmore
+6503 - Edwards Twp
+1440 - Edwardsburg
+3820 - Egeler Corr Fac
+6105 - Eggleston Twp
+2903 - Elba Twp
+4408 - Elba Twp
+1031 - Elberta
+6405 - Elbridge Twp
+0539 - Elk Rapids
+0506 - Elk Rapids Twp
+4305 - Elk Twp
+7607 - Elk Twp
+7907 - Elkland Twp
+3230 - Elkton
+7908 - Ellington Twp
+1605 - Ellis Twp
+0531 - Ellsworth
+4306 - Ellsworth Twp
+3105 - Elm River Twp
+6804 - Elmer Twp
+7608 - Elmer Twp
+6906 - Elmira Twp
+4504 - Elmwood Twp
+7909 - Elmwood Twp
+1930 - Elsie
+5203 - Ely Twp
+2904 - Emerson Twp
+7429 - Emmett
+1310 - Emmett Twp
+7411 - Emmett Twp
+4529 - Empire
+4505 - Empire Twp
+2106 - Ensign Twp
+6210 - Ensley Twp
+5706 - Enterprise Twp
+5805 - Erie Twp
+2703 - Erwin Twp
+2166 - Escanaba
+2107 - Escanaba Twp
+1908 - Essex Twp
+0946 - Essexville
+5829 - Estral Beach
+5908 - Eureka Twp
+1505 - Evangelina Twp
+6739 - Evart
+6703 - Evart Twp
+1506 - Eveline Twp
+6211 - Everett Twp
+5909 - Evergreen Twp
+7609 - Evergreen Twp
+5204 - Ewing Twp
+4005 - Excelsior Twp
+5806 - Exeter Twp
+7504 - Fabius Twp
+2108 - Fairbanks Twp
+4607 - Fairfield Twp
+7805 - Fairfield Twp
+7930 - Fairgrove 
+7910 - Fairgrove Twp
+3208 - Fairhaven Twp
+5910 - Fairplain Twp
+5503 - Faithorn Twp
+6369 - Farmington
+6385 - Farmington Hills
+1830 - Farwell
+7505 - Fawn River Twp
+3006 - Fayette Twp
+2203 - Felch Twp
+0330 - Fennville
+2561 - Fenton
+2506 - Fenton Twp
+6381 - Ferndale
+5460 - Ferris State Univ
+5911 - Ferris Twp
+6406 - Ferry Twp
+7040 - Ferrysburg
+2829 - Fife Lake
+2804 - Fife Lake Twp
+5106 - Filer Twp
+0306 - Fillmore Twp
+8260 - Flat Rock
+2595 - Flint 
+2507 - Flint Twp
+1217 - Flor Crane Women Fac
+7506 - Florence Twp
+7507 - Flowerfield Twp
+2562 - Flushing
+2508 - Flushing Twp
+7610 - Flynn Twp
+2109 - Ford River Twp
+0507 - Forest Home Twp
+1606 - Forest Twp
+2509 - Forest Twp 
+5707 - Forest Twp
+7611 - Forester Twp
+7632 - Forestville
+5407 - Fork Twp
+5205 - Forsyth Twp
+7412 - Fort Gratiot Twp
+6504 - Foster Twp
+5330 - Fountain
+1940 - Fowler
+4740 - Fowlerville
+0903 - Frankenlust Twp
+7347 - Frankenmuth
+7311 - Frankenmuth Twp
+1039 - Frankfort
+6347 - Franklin
+1802 - Franklin Twp
+3106 - Franklin Twp
+4608 - Franklin Twp
+5067 - Fraser
+0904 - Fraser Twp
+2002 - Frederic Twp
+1311 - Fredonia Twp
+8105 - Freedom Twp
+1803 - Freeman Twp
+0829 - Freeport
+5331 - Freesoil
+5305 - Freesoil Twp
+6246 - Fremont
+3707 - Fremont Twp
+7312 - Fremont Twp
+7612 - Fremont Twp
+7911 - Fremont Twp
+5807 - Frenchtown Twp
+2406 - Friendship Twp
+1804 - Frost Twp
+6106 - Fruitland Twp
+6139 - Fruitport
+7041 - Fruitport
+6107 - Fruitport Twp
+2905 - Fulton Twp
+3822 - G Rbt Cotton Corr Fac
+3630 - Gaastra
+7931 - Gagetown
+2529 - Gaines
+2510 - Gaines Twp
+4110 - Gaines Twp
+3940 - Galesburg
+1131 - Galien
+1109 - Galien Twp
+0307 - Ganges Twp
+2129 - Garden
+8281 - Garden City
+2110 - Garden Twp
+0905 - Garfield Twp
+1805 - Garfield Twp
+2805 - Garfield Twp
+4006 - Garfield Twp
+4904 - Garfield Twp
+6212 - Garfield Twp
+6946 - Gaylord
+2511 - Genesee Twp
+5602 - Geneva Twp
+8009 - Geneva Twp 
+4705 - Genoa Twp
+7005 - Georgetown Twp
+7702 - Germfask Twp
+7204 - Gerrish Twp
+8246 - Gibralter
+0906 - Gibson Twp
+1208 - Gilead Twp
+7912 - Gilford Twp
+1006 - Gilmore Twp
+3708 - Gilmore Twp
+1209 - Girard Twp
+2160 - Gladstone
+2639 - Gladwin
+2608 - Gladwin Twp
+4506 - Glen Arbor Twp
+7562 - Glen Oaks Com Col
+2565 - GMI Eng - Mgt Inst
+8031 - Gobles
+2762 - Gogebic Com Col
+6407 - Golden Twp
+6505 - Goodar Twp
+4409 - Goodland Twp
+2530 - Goodrich
+6213 - Goodwell Twp
+3209 - Gore Twp
+5504 - Gourley Twp
+7060 - Gr Valley St Univ
+4165 - Grace Bible Col
+1132 - Grand Beach
+2563 - Grand Blanc 
+2512 - Grand Blanc Twp
+7066 - Grand Haven
+7006 - Grand Haven Twp
+0203 - Grand Island Twp
+2361 - Grand Ledge
+4195 - Grand Rapids
+4111 - Grand Rapids Twp
+4167 - Grandville
+6229 - Grant
+1607 - Grant Twp
+1806 - Grant Twp 
+2806 - Grant Twp
+3210 - Grant Twp
+3505 - Grant Twp
+4203 - Grant Twp
+5306 - Grant Twp
+5408 - Grant Twp
+6214 - Grant Twp
+6408 - Grant Twp
+7413 - Grant Twp
+3840 - Grass Lake 
+3804 - Grass Lake Twp
+4112 - Grattan Twp
+2039 - Grayling
+2003 - Grayling Twp
+4150 - Grd Rapids Bap Col
+4154 - Grd Rapids Com Col
+3361 - Great Lakes Bible Col
+2807 - Green Lakes Twp
+4706 - Green Oak Twp
+0402 - Green Twp
+5409 - Green Twp 
+0104 - Greenbush Twp
+1909 - Greenbush Twp
+5603 - Greendale Twp
+6604 - Greenland Twp
+7613 - Greenleaf Twp
+5960 - Greenville
+1807 - Greenwood Twp
+6409 - Greenwood Twp
+6805 - Greenwood Twp
+7414 - Greenwood Twp
+8307 - Greenwood Twp
+2609 - Grim Twp
+8204 - Grosse Isle Twp
+8261 - Grosse Pointe
+5046 - Grosse Pointe Sh.
+8205 - Grosse Pointe Twp
+8267 - Grosse Pointe Farms
+8268 - Grosse Pointe Park
+8247 - Grosse Pointe Shores
+8269 - Grosse Pointe Woods
+2610 - Grout Twp
+6307 - Groveland Twp
+7361 - Grt Lks Jr Bus Col
+0308 - Gunplain Twp
+4624 - Gus Harrison Reg Fac
+0105 - Gustin Twp
+4410 - Hadley Twp
+1110 - Hagar Twp
+6605 - Haight Twp
+4707 - Hamburg Twp
+1808 - Hamilton Twp
+2906 - Hamilton Twp
+8010 - Hamilton Twp
+2309 - Hamlin Twp 
+5308 - Hamlin Twp
+0907 - Hampton Twp
+8282 - Hamtramck
+3146 - Hancock
+3107 - Hancock Twp
+3417 - Handlon Mi Trn Unit
+4708 - Handy Twp
+3831 - Hanover
+3805 - Hanover Twp
+8309 - Hanover Twp
+3239 - Harbor Beach
+2439 - Harbor Springs
+8308 - Haring Twp
+8270 - Harper Woods
+8330 - Harrietta
+5505 - Harris Twp
+1839 - Harrison
+5005 - Harrison Twp
+0129 - Harrisville
+0106 - Harrisville Twp
+6439 - Hart
+6410 - Hart Twp
+8046 - Hartford 
+8011 - Hartford Twp
+4709 - Hartland
+6704 - Hatwick Twp
+0860 - Hastings
+0806 - Hastings Twp
+1809 - Hatton Twp
+0107 - Hawes Twp
+2611 - Hay Twp
+1507 - Hayes Twp
+1810 - Hayes Twp
+6907 - Hayes Twp
+0108 - Haynes Twp
+6370 - Hazel Park
+7806 - Hazelton Twp
+0309 - Heath Twp
+1608 - Hebron Twp
+0508 - Helena Twp
+3603 - Hematite Twp
+8310 - Henderson Twp
+4905 - Hendricks Twp
+3806 - Henrietta Twp
+8234 - Henry Ford Com Col
+6729 - Hersey 
+6705 - Hersey Twp
+6230 - Hesperia
+6429 - Hesperia
+1719 - Hiawatha Temp Fac
+7703 - Hiawatha Twp
+7205 - Higgins Twp
+8283 - Highland Park
+8235 - Highland Park Com Col
+6308 - Highland Twp
+6706 - Highland Twp
+6506 - Hill Twp
+6029 - Hillman
+6004 - Hillman Twp
+3060 - Hillsdale
+3061 - Hillsdale Col
+3007 - Hillsdale Twp
+5410 - Hinton Twp
+0380 - Holland
+7080 - Holland
+5708 - Holland Twp
+7007 - Holland Twp
+6348 - Holly
+6309 - Holly Twp
+5506 - Holmes Twp
+6108 - Holton Twp
+5912 - Home Twp
+6215 - Home Twp
+1339 - Homer
+1312 - Homer Twp
+5604 - Homer Twp
+1007 - Homestead Twp
+1032 - Homor
+7029 - Hope College
+0807 - Hope Twp
+5605 - Hope Twp
+0331 - Hopkins
+0310 - Hopkins Twp
+6507 - Horton Twp
+3160 - Houghton
+4204 - Houghton Twp
+5941 - Howard City
+1402 - Howard Twp
+4760 - Howell
+4710 - Howell Twp
+1931 - Hubbardston
+3430 - Hubbardston
+4640 - Hudson
+8140 - Hudson Mills Pk
+1508 - Hudson Twp
+4609 - Hudson Twp 
+4906 - Hudson Twp
+7046 - Hudsonville
+1707 - Hulbert Twp
+5206 - Humboldt Twp
+3211 - Hume Twp
+6360 - Huntington Woods
+3212 - Huron Twp
+8206 - Huron Twp
+8121 - Huron Valley Men Fac
+8122 - Huron Valley Women Fac
+5808 - Ida Twp
+4440 - Imlay City
+4411 - Imlay Twp
+6310 - Independence Twp
+7913 - Indianfields Twp
+5507 - Ingallston Twp
+5606 - Ingersoll Twp
+3305 - Ingham Twp
+8284 - Inkster
+1008 - Inland Twp
+6606 - Interior Twp
+1609 - Inverness Twp
+7704 - Inwood Twp
+3461 - Ionia
+3418 - Ionia Maximum Fac
+3419 - Ionia Temp Fac
+3406 - Ionia Twp
+4711 - Iosco Twp
+7415 - Ira Twp
+2260 - Iron Mountain
+3646 - Iron River
+3604 - Iron River Twp
+2760 - Ironwood
+2704 - Ironwood Twp
+0808 - Irving Twp
+3709 - Isabella Twp
+5260 - Ishpeming
+5207 - Ishpeming Twp
+2946 - Ithaca
+3880 - Jackson
+3862 - Jackson Com Col
+7313 - James Twp
+7008 - Jamestown Twp
+5607 - Jasper Twp
+1403 - Jefferson Twp
+3008 - Jefferson Twp
+5608 - Jerome Twp
+0809 - Johnstown Twp
+7314 - Jonesfield Twp
+3039 - Jonesville 
+4151 - Jordan College
+0509 - Jordan Twp
+1009 - Joyfield Twp
+7914 - Juniata Twp
+3989 - Kalamazoo
+3961 - Kalamazoo Col
+3907 - Kalamazoo Twp
+3963 - Kalamazoo Val Com Col
+2310 - Kalamo Twp
+5132 - Kaleva
+4039 - Kalkaska
+4007 - Kalkaska Twp
+4507 - Kasson Twp
+0908 - Kawkawlin Twp
+0510 - Kearney Twp
+6349 - Keego Harbor
+8012 - Keeler Twp
+3407 - Keene Twp
+1362 - Kellogg Com Col
+4152 - Kendall Col Art Design
+7416 - Kenockee Twp
+6371 - Kensington Park
+4131 - Kent City
+4168 - Kentwood
+7417 - Kimball Twp
+3231 - Kinde
+1210 - Kinderhook Twp
+2261 - Kingsford
+2830 - Kingsley
+7932 - Kingston
+7915 - Kingston Twp
+1718 - Kinross Corr Fac
+1708 - Kinross Twp
+7261 - Kirtland Com Col
+6508 - Klacking Twp
+7315 - Kochville Twp
+1610 - Koehler Twp
+7916 - Koylton Twp
+7106 - Krakow Twp
+2907 - Lafayette Twp
+1404 - Lagrange Twp
+7839 - Laingsburg
+3108 - Laird Twp
+6330 - Lake Angelus
+1033 - Lake Ann
+5729 - Lake City
+3140 - Lake Linden
+1162 - Lake Mich Col
+3439 - Lake Odessa
+6350 - Lake Orion
+1739 - Lake Superior State
+1010 - Lake Twp
+1111 - Lake Twp 
+3213 - Lake Twp 
+4307 - Lake Twp
+5013 - Lake Twp
+5508 - Lake Twp
+5709 - Lake Twp
+7206 - Lake Twp
+4802 - Lakefield Twp
+7316 - Lakefield Twp
+1218 - Lakeland Corr Fac
+6109 - Laketon Twp
+0311 - Laketown Twp
+5942 - Lakeview
+6130 - Lakewood Club
+7614 - Lamotte Twp
+0746 - Lanse
+0704 - Lanse Twp
+1995 - Lansing
+2395 - Lansing
+3395 - Lansing
+1963 - Lansing Com Col
+3363 - Lansing Com Col
+3306 - Lansing Twp
+4460 - Lapeer
+4412 - Lapeer Twp
+5609 - Larkin Twp
+5809 - LaSalle Twp
+6351 - Lathrup Village
+3147 - Laurium
+8032 - Lawrence
+6396 - Lawrence Tech Univ
+8013 - Lawrence Twp
+8041 - Lawton
+6411 - Leavitt
+1910 - Lebanon
+0312 - Lee Twp
+1313 - Lee Twp
+5610 - Lee Twp
+4508 - Leelanau Twp
+0313 - Leighton Twp
+4509 - Leland Twp
+4532 - Leland Village
+2534 - Lennon
+7834 - Lennon
+5006 - Lenox Twp
+6331 - Leonard
+3807 - Leoni Twp
+7508 - Leonidas Twp
+6730 - Leroy
+1314 - Leroy Twp
+3307 - Leroy Twp
+6707 - Leroy Twp
+3339 - Leslie
+3308 - Leslie Twp
+8228 - Lewis Col of Bus
+7633 - Lexington
+7615 - Lexington Twp
+3808 - Liberty Twp
+8311 - Liberty Twp
+6216 - Lilley Twp
+8106 - Lima Twp
+0204 - Limestone Twp
+0130 - Lincoln
+8290 - Lincoln Park
+0606 - Lincoln Twp
+1112 - Lincoln Twp
+1811 - Lincoln Twp
+3214 - Lincoln Twp
+3710 - Lincoln Twp 
+5611 - Lincoln Twp 
+6217 - Lincoln Twp
+6708 - Lincoln Twp
+2540 - Linden
+3040 - Litchfield
+3009 - Litchfield Twp
+2408 - Little Traverse Twp
+2407 - Littlefield Twp
+6908 - Livingston Twp
+8296 - Livonia
+3309 - Locke Twp
+7509 - Lockport Twp
+8107 - Lodi Twp
+5307 - Logan Twp
+6509 - Logan Twp
+5810 - London Twp
+2808 - Long Lake Twp
+0403 - Long Rapids Twp
+6005 - Loud Twp
+2004 - Lovells Twp
+4146 - Lowell 
+4113 - Lowell Twp
+8262 - Lower Huron Park
+5360 - Ludington
+5841 - Luna Pier
+4330 - Luther
+8108 - Lyndon Twp
+7418 - Lynn Twp
+6311 - Lyon Twp
+7207 - Lyon Twp
+3431 - Lyons
+3408 - Lyons Twp
+4929 - Mackinac Island
+1629 - Mackinaw City
+2430 - Mackinaw City
+1612 - Mackinaw Twp
+5030 - Macomb Com Col
+5014 - Macomb Reg Cor Fac
+5007 - Macomb Twp
+4610 - Macon Twp
+6382 - Madison Heights
+4611 - Madison Twp
+8229 - Madonna Col
+0540 - Mancelona
+0511 - Mancelona Twp
+8141 - Manchester
+8109 - Manchester Twp
+5160 - Manistee
+5107 - Manistee Twp
+7746 - Manistique
+7705 - Manistique Twp
+0314 - Manlius Twp
+3605 - Mansfield Twp
+8339 - Manton
+2005 - Maple Forest Twp
+0810 - Maple Grove Twp
+5108 - Maple Grove Twp
+7317 - Maple Grove Twp
+1932 - Maple Rapids
+0404 - Maple Ridge Twp
+2111 - Maple Ridge Twp
+2411 - Maple River Twp
+5913 - Maple Valley Twp
+7616 - Maple Valley Twp
+4413 - Marathon Twp
+1441 - Marcellus
+1405 - Marcellus Twp
+1315 - Marengo Twp
+2705 - Marenisco Twp
+5109 - Marella Twp
+7447 - Marine City
+6731 - Marion
+1509 - Marion Twp
+4712 - Marion Twp
+6709 - Marion Twp
+7318 - Marion Twp
+7617 - Marion Twp
+7208 - Markey Twp
+7641 - Marlette
+7618 - Marlette Twp
+5266 - Marquette
+5230 - Marquette Airport
+5220 - Marquette Branch Prs
+4907 - Marquette Twp
+5208 - Marquette Twp
+1360 - Marshall
+1316 - Marshall Twp
+0332 - Martin
+0315 - Martin Twp
+5411 - Marteny Twp
+8230 - Marygrove Col
+7460 - Marysville 
+3360 - Mason
+0607 - Mason Twp
+1406 - Mason Twp
+2112 - Masonville Twp
+3606 - Mastadon Twp
+6607 - Matchwood Twp
+0205 - Mathias Twp
+8042 - Mattawan
+1211 - Matteson Twp
+5830 - Maybee
+2809 - Mayfield Twp
+4414 - Mayfield Twp
+7933 - Mayville
+5730 - McBain
+5929 - McBride
+2409 - McKinley Twp
+3215 - McKinley Twp
+4803 - McMillan Twp
+6608 - McMillan Twp
+3216 - Meade Twp
+5309 - Meade Twp
+5430 - Mecosta
+5412 - Mecosta Twp
+4612 - Medina Twp
+5509 - Mellen Twp
+1510 - Melrose Twp
+7634 - Melvin
+8271 - Melvindale
+5040 - Memphis
+7440 - Memphis
+7530 - Mendon
+7510 - Mendon Twp
+5566 - Menominee
+5510 - Menominee Twp
+1613 - Mentor Twp
+6806 - Mentor Twp
+8231 - Mercy Col Detroit
+3310 - Meridian Twp
+7330 - Merrill
+6218 - Merrill Twp
+0909 - Merritt Twp
+8331 - Mesick
+4432 - Metamora
+4415 - Metamora Twp
+5035 - Metro Beach
+7107 - Metz Twp
+5511 - Meyer Twp
+6397 - Mich Christian Col
+0325 - Mich Dunes Corr Fac
+3389 - Mich State Univ
+3161 - Mich Tech Univ
+1133 - Michiana
+5209 - Michigamme Twp
+3826 - Michigan Parole
+3420 - Michigan Reformatory
+1861 - Mid Mich Com Col
+6710 - Middle Branch Twp
+7807 - Middlebury Twp
+0839 - Middleville
+0981 - Midland
+5680 - Midland
+5612 - Midland Twp
+2917 - MidMi Temp Corr Fac
+6398 - Midraska Jewish Col
+0109 - Mikado Twp
+5846 - Milan
+8147 - Milan
+5811 - Milan Twp
+6352 - Milford
+6312 - Milford Twp
+5413 - Mellbrook Twp
+0110 - Millen Twp
+7129 - Millersburg
+7940 - Millington
+7917 - Millington Twp
+5613 - Mills Twp
+6510 - Mills Twp
+0512 - Milton Twp
+1407 - Milton Twp
+7635 - Minden City
+7619 - Minden Twp
+3631 - Mineral Hills
+0111 - Mitchell Twp
+0608 - Moffatt
+7108 - Moltke Twp
+0910 - Monitor Twp
+5866 - Monroe
+5861 - Monroe Co Com Col
+5812 - Monroe Twp
+6219 - Monroe Twp
+6140 - Montague
+6110 - Montague Twp
+5961 - Montcalm Com Col
+5914 - Montcalm Twp
+0316 - Monterey Twp
+3031 - Montgomery
+6006 - Montmorency Twp
+2541 - Montrose
+2513 - Montrose Twp
+7620 - Moore Twp
+6111 - Moorland Twp
+4908 - Moran Twp
+4640 - Morenci
+5431 - Morley
+7831 - Morrice
+5414 - Morton Twp
+3010 - Moscow Twp
+2566 - Mott Com Col
+7511 - Mottville Twp
+8219 - Mound Reg Cor Fac
+5068 - Mt Clemens
+0911 - Mt Forest Twp
+5614 - Mt Haley Twp
+2546 - Mt Morris
+2514 - Mt Morris Twp
+3767 - Mt Pleasant
+7706 - Mueller Twp
+3432 - Muir
+1614 - Mullett Twp
+2330 - Mulliken
+2515 - Mundy Twp
+0246 - Munising
+0206 - Munising Twp
+1615 - Munro Twp
+6180 - Muskegon
+6162 - Muskegon Com Col
+6118 - Muskegon Corr Fac
+6166 - Muskegon Heights
+6119 - Muskegon Temp Fac
+6112 - Muskegon Twp
+7419 - Mussey Twp
+5262 - N Michigan Univ
+5512 - Nadeau Twp
+2113 - Nahma Twp
+3809 - Napoleon Twp
+0840 - Nashville 
+3962 - Nazareth Col
+5261 - Negaunee
+5210 - Negaunee Twp
+4114 - Nelson Twp
+7209 - Nester Twp
+5047 - New Baltimore
+1147 - New Buffalo
+1113 - New Buffalo Twp
+6430 - New Era
+6412 - New Field Twp
+5041 - New Haven
+2909 - New Haven Twp
+7808 - New Haven Twp
+7832 - New Lothrop
+2908 - Newark Twp
+6239 - Newaygo
+1408 - Newberg Twp
+4839 - Newberry
+4805 - Newberry Cor Fac
+4308 - Newkirk Twp
+1317 - Newton Twp
+4909 - Newton Twp
+1167 - Niles
+1467 - Niles
+1114 - Niles Twp
+1212 - Noble Twp
+5110 - Norman Twp
+3032 - North Adams
+7109 - North Allis Twp
+4433 - North Branch
+4416 - North Branch Twp
+2461 - North Cent Mi Col
+6146 - North Muskegon
+3409 - North Plains Twp
+2910 - North Shade Twp
+2911 - North Star Twp
+8110 - Northfield Twp
+4530 - Northport
+6361 - Northville
+8263 - Northville
+8208 - Northville Twp
+2861 - Northwestern Mi Col
+5661 - Northwoods Inst
+6167 - Norton Shores
+3810 - Norvell
+2246 - Norway
+2204 - Norway Twp
+5710 - Norwich Twp
+6220 - Norwich Twp
+1511 - Norwood Twp
+3711 - Nottawa Twp
+7512 - Nottawa Twp
+7918 - Novesta Twp
+6362 - Novi
+6313 - Novi Twp
+1616 - Nunda Twp
+6383 - Oak Park
+4115 - Oakfield Twp
+6325 - Oakland Co Com Col
+6314 - Oakland Twp
+6372 - Oakland Univ
+7331 - Oakley
+5115 - Oaks Facility
+4713 - Oceola Twp
+7110 - Ocqueoc Twp
+3410 - Odessa Twp
+4613 - Ogden Twp
+6511 - Ogemaw Twp
+1911 - Olive Twp
+7009 - Olive Twp
+3217 - Oliver Twp
+2340 - Olivet
+2365 - Olivet College
+0630 - Omer
+7139 - Onaway
+2311 - Oneida Twp
+5133 - Onekama
+5111 - Onekama Twp
+3311 - Onondaga Twp
+0207 - Onota Twp
+4634 - Onsted
+6639 - Ontonagon
+6609 - Ontonagon Twp
+1409 - Ontwa Twp
+3411 - Orange Twp
+4009 - Orange Twp
+0811 - Orangeville Twp
+6340 - Orchard Lake
+4417 - Oregon Twp
+6711 - Orient Twp
+6315 - Orion Twp
+3412 - Orleans Twp
+1115 - Oronoko Twp
+6332 - Ortonville 
+3109 - Osceola Twp
+6712 - Osceola Twp
+3506 - Oscoda Twp
+3908 - Oshtemo Twp
+0405 - Ossineke Twp
+3413 - Otisco Twp
+2532 - Otisville
+0347 - Otsego
+6909 - Otsego Lk Twp
+0317 - Otsego Twp
+2531 - Otter Lake
+4434 - Otter Lake
+6413 - Otto Twp
+0318 - Overisel Twp
+1941 - Ovid
+1213 - Ovid Twp
+1912 - Ovid Twp
+3232 - Owendale
+7866 - Owosso
+7809 - Owosso Twp
+6353 - Oxford
+6316 - Oxford Twp
+4614 - Palmyra Twp
+2811 - Paradise Twp
+3941 - Parchment
+3218 - Paris Twp
+7010 - Park Twp
+7513 - Park Twp
+3832 - Parma
+3811 - Parma Twp
+3909 - Pavillon Twp
+8047 - Paw Paw
+8014 - Paw Paw Twp
+4309 - Peacock Twp
+1512 - Peanie Twp
+7636 - Peck
+2431 - Pellston
+2810 - Peninsula Twp
+1410 - Penn Twp
+1318 - Pennfield Twp
+4804 - Pentland Twp
+6431 - Pentwater
+6414 - Pentwater Twp
+5310 - Pere Marquette Twp
+2930 - Perrinton
+7840 - Perry
+7810 - Perry Twp
+5842 - Petersburg
+2460 - Petosky
+3433 - Pewamo
+8215 - Pheonix Corr Fac
+1709 - Pickford Twp
+5930 - Pierson
+5915 - Pierson Twp
+3240 - Pigeon
+4729 - Pinckney
+0940 - Pinconning
+0912 - Pinconning Twp
+8015 - Pine Grove Twp
+2912 - Pine River Twp
+5916 - Pine Twp
+4310 - Pinora Twp
+5711 - Pioneer Twp
+1116 - Pipestone Twp
+8111 - Pittsfield Twp
+3011 - Pittsford Twp
+3507 - Plainfield Twp
+4117 - Plainfield Twp
+0348 - Plainwell
+1011 - Platte Twp
+4311 - Pleasant Plains Twp
+6354 - Pleasant Ridge
+2410 - Pleasant View Twp
+5112 - Pleasanton Twp
+8272 - Plymouth
+8209 - Plymouth Twp
+1411 - Pokagon Twp
+7011 - Polkton Twp
+6389 - Pontiac
+3233 - Port Austin
+3220 - Port Austin Twp
+3234 - Port Hope
+7480 - Port Huron
+7420 - Port Huron Twp
+7637 - Port Sanilac
+7012 - Port Sheldon Twp
+3980 - Portage
+3110 - Portage Twp
+4910 - Portage Twp
+1412 - Porter Twp
+5615 - Porter Twp
+8016 - Porter Twp
+3446 - Portland
+3414 - Portland Twp
+0913 - Portsmouth Twp
+7130 - Posen
+7111 - Posen Twp
+2341 - Potterville
+5211 - Powell Twp
+5530 - Powers
+3910 - Prairie Ronde Twp
+0812 - Prairieville Twp
+6529 - Prescott
+7112 - Presque Isle Twp
+3219 - Pte Aux Barques Twp
+3812 - Pulaski Twp
+7113 - Pulawski Twp
+4714 - Putnam Twp
+1240 - Quincy
+1214 - Quincy Twp
+3114 - Quincy Twp
+1710 - Raber Twp
+4615 - Raisin Twp
+5813 - Raisinville Twp
+3012 - Ransom Twp
+4010 - Rapid River Twp
+6141 - Ravenna
+6114 - Ravenna Twp
+5008 - Ray Twp
+3041 - Reading
+3013 - Reading Twp
+2412 - Readmond Twp
+3824 - Rec and Guidance Cen
+1812 - Redding Twp
+8210 - Redford Twp
+6740 - Reed City
+5712 - Reeder Twp
+7941 - Reese
+4153 - Reformed Bible Col
+3508 - Reno Twp
+5212 - Republic Twp
+2413 - Resort Twp
+5917 - Reynolds Twp
+4418 - Rich Twp
+2516 - Richfield Twp
+7210 - Richfield Twp
+3930 - Richland
+3911 - Richland Twp
+5713 - Richland Twp
+5918 - Richland Twp
+6512 - Richland Twp
+7319 - Richland Twp
+5048 - Richmond
+5009 - Richmond Twp
+5213 - Richmond Twp
+6713 - Richmond Twp
+4616 - Ridgeway Twp
+4617 - Riga Twp
+1913 - Riley Twp
+7421 - Riley Twp
+8273 - River Rouge
+3421 - Riverside Corr Fac
+3422 - Riverside Rec Center
+5714 - Riverside Twp
+5311 - Riverton Twp
+8274 - Riverview
+3813 - Rives Twp
+7013 - Robinson twp
+6363 - Rochester
+6392 - Rochester Hills
+0208 - Rock River Twp
+4140 - Rockford
+6610 - Rockland Twp
+8248 - Rockwood 
+7146 - Rogers City
+7114 - Rogers Twp
+3712 - Rolland Twp
+4618 - Rollin Twp
+4619 - Rome Twp
+5049 - Romeo
+8275 - Romulus
+3415 - Ronald Twp
+6147 - Roosevelt Park
+7229 - Roscommon
+7211 - Roscommon Twp
+6530 - Rose City
+6714 - Rose Lake Twp
+6318 - Rose Twp
+6513 - Rose Twp
+3729 - Rosebush
+5089 - Roseville
+3912 - Ross Twp
+6432 - Rothbury
+2312 - Roxand Twp
+6390 - Royal Oak
+6319 - Royal Oak Twp
+1117 - Royalton Twp
+3221 - Rubicon Twp
+1711 - Rudyard Twp
+7811 - Rush Twp
+6007 - Rust Twp
+0813 - Rutland Twp
+8218 - Ryan Regional Fac
+3828 - S Complex Truste Div
+8232 - Sacred Heart Maj Sem
+0948 - Sag Val St Univ
+5648 - Sag Val St Univ
+7348 - Sag Val St Univ
+2612 - Sage Twp
+7389 - Saginaw
+7320 - Saginaw Twp
+2205 - Sagola Twp
+0319 - Salem Twp
+8112 - Salem Twp
+8148 - Saline
+8113 - Saline Twp
+0406 - Sanborn Twp
+3222 - Sandbeach Twp
+4132 - Sand Lake
+5214 - Sand Twp
+3814 - Sandstone Twp
+7642 - Sandusky
+5629 - Sanford
+7621 - Sanilac Twp
+3440 - Saranac
+4312 - Sauble Twp
+0339 - Saugatuck
+0320 - Saugatuck Twp
+1766 - Sault Ste Marie
+3942 - Schoolcraft
+8236 - Schoolcraft Col
+3113 - Schoolcraft Twp
+3913 - Schoolcraft Twp
+8114 - Scio Twp
+7812 - Sciota Twp
+3014 - Scipio Twp
+8216 - Scott Corr Fac
+5339 - Scottville
+3416 - Sebewa Twp
+3241 - Sebawing
+3223 - Sebawing Twp
+2613 - Secord Twp
+8312 - Selma Twp
+4620 - Seneca Twp
+7707 - Seney Twp
+2913 - Seville Twp
+8115 - Sharon Twp
+6440 - Shelby
+5011 - Shelby Twp
+6415 - Shelby Twp
+3739 - Shepherd
+5931 - Sheridan
+1319 - Sheridan Twp
+1813 - Sheridan Twp
+3224 - Sheridan Twp
+5312 - Sheridan Twp
+5415 - Sheridan Twp
+6221 - Sheridan Twp
+2615 - Sherman Twp
+3225 - Sherman Twp
+3509 - Sherman Twp
+3713 - Sherman Twp
+4205 - Sherman Twp
+5313 - Sherman Twp
+6222 - Sherman Twp
+6715 - Sherman Twp
+7514 - Sherman Twp
+1229 - Sherwood
+1215 - Sherwood Twp
+7813 - Shiawassee Twp
+1134 - Shoreham
+5919 - Sidney Twp
+4662 - Siena Heights Col
+3226 - Sigel Twp
+1413 - Silver Creek Twp
+0609 - Sims Twp
+5215 - Skandia Twp
+8313 - Slagle Twp
+5843 - So Rockwood
+1119 - Sodus Twp
+4118 - Solon Twp
+4510 - Solon Twp
+3015 - Somerset Twp
+1712 - Soo Twp
+1514 - South Arm Twp
+2006 - South Branch Twp
+8314 - South Branch Twp
+8060 - South Haven
+8017 - South Haven Twp
+6355 - South Lyon
+3130 - South Range
+6391 - Southfield
+6324 - Southfield Twp
+8285 - Southgate
+1461 - Southwestern Mi Col
+4147 - Sparta
+4119 - Sparta Twp
+5513 - Spaulding Twp
+7322 - Spaulding Twp
+7622 - Speaker Twp
+4120 - Spencer Twp
+3861 - Spring Arbor Col
+3815 - Spring Arbor Twp
+7047 - Spring Lake
+7014 - Spring Lake Twp
+5113 - Springdale Twp
+1346 - Springfield
+4011 - Springfield Twp
+6320 - Springfield Twp
+3833 - Springport
+3816 - Springport Twp
+2414 - Springvale Twp
+8315 - Springville Twp
+0705 - Spurr Twp
+6394 - SS Cyril Meth Sem
+7449 - St Clair
+7461 - St Clair Co Com Col
+5090 - St Clair Shores
+7422 - St Clair Twp
+4946 - St Ignace 
+4911 - St Ignace Twp
+1513 - St James Twp
+1960 - St Johns 
+1168 - St Joseph 
+1118 - St Joseph Twp
+2947 - St Louis
+6375 - St Mary's College
+7339 - St Charles
+7321 - St Charles
+3641 - Stambaugh
+3607 - Stambaugh Twp
+0639 - Standish
+0613 - Standish Max Cor Fac
+0610 - Standish Twp
+6611 - Stannard Twp
+5943 - Stanton 
+3112 - Stanton Twp
+5432 - Stanwood
+0513 - Star Twp
+3823 - State Prison Sth Mi
+5531 - Stephenson
+5514 - Stephenson Twp
+0631 - Sterling
+5091 - Sterling Heights
+1142 - Stevensville
+3340 - Stockbridge
+3312 - Stockbridge Twp
+5038 - Stoneycreek
+6338 - Stoneycreek
+5114 - Stronach
+7560 - Sturgis
+7515 - Sturgis Twp
+1713 - Sugar Island Twp
+6115 - Sullivan Twp
+1814 - Summerfield Twp
+5814 - Summerfield Twp
+3817 - Summit Twp
+5314 - Summit Twp
+2914 - Sumner Twp
+8212 - Sumpter Twp
+2331 - Sunfield 
+2313 - Sunfield Twp
+3162 - Suomi College
+1714 - Superior Twp
+8116 - Superior Twp
+1815 - Surrey Twp
+4531 - Sutton's Bay
+4511 - Sutton's Bay Twp
+7323 - Swan Creek Twp
+2547 - Swartz Creek
+4313 - Sweetwater Twp
+6341 - Sylvan Lake
+6716 - Sylvan Twp
+8117 - Sylvan Twp
+7015 - Tallmadge Twp
+3540 - Tawas City
+3510 - Tawas Twp
+8291 - Taylor
+7324 - Taymouth Twp
+4660 - Tecumseh
+4621 - Tecumseh Twp
+1331 - Tekonsha
+1320 - Tekonsha Twp
+3914 - Texas Twp
+2517 - Thetford Twp
+3362 - Thomas M Cooley law
+7326 - Thomas Twp
+7708 - Thompson Twp
+1034 - Thompsonville
+0814 - Thornapple Twp
+1143 - Three Oaks
+1120 - Three Oaks Twp
+7561 - Three Rivers
+4419 - Thumb Regional Fac
+5216 - Tilden Twp
+7325 - Tittabawassee Twp
+2616 - Tobacco Twp
+3818 - Tompkins Twp
+0514 - Torch Lake Twp
+3114 - Torch Lake Twp
+2866 - Traverse City
+4566 - Traverse City
+8276 - Trenton
+7332 - Tri City Airport
+1715 - Trout Lake Twp
+0321 - Trowbridge Twp
+6384 - Troy
+6223 - Troy Twp
+5217 - Turin Twp
+0632 - Turner
+0611 - Turner Twp
+1617 - Tuscarora Twp
+7919 - Tuscola
+6732 - Tustin
+0633 - Twining
+4121 - Tyrone Twp
+4715 - Tyrone Twp
+8182 - U of M Ann Arbor
+8264 - U of M Dearborn
+3235 - Ubly
+4716 - Unadilla Twp
+1241 - Union City
+1341 - Union City
+1216 - Union Twp
+2812 - Union Twp
+3714 - Union Twp
+7934 - Unionville
+8233 - Univ of Detroit
+2590 - Univ of Mich Flint
+5050 - Utica
+0322 - Valley Twp
+8214 - VanBuren Twp
+1429 - Vandalia
+6929 - Vanderbilt
+7947 - Vassar
+7920 - Vassar Twp
+7814 - Venice Twp
+4122 - Vergennes Twp
+2332 - Vertmontville
+2314 - Vermontville Twp
+7833 - Vernon
+3715 - Vernon Twp
+7815 - Vernon Twp
+3227 - Verona Twp
+3313 - Vevay Twp
+3943 - Vicksburg
+1914 - Victor Twp
+5315 - Victory Twp
+2518 - Vienna Twp
+6008 - Vienne Twp
+1414 - Volinia Twp
+2747 - Wakefield
+2706 - Wakefield Twp
+3915 - Wakeshma Twp
+3033 - Waldron
+7423 - Wales Twp
+4169 - Walker
+1618 - Walker Twp
+6433 - Walkerville
+6356 - Walled Lake
+6376 - Walsh Col Acc - Bus
+2315 - Walton Twp
+0515 - Warner Twp
+5095 - Warren
+5616 - Warren Twp
+2915 - Washington Twp
+5012 - Washington Twp
+7623 - Washington Twp
+8163 - Washtenaw Com Col
+6321 - Waterford Twp
+3819 - Walterloo Twp
+2707 - Watersmeet Twp
+1915 - Watertown Twp
+7624 - Watertown Twp
+7921 - Watertown Twp
+1144 - Watervliet
+1121 - Watervliet Twp
+0323 - Watson Twp
+2206 - Wacedah Twp
+1619 - Waverly Twp
+8018 - Waverly Twp
+2415 - Wawatam Twp
+0340 - Wayland
+0324 - Wayland Twp
+8277 - Wayne
+8237 - Wayne Co Com Col
+8288 - Wayne State Univ
+1415 - Wayne Twp
+6416 - Weare Twp
+4314 - Webber Twp
+3341 - Webberville
+8118 - Webster Twp
+1122 - Weesaw Twp
+1012 - Weldon Twp
+0407 - Wellington Twp
+2114 - Wells Twp
+5218 - Well Twp
+7922 - Wells Twp
+6322 - West Bloomfield Twp
+6539 - West Branch
+2207 - West Branch Twp
+5219 - West Branch Twp
+5715 - West Branch Twp
+6514 - West Branch Twp
+5361 - West Shore Com Col
+2416 - West Traverse Twp
+8217 - West Wayne Corr Fac
+3970 - Western Mi Univ
+7061 - Western Theol Sem
+8292 - Westland
+1933 - Westphalia
+1916 - Westphalia Twp
+8316 - Wexford Twp
+3314 - Wheatfield Twp
+3016 - Wheatland Twp
+5416 - Wheatland Twp
+7625 - Wheatland Twp
+2916 - Wheeler Twp
+6240 - White Cloud
+6323 - White Lake Twp
+3315 - White Oak Twp
+7542 - White Pigeon
+7516 - White Pigeon Twp
+6117 - White River Twp
+1716 - Whitefish Twp
+5815 - Whiteford Twp
+6148 - Whitehall 
+6116 - Whitehall Twp
+2813 - Whitewater Twp
+0612 - Whitney Twp
+3529 - Whittemore
+3511 - Wilbur Twp
+6224 - Wilcox Twp
+0914 - Williams Twp
+3346 - Williamston
+3316 - Williamston Twp
+1620 - Wilmot Twp
+0408 - Wilson Twp
+1515 - Wilson Twp
+2316 - Windsor Twp
+5920 - Winfield Twp
+3228 - Winsor Twp
+1816 - Winterfield Twp
+3716 - Wise Twp
+7923 - Wisner Twp
+6342 - Wixom
+6377 - Wm Tyndale Col
+1630 - Wolverine 
+6357 - Wolverine Lake
+8249 - Wood Haven
+3017 - Woodbridge Twp
+7816 - Woodhull Twp
+0830 - Woodland 
+0815 - Woodland Twp
+4622 - Woodstock Twp
+7626 - Worth Twp
+3018 - Wright Twp
+7016 - Wright Twp
+8286 - Wyandotte
+4189 - Wyoming
+7441 - Yale
+0816 - Yankee Springs Twp
+4315 - Yates Twp
+6378 - Yeshiva Beth Rab Col
+8119 - York Twp
+8180 - Ypsilanti
+8120 - Ypsilanti Twp
+7048 - Zeeland
+7017 - Zeeland Twp
+7340 - Zilwaukee
+7327 - Zilwaukee Twp

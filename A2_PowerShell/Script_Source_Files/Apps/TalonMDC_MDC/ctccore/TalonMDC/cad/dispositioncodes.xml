@@ -1,0 +1,33 @@
+<Values>
+  <Value Display=" " Value=" " Default="true"/>
+  <Value Display="Accident Report" Value="AR"/>
+   <Value Display="Accidentally Set Off" Value="ASO"/>
+  <Value Display="Advised" Value="ADV"/>
+  <Value Display="Cancel" Value="CAN"/>
+  <Value Display="Cleared By Arrest" Value="CLR"/>
+  <Value Display="Cleared with Summoned" Value="SUM"/>
+  <Value Display="Closed" Value="CLO"/>
+  <Value Display="Death of Offender" Value="E10"/>
+  <Value Display="Duplicate Call" Value="DUP"/>
+  <Value Display="Inactive" Value="INA"/>
+  <Value Display="Juvenile / No Custody" Value="E14"/>
+  <Value Display="Message Delivered in Person" Value="MSD"/>
+  <Value Display="Message Left" Value="MSL"/>
+  <Value Display="No Report" Value="N/R"/>
+  <Value Display="Open" Value="OPN"/>
+  <Value Display="Pending" Value="PEN"/>
+  <Value Display="Prosecution" Value="E11"/>
+  <Value Display="Referred Special Investigator" Value="OSU"/>
+  <Value Display="Refused to Make Report" Value="REF"/>
+  <Value Display="Report Taken" Value="R"/>
+  <Value Display="Secure" Value="SEC"/>
+  <Value Display="Secured" Value="SED"/>
+  <Value Display="Sent on Way" Value="SCW"/>
+  <Value Display="Turned over to Other Jurisdiction" Value="TOT"/>
+  <Value Display="Unable to Locate" Value="UTL"/>
+  <Value Display="Under Investigation" Value="INV"/>
+  <Value Display="Unfounded" Value="UNF"/>
+  <Value Display="Victim Refused to Cooperate" Value="E13"/>
+  <Value Display="Warned and Advised" Value="W/A"/>
+  <Value Display="Weather no Factor" Value="WNF"/>
+</Values>

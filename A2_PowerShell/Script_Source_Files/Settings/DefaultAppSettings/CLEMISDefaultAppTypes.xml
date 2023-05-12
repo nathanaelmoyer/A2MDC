@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DefaultAssociations>
+  <Association Identifier=".csv" ProgId="ASC.Csv" ApplicationName="ONLYOFFICE Editors" />
+  <Association Identifier=".doc" ProgId="ASC.Document.1" ApplicationName="ONLYOFFICE Editors" />
+  <Association Identifier=".docx" ProgId="ASC.Document.12" ApplicationName="ONLYOFFICE Editors" />
+  <Association Identifier=".htm" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier=".html" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier=".odp" ProgId="ASC.Show.2" ApplicationName="ONLYOFFICE Editors" />
+  <Association Identifier=".ods" ProgId="ASC.Sheet.2" ApplicationName="ONLYOFFICE Editors" />
+  <Association Identifier=".odt" ProgId="ASC.Document.2" ApplicationName="ONLYOFFICE Editors" />
+  <Association Identifier=".pdf" ProgId="AcroExch.Document.DC" ApplicationName="Adobe Acrobat Reader DC" />
+  <Association Identifier=".pps" ProgId="ASC.SlideShow.1" ApplicationName="ONLYOFFICE Editors" />
+  <Association Identifier=".ppsx" ProgId="ASC.SlideShow.12" ApplicationName="ONLYOFFICE Editors" />
+  <Association Identifier=".ppt" ProgId="ASC.Show.1" ApplicationName="ONLYOFFICE Editors" />
+  <Association Identifier=".pptx" ProgId="ASC.Show.12" ApplicationName="ONLYOFFICE Editors" />
+  <Association Identifier=".rtf" ProgId="ASC.Rtf" ApplicationName="ONLYOFFICE Editors" />
+  <Association Identifier=".txt" ProgId="txtfile" ApplicationName="Notepad" />
+  <Association Identifier=".url" ProgId="IE.AssocFile.URL" ApplicationName="Internet Browser" />
+  <Association Identifier=".website" ProgId="IE.AssocFile.WEBSITE" ApplicationName="Internet Explorer" />
+  <Association Identifier=".xls" ProgId="ASC.Sheet.1" ApplicationName="ONLYOFFICE Editors" />
+  <Association Identifier=".xlsx" ProgId="ASC.Sheet.12" ApplicationName="ONLYOFFICE Editors" />
+  <Association Identifier="http" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier="https" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+ </DefaultAssociations>
+ 
+ 
+ 
+  
+  
+ 

@@ -1,0 +1,198 @@
+~<BLANK>
+AB - Air Bags
+AC - Aircraft Part Unlisted
+AD - Asphalt Distrib/Plant Paver Feeder
+AE - Aerial Platform
+AG - Automotive Part Unlisted
+AI - Air Compressor
+AL - Herbicide Applicator
+AN - Air Cleaner Housing
+AS - Air Spade
+AT - Alternator
+AU - Auger,Earth Drill,Miners Bit
+BA - Batcher/Batching Plant
+BB - Bucket Seat
+BC - Brush or Wood Chipper
+BE - Battery (Vehicle Only)
+BF - Bale/ Bunk Feeder
+BH - Backhoe
+BK - Backhoe / Loader
+BL - Blade
+BM - Bumper
+BO - Boom
+BQ - Brake
+BS - Bale Shredder
+BU - Bucket/Scoop
+BW - Blower
+CA - Cab (Non-ROPS)
+CB - Cargo Box (Pickup Box)
+CC - Cam
+CE - Const Eq-Unlisted
+CF - Certificate of Origin
+CI - Corn Picker
+CJ - Carburator
+CK - Cotton Picker
+CL - Cable Reel
+CM - Concrete Mixer
+CN - Conveyer/Elevator
+CO - Combine
+CP - Concrete Pump
+CR - Crane
+CS - Crusher / Pulverizer
+CT - Certificate of Title
+CU - Cultivator
+CV - Convertible Top
+CW - Crank Shaft
+CX - Crank Case
+CY - Clutch
+CZ - Cotton Stripper
+DA - Dashboard
+DF - Differential
+DH - Disk Harrow
+DK - Door, Deck Lid
+DL - Dragline
+DO - Door
+DR - Drill, Rock
+DT - Distributor
+DU - Duster
+DV - Drive Shaft
+EC - Emissions Control Device, i.e., Catalytic Converter
+EN - Engine
+FA - Front Axle
+FB - Front Bumper
+FC - Flame Cultivator
+FD - Field Chopper
+FE - Farm Equipt Unlisted
+FE - Fender, Right Front
+FG - Fiberglass Top
+FI - Fairing
+FK - Forks, Tines
+FL - Fender, Left Front
+FM - Frame Rail Assmbly
+FN - Fender
+FO - Fogger
+FP - Fuel Injection Pump
+FS - Fertilizer Spreader
+FU - Flusher
+FW - Fifth Wheel
+FX - Front End/Front Body Clip
+FZ - Floor Pan
+GA - Grass Seeder
+GC - Grain Cleaner
+GE - Generator
+GL - Grain Drill
+GR - Grinder
+GT - Gas Tank
+GW - Gear
+GY - Grain Dryer
+HA - Harrow
+HB - Hatchback Door
+HC - Hay Conditioner
+HD - Hydraulic Dump
+HE - Heater
+HG - Hydraulic Lift Gate
+HH - Trailer Hitch
+HI - Hoist
+HL - Hay Bale Loader
+HM - Hammer
+HO - Hoe, Rotary
+HR - Hose Reel
+HU - Hubcap
+HV - Harvester
+HW - Hood
+HY - Hay Baler
+HZ - Engine Block/Head
+IS - Irrigation System
+KE - Kettle (tar)
+LA - Log Arch
+LD - Loader
+LF - Lift Boom (Persons)
+LG - Lift Gate
+LL - Door, Left Sliding
+LN - Land Leveler
+LQ - Quarter Panel, Left Rear
+LR - Door, Left Rear
+LS - Assembly (multi-Purp) Left Side
+LT - Door, Left Front
+LV - Lawn Vacuum
+LW - Window, Left Rear
+MI - Mirror
+MN - Manifold
+MR - Mower-Conditioner
+MW - Bush Hog Mower Rotary Cutter
+PA - Pan (oil/transmission)
+PB - Pavement Breaker
+PD - Post/Pile Driver
+PF - Platform Header
+PH - Posthole Digger
+PL - Plow
+PP - Product Ident Number(PIN) Plate 
+PT - Planter
+PU - Pump
+RA - Rear Axle
+RB - Rear Bumper
+RC - Rollover Protective Cab or Frame
+RD - Door, Right Front
+RE - Rear End/Rear Body Clip
+RF - Refrigeration Unit (for reefer)
+RI - Ripper, Asphalt Cutter
+RK - Rake
+RM - Row Marker
+RO - Roller
+RP - Rock Picker
+RQ - Quarter Panel, Right Rear
+RR - Door, Right Rear
+RS - Assembly (multi-purp) Right Side
+RT - Radiator
+RW - Window, Right Rear
+SB - Sandblaster
+SC - Scraper
+SD - Sod Cutter
+SE - Shears
+SF - Scarifier
+SG - Springs (coil/leaf)
+SH - Shovel
+SJ - Starter
+SK - Shocks
+SO - Snowblower/Snowthrower
+SP - Shipping Container
+SQ - Seat
+SR - Spreader
+SS - Power Broom Sweeper
+ST - Stump Cutter/Remover
+SX - Side Car
+SY - Sprayer
+SZ - Saw
+TA - Tree Harvester
+TB - Turbo Blower
+TU - Turbocharger/Supercharger
+TD - Trunk Lid
+TG - Tongs, Power Lifters
+TH - Trencher
+TK - Tank, Fuel
+TL - Tailgate Door
+TM - Truck Mount Camper Shell
+TN - Transmission
+TP - Transplanter
+TQ - T-Top Panel
+TS - T-Top Glazing, Left
+TT - T-Top Glazing, Right
+TU - Turbocharger
+TX - Transaxle
+TZ - Compactor Tamper
+VB - Vehicle Towbar
+VG - Vehicle Gauge (describe in MIS)
+VP - Vehicle Identification Number (VIN) Plate
+VL - Vehicle Light (spotlight, fog light,headlight, headlamps, etc.)
+VR - Vehicle Rack (Bike/Ski/Luggage)
+VS - Vehicle Sound Device (Siren/Horn)
+WD - Windshield
+WE - Welder
+WF - Window, Right Front
+WL - Window, Left Front
+WH - Wheel
+WI - Winch
+WN - Windrower, Swather
+WR - Weeder
+WS - Wood Splitter
+WW - Window, Rear

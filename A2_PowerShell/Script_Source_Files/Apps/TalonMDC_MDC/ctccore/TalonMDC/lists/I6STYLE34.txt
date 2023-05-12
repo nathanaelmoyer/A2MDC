@@ -1,0 +1,5 @@
+~<BLANK>
+EB - Enclosed Body (Removeable Enclosure)
+EN - Enclosed Body (Non-Removeable Enclosure)
+MV - Multi-wheeled vehicle
+OP - Open Body

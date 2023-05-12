@@ -1,0 +1,85 @@
+<DQBinder>
+<!--
+Note: Most folders are now defined in casefolderdef.xml.  Modifications to existing
+folders are made in CaseVersionUpdater.java.
+-->
+  <TableCase>
+    <Case PrimaryFolder="F_DefaultvLXI" AllowDelete="false" ID="C_DefaultCase" DateCreated="01/07/05" TimeCreated="13:53:41" Visibility="1" Origin="Talon">
+      <CaseOptions/>
+      <Title>Talon</Title>
+      <Folders>F_DefaultvLXI,F_DefaultvLXJ</Folders>
+      <TUIDisplayOptionTable>
+        <TUIDisplayOptions TUIViewName="Manage Messages" TUISubFolderMode="7"/>
+        <TUIDisplayOptions TUIViewName="Case" TUISubFolderMode="7"/>
+      </TUIDisplayOptionTable>
+    </Case>
+  </TableCase>
+  <TableFolder>
+    <Folder UseSetViewItems="false" AllowDelete="false" ParentStructureID="C_DefaultCase" ID="F_DefaultvLXJ" CaseID="C_DefaultCase" DateCreated="01/07/05" TimeCreated="13:53:41" Visibility="1" Origin="Talon">
+      <XQuery>
+        <XElement Level="Child">
+          <XTest Type="LocalName" SubjectName="Message"/>
+        </XElement>
+        <XQuery>
+          <XElement Level="This">
+            <XTest Type="Attr" SubjectName="Broadcast" Search="Match">true</XTest>
+          </XElement>
+        </XQuery>
+      </XQuery>
+      <Title>Broadcast Messages</Title>
+      <TUIDisplayOptionTable>
+        <TUIDisplayOptions TUIViewName="Manage Messages" TUIContentType="java/table" Visibility="11"/>
+        <TUIDisplayOptions TUIViewName="Case" TUIContentType="java/table" Visibility="11"/>
+      </TUIDisplayOptionTable>
+    </Folder>
+    <Folder StrongRefToContents="false" UseSetViewItems="false" AllowDelete="false" ParentStructureID="C_DefaultCase" ID="F_DefaultvLXI" CaseID="C_DefaultCase" DateCreated="01/07/05" TimeCreated="13:53:41" Visibility="1" Origin="Talon">
+      <XQuery Operator="OR">
+<!--Message History collects Queries, Messages or Records that are not generated locally (Origin=Talon)-->
+        <XQuery>
+          <XElement Level="Child">
+            <XTest Type="LocalName" SubjectName="Message"/>
+          </XElement>
+        </XQuery>
+        <XQuery>
+          <XElement Level="Child">
+            <XTest Type="LocalName" SubjectName="Query"/>
+          </XElement>
+        </XQuery>
+        <XQuery Operator="AND">
+          <XQuery>
+            <XElement Level="Child">
+              <XTest Type="LocalName" SubjectName="Record"/>
+            </XElement>
+          </XQuery>
+          <XQuery>
+            <XElement Level="This">
+              <XTest Type="Attr" SubjectName="Origin" Search="Match" NegativeTest="true">Talon</XTest>
+            </XElement>
+          </XQuery>
+        </XQuery>
+        <XQuery>
+          <XElement Level="Child">
+            <XTest Type="LocalName" SubjectName="MiscInfoDisplayable"/>
+          </XElement>
+        </XQuery>
+        <XQuery>
+          <XElement Level="Child">
+            <XTest Type="LocalName" SubjectName="MiscFileDisplayable"/>
+          </XElement>
+        </XQuery>
+      </XQuery>
+      <Title>Message History</Title>
+      <TUIDisplayOptionTable>
+        <TUIDisplayOptions TUIViewName="Manage Messages" TUIContentType="java/table" Visibility="11"/>
+        <TUIDisplayOptions TUIViewName="Case" TUIContentType="java/table" Visibility="11"/>
+      </TUIDisplayOptionTable>
+    </Folder>
+  </TableFolder>
+  <TableQuery/>
+  <TableMessage/>
+  <TableRecord/>
+  <TableDataFile/>
+  <RelationManager>
+    <RelationTable/>
+  </RelationManager>
+</DQBinder>

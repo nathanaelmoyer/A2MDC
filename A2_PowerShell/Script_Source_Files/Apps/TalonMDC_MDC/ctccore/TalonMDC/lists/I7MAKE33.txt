@@ -1,0 +1,7 @@
+~<BLANK>
+SPEC/DUN - A Dune Buggy
+SPEC/GRT - A Go Cart
+SPEC/GOF - A Golf Cart
+SPEC/TOY - A Motorized Ride-On Toy
+SPEC/WHE - A Motorized Wheelchair
+AUTA/--- - Bianchina

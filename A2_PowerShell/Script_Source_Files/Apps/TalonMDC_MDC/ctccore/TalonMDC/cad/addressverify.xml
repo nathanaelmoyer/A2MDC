@@ -1,0 +1,57 @@
+<CADForm Dialog="true">
+  <Title>Address Verification</Title>  
+  <FormDefinition>
+	<XMLItem Type="ContainerFormat"
+			JContFormat="COLUMN_START"
+			/>
+	<XMLItem Type="Label"
+			Label="Address"
+			JContNextLine="False"			
+			/>
+	<XMLItem Type="Text"
+			Columns="20"
+			ControlID="Address"
+			Editable="False"
+			JContFormat="FULL_WIDTH"
+			/>
+	<XMLItem Type="Label"
+			Label="Verify"
+			JContNextLine="False"			
+			/>
+	<XMLItem Type="CADFormBuilder-ChoiceListTable"
+			ControlID="CADFormBuilder-ChoiceListTable"
+			GiveInitialFocus="True"
+			JContFormat="FULL_WIDTH"
+			Size="650x300"
+			/>
+	<XMLItem Type="Label"
+			Label="Location"
+			JContNextLine="False"			
+			/>
+	<XMLItem Type="Text"
+			ControlID="Location"
+			Editable="False"
+			JContFormat="FULL_WIDTH"
+			/>
+	<XMLItem Type="Label"
+			Label="City"
+			JContNextLine="False"			
+			/>
+	<XMLItem Type="Text"
+			ControlID="City"
+			Editable="False"
+			JContFormat="FULL_WIDTH"
+			/>
+	<XMLItem Type="Label"
+			Label="Type"
+			JContNextLine="False"			
+			/>
+	<XMLItem Type="Text"
+			ControlID="IncidentType"
+			Editable="False"
+			JContFormat="FULL_WIDTH"
+			/>
+  </FormDefinition>
+  <Button Label="Send" Action="Submit;Close" Key="VK_ENTER"/>
+  <Button Label="Cancel" Action="Close" Key="VK_ESCAPE"/>
+</CADForm>

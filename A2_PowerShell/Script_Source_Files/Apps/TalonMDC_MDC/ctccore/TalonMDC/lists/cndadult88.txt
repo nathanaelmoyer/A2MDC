@@ -1,0 +1,8 @@
+~<BLANK>
+1 - No contact with victim(s)/
+2 - Not near home/business of/
+3 - No assaultive,threatening or intimidating behavior.
+4 - No alcohol or drugs.
+5 - Not possess any firearms or dangerous weapons.
+6 - Other1/
+7 - Other2/

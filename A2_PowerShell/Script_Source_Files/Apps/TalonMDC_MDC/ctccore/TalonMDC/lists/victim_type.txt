@@ -1,0 +1,10 @@
+| <BLANK>
+I - Individual
+P - Police Officer
+B - Business
+F - Financial Institution
+G - Government
+R - Religious Organization
+S - Society/Public
+O - Other
+U - Unknown

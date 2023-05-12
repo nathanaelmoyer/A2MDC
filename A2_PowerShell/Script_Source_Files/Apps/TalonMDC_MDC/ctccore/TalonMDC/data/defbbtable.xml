@@ -1,0 +1,21 @@
+<XTTableDef FontSize="${tfs_FontSize}" RowHeight="${tfs_RowHeight}" ReverseAddOrder="false" ShowHorizontalGridLines="false" IndicateSortOrderInHeader="false" 
+		SortWhenColumnsClicked="true" SortColumn="1" SortReversed="true" ResortWhenNewRowAdded="true">
+	<ColumnTable>
+		<Column PreferredWidth="16" MaxWidth="16">
+			<Header Title=""/>
+		</Column>  
+		<Column PreferredWidth="150" Resizable="true">
+			<Header Title="Date Posted"/>
+			<Comparator Class="com.ctccore.util.swing.DATETIMECOMPARATOR"/>
+		</Column>    
+		<Column PreferredWidth="300" Resizable="true">
+			<Header Title="Description"/>
+		</Column>
+		<Column PreferredWidth="100" Resizable="true">
+			<Header Title="Source"/>
+		</Column> 
+		<Column PreferredWidth="60" MaxWidth="70" Resizable="true">
+			<Header Title="Comments"/>
+		</Column>   
+	</ColumnTable>
+</XTTableDef>

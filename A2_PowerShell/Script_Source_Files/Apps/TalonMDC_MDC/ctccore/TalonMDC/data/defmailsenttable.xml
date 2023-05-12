@@ -1,0 +1,19 @@
+<XTTableDef FontSize="${tfs_FontSize}" RowHeight="${tfs_RowHeight}" SortColumn="2" ReverseAddOrder="false" ShowHorizontalGridLines="false" IndicateSortOrderInHeader="false" SortWhenColumnsClicked="true" SortReversed="true" ResortWhenNewRowAdded="true">
+	<ColumnTable>
+		<Column PreferredWidth="16" MaxWidth="16">
+			<Header Title=""/>
+		</Column>
+		<Column PreferredWidth="16" MaxWidth="16">
+			<Header Title=""/>
+		</Column>
+		<Column PreferredWidth="150" Resizable="true">
+			<Header Title=" Sent "/>
+		</Column>    
+		<Column PreferredWidth="300" Resizable="true">
+			<Header Title="Subject"/>
+		</Column>
+		<Column PreferredWidth="150" Resizable="true">
+			<Header Title="To"/>
+		</Column> 
+	</ColumnTable>
+</XTTableDef>

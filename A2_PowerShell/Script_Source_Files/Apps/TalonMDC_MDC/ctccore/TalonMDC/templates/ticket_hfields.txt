@@ -1,0 +1,7 @@
+TicketNumber
+Type
+IssuedDate
+IssuedTime
+ReportingOfficerID
+EnteredByID
+Comments

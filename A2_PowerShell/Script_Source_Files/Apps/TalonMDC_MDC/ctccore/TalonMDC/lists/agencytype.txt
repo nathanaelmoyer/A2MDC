@@ -1,0 +1,13 @@
+PD - Municipal Police
+SO - County Sheriff
+SA - State Agency
+FE - Federal Agencies
+LE - Other (e.g. CJDC)
+NJ - Non-Criminal Justice
+JA - Prosecutor
+JC - Corrections & Parole
+JG - Probation Agency
+JJ - Court Agency
+JF - Federal Non-Law Enforcment
+CJ - Pretrial Services
+CJ - Central Dispatch

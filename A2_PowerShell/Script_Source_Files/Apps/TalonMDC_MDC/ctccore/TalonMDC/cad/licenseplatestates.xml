@@ -1,0 +1,65 @@
+<Values>
+  <Value Display="ALABAMA" Value="AL"/>
+  <Value Display="ALASKA" Value="AK"/>
+  <Value Display="ALBERTA" Value="AB"/>
+  <Value Display="ARIZONA" Value="AZ"/>
+  <Value Display="ARKANSAS" Value="AR"/>
+  <Value Display="BRITISH COLUMBIA" Value="BC"/>
+  <Value Display="CALIFORNIA" Value="CA"/>
+  <Value Display="COLORADO" Value="CO"/>
+  <Value Display="CONNECTICUT" Value="CT"/>
+  <Value Display="DELAWARE" Value="DE"/>
+  <Value Display="DISTRICT OF COLUMBIA" Value="DC"/>
+  <Value Display="FLORIDA" Value="FL"/>
+  <Value Display="GEORGIA" Value="GA"/>
+  <Value Display="HAWAII" Value="HI"/>
+  <Value Display="IDAHO" Value="ID"/>
+  <Value Display="ILLINOIS" Value="IL"/>
+  <Value Display="INDIANA" Value="IN"/>
+  <Value Display="IOWA" Value="IA"/>
+  <Value Display="KANSAS" Value="KS"/>
+  <Value Display="KENTUCKY" Value="KY"/>
+  <Value Display="LOUISIANA" Value="LA"/>
+  <Value Display="MAINE" Value="ME"/>
+  <Value Display="MANITOBA" Value="MB"/>
+  <Value Display="MARYLAND" Value="MD"/>
+  <Value Display="MASSACHUSETTS" Value="MA"/>
+  <Value Display="MICHIGAN" Value="MI" Default="true"/>
+  <Value Display="MINNESOTA" Value="MN"/>
+  <Value Display="MISSISSIPPI" Value="MS"/>
+  <Value Display="MISSOURI" Value="MO"/>
+  <Value Display="MONTANA" Value="MT"/>
+  <Value Display="NEBRASKA" Value="NB"/>
+  <Value Display="NEVADA" Value="NV"/>
+  <Value Display="NEW BRUNSWICK" Value="NK"/>
+  <Value Display="NEW HAMPSHIRE" Value="NH"/>
+  <Value Display="NEW JERSEY" Value="NJ"/>
+  <Value Display="NEW MEXICO" Value="NM"/>
+  <Value Display="NEW YORK" Value="NY"/>
+  <Value Display="NEWFOUNDLAND" Value="NF"/>
+  <Value Display="NORTH CAROLINA" Value="NC"/>
+  <Value Display="NORTH DAKOTA" Value="ND"/>
+  <Value Display="NORTHWEST" Value="NT"/>
+  <Value Display="NOVA SCOTIA" Value="NS"/>
+  <Value Display="OHIO" Value="OH"/>
+  <Value Display="OKLAHOMA" Value="OK"/>
+  <Value Display="ONTARIO" Value="ON"/>
+  <Value Display="OREGON" Value="OR"/>
+  <Value Display="PENNSYLVANIA" Value="PA"/>
+  <Value Display="PRINCE EDWARD ISL." Value="PE"/>
+  <Value Display="QUEBEC" Value="PQ"/>
+  <Value Display="RHODE ISLAND" Value="RI"/>
+  <Value Display="SASKATCHEWAN" Value="SN"/>
+  <Value Display="SOUTH CAROLINA" Value="SC"/>
+  <Value Display="SOUTH DAKOTA" Value="SD"/>
+  <Value Display="TENNESSEE" Value="TN"/>
+  <Value Display="TEXAS" Value="TX"/>
+  <Value Display="UTAH" Value="UT"/>
+  <Value Display="VERMONT" Value="VT"/>
+  <Value Display="VIRGINIA" Value="VA"/>
+  <Value Display="WASHINGTON" Value="WA"/>
+  <Value Display="WEST VIRGINIA" Value="WV"/>
+  <Value Display="WISCONSIN" Value="WI"/>
+  <Value Display="WYOMING" Value="WY"/>
+  <Value Display="YUKON" Value="YT"/>
+</Values>

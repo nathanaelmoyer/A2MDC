@@ -1,0 +1,4 @@
+~<BLANK>
+C - Was circumcised
+N - Was not circumcised
+U - Unknown

@@ -1,0 +1,51 @@
+<?ctcDefine Attribute="dateTimeWidth"    Value="130"?>
+<?ctcDefine Attribute="descriptionWidth" Value="400"?>
+<?ctcDefine Attribute="sourceWidth"      Value="90"?>
+<?ctcDefine Attribute="rowHeight"        Value="${tfs_RowHeight}"?> 
+
+<XTTableDef FontSize="${tfs_FontSize}" RowHeight="${rowHeight}" ReverseAddOrder="true" ShowHorizontalGridLines="false" IndicateSortOrderInHeader="false" SortWhenColumnsClicked="true" SortColumn="3" SortReversed="true" ResortWhenNewRowAdded="true">
+  <RowData>
+    <RowTag SubjectName="ID" Type="Attr"/>
+  </RowData>
+  <ColumnTable>
+    <Column PreferredWidth="${rowHeight}" MaxWidth="${rowHeight}">
+<!-- Get the read icon -->
+      <Header Title=""/>
+      <Data DataID="StateIcon" Type="External"/>
+    </Column>
+    <Column PreferredWidth="${rowHeight}" MaxWidth="${rowHeight}">
+<!-- 
+Indicate if there's an attachment 
+Note: it uses the special renderer, because when the table was
+sorted, the images were turning to strings.  Not sure why
+-->
+      <Header Title=""/>
+      <Data DataID="HasAttachment" Type="External"/>
+	<Renderer Class="com.ctccore.util.swing.JCELLRENDERER"/>
+    </Column>
+    <Column PreferredWidth="${rowHeight}" Resizable="true">
+<!-- Show any highlighter flags-->
+      <Header Title="Flags"/>
+      <Data DataID="HighlightFlag" Type="External"/>
+      <Renderer Class="com.ctccore.util.swing.JCELLRENDERER"/>
+    </Column>
+    <Column PreferredWidth="${dateTimeWidth}" Resizable="true">
+<!--Date and Time Create Attributes-->
+      <Header Title="When"/>
+      <Data SubjectName="DateCreated" Type="Attr"/>
+      <Data SubjectName="TimeCreated" Type="Attr"/>
+      <Comparator Class="com.ctccore.util.swing.DATETIMECOMPARATOR"/>
+    </Column>
+    <Column PreferredWidth="${descriptionWidth}" Resizable="true">
+<!-- Get the message summary property (default should be 400) -->
+      <Header Title="Description"/>
+      <Data SubjectName="Description" Type="Property"/>
+      <Data SubjectName="Title" Type="Property"/>
+    </Column>
+    <Column PreferredWidth="${sourceWidth}" Resizable="true">
+<!-- Get the message source property -->
+      <Header Title="Source"/>
+      <Data SubjectName="Source" Type="Attr"/>
+    </Column>
+  </ColumnTable>
+</XTTableDef>

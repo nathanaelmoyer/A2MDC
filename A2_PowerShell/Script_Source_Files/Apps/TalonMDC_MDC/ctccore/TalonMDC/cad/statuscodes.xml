@@ -1,0 +1,49 @@
+<Values>
+	<Value Display=" " Value=" " Default="true"/> 
+	<Value Display="Arrival at Hospital" Value="AH"/>
+	<Value Display="Arrival at Jail" Value="AJ"/>
+	<Value Display="Arrival on Scene - 97" Value="97"/>
+	<Value Display="Arrival on Scene - A" Value="A"/>
+	<Value Display="At Scene" Value="AR"/>
+	<Value Display="Available / In Service" Value="C"/>
+	<Value Display="B/U Traffic Stop" Value="BU"/>
+	<Value Display="Backgrounds" Value="BK"/>
+	<Value Display="Bike Patrol" Value="BP"/>
+	<Value Display="Boat Stop" Value="BS"/>
+	<Value Display="Break" Value="BR"/>
+	<Value Display="Building Check" Value="BC"/>
+	<Value Display="Clear - 24" Value="24"/>
+	<Value Display="Clear - 98" Value="98"/>
+	<Value Display="Clear - C" Value="C"/>
+	<Value Display="Community Policing" Value="CP"/>
+	<Value Display="Convey" Value="CV"/>
+	<Value Display="Court" Value="CT"/>
+	<Value Display="Desk Duty" Value="DD"/>
+	<Value Display="Detail" Value="DT"/>
+	<Value Display="Dispatched" Value="DP"/>
+	<Value Display="Enroute" Value="ER"/>
+	<Value Display="Enroute Cover" Value="EC"/>
+	<Value Display="Enroute Hospital" Value="EH"/>
+	<Value Display="Enroute Jail" Value="EJ"/>
+	<Value Display="Follow-Up - FO" Value="FO"/>
+	<Value Display="Follow-Up - FW" Value="FW"/>
+	<Value Display="Foot Patrol" Value="FP"/>
+	<Value Display="In Service for Roll Call" Value="IS"/>
+	<Value Display="Meal Break" Value="MB"/>
+	<Value Display="No Voice Contact" Value="NV"/>
+	<Value Display="Okay on Scene" Value="OK"/>
+	<Value Display="Out of Service" Value="OS"/>
+	<Value Display="Out of Vehicle" Value="VO"/>
+	<Value Display="Police Training" Value="PT"/>
+	<Value Display="Prisoner Booking" Value="PB"/>
+	<Value Display="Prisoner Transport" Value="JT"/>
+	<Value Display="Radar" Value="RD"/>
+	<Value Display="Re-Enroute" Value="RE"/>
+	<Value Display="Report Writing" Value="RW"/>
+	<Value Display="Roll Call" Value="RC"/>
+	<Value Display="School Crossing" Value="CX"/>
+	<Value Display="Special Watch" Value="SW"/>
+	<Value Display="Station Detail" Value="SD"/>
+	<Value Display="Traffic Stop" Value="TS"/>
+	<Value Display="Vehicle Maintenance" Value="VM"/>
+</Values>

@@ -1,0 +1,13 @@
+<CADNewIncident ClassName="com.ctccore.talon.cad.EvtReportRequest" GlobalFormatTextField="4">
+	<Fields>
+		<ReportType>Unit Log</ReportType>
+	</Fields>
+	<Title>CAD Unit Log</Title>  
+	<FormDefinition>
+		<XMLItem Label="Unit" Type="Text" PreceedingNextLinePixels="20" JContFormat="0" Columns="11" MaxLength="5" SCFormat="64">
+			<Field>Unit</Field>
+		</XMLItem>
+	</FormDefinition>
+	  <Button Label="Submit" Action="Submit;Close" Key="VK_ENTER"/>
+	  <Button Label="Cancel" Action="Close" Key="VK_ESCAPE"/>
+</CADNewIncident>

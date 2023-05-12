@@ -1,0 +1,14 @@
+~<BLANK>
+AA - Domestic appliances (stoves, washers, etc.)
+BI - Non-motorized bicycles (mountain bikes, 10 speeds, tandems, etc.)
+HH - Household property (rugs, furniture, etc.)
+JE - Jewelry (watches, rings, etc.)
+MI - Musicial instruments (violins, guitars, etc.)
+MT - Machinery & tools (electrical motors, lawn mowers, etc.)
+OM - Office machines & equipment (computers, etc.)
+PA - Personal accessories (hearing aids, luggage, etc.)
+PE - Photographic equipment (camera, enlargers, etc.)
+RA - Radio, TV, sound-reproducing equipment (VCR, etc.)
+SC - Scientific, optical & measuring devices (binoculars, etc.)
+SP - Sporting goods, hobby equipment (skis, modelaircraft, scuba equipment, etc.)
+OT - All other articles

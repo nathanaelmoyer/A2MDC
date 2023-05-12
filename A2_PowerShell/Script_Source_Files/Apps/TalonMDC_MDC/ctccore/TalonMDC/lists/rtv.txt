@@ -1,0 +1,11 @@
+~<BLANK>
+01 - Current or former spouse of victim (can be same sex)
+02 - Parent or step parent of victim
+03 - Guardian of victim
+04 - Child of victim
+05 - Person is cohabiting or has cohabited as spouse of victim (can be same sex)
+06 - Person is cohabiting or has cohabited as parent of victim
+07 - Person is cohabiting or has cohabited as guardian of victim
+08 - Person similarly situated to spouse (can be same sex)
+09 - Person similarly situated to parent
+10 - Person similarly situated to guardian

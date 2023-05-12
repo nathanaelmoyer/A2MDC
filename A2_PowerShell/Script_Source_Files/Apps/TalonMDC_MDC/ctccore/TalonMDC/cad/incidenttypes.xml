@@ -1,0 +1,183 @@
+<Values>
+  <Value Display=" " Value="" Default="true" />
+  <Value Display="15TH DIST WAR/JUV PU" Value="WARR" />
+  <Value Display="48 HOUR STORAGE" Value="48HOUR" />
+  <Value Display="911 HANG UP" Value="911HU" />
+  <Value Display="ABAN VEH/HAZARDS/ILLEGAL PARK" Value="ABAN" />
+  <Value Display="ABUSE/NEGLECT" Value="ABUSE" />
+  <Value Display="ACCIDENT AIRCRAFT" Value="PLANE" />
+  <Value Display="ACCIDENT OTHER SHOOTING" Value="SHOOT" />
+  <Value Display="ACCIDENT WATER" Value="WATER" />
+  <Value Display="ALARM CAR" Value="ALRCAR" />
+  <Value Display="ALL OTHER PARKING" Value="PARKIN" />
+  <Value Display="AMUBLANCE REQUEST" Value="AMBREQ" />
+  <Value Display="ANIMAL BITES" Value="BITE" />
+  <Value Display="ARSON FIRE" Value="ARSON" />
+  <Value Display="ASSAULT" Value="AB" />
+  <Value Display="ASSAULT ON POLICE OFFICER" Value="ABPOL" />
+  <Value Display="ASSIST FIRE DEPT" Value="AFD" />
+  <Value Display="ASSIST MOTORIST" Value="CARAST" />
+  <Value Display="ASSIST OTHER AGENCY" Value="AOA" />
+  <Value Display="AT COURT" Value="COURT" />
+  <Value Display="ATTEMPT TO SERVE WARR" Value="ATTSRV" />
+  <Value Display="AUDIBLE ALARM" Value="ALRAUD" />
+  <Value Display="B&amp;E" Value="BE" />
+  <Value Display="B&amp;E TO AUTO" Value="BEAUTO" />
+  <Value Display="BANK ALARM" Value="ALRBNK" />
+  <Value Display="BLOCKED DRIVE" Value="BLOCKD" />
+  <Value Display="BOL" Value="BOL" />
+  <Value Display="BOMB THREAT" Value="BOMB" />
+  <Value Display="BRIBERY" Value="BRIB" />
+  <Value Display="BURGLARY ALARM" Value="ALRBRG" />
+  <Value Display="CARJACKING" Value="CARJAK" />
+  <Value Display="CCW" Value="CCWEAP" />
+  <Value Display="CHECK WELL BEING" Value="CKWELL" />
+  <Value Display="CHECKPERSON" Value="CHKPER" />
+  <Value Display="CITIZEN ASSIST" Value="CITASS" />
+  <Value Display="CIVIL (LEGAL) PROBLEMS" Value="CIVILD" />
+  <Value Display="CIVIL RIGHTS VIOLATIONS" Value="CIVIL" />
+  <Value Display="CIVIL STANDBY" Value="CVLSTB" />
+  <Value Display="CODE VIOLATION" Value="CODVIO" />
+  <Value Display="CSC" Value="CSC" />
+  <Value Display="DAMAGED PROP-NON CRIM" Value="DAMAGE" />
+  <Value Display="DELIVERY OF EMERG MESS" Value="MESSAG" />
+  <Value Display="DISORDERLY" Value="DISORD" />
+  <Value Display="DOG CALLS" Value="DOG" />
+  <Value Display="DOMESTIC DISTURBANCE" Value="DOMES" />
+  <Value Display="DOMESTIC VIOLENCE" Value="DOMESV" />
+  <Value Display="DRUG CALL" Value="DRUG" />
+  <Value Display="DWLS" Value="DWLS" />
+  <Value Display="EMBEZZLEMENT" Value="EMBEZ" />
+  <Value Display="EMOTIONALLY DISTURB PER" Value="EDP" />
+  <Value Display="EQUIPMENT" Value="EQUIP" />
+  <Value Display="EXPLOSION" Value="EXPLOS" />
+  <Value Display="EXTORTION" Value="EXTORT" />
+  <Value Display="FAIL TO PAY" Value="FALPAY" />
+  <Value Display="FAIL TO RETURN RENT/BORROWED VEHICLE" Value="FTRV" />
+  <Value Display="FAMILY TROUBLE" Value="FAMTRB" />
+  <Value Display="FELONIOUS ASSAULT" Value="FA" />
+  <Value Display="FIGHT" Value="FIGHT" />
+  <Value Display="FILE FALSE PD REPORT" Value="FALSRP" />
+  <Value Display="FINANCIAL TRANS DEVICE" Value="FTD" />
+  <Value Display="FIRE" Value="FIREPD" />
+  <Value Display="FIRE ACCIDENTAL" Value="FIREAC" />
+  <Value Display="FIREWORKS" Value="FIREWK" />
+  <Value Display="FLEEING AND ELUDING" Value="FLEE" />
+  <Value Display="FOLLOW UP" Value="FLWUP" />
+  <Value Display="FOOT PATROL" Value="FOOT" />
+  <Value Display="FORGERY/COUNTERF" Value="FORG" />
+  <Value Display="FOUND CHILD" Value="FNDCHD" />
+  <Value Display="FOUND PROPERTY" Value="FOUNDP" />
+  <Value Display="FRAUD" Value="FRAUD" />
+  <Value Display="FRONT DSK RELIEF" Value="DSKRLF" />
+  <Value Display="FUEL BREAK" Value="FUELB" />
+  <Value Display="FUGITIVE WARRANT" Value="FUGWAR" />
+  <Value Display="GAMBLING" Value="GAMB" />
+  <Value Display="GASOLINE DRIVE OFF" Value="DRVOFF" />
+  <Value Display="HARASSING TX CALLS" Value="TXHARA" />
+  <Value Display="HAZ MAT SPILLS" Value="HAZMAT" />
+  <Value Display="HIT AND RUN (PDC LEAVE)" Value="HITRUN" />
+  <Value Display="HOME INVASION" Value="HI" />
+  <Value Display="HOMICIDE" Value="HOMIC" />
+  <Value Display="ILLEGAL DUMPING" Value="ILLDUM" />
+  <Value Display="ILLEGAL ENTRY" Value="ILENTR" />
+  <Value Display="INCAPACITATED DRUNK" Value="INCAP" />
+  <Value Display="INDECENT EXPOSURE" Value="INDEXP" />
+  <Value Display="INFORMATION" Value="INFO" />
+  <Value Display="INJURED PERSON" Value="INJPER" />
+  <Value Display="INJURED POLICE EMPLOYEE" Value="INJEMP" />
+  <Value Display="INTIMIDATION" Value="ETHINT" />
+  <Value Display="INTIMIDATION THREATS" Value="INTIM" />
+  <Value Display="JUVENILE CURFEW VIOLATION" Value="JUVEC" />
+  <Value Display="JUVENILE RUNAWAY" Value="RUNAW" />
+  <Value Display="JUVENILE TROUBLE" Value="JUVTRB" />
+  <Value Display="K-9 TRACKING" Value="K9" />
+  <Value Display="KIDNAPPING/ABDUCTION" Value="KIDPAR" />
+  <Value Display="KIDNAPPING-PARENTAL" Value="KIDPAR" />
+  <Value Display="LARCENY" Value="LARC" />
+  <Value Display="LARCENY FROM AUTO" Value="LARCAU" />
+  <Value Display="LIQUOR INSPECTION" Value="LI" />
+  <Value Display="LITTERING" Value="LITTER" />
+  <Value Display="LOST PROPERTY" Value="LOST" />
+  <Value Display="LURING-ATTEMPT CHILD LURING" Value="LURE" />
+  <Value Display="MAN WITH GUN" Value="MANGUN" />
+  <Value Display="MDOP" Value="MDOP" />
+  <Value Display="MEETING" Value="MEETIN" />
+  <Value Display="MINOR IN POSSESSION" Value="MIPAA" />
+  <Value Display="MISC INFO" Value="MISC" />
+  <Value Display="MISSING CHILD" Value="MISCHD" />
+  <Value Display="MISSING PERSON" Value="MISPER" />
+  <Value Display="MLCC" Value="MLCC" />
+  <Value Display="NATURAL DISASTER" Value="NATDIS" />
+  <Value Display="NATURE UNKNOWN" Value="NATUNK" />
+  <Value Display="NEIGHBOR TROUBLE- NO CRIMINAL" Value="NEIGH" />
+  <Value Display="NOISE" Value="NOISE" />
+  <Value Display="NON CRIMINAL ESCAPEE" Value="ESCAPE" />
+  <Value Display="NONTERMINAL" Value="NONTER" />
+  <Value Display="OBSCENE MATERIALS" Value="OBSC" />
+  <Value Display="OPEN INTOX/POSS/CONSUME" Value="OPENTX" />
+  <Value Display="OUIL" Value="OUIL" />
+  <Value Display="OVERDOSE ACCIDENTAL" Value="OD" />
+  <Value Display="OWI" Value="OWI" />
+  <Value Display="PANHANDLING" Value="PANHND" />
+  <Value Display="PANIC ALARM" Value="ALRPAN" />
+  <Value Display="PEEPING TOM" Value="PEEP" />
+  <Value Display="PER INJURY ACCIDT" Value="PIA" />
+  <Value Display="POSSESSION OF DRUG PARAPHERNALIA" Value="PARAPH" />
+  <Value Display="POSSESSION OF FALSE ID" Value="FLSID" />
+  <Value Display="PPO" Value="PPO" />
+  <Value Display="PRISONER TRANSP" Value="PRSTRN" />
+  <Value Display="PRIVATE PROP CRASH" Value="PPC" />
+  <Value Display="PRIVATE PROPERTY IMPOUND" Value="PPI" />
+  <Value Display="PROP DAMAGE CRASH" Value="PDC" />
+  <Value Display="PROPERTY CHECK" Value="PDC" />
+  <Value Display="PROSTITUTION" Value="PROS" />
+  <Value Display="PROWLER" Value="PROWL" />
+  <Value Display="PURSE SNATCHING" Value="PURSE" />
+  <Value Display="R&amp;C" Value="R&amp;C" />
+  <Value Display="R&amp;O/FLEEING" Value="RO" />
+  <Value Display="RECKLESS DRIVING" Value="RECKLE" />
+  <Value Display="REPOSSESION" Value="REPO" />
+  <Value Display="RESTRAINING ORDERS (NON CRIMINAL)" Value="RESORD" />
+  <Value Display="RETAIL FRAUD" Value="RETFRD" />
+  <Value Display="ROBBERY" Value="ROB" />
+  <Value Display="RUNAWAY RECOVERED OTHER JURIS" Value="RECRUN" />
+  <Value Display="SCHOOL CROSSING GUARD" Value="CRSGRD" />
+  <Value Display="SEX OFFENSE/GROSS INDECENCY" Value="SEX" />
+  <Value Display="SHOTS FIRED" Value="SHOTS" />
+  <Value Display="SOF REGISTRATION" Value="SEXREG" />
+  <Value Display="SOLICITOR" Value="SOLIC" />
+  <Value Display="SPECIAL ASSIGN" Value="SPEC" />
+  <Value Display="STALKING" Value="STALKM" />
+  <Value Display="STOLEN PROPERTY" Value="POSSP" />
+  <Value Display="SUBPOENA" Value="SUBPOE" />
+  <Value Display="SUDDEN DEATH" Value="DEATH" />
+  <Value Display="SUICIDAL PERSON" Value="SUICID" />
+  <Value Display="SUSP PER/INC/VEHIC" Value="SUSP" />
+  <Value Display="TAKEN W/O PERM-JOY RIDE" Value="JOYRID" />
+  <Value Display="TEST CALL" Value="TEST" />
+  <Value Display="THREATS/STALKING/ETHNIC" Value="THRE" />
+  <Value Display="TOBACCO PRODUCT VIOLATIONS" Value="TOBPRO" />
+  <Value Display="TOBACCO SMOKLESS VIOLATIONS" Value="TOBACC" />
+  <Value Display="TRAFFIC HAZARD" Value="TRAFHZ" />
+  <Value Display="TRAFFIC OFFENSE" Value="TRAFOFF" />
+  <Value Display="TRAFFIC STOP" Value="TSTOP" />
+  <Value Display="TRANS NONPRIS/ VEH" Value="TRANS" />
+  <Value Display="TRESPASS-CRIMINAL" Value="TREPAS" />
+  <Value Display="TRESPASS-INFO ONLY" Value="TREPS" />
+  <Value Display="TROUBLE WITH SUBJ" Value="TROUBL" />
+  <Value Display="UDAA" Value="UDAA" />
+  <Value Display="UDAA RECOVERED" Value="UDAARE" />
+  <Value Display="UNKNOWN PDC" Value="UNKPDC" />
+  <Value Display="URINATE IN PUBLIC" Value="UIP" />
+  <Value Display="VAGRANCY" Value="VAGRCY" />
+  <Value Display="VEHICLE INSPECTION" Value="VINISP" />
+  <Value Display="VEHICLE LOCKOUT" Value="LOCK" />
+  <Value Display="VIOLATION COURT ORDER EXCEPT PPO" Value="VIOCRT" />
+  <Value Display="WALK AWAY MENTAL HOSPITAL" Value="MENWLK" />
+  <Value Display="WARRANT FUGITIVE" Value="WARFUG" />
+  <Value Display="WEAPON" Value="WEAPON" />
+  <Value Display="WIRE DOWN" Value="WIRDWN" />
+  <Value Display="YOUTH TOBACCO ACT" Value="YTA" />
+  <Value Display="ZERO TOLERANCE" Value="ZERO" />
+</Values>

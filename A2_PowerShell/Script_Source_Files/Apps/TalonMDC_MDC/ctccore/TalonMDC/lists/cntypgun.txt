@@ -1,0 +1,5 @@
+~<BLANK>
+RI - Rifle
+RW - Restricted Weapons
+SG - Shotgun
+OT - Other

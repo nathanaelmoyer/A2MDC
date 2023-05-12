@@ -1,0 +1,15 @@
+1
+G	AG[	FraserPDORI 	Fraser ORI
+G	MFT	FraserQuery/CCH	Query/CCH config
+G	MFU	FraserEntry	entry config
+G	MFV	FraserTAC	TAC Config group
+G	MFW	FraserQueryOnly	Query Only config
+G	MHO	FentonTAC	TAC Config group
+G	MHP	FentonQuery/CCH	Query/CCH config
+G	MHQ	FentonEntry	entry config
+G	MHR	FentonQueryOnly	Query Only config
+G	PLQ	FraserWW	Fraser WW Users
+G	PLR	FentonWW	Fenton WW Users
+G	RW[	FentonMobile	Fenton Mobile ORI
+G	RXD	FraserMobile	Fraser Mobile ORI
+G	S]	FentonPDORI	All ORI

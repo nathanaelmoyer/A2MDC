@@ -1,0 +1,10 @@
+<Controls>
+	<Separator/>
+	<Button ValidState="1" Image="exit.png"  Label="Exit" LabelVAlignment="Bottom" LabelHAlignment="Center" ToolTip="Exit Talon"> 
+		<Script>
+			ClientController.ExitProgram( true, "Exit via ToolBar", false );
+		</Script>
+	</Button>
+</Controls>
+<Events>
+</Events>

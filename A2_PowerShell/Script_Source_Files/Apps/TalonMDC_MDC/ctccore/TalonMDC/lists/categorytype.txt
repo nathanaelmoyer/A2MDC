@@ -1,0 +1,23 @@
+~<BLANK>
+B - Bicycles
+C - Camera, Camera Parts/Photo Equipment
+D - Data Processing Equipment
+E - Equipment/Tools
+F - Furniture/Furnishings
+G - Games/Gambling Apparatus
+H - Household Appliances/Equipment
+I - Identification Cards
+J - Special Documents, Food Stamps, and Tickets
+K - Keepsakes and Collectibles
+L - Livestock
+M - Musical Instruments/Equipment
+O - Office Equipment
+P - Personal Accessories
+R - Radio, TV, Sound Entertainment Devices
+S - Sports Equipment/Camping/Exercise/Recreation
+T - Toxic Chemicals
+V - Viewing Equipment
+W - Well-Drilling Equipment
+Y - All Other
+
+

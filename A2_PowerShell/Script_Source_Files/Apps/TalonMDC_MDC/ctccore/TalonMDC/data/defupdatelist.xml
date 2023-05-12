@@ -1,0 +1,181 @@
+<?ctcDefine Attribute="MBLEINChoicesVirtualDirectory"	Value="LEINChoices"?>
+<MBUpdates 
+  TrackHistory="False" 
+  RequiredDirectoryUpdatesForStartup="TIMSRequiredFiles,TIMSRptRequiredFiles,TIMSMICRRequiredFiles,ToolbarRequiredFiles,TalonCADRequiredFiles">
+  
+  <Directory MBDir="TalonData" LocalSubDir="data">
+	<File Name="defupdatelist.xml" DontRewriteUpdateFile="True" RequireReloadOnUpdate="True"/>
+  </Directory>
+  
+  <Directory MBDir="${MBLEINChoicesVirtualDirectory}" LocalSubDir="lists" DownloadInBackground="True">
+	<File Name="ALL_SERVER_FILES" UpdateExistingFilesOnly="True"/>
+  </Directory> 
+
+  <Directory MBDir="TalonData" LocalSubDir="data">
+    <File Name="casefolderdef.xml"/>
+    <File Name="defbbtable.xml"/>
+    <File Name="defcaptable.xml"/>
+    <File Name="deffilter.xml"/>
+    <File Name="defjtable.xml"/>
+    <File Name="defjtablemdc.xml"/>
+    <File Name="deflogtable.xml"/>
+    <File Name="defmaildraftstable.xml"/>
+    <File Name="defmailsenttable.xml"/>
+    <File Name="defmailtrashtable.xml"/>
+    <File Name="defmailviewtable.xml"/>
+    <File Name="deftpdialogtable.xml"/>
+    <File Name="defaultcasetemplate.xml"/>
+    <File Name="defqueryfolders.js"/>
+  </Directory>
+
+  <Directory MBDir="TalonTemplates" LocalSubDir="templates">
+	<File Name="ALL_SERVER_FILES"/>
+  </Directory>
+    <!-- After we get default set of files, then agency specific ones if they exist -->
+  <Directory MBDir="TalonTemplates/customtemplates" LocalSubDir="templates">
+	<File Name="ALL_SERVER_FILES"/>
+  </Directory>
+
+<Directory MBDir="TalonData" LocalSubDir="parsing">
+	<File Name="ALL_SERVER_FILES" ListFilter ="*.js"/>
+  </Directory>
+
+  <Directory MBDir="TalonData" LocalSubDir="data/bulletins">
+	<File Name="bulletin.xsl"/>
+  </Directory>
+
+  <Directory MBDir="Sounds" LocalSubDir="sounds">
+	<File Name="ALL_SERVER_FILES"/>
+  </Directory>
+
+  <Directory ID="ToolbarRequiredFiles" MBDir="TalonToolbars" LocalSubDir="uidefs">
+	<File Name="ALL_SERVER_FILES"/>
+  </Directory>
+  
+<!-- TIMS FILES -->
+<!-- Get default set of files, then agency specific ones if they exist -->
+  <Directory ID="TIMSRequiredFiles" MBDir="TIMS/default/other" LocalSubDir="data/tims"> 
+	<File Name="ALL_SERVER_FILES" ListFilter ="*.xml"/>
+  </Directory>
+  <Directory ID="TIMSRequiredFiles" MBDir="TIMS/default/other" LocalSubDir="data/tims">
+	<File Name="core.pem"/>
+  </Directory>
+  <Directory ID="TIMSRequiredFiles" MBDir="TIMS/default/other" LocalSubDir="data/tims">
+    <File Name="trusted.certs"/>
+  </Directory>
+  <Directory ID="TIMSRequiredFiles" MBDir="TIMS/default/other" LocalSubDir="data/tims">
+    <File Name="trusted.jssecerts"/>
+  </Directory>
+  <Directory ID="TIMSRequiredFiles" MBDir="TIMS/default/other" LocalSubDir="data/tims">
+    <File Name="trusted.jssecacerts"/>
+  </Directory>
+  <Directory ID="TIMSRequiredFiles" MBDir="TIMS/${TIMSAgencyNameForDefUpdateFile:default}/other" LocalSubDir="data/tims"> 
+	<File Name="ALL_SERVER_FILES" ListFilter ="*.xml"/>
+  </Directory> 
+  <Directory ID="TIMSRequiredFiles" MBDir="TIMS/${TIMSAgencyNameForDefUpdateFile:default}/other" LocalSubDir="data/tims">
+	<File Name="core.pem"/>
+  </Directory>
+  <Directory ID="TIMSRequiredFiles" MBDir="TIMS/${TIMSAgencyNameForDefUpdateFile:default}/other" LocalSubDir="data/tims">
+    <File Name="trusted.certs"/>
+  </Directory>
+  <Directory ID="TIMSRequiredFiles" MBDir="TIMS/${TIMSAgencyNameForDefUpdateFile:default}/other" LocalSubDir="data/tims">
+    <File Name="trusted.jssecerts"/>
+  </Directory>
+  <Directory ID="TIMSRequiredFiles" MBDir="TIMS/${TIMSAgencyNameForDefUpdateFile:default}/other" LocalSubDir="data/tims">
+    <File Name="trusted.jssecacerts"/>
+  </Directory>
+  
+  <!-- Get default set of files, then agency specific ones if they exist -->
+  <Directory ID="TIMSRptRequiredFiles" MBDir="TIMS/default/other/reports" LocalSubDir="data/tims/reports"> 
+	<File Name="ALL_SERVER_FILES" ListFilter ="*.tf"/>
+  </Directory> 
+  <Directory ID="TIMSRptRequiredFiles" MBDir="TIMS/${TIMSAgencyNameForDefUpdateFile:default}/other/reports" LocalSubDir="data/tims/reports"> 
+	<File Name="ALL_SERVER_FILES" ListFilter ="*.tf"/>
+  </Directory> 
+  
+<!-- Get default set of files, then agency specific ones if they exist -->
+  <Directory ID="TIMSMICRRequiredFiles" MBDir="TIMS/default/other" LocalSubDir="lists"> 
+	<File Name="offensefileclass_rules.csv"/>
+  </Directory> 
+  <Directory ID="TIMSMICRRequiredFiles" MBDir="TIMS/${TIMSAgencyNameForDefUpdateFile:default}/other" LocalSubDir="lists"> 
+	<File Name="offensefileclass_rules.csv"/>
+  </Directory> 
+  
+  <!-- Get default set of files, then agency specific ones if they exist -->
+  <Directory MBDir="TIMS/default/other" LocalSubDir="data/tims/ekit" >
+	<File Name="dictionary.txt"/>
+	<File Name="dictionary_en.ortho"/>
+	<File Name="dictionaries.cnf"/>
+  </Directory> 
+  <Directory MBDir="TIMS/${TIMSAgencyNameForDefUpdateFile:default}/other" LocalSubDir="data/tims/ekit" >
+	<File Name="dictionary.txt"/>
+	<File Name="dictionary_en.ortho"/>
+	<File Name="dictionaries.cnf"/>
+	<File Name="agency_dictionary.txt" DontErrorIfFileMissing="True"/>
+  </Directory>
+    <!-- Get default set of files, then agency specific ones if they exist -->
+  <Directory ID="TIMSAgencySpecificTRXFiles" MBDir="TIMS/default/other" LocalSubDir="data/tims"> 
+	<File Name="ALL_SERVER_FILES" ListFilter ="*.trx"/>
+  </Directory> 
+    <Directory MBDir="TIMS/${TIMSAgencyNameForDefUpdateFile:default}/other" LocalSubDir="data/tims" >
+	<File Name="ALL_SERVER_FILES" ListFilter ="*.trx"/>
+  </Directory>
+  <Directory ID="TIMSAgencySpecificJSFiles" MBDir="TIMS/default/other" LocalSubDir="data/tims"> 
+	<File Name="ALL_SERVER_FILES" ListFilter ="*.js"/>
+  </Directory> 
+    <Directory MBDir="TIMS/${TIMSAgencyNameForDefUpdateFile:default}/other" LocalSubDir="data/tims" >
+	<File Name="ALL_SERVER_FILES" ListFilter ="*.js"/>
+  </Directory>
+    <!-- Get default set of files, then agency specific ones if they exist -->
+    <Directory MBDir="TIMS/default/other/reports" LocalSubDir="data/tims/reports" >
+	<File Name="ALL_SERVER_FILES" ListFilter ="*.trx"/>
+  </Directory>
+  <Directory MBDir="TIMS/${TIMSAgencyNameForDefUpdateFile:default}/other/reports" LocalSubDir="data/tims/reports" >
+	<File Name="ALL_SERVER_FILES" ListFilter ="*.trx"/>
+  </Directory>
+   <!-- Get Evidence Scanner files -->
+  <Directory ID="TIMSRequiredFiles" MBDir="TIMS/default/other/EvidenceAuditInstall" LocalSubDir="data/tims/EvidenceAuditInstall"> 
+	<File Name="ALL_SERVER_FILES" ListFilter ="*.*"/>
+  </Directory>
+  
+  <!-- OFICER DAILY FILES -->
+  <!-- Get default set of files, then agency specific ones if they exist -->
+  <Directory ID="ODRptRequiredFiles" MBDir="TIMS/default/other/odailyreports" LocalSubDir="data/tims/odailyreports"> 
+	<File Name="ALL_SERVER_FILES" ListFilter ="*.tf"/>
+  </Directory> 
+<Directory ID="ODRptRequiredFiles" MBDir="TIMS/${TIMSAgencyNameForDefUpdateFile:default}/other/odailyreports" LocalSubDir="data/tims/odailyreports"> 
+	<File Name="ALL_SERVER_FILES" ListFilter ="*.tf"/>
+  </Directory> 
+<!-- Get default set of files, then agency specific ones if they exist -->
+  <Directory MBDir="TIMS/default/other/odailyreports" LocalSubDir="data/tims/odailyreports" >
+	<File Name="ALL_SERVER_FILES" ListFilter ="*.trx"/>
+  </Directory>   <Directory MBDir="TIMS/${TIMSAgencyNameForDefUpdateFile:default}/other/odailyreports" LocalSubDir="data/tims/odailyreports" >
+	<File Name="ALL_SERVER_FILES" ListFilter ="*.trx"/>
+  </Directory> 
+  
+  <!-- CAD/Call For Service FILES -->
+  <!-- Get default set of files, then agency specific ones if they exist -->
+   <Directory ID="TalonCADRequiredFiles" MBDir="TalonCAD/default" LocalSubDir="cad">
+	<File Name="ALL_SERVER_FILES"/>
+  </Directory>
+  <Directory ID="TalonCADRequiredFiles" MBDir="TalonCAD/${TIMSAgencyNameForDefUpdateFile:default}" LocalSubDir="cad">
+	<File Name="ALL_SERVER_FILES"/>
+  </Directory>
+  
+  <Directory ID="TalonCADImages" MBDir="TalonCAD/default/imgs" LocalSubDir="imgs">
+   <File Name="ALL_SERVER_FILES"/>
+  </Directory>
+    <Directory ID="TalonCADImages" MBDir="TalonCAD/${TIMSAgencyNameForDefUpdateFile:default}/imgs" LocalSubDir="imgs">
+   <File Name="ALL_SERVER_FILES"/>
+  </Directory>   
+<!--
+<Directory MBDir="TalonData" LocalSubDir=".">
+    <File Name="log.ini"/>
+  </Directory>
+-->
+
+  <!--Directory MBDir="TalonData" LocalSubDir="imgs">
+    <File Name="sy_alert.gif"/>
+  </Directory-->
+
+</MBUpdates>

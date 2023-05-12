@@ -1,0 +1,23 @@
+<CADNewIncident ClassName="com.ctccore.talon.cad.EvtReportRequest" GlobalFormatTextField="4">
+	<Fields>
+		<ReportType>Unit Status</ReportType>
+	</Fields>
+	<Title>Unit Status</Title>  
+	<FormDefinition>
+		<XMLItem Label="Agency ID" Type="Text" JContFormat="0" Columns="11" MaxLength="2" SCFormat="64">
+			<Field>Agency</Field>
+		</XMLItem>
+		<XMLItem Label="" Type="Label" PreceedingNextLinePixels="20" JContNextLine="False"/>
+		<XMLItem Label="AND/OR" Type="Label"/>
+		<XMLItem Label="Area" Type="Text" PreceedingNextLinePixels="20" JContFormat="0" Columns="11" MaxLength="3" SCFormat="64">
+			<Field>Area</Field>
+		</XMLItem>
+		<XMLItem Label="" Type="Label" PreceedingNextLinePixels="20" JContNextLine="False"/>
+		<XMLItem Label="AND/OR" Type="Label"/>
+		<XMLItem Label="Unit Number" Type="Text" PreceedingNextLinePixels="20" JContFormat="0" Columns="11" MaxLength="5" SCFormat="64">
+			<Field>Unit</Field>
+		</XMLItem>
+	</FormDefinition>
+	  <Button Label="Submit" Action="Submit;Close" Key="VK_ENTER"/>
+	  <Button Label="Cancel" Action="Close" Key="VK_ESCAPE"/>
+</CADNewIncident>
