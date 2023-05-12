@@ -886,7 +886,7 @@ Function Show-MainMenu {
                         Install-CLEMIS_SecureAccess
                         Install-AAPD_MDC_maps
                         Install-RemoteUtilities
-                        Install-DellSupportAssist
+                        #Install-DellSupportAssist
                         Install-DellCommandUpdate
                         Set-FileHandlerDefaults
                         Set-CustomRegistryChanges
