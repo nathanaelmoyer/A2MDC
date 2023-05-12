@@ -887,6 +887,7 @@ Function Show-MainMenu {
                         Install-AAPD_MDC_maps
                         Install-RemoteUtilities
                         Install-DellSupportAssist
+                        Install-DellCommandUpdate
                         Set-FileHandlerDefaults
                         Set-CustomRegistryChanges
                         Set-OtherCustomSettings
