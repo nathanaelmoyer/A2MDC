@@ -164,6 +164,7 @@ Function Install-CLEMISEasyStreetDraw {
     Try {
     #Set Variables
     $packagepath = "C:\UTILS\Crash7"
+    $sourcepath = "${PSScriptRoot}\Script_Source_Files\Apps\CLEMIS_EasyStreetDraw"
 
     #Visual Feedback
     Write-Host ' '
@@ -540,98 +541,102 @@ Function Set-FileHandlerDefaults {
 
 Function Set-CustomRegistryChanges {
     Try {
-    <# A2 MDC Custom Registry Changes
-    i.	Enable Webcam & Microphone Access/Functionality (Windows Privacy Settings so officers can use MS Teams/Zoom from the vehicle within Chrome)
-    ii.	Enable the 'Show Menu toolbar' in Internet Explorer (so officers can easily access the IESpell plugin) ***(IESpell is no longer installed as of 5.4.23)***
-    iii. Set default MS Office File Associations to open in ONLYOFFICE 
-    iv. Disable Tablet Mode #>
+        <# A2 MDC Custom Registry Changes
+        i.	Enable Webcam & Microphone Access/Functionality (Windows Privacy Settings so officers can use MS Teams/Zoom from the vehicle within Chrome)
+        ii.	Enable the 'Show Menu toolbar' in Internet Explorer (so officers can easily access the IESpell plugin) ***(IESpell is no longer installed as of 5.4.23)***
+        iii. Set default MS Office File Associations to open in ONLYOFFICE 
+        iv. Disable Tablet Mode #>
 
-    #Visual Feedback
-    Write-Host ' '
-    Write-Host '-------------------------------------------------------------'    
-    Write-Host 'Applying Settings 2 of 5 - A2 Custom Registry Changes'
-    Write-Host '-------------------------------------------------------------'
-    Write-Host $script:MsgPleaseWait
+        #Visual Feedback
+        Write-Host ' '
+        Write-Host '-------------------------------------------------------------'    
+        Write-Host 'Applying Settings 2 of 5 - A2 Custom Registry Changes'
+        Write-Host 'Function is likely going to return and error. Working on resolution.'
+        Write-Host '-------------------------------------------------------------'
+        Write-Host $script:MsgPleaseWait
 
-    #Build an array of users to apply the custom registry settings to
-    $MDCusers = [System.Collections.ArrayList]@()
-    ##Default User (we KNOW this is there)
-    $MDCusers.Add("Default") | Out-Null
-    ##Check if aamdc user's profile has already been created or not. If it's there, load that user's reg hive and apply settings
-    if (Test-Path -Path C:\Users\aamdc\ntuser.dat) {
-        $MDCusers.Add("aamdc") | Out-Null
-    } #End if
-    <#Check if the user running the script is agyadm. If not, test if the reg hive is present on the machine. 
-    If it's there, load it and apply settings. If agyadmin is running the script, that is OK as well; 
-    Those changes will be imported into HKCU further down in the code#>
-    if ($env:username -notmatch "agyadm") {
-        if (Test-Path -Path C:\Users\agyadm\ntuser.dat) {
-        $MDCusers.Add("agyadm") | Out-Null
+        #Build an array of users to apply the custom registry settings to
+        $MDCusers = [System.Collections.ArrayList]@()
+        ##Default User (we KNOW this is there)
+        $MDCusers.Add("Default") | Out-Null
+        ##Check if aamdc user's profile has already been created or not. If it's there, load that user's reg hive and apply settings
+        if (Test-Path -Path C:\Users\aamdc\ntuser.dat) {
+            $MDCusers.Add("aamdc") | Out-Null
         } #End if
-    } #End if
-
-    Function ApplyRegSettings {
-        Try {
-        param (
-            $ConsentStore,
-            $RegRoot
-        )
-        #Allow microphone access
-        New-ItemProperty -Path "$ConsentStore\microphone" -Name "Value" -Value 'Allow' -PropertyType String -Force | Out-Null
-        New-Item -Path "$ConsentStore\microphone" -Name "NonPackaged" -Force | Out-Null
-        New-Item -Path "$ConsentStore\microphone" -Name "Microsoft.Win32WebViewHost_cw5n1h2txyewy" -Force | Out-Null
-        New-Item -Path "$ConsentStore\microphone" -Name "Microsoft.MicrosoftEdge_8wekyb3d8bbwe" -Force | Out-Null
-        New-Item -Path "$ConsentStore\microphone" -Name "Windows.Photos_8wekyb3d8bbwe" -Force | Out-Null
-        New-ItemProperty -Path "$ConsentStore\microphone\NonPackaged" -Name "Value" -Value 'Allow' -PropertyType String -Force | Out-Null
-        New-ItemProperty -Path "$ConsentStore\microphone\Microsoft.Win32WebViewHost_cw5n1h2txyewy" -Name "Value" -Value 'Allow' -PropertyType String -Force | Out-Null
-        New-ItemProperty -Path "$ConsentStore\microphone\Microsoft.MicrosoftEdge_8wekyb3d8bbwe" -Name "Value" -Value 'Allow' -PropertyType String -Force | Out-Null
-        New-ItemProperty -Path "$ConsentStore\microphone\Windows.Photos_8wekyb3d8bbwe" -Name "Value" -Value 'Allow' -PropertyType String -Force | Out-Null
-
-        #Allow webcam access
-        New-ItemProperty -Path "$ConsentStore\webcam" -Name "Value" -Value 'Allow'  -PropertyType String -Force | Out-Null
-        New-Item -Path "$ConsentStore\webcam" -Name "NonPackaged" -Force | Out-Null
-        New-Item -Path "$ConsentStore\webcam" -Name "Microsoft.Win32WebViewHost_cw5n1h2txyewy" -Force | Out-Null
-        New-Item -Path "$ConsentStore\webcam" -Name "Microsoft.Windows.Photos_8wekyb3d8bbwe" -Force | Out-Null
-        New-Item -Path "$ConsentStore\webcam" -Name "Microsoft.MicrosoftEdge_8wekyb3d8bbwe" -Force | Out-Null
-        New-ItemProperty -Path "$ConsentStore\webcam\NonPackaged" -Name "Value" -Value 'Allow' -PropertyType String -Force | Out-Null
-        New-ItemProperty -Path "$ConsentStore\webcam\Microsoft.Win32WebViewHost_cw5n1h2txyewy" -Name "Value" -Value 'Allow' -PropertyType String -Force | Out-Null
-        New-ItemProperty -Path "$ConsentStore\webcam\Microsoft.Windows.Photos_8wekyb3d8bbwe" -Name "Value" -Value 'Allow' -PropertyType String -Force | Out-Null
-        New-ItemProperty -Path "$ConsentStore\webcam\Microsoft.MicrosoftEdge_8wekyb3d8bbwe" -Name "Value" -Value 'Allow' -PropertyType String -Force | Out-Null
-         
-        #Disable Tablet Mode
-        if (!(Test-Path -Path "$RegRoot\SOFTWARE\Microsoft\Windows\CurrentVersion\ImmersiveShell")) {
-            New-Item -Path "$RegRoot\SOFTWARE\Microsoft\Windows\CurrentVersion" -Name "ImmersiveShell" | Out-Null
+        <#Check if the user running the script is agyadm. If not, test if the reg hive is present on the machine. 
+        If it's there, load it and apply settings. If agyadmin is running the script, that is OK as well; 
+        Those changes will be imported into HKCU further down in the code#>
+        if ($env:username -notmatch "agyadm") {
+            if (Test-Path -Path C:\Users\agyadm\ntuser.dat) {
+            $MDCusers.Add("agyadm") | Out-Null
+            } #End if
         } #End if
-        New-ItemProperty -Path "$RegRoot\SOFTWARE\Microsoft\Windows\CurrentVersion\ImmersiveShell" -Name "TabletMode"  -Value 0 -Force | Out-Null #this will only currently disable tablet mode before the next switch prompt
-        New-ItemProperty -Path "$RegRoot\SOFTWARE\Microsoft\Windows\CurrentVersion\ImmersiveShell" -Name "TabletMode"  -Value 0 -Force | Out-Null #this will only currently disable tablet mode before the next switch prompt
-        New-ItemProperty -Path "$RegRoot\SOFTWARE\Microsoft\Windows\CurrentVersion\ImmersiveShell" -Name "SignInMode"  -Value 1 -Force | Out-Null #this will enable Desktop mode on Signin
-        New-ItemProperty -Path "$RegRoot\SOFTWARE\Microsoft\Windows\CurrentVersion\ImmersiveShell" -Name "ConvertibleSlateModePromptPreference"  -Value 0 -Force | Out-Null #this will prevent prompts and will preserve desktop mode
 
-        #No ONLYOFFICE Update-checks
-        New-Item -Path "$RegRoot\Software\ONLYOFFICE\" -Name "DesktopEditors" -Force | Out-Null
-        New-ItemProperty -Path "$RegRoot\Software\ONLYOFFICE\DesktopEditors" -Name "CheckForUpdates" -Value 0  -PropertyType String -Force | Out-Null
-        
-        #Always show IE Menu Toolbar
-        New-Item -Path "$RegRoot\Software\Microsoft\Internet Explorer\" -Name "MINIE" -Force | Out-Null
-        New-ItemProperty -Path "$RegRoot\Software\Microsoft\Internet Explorer\MINIE" -Name "AlwaysShowMenus" -Value 1  -PropertyType DWORD -Force | Out-Null
-        } Catch {
-        MsgCatchError
-        }
-    } #End Function
+        Function ApplyRegSettings {
+            Try {
 
-    #Apply Settings to the Default profile + MDC user profiles present on the system
-    foreach ($user in $MDCusers) {
-        Start-Process -Wait reg -ArgumentList "load HKU\TempSpace C:\users\$user\ntuser.dat" -WindowStyle Hidden
-        New-PSDrive -PSProvider Registry -Name HKU -Root HKEY_USERS | Out-Null
-        ApplyRegSettings -RegRoot "HKU:\TempSpace" -ConsentStore "HKU:\TempSpace\Software\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore"
-        Remove-PSDrive -Name HKU
-        [gc]::collect() #needed here to solve reg unload issues - see https://social.technet.microsoft.com/Forums/en-US/78efe17d-1faa-4da1-a0e2-3387493a1e97/powershell-loading-unloading-and-reading-hku  AND  https://jrich523.wordpress.com/2012/03/06/powershell-loading-and-unloading-registry-hives/
-        Start-Process -Wait reg -ArgumentList "unload HKU\TempSpace" -WindowStyle Hidden
-    }
+                param (
+                    $ConsentStore,
+                    $RegRoot
+                )
+                #Allow microphone access
+                New-ItemProperty -Path "$ConsentStore\microphone" -Name "Value" -Value 'Allow' -PropertyType String -Force | Out-Null
+                New-Item -Path "$ConsentStore\microphone" -Name "NonPackaged" -Force | Out-Null
+                New-Item -Path "$ConsentStore\microphone" -Name "Microsoft.Win32WebViewHost_cw5n1h2txyewy" -Force | Out-Null
+                New-Item -Path "$ConsentStore\microphone" -Name "Microsoft.MicrosoftEdge_8wekyb3d8bbwe" -Force | Out-Null
+                New-Item -Path "$ConsentStore\microphone" -Name "Windows.Photos_8wekyb3d8bbwe" -Force | Out-Null
+                New-ItemProperty -Path "$ConsentStore\microphone\NonPackaged" -Name "Value" -Value 'Allow' -PropertyType String -Force | Out-Null
+                New-ItemProperty -Path "$ConsentStore\microphone\Microsoft.Win32WebViewHost_cw5n1h2txyewy" -Name "Value" -Value 'Allow' -PropertyType String -Force | Out-Null
+                New-ItemProperty -Path "$ConsentStore\microphone\Microsoft.MicrosoftEdge_8wekyb3d8bbwe" -Name "Value" -Value 'Allow' -PropertyType String -Force | Out-Null
+                New-ItemProperty -Path "$ConsentStore\microphone\Windows.Photos_8wekyb3d8bbwe" -Name "Value" -Value 'Allow' -PropertyType String -Force | Out-Null
 
-    #Apply Settings to Current User
-    ApplyRegSettings -RegRoot "HKCU:\" -ConsentStore "HKCU:\Software\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore"
-    Write-Host $script:MsgProcessComplete
+                #Allow webcam access
+                New-ItemProperty -Path "$ConsentStore\webcam" -Name "Value" -Value 'Allow'  -PropertyType String -Force | Out-Null
+                New-Item -Path "$ConsentStore\webcam" -Name "NonPackaged" -Force | Out-Null
+                New-Item -Path "$ConsentStore\webcam" -Name "Microsoft.Win32WebViewHost_cw5n1h2txyewy" -Force | Out-Null
+                New-Item -Path "$ConsentStore\webcam" -Name "Microsoft.Windows.Photos_8wekyb3d8bbwe" -Force | Out-Null
+                New-Item -Path "$ConsentStore\webcam" -Name "Microsoft.MicrosoftEdge_8wekyb3d8bbwe" -Force | Out-Null
+                New-ItemProperty -Path "$ConsentStore\webcam\NonPackaged" -Name "Value" -Value 'Allow' -PropertyType String -Force | Out-Null
+                New-ItemProperty -Path "$ConsentStore\webcam\Microsoft.Win32WebViewHost_cw5n1h2txyewy" -Name "Value" -Value 'Allow' -PropertyType String -Force | Out-Null
+                New-ItemProperty -Path "$ConsentStore\webcam\Microsoft.Windows.Photos_8wekyb3d8bbwe" -Name "Value" -Value 'Allow' -PropertyType String -Force | Out-Null
+                New-ItemProperty -Path "$ConsentStore\webcam\Microsoft.MicrosoftEdge_8wekyb3d8bbwe" -Name "Value" -Value 'Allow' -PropertyType String -Force | Out-Null
+                
+                #Disable Tablet Mode
+                if (!(Test-Path -Path "$RegRoot\SOFTWARE\Microsoft\Windows\CurrentVersion\ImmersiveShell")) {
+                    New-Item -Path "$RegRoot\SOFTWARE\Microsoft\Windows\CurrentVersion" -Name "ImmersiveShell" | Out-Null
+                } #End if
+                New-ItemProperty -Path "$RegRoot\SOFTWARE\Microsoft\Windows\CurrentVersion\ImmersiveShell" -Name "TabletMode"  -Value 0 -Force | Out-Null #this will only currently disable tablet mode before the next switch prompt
+                New-ItemProperty -Path "$RegRoot\SOFTWARE\Microsoft\Windows\CurrentVersion\ImmersiveShell" -Name "TabletMode"  -Value 0 -Force | Out-Null #this will only currently disable tablet mode before the next switch prompt
+                New-ItemProperty -Path "$RegRoot\SOFTWARE\Microsoft\Windows\CurrentVersion\ImmersiveShell" -Name "SignInMode"  -Value 1 -Force | Out-Null #this will enable Desktop mode on Signin
+                New-ItemProperty -Path "$RegRoot\SOFTWARE\Microsoft\Windows\CurrentVersion\ImmersiveShell" -Name "ConvertibleSlateModePromptPreference"  -Value 0 -Force | Out-Null #this will prevent prompts and will preserve desktop mode
+
+                #No ONLYOFFICE Update-checks
+                New-Item -Path "$RegRoot\Software\ONLYOFFICE\" -Name "DesktopEditors" -Force | Out-Null
+                New-ItemProperty -Path "$RegRoot\Software\ONLYOFFICE\DesktopEditors" -Name "CheckForUpdates" -Value 0  -PropertyType String -Force | Out-Null
+                
+                #Always show IE Menu Toolbar
+                New-Item -Path "$RegRoot\Software\Microsoft\Internet Explorer\" -Name "MINIE" -Force | Out-Null
+                New-ItemProperty -Path "$RegRoot\Software\Microsoft\Internet Explorer\MINIE" -Name "AlwaysShowMenus" -Value 1  -PropertyType DWORD -Force | Out-Null
+            
+            } Catch {
+            MsgCatchError
+            }
+        } #End Function
+
+            #Apply Settings to the Default profile + MDC user profiles present on the system
+            foreach ($user in $MDCusers) {
+                Start-Process -Wait reg -ArgumentList "load HKU\TempSpace C:\users\$user\ntuser.dat" -WindowStyle Hidden
+                New-PSDrive -PSProvider Registry -Name HKU -Root HKEY_USERS | Out-Null
+                ApplyRegSettings -RegRoot "HKU:\TempSpace" -ConsentStore "HKU:\TempSpace\Software\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore"
+                Remove-PSDrive -Name HKU
+                [gc]::collect() #needed here to solve reg unload issues - see https://social.technet.microsoft.com/Forums/en-US/78efe17d-1faa-4da1-a0e2-3387493a1e97/powershell-loading-unloading-and-reading-hku  AND  https://jrich523.wordpress.com/2012/03/06/powershell-loading-and-unloading-registry-hives/
+                Start-Process -Wait reg -ArgumentList "unload HKU\TempSpace" -WindowStyle Hidden
+            }
+
+            #Apply Settings to Current User
+            ApplyRegSettings -RegRoot "HKCU:\" -ConsentStore "HKCU:\Software\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore"
+            Write-Host $script:MsgProcessComplete
+
     } Catch {
     MsgCatchError
     }
@@ -852,18 +857,18 @@ Function RebootIfNeeded {
 
     } else {
         $MsgReboot = 'Script Complete. No reboot required.'
-        $Seconds = 20
-        $MsgStatus = "Closing in $Seconds seconds"
+        #$Seconds = 20
+        #$MsgStatus = "Closing in $Seconds seconds"
         Write-Host ' '
         Write-Host '*************************************************************'   
         Write-Host "$MsgReboot $MsgStatus"
         Write-Host '*************************************************************'
-        #Activate Timer
-        $EndTime = [datetime]::UtcNow.AddSeconds($Seconds)
-        while (($TimeRemaining = ($EndTime - [datetime]::UtcNow)) -gt 0) {
-          Write-Progress -Activity $MsgReboot -Status "$MsgStatus - Ctrl+C to Cancel and Close" -SecondsRemaining $TimeRemaining.TotalSeconds
-          Start-Sleep 1
-        }
+        ##Activate Timer
+        #$EndTime = [datetime]::UtcNow.AddSeconds($Seconds)
+        #while (($TimeRemaining = ($EndTime - [datetime]::UtcNow)) -gt 0) {
+        #  Write-Progress -Activity $MsgReboot -Status #"$MsgStatus - Ctrl+C to Cancel and Close" -SecondsRemaining $TimeRemaining.TotalSeconds
+        #  Start-Sleep 1
+        #}
     } #End if
     } Catch {
     MsgCatchError
@@ -883,6 +888,8 @@ Function Show-MainMenu {
             Write-Host "#  Please make a selection:                                                          #" -ForegroundColor Yellow
             Write-Host "#  ------------------------                                                          #" -ForegroundColor Yellow
             Write-Host "#  1. Install/Update ALL MDC Software/Settings (safe to overwrite previous installs) #" -ForegroundColor Yellow
+            Write-Host "#  2. Install just applications (safe to overwrite previous installs)                #" -ForegroundColor Yellow
+            Write-Host "#  3. Update just MDC setting (safe to overwrite previous installs)                  #" -ForegroundColor Yellow
             Write-Host "#  Q. Quit                                                                           #" -ForegroundColor Yellow
             Write-Host "######################################################################################" -ForegroundColor Yellow
             Write-Host "                                                                  Version $script:Version" -ForegroundColor Green
@@ -909,7 +916,32 @@ Function Show-MainMenu {
                         Set-WindowsActivationOEM
                         Install-BIOSUpdate
                         RebootIfNeeded
-                        return }
+                         }
+                '2' {
+                    InternetConnectivityCheck
+                    Install-CLEMISTrellix
+                    Install-CLEMISBigFix
+                    Install-CLEMISIESpell
+                    Install-CLEMISEasyStreetDraw
+                    Install-A2TalonMDC
+                    Install-A2ChomeMDC
+                    Install-A2OnlyOffice
+                    Install-A2Axon
+                    Install-CLEMIS_SecureAccess
+                    Install-AAPD_MDC_maps
+                    Install-RemoteUtilities
+                    Install-DellCommandUpdate
+                    RebootIfNeeded
+                }
+                '3' {
+                    InternetConnectivityCheck
+                    Set-FileHandlerDefaults
+                    Set-CustomRegistryChanges
+                    Set-ScheduledTaskScript
+                    Set-WindowsActivationOEM
+                    Install-BIOSUpdate
+                    RebootIfNeeded
+                }
                 'Q' { return }
                 DEFAULT { Write-Host "Invalid option entered. Choose again." }
             } #End Switch
