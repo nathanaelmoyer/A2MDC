@@ -58,6 +58,7 @@ Build App Install Functions
 #>
 
 Function InternetConnectivityCheck {
+    Try {      
     #Check for an Internet connection. This is needed for Easy Street Draw & Windows product activation later on in the script. This function prompts to plug in if
     #no Internet connection is detected
     if (!(Test-Connection -ComputerName 8.8.8.8 -Count 1 -Quiet)) {     
@@ -68,11 +69,15 @@ Function InternetConnectivityCheck {
             pause
         } Until (Test-Connection -ComputerName 8.8.8.8 -Count 1 -Quiet)   
     } #End if
+    } Catch {
+    MsgCatchError
+    }
 } #End Function
 
 
 
 Function Install-CLEMISTrellix {
+    Try {
     #Set Variables
     $sourcepath = "${PSScriptRoot}\Script_Source_Files\Apps\CLEMIS_Trellix"
 
@@ -91,10 +96,14 @@ Function Install-CLEMISTrellix {
     } else {
         Write-Host $script:MsgInstConf
     } #End if
+    } Catch {
+    MsgCatchError
+    }
 } #End Function
 
 
 Function Install-CLEMISBigFix {
+    Try {
     #Set Variables
     $sourcepath = "${PSScriptRoot}\Script_Source_Files\Apps\CLEMIS_BigFix"
 
@@ -113,6 +122,9 @@ Function Install-CLEMISBigFix {
     } else {
         Write-Host $script:MsgInstConf
     } #End if
+    } Catch {
+    MsgCatchError
+    }
 } #End Function
 
 
@@ -149,6 +161,7 @@ Function Install-CLEMISIESpell {
 
 
 Function Install-CLEMISEasyStreetDraw {
+    Try {
     #Set Variables
     $packagepath = "C:\UTILS\Crash7"
 
@@ -175,10 +188,14 @@ Function Install-CLEMISEasyStreetDraw {
     } else {
         Write-Host $script:MsgInstConf
     } #End if
+    } Catch {
+    MsgCatchError
+    }
 } #End Function
 
 
 Function Install-A2TalonMDC {
+    Try {
     #Set Variables
     $sourcepath = "${PSScriptRoot}\Script_Source_Files\Apps\TalonMDC_MDC"
 
@@ -212,10 +229,14 @@ Function Install-A2TalonMDC {
             Copy-Item -Force -Path "$sourcepath\TalonMDC.lnk" -Destination "C:\Users\aamdc\Desktop\TalonMDC.lnk"
         } #End if
     Write-Host $script:MsgProcessComplete
+    } Catch {
+    MsgCatchError
+    }
 } #End Function
 
 
 Function Install-A2ChomeMDC {
+    Try {
     #Set Variables
     $sourcepath = "${PSScriptRoot}\Script_Source_Files\Apps\Chrome_MDC"
 
@@ -292,10 +313,14 @@ Function Install-A2ChomeMDC {
     ##Update Group Policy to apply registry settings [note - not all policies will be active until the PC joins a domain -- see https://stackoverflow.com/questions/57352094/why-is-chromium-blocking-defaultsearchproviderenabled-group-policy for more info
     Start-Process gpupdate -ArgumentList "/target:computer /force" -WindowStyle Hidden
     Write-Host $script:MsgProcessComplete
+    } Catch {
+    MsgCatchError
+    }
 } #End Function
 
 
 Function Install-A2OnlyOffice {
+    Try {
     #Set Variables
     $sourcepath = "${PSScriptRoot}\Script_Source_Files\Apps\OnlyOffice_MDC"
 
@@ -338,11 +363,14 @@ Function Install-A2OnlyOffice {
     #https://jrsoftware.org/ishelp/index.php?topic=setupcmdline
     #https://help.pdq.com/hc/en-us/community/posts/360056275692-ONLYOFFICE-Desktop-Editors
     Write-Host $script:MsgProcessComplete
-
+    } Catch {
+    MsgCatchError
+    }
 } #End Function
 
 
 Function Install-A2Axon {
+    Try {
     #Set Variables
     $sourcepath = "$PSScriptRoot\Script_Source_Files\Apps\Axon_MDC"
     $RandNum = Get-Random
@@ -363,10 +391,14 @@ Function Install-A2Axon {
     } else {
         Write-Host $script:MsgInstConf
     } #End if
+    } Catch {
+    MsgCatchError
+    }
 } #End Function
 
 
 Function Install-CLEMIS_SecureAccess {
+    Try {
     #Set Variables
     $sourcepath = "$PSScriptRoot\Script_Source_Files\Apps\CLEMIS_SecureAccess"
 
@@ -387,9 +419,13 @@ Function Install-CLEMIS_SecureAccess {
     } else {
         Write-Host $script:MsgInstConf
     } #End if
+    } Catch {
+    MsgCatchError
+    }
 } #End Function
 
 Function Install-AAPD_MDC_maps {
+    Try {
     #Set Variables
     $sourcepath = "$PSScriptRoot\Script_Source_Files\Apps\AAPD_MDC_maps"
 
@@ -408,9 +444,13 @@ Function Install-AAPD_MDC_maps {
     } else {
         Write-Host $script:MsgInstConf
     } #End if
+    } Catch {
+    MsgCatchError
+    }
 } #End Function
 
 Function Install-RemoteUtilities {
+    Try {
     #Set Variables
     $sourcepath = "$PSScriptRoot\Script_Source_Files\Apps\RemoteUtilities"
 
@@ -429,30 +469,13 @@ Function Install-RemoteUtilities {
     } else {
         Write-Host $script:MsgInstConf
     } #End if
-} #End Function
-
-Function Install-DellSupportAssist {
-    #Set Variables
-    $sourcepath = "$PSScriptRoot\Script_Source_Files\Apps\DellSupportAssist"
-
-    #Visual Feedback
-    Write-Host ' '
-    Write-Host '-------------------------------------------------------------'    
-    Write-Host 'Installing 12 of 13 - Dell Support Assist'
-    Write-Host '-------------------------------------------------------------'
-
-    if (!(Test-Path -Path "C:\Program Files\Dell\SupportAssistAgent")) {
-        Write-Host $script:MsgPleaseWait
-        #Install the MSI
-        Start-Process -Wait "$sourcepath\SupportAssistLauncher.exe" -ArgumentList "-s -v/qn"
-        Start-Sleep -Seconds 5 #Short delay
-        Write-Host $script:MsgProcessComplete
-    } else {
-        Write-Host $script:MsgInstConf
-    } #End if
+    } Catch {
+    MsgCatchError
+    }
 } #End Function
 
 Function Install-DellCommandUpdate {
+    Try {
     #Set Variables
     $sourcepath = "$PSScriptRoot\Script_Source_Files\Apps\DellCommandUpdate"
     $RandNum = Get-Random
@@ -472,6 +495,9 @@ Function Install-DellCommandUpdate {
     } else {
         Write-Host $script:MsgInstConf
     } #End if
+    } Catch {
+    MsgCatchError
+    }
 } #End Function
 
 # ===============================================================================================================================================================================================================================
@@ -482,6 +508,7 @@ Function Install-DellCommandUpdate {
 Build Settings Functions
 #>
 Function Set-FileHandlerDefaults {
+    Try {
     #Set Variables
     $sourcepath = "${PSScriptRoot}\Script_Source_Files\Settings\DefaultAppSettings"
     $XMLfolder = "C:\UTILS\Win10"
@@ -505,10 +532,14 @@ Function Set-FileHandlerDefaults {
     #Existing CLEMIS Group Policy Controls will enforce these defaults
     #See within local Group Policy: "Computer Configuration\Administrative Templates\Windows Components\File Explorer\Set a default associations configuration file"
     Write-Host $script:MsgProcessComplete
+    } Catch {
+    MsgCatchError
+    }
 } #End Function
 
 
 Function Set-CustomRegistryChanges {
+    Try {
     <# A2 MDC Custom Registry Changes
     i.	Enable Webcam & Microphone Access/Functionality (Windows Privacy Settings so officers can use MS Teams/Zoom from the vehicle within Chrome)
     ii.	Enable the 'Show Menu toolbar' in Internet Explorer (so officers can easily access the IESpell plugin) ***(IESpell is no longer installed as of 5.4.23)***
@@ -540,6 +571,7 @@ Function Set-CustomRegistryChanges {
     } #End if
 
     Function ApplyRegSettings {
+        Try {
         param (
             $ConsentStore,
             $RegRoot
@@ -582,6 +614,9 @@ Function Set-CustomRegistryChanges {
         #Always show IE Menu Toolbar
         New-Item -Path "$RegRoot\Software\Microsoft\Internet Explorer\" -Name "MINIE" -Force | Out-Null
         New-ItemProperty -Path "$RegRoot\Software\Microsoft\Internet Explorer\MINIE" -Name "AlwaysShowMenus" -Value 1  -PropertyType DWORD -Force | Out-Null
+        } Catch {
+        MsgCatchError
+        }
     } #End Function
 
     #Apply Settings to the Default profile + MDC user profiles present on the system
@@ -597,10 +632,14 @@ Function Set-CustomRegistryChanges {
     #Apply Settings to Current User
     ApplyRegSettings -RegRoot "HKCU:\" -ConsentStore "HKCU:\Software\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore"
     Write-Host $script:MsgProcessComplete
+    } Catch {
+    MsgCatchError
+    }
 } #End Function
 
 
 Function Set-OtherCustomSettings {
+    Try {
     <# A2 MDC Other Custom Settings - Other settings that are helpful on the MDCs#>
 
     #Visual Feedback
@@ -617,10 +656,14 @@ Function Set-OtherCustomSettings {
         $script:REBOOTNEEDED = "YES"  #Set script-wide REBOOTNEEDED variable/flag [will hold value outside of the function]
     } #End if
     Write-Host $script:MsgProcessComplete
+    } Catch {
+    MsgCatchError
+    }
 } #End Function
 
 
 Function Set-ScheduledTaskScript {
+    Try {
     <# A2 MDC Scheduled Task setup to run script that sets USB Ethernet Adapter to 192.168.0.2 staticly + disables USB Dock Audio. This task & associated script runs on both startup and logon to be sure to 
     set these settings when the laptop is booted in a veh. This is probably only needed initially, but will run on each boot/logon. This was the only way I could think to pre-set these settings when the laptop 
     is imaged and configured at a desk and then later put inside a vehicle. These settings being in a scheduled task will ensure they happen when the laptop is later put in a vehicle.#>
@@ -691,11 +734,13 @@ if ($DockAudioDevice) {
     Start-ScheduledTask -TaskName $TaskName | Out-Null
     
     Write-Host $script:MsgProcessComplete
+    } Catch {
+    MsgCatchError
+    }
 } #End Function
 
 Function Set-WindowsActivationOEM {
-    
-
+    Try {
 
     #Visual Feedback
     Write-Host ' '
@@ -733,7 +778,9 @@ Function Set-WindowsActivationOEM {
 
         Write-Host $script:MsgProcessComplete
     }
-
+    } Catch {
+    MsgCatchError
+    }
     
 } #End Function
 
@@ -745,6 +792,7 @@ Function Set-WindowsActivationOEM {
 Build BIOS Update Function
 #>
 Function Install-BIOSUpdate {
+    Try {
     #Set Variables
     $sourcepath = "$PSScriptRoot\Script_Source_Files\BIOS_Update"
     $UpdateBIOStoVersion = "1.40.0" #Change this if a newer version of the BIOS is to be installed (+ put the install package in the $sourcepath folder)
@@ -768,6 +816,9 @@ Function Install-BIOSUpdate {
     } else {
         Write-Host " -- BIOS is already up-to-date at version $UpdateBIOStoVersion"
     } #End if
+    } Catch {
+    MsgCatchError
+    }
 } #End Function
 
 
@@ -780,6 +831,7 @@ Function Install-BIOSUpdate {
 Reboot if needed by earlier Function
 #>
 Function RebootIfNeeded {
+    Try {
     if ($script:REBOOTNEEDED -eq "YES") {
         $MsgReboot = 'MDC automation script complete. Reboot Required.'
         $Seconds = 30
@@ -813,6 +865,9 @@ Function RebootIfNeeded {
           Start-Sleep 1
         }
     } #End if
+    } Catch {
+    MsgCatchError
+    }
 } #End Function
 
 
@@ -835,62 +890,21 @@ Function Show-MainMenu {
             $MenuOption = Read-Host "Choose option from above"
             Switch ($MenuOption) {
                 '1' { #Execute Functions defined above in the following order:
-
-                
-                        Try {
-                            InternetConnectivityCheck
-
-                        } Catch {
-                        MsgCatchError
-                        } #End of Catch Section
-
-                        Try {
-                            Install-CLEMISTrellix
-
-                        } Catch {
-                        MsgCatchError
-                        } #End of Catch Section
-
-                        Try {
-                            Install-CLEMISBigFix
-
-                        } Catch {
-                        MsgCatchError
-                        }
-                        
-                        Try {
-                             Install-CLEMISIESpell
-
-                        } Catch {
-                        MsgCatchError
-                        }
-
-                        Try {
-                            Install-CLEMISEasyStreetDraw
-
-                        } Catch {
-                        MsgCatchError
-                        }
-
-                        Try {
-                            Install-A2TalonMDC
-
-                        } Catch {
-                        MsgCatchError
-                        }
-
-
+                        InternetConnectivityCheck
+                        Install-CLEMISTrellix
+                        Install-CLEMISBigFix
+                        Install-CLEMISIESpell
+                        Install-CLEMISEasyStreetDraw
+                        Install-A2TalonMDC
                         Install-A2ChomeMDC
                         Install-A2OnlyOffice
                         Install-A2Axon
                         Install-CLEMIS_SecureAccess
                         Install-AAPD_MDC_maps
                         Install-RemoteUtilities
-                        #Install-DellSupportAssist
                         Install-DellCommandUpdate
                         Set-FileHandlerDefaults
                         Set-CustomRegistryChanges
-                        Set-OtherCustomSettings
                         Set-ScheduledTaskScript
                         Set-WindowsActivationOEM
                         Install-BIOSUpdate
