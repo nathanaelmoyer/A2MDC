@@ -173,17 +173,18 @@ Function Install-CLEMISEasyStreetDraw {
 	Write-Host '-------------------------------------------------------------'
 
     #Check for an Internet connection. This is needed for product activation. Only proceed if there is an Internet connection. Also check for a file (A2EasyStreet.txt) to ensure we haven't run this before.
-    if ((Test-Connection -ComputerName 8.8.8.8 -Count 1 -Quiet) -and (!(Test-Path "$packagepath\A2EasyStreetInstallScriptWasRun.txt"))) {
+    if (Test-Connection -ComputerName 8.8.8.8 -Count 1 -Quiet) {
         Write-Host $script:MsgPleaseWait
         #Uninstall the unactivated Easy Street Draw program
-        Start-Process -Wait "C:\ProgramData\Package Cache\{b9002bce-d079-40a9-b88f-075804181a89}\Bootstrap.exe" -ArgumentList "/uninstall /quiet /norestart"
+        #the next line seems to be broken with the new update from clemis. Commenting out until this is resolved.
+        #Start-Process -Wait "C:\ProgramData\Package Cache\{b9002bce-d079-40a9-b88f-075804181a89}\Bootstrap.exe" -ArgumentList "/uninstall /quiet /norestart"
         Start-Sleep -Seconds 10 #Short delay
         #Install the activated Easy Street Draw program
-        Start-Process -Wait "$packagepath\ESDraw_7_3_2_360.exe" -ArgumentList "/q LPW=bTDkeD74 LID=64538010 MUSTACTIVATE=TRUE"
-        Copy-Item -Force -Path "$packagepath\app.ini" -Destination "C:\ProgramData\Easy Street Draw 7.3\"
+        Start-Process -Wait "$sourcepath\ESDraw_7_3_2_360.exe" -ArgumentList "/q LPW=bTDkeD74 LID=64538010 MUSTACTIVATE=TRUE"
+        Copy-Item -Force -Path "$sourcepath\app.ini" -Destination "C:\ProgramData\Easy Street Draw 7.3\"
         #Create a file to indicate that this piece of code has already been executed previously. This is so we don't have constant 
         #reinstalls/reactivations every time this script is subsequently run on the same PC
-        New-Item -Force -ItemType File -Path "$packagepath\A2EasyStreetInstallScriptWasRun.txt" | Out-Null
+        New-Item -Force -ItemType File -Path "$sourcepath\A2EasyStreetInstallScriptWasRun.txt" | Out-Null
         Start-Sleep -Seconds 3 #Short delay
         Write-Host $script:MsgProcessComplete
     } else {
