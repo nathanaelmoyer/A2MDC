@@ -4,7 +4,7 @@ Author: Jonathan Bougher
 Creation Date: 5/6/21
 Modified by: Nathan Moyer
 Modified Date: 05.12.23 #>
-$script:Version = '05.22.23'
+$script:Version = '05.23.23'
 <#Latest Comments:
     - Added Windows Activation Function - 8.25.21
     - Removed Axon View XL installer - 5.3.23
