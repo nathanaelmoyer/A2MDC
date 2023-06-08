@@ -7,7 +7,8 @@ Included folder structure on most recent github release is neccessary for script
 >\\\city.a2\shared\SourceData\Misc\PD\CLEMIS\MDC image\A2_PowerShell
 
 >Folder structer must be set up as follows:
->![image](https://github.com/nathanaelmoyer/A2MDC/assets/36149055/151748d8-fbe9-4412-a854-040a7e58eb77)
+![image](https://github.com/nathanaelmoyer/A2MDC/assets/36149055/31c9e227-7997-4ed0-a0a3-b702b67c642d)
+
 
 # Running
 1. With the CLEMIS Imaging USB stick still inserted, open it in Windows Explorer; it should be drive D:\ 
@@ -18,7 +19,7 @@ Included folder structure on most recent github release is neccessary for script
 > User must have administrative rights
 
 4. Enter “1” to install/update everything below 
-![image](https://github.com/nathanaelmoyer/A2MDC/assets/36149055/62b81a67-489d-4156-a15b-531cf5cc705b)
+![image](https://github.com/nathanaelmoyer/A2MDC/assets/36149055/4ba518cd-3626-4f33-bb12-fcf7f01904f3)
 
 This script will install the following: 
 
